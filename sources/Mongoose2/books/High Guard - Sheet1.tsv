@@ -1,0 +1,424 @@
+Document	Topic	Page	Type	Primary	Group
+HG	Imperial Navy	3	Setting		
+HG	Ship's Locker	3	High Guard		
+HG	Battle Squadrons	4	Setting		
+HG	Cruiser Squadrons	4	Setting		
+HG	Assault Squadrons	4	Setting		
+HG	Ship Definitions	5	High Guard		
+HG	Construction Times	8	High Guard		
+HG	Hull Configuration	10	High Guard		
+HG	Standard	10	High Guard		Hull Configuration
+HG	Streamlined	10	High Guard		Hull Configuration
+HG	Sphere	10	High Guard		Hull Configuration
+HG	Close Structure	10	High Guard		Hull Configuration
+HG	Dispersed Structure	10	High Guard		Hull Configuration
+HG	Planetoid	10	High Guard		Hull Configuration
+HG	Buffered Planetoid	10	High Guard		Hull Configuration
+HG	Reinforced Hull	12	High Guard		
+HG	Light Hull	12	High Guard		
+HG	Military Hull	12	High Guard		
+HG	Non-Gravity Hull	12	High Guard		
+HG	Double Hull	12	High Guard		
+HG	Hamster Cage	12	High Guard		
+HG	Breakaway Hulls	12	High Guard		
+HG	Hull Armour	12	High Guard		
+HG	Heat Shielding	13	High Guard		Hull Option
+HG	Radiation Shielding	14	High Guard		Hull Option
+HG	Reflec	14	High Guard		Hull Option
+HG	Solar Coating	14	High Guard		Hull Option
+HG	Stealth	14	High Guard		Hull Option
+HG	Synchronised Jumps	15	Rules		
+HG	Manoeuvre Drives	16	High Guard		
+HG	Reaction Drives	16	High Guard		
+HG	Jump Drives	16	High Guard		
+HG	Power Plant	17	High Guard		
+HG	Fuel Tanks	18	High Guard		
+HG	Bridge	19	High Guard		
+HG	Computer	20	High Guard		
+HG	Jump Control Specialization	20	High Guard		Computer Option
+HG	Hardened Systems	20	High Guard		Computer Option
+HG	/bis	20	High Guard		Computer Option
+HG	/fib	20	High Guard		Computer Option
+HG	Sensors	21	High Guard		
+HG	Crew Requirements	22	High Guard		
+HG	Weapons and Screens	26	High Guard		
+HG	Critical Hits	27	Rules		
+HG	Staterooms	24	High Guard		
+HG	Low Berth, Emergency	24	High Guard		
+HG	Low Berth	24	High Guard		
+HG	Common Area	24	High Guard		
+HG	Airlocks	25	High Guard		
+HG	Cargo Hatches	25	High Guard		
+HG	Turrets	28	High Guard		
+HG	Fixed Mounts	28	High Guard		
+HG	Pop-Up Mounting	28	High Guard		
+HG	Beam Laser	28	High Guard		Turret
+HG	Fusion Gun	28	High Guard		Turret
+HG	Laser Drill	28	High Guard		Turret
+HG	Missile Rack	28	High Guard		Turret
+HG	Particle Beam	29	High Guard		Turret
+HG	Plasma Gun	29	High Guard		Turret
+HG	Pulse Laser	29	High Guard		Turret
+HG	Railgun	29	High Guard		Turret
+HG	Sandcaster	29	High Guard		Turret
+HG	Barbettes	29	High Guard		
+HG	Beam Laser	29	High Guard		Barbette
+HG	Fusion	29	High Guard		Barbette
+HG	Ion Cannon	29	High Guard		Barbette
+HG	Ion	30	High Guard		Weapon Trait
+HG	Orbital Bombardment	30	High Guard		Weapon Trait
+HG	Orbital Strike	30	High Guard		Weapon Trait
+HG	Missile	31	High Guard		Barbette
+HG	Particle	31	High Guard		Barbette
+HG	Plamsa	31	High Guard		Barbette
+HG	Pulse Laser	31	High Guard		Barbette
+HG	Railgun	31	High Guard		Barbette
+HG	Torpedo	31	High Guard		Barbette
+HG	Radiation	31	High Guard		Weapon Trait
+HG	Bays	31	High Guard		
+HG	Fusion Gun	32	High Guard		Bay
+HG	Ion Cannon	32	High Guard		Bay
+HG	Mass Driver	32	High Guard		Bay
+HG	Meson Gun	32	High Guard		Bay
+HG	Missile	33	High Guard		Bay
+HG	Orbital Strike Mass Driver	33	High Guard		Bay
+HG	Orbital Strike Missile	33	High Guard		Bay
+HG	Particle Beam	33	High Guard		Bay
+HG	Railgun	33	High Guard		Bay
+HG	Repulsor Bay	33	High Guard		Bay
+HG	Torpedo	34	High Guard		Bay
+HG	Spinal Weapons	34	High Guard		
+HG	Mass Driver	35	High Guard		Spinal Mount
+HG	Meson	35	High Guard		Spinal Mount
+HG	Particle	36	High Guard		Spinal Mount
+HG	Railgun	36	High Guard		Spinal Mount
+HG	Missiles	36	High Guard		
+HG	Advanced	36	High Guard		Missile
+HG	Antimatter	36	High Guard		Missile
+HG	Anti-Torpedo	36	High Guard		Missile
+HG	Decoy	36	High Guard		Missile
+HG	Fragmentation	36	High Guard		Missile
+HG	Ion	37	High Guard		Missile
+HG	Jumpbreaker	37	High Guard		Missile
+HG	Long-Range	37	High Guard		Missile
+HG	Missile Flight Times	37	High Guard		
+HG	Multi-Warhead	38	High Guard		Missile
+HG	Nuclear	38	High Guard		Missile
+HG	Ortillery	38	High Guard		Missile
+HG	Shockwave	38	High Guard		Missile
+HG	Standard	38	High Guard		Missile
+HG	Sandcasters	38	High Guard		
+HG	Anti-Personnel	38	High Guard		Sandcaster
+HG	Chaff	38	High Guard		Sandcaster
+HG	Pebble	38	High Guard		Sandcaster
+HG	Sand	38	High Guard		Sandcaster
+HG	Sandcutter	38	High Guard		Sandcaster
+HG	Torpedoes	38	High Guard		
+HG	Advanced	39	High Guard		Torpedo
+HG	Antimatter	39	High Guard		Torpedo
+HG	Antimatter Bomb-Pumped	39	High Guard		Torpedo
+HG	Antiradiation	39	High Guard		Torpedo
+HG	Bomb-Pumped	39	High Guard		Torpedo
+HG	Ion	39	High Guard		Torpedo
+HG	Multi-Warhead	39	High Guard		Torpedo
+HG	Nuclear	40	High Guard		Torpedo
+HG	Ortillery	40	High Guard		Torpedo
+HG	Plasma	40	High Guard		Torpedo
+HG	Standard	40	High Guard		Torpedo
+HG	Point Defence Weapons	40	High Guard		
+HG	Screens	40	High Guard		
+HG	Shields	41	High Guard		
+HG	Meson Screen	41	High Guard		
+HG	Nuclear Damper	41	High Guard		
+HG	Black Globe Generator	41	High Guard		
+HG	Spacecraft Options	43	High Guard		
+HG	Armoured Bulkhead	43	High Guard		
+HG	Adjustable Hull	43	High Guard		
+HG	Pressure Hull	43	High Guard		
+HG	Armoured Bulkhead	43	High Guard		
+HG	Modular Hull	44	High Guard		
+HG	Emergency Power System	44	High Guard		
+HG	High-Efficiency Batteries	44	High Guard		
+HG	Solar Energy Systems	44	High Guard		
+HG	High-Burn Thruster	45	High Guard		
+HG	Concealed Manoeuvre Drive	45	High Guard		
+HG	G-Loc	46	High Guard		
+HG	Solar Sail	48	High Guard		
+HG	Collapsible Fuel Tank	48	High Guard		
+HG	Drop Tank	48	High Guard		
+HG	Fuel/Cargo Container	49	High Guard		
+HG	Fuel Processor	49	High Guard		
+HG	Fuel Scoop	49	High Guard		
+HG	Fuel Tank Compartments	49	High Guard		
+HG	Metal Hydride Storage	49	High Guard		
+HG	Mountable Tank	50	High Guard		
+HG	Ramscoops	50	High Guard		
+HG	Acceleration Bench and Seat	50	High Guard		
+HG	Barracks	50	High Guard		
+HG	Brig	50	High Guard		
+HG	Cabin Space	51	High Guard		
+HG	High Stateroom	51	High Guard		
+HG	Luxury Stateroom	51	High Guard		
+HG	Multi-Environment Space	51	High Guard		
+HG	Detachable Bridge	51	High Guard		
+HG	Holographic Controls	51	High Guard		
+HG	Sensor Station	52	High Guard		
+HG	Cargo Crane	52	High Guard		
+HG	Cargo Net	52	High Guard		
+HG	Cargo Scoop	52	High Guard		
+HG	External Cargo Mount	52	High Guard		
+HG	Jump Net	53	High Guard		
+HG	Loading Belt	53	High Guard		
+HG	Supplies	53	High Guard		
+HG	Spares	53	High Guard		
+HG	Stores	53	High Guard		
+HG	Drones	54	High Guard		
+HG	Mining Drone	54	Drone		
+HG	Probe Drone	54	Drone		
+HG	Repair Drone	54	Drone		
+HG	Countermeasures Suite	54	High Guard		
+HG	Deep Penetration Scanners	55	High Guard		
+HG	Distributed Array	55	High Guard		
+HG	Extended Array	55	High Guard		
+HG	Extension Net	55	High Guard		
+HG	Life Scanner	55	High Guard		
+HG	Mail Distribution Array	56	High Guard		
+HG	Mineral Detection Suite	56	High Guard		
+HG	Rapid-Deployment Extended Arrays	56	High Guard		
+HG	Shallow Penetration Suite	56	High Guard		
+HG	Signal Processing System	56	High Guard		
+HG	Aerofins	56	High Guard		
+HG	Breaching Tube	57	High Guard		
+HG	Docking Clamp	57	High Guard		
+HG	Forced Linkage Apparatus	57	High Guard		
+HG	Grappling Arm	58	High Guard		
+HG	Holographic Hull	58	High Guard		
+HG	Tow Cable	58	High Guard		
+HG	Additional Airlock	58	High Guard		
+HG	Armoury	58	High Guard		
+HG	Biosphere	59	High Guard		
+HG	Booby-Trapped Airlock	59	High Guard		
+HG	Briefing Room	59	High Guard		
+HG	Advanced Entertainment System	59	High Guard		
+HG	Brewery	59	High Guard		
+HG	Distillery	59	High Guard		
+HG	Gourmet Kitchen	59	High Guard		
+HG	Hot Tub	60	High Guard		
+HG	Swimming Pool	60	High Guard		
+HG	Theatre	60	High Guard		
+HG	Wet Bar	60	High Guard		
+HG	Zero-G Room	60	High Guard		
+HG	Concealed Compartment	61	High Guard		
+HG	Construction Deck	61	High Guard		
+HG	Docking Space	61	High Guard		
+HG	Full Hanger	61	High Guard		
+HG	Grav Screen	61	High Guard		
+HG	Hardened System	61	High Guard		
+HG	Laboratory	61	High Guard		
+HG	Launch Tube	61	High Guard		
+HG	Library	62	High Guard		
+HG	Medical Bay	62	High Guard		
+HG	Re-Entry Capsule	62	High Guard		
+HG	Re-Entry Pod	62	High Guard		
+HG	Recovery Deck	62	High Guard		
+HG	Re-Entry Capsule	62	High Guard		Capsule
+HG	Assault Capsule	62	High Guard		Capsule
+HG	High Survivability Capsule	62	High Guard		Capsule
+HG	Stable	63	High Guard		
+HG	Studio	63	High Guard		
+HG	Training Facilities	63	High Guard		
+HG	Unrep System	63	High Guard		
+HG	Vault	63	High Guard		
+HG	Workshop	63	High Guard		
+HG	Space Stations	64	High Guard		
+HG	Control Centre	64	High Guard		
+HG	Residential Zones	66	High Guard		
+HG	Commerical Zone	66	High Guard		Space Station Option
+HG	Deep-Space Communications Relay	66	High Guard		Space Station Option
+HG	Docking Facility	67	High Guard		Space Station Option
+HG	Fuel Refinery	67	High Guard		Space Station Option
+HG	Manufacturing Plant	67	High Guard		Space Station Option
+HG	Mineral Refinery	68	High Guard		Space Station Option
+HG	Smelter	69	High Guard		Space Station Option
+HG	Shipyard	69	High Guard		Space Station Option
+HG	Starports	69	High Guard		
+HG	Altering Tech Levels	70	High Guard		
+HG	Jump Drive Advantages	71	High Guard		
+HG	Jump Drive Disadvantages	71	High Guard		
+HG	Manoeuvre Drive Advantages	71	High Guard		
+HG	Manoeuvre Drive Disadvantages	71	High Guard		
+HG	Reaction Drive Advantages	71	High Guard		
+HG	Reaction Drive Disadvantages	71	High Guard		
+HG	Power Plant Advantages	71	High Guard		
+HG	Power Plant Disadvantages	71	High Guard		
+HG	Weapon Advantages	71	High Guard		
+HG	Screen Advantages	71	High Guard		
+HG	Weapon Disadvantages	72	High Guard		
+HG	Screen Disadvantages	72	High Guard		
+HG	Refitting Ships	72	High Guard		
+HG	Ship's Computer	73	High Guard		
+HG	Advanced Fire Control	73	High Guard		Software
+HG	Anti-Hijack	73	High Guard		Software
+HG	Battle Network	73	High Guard		Software
+HG	Battle System	74	High Guard		Software
+HG	Broad Spectrum EW	74	High Guard		Software
+HG	Conscious Intelligence	74	High Guard		Software
+HG	Electronic Warefare	74	High Guard		Software
+HG	Launch Solution	74	High Guard		Software
+HG	Point Defence	75	High Guard		Software
+HG	Screen Optimiser	75	High Guard		Software
+HG	Virtual Crew	75	High Guard		Software
+HG	Virtual Gunner	75	High Guard		Software
+HG	Sensors	76	High Guard		
+HG	Stealthed Ships	77	High Guard		
+HG	Hop Drive	79	High Guard		
+HG	Hyperdrive	79	High Guard		
+HG	Skip Drive	80	High Guard		
+HG	Space Folding Drive	80	High Guard		
+HG	Time Drive	80	High Guard		
+HG	Warp Drive	80	High Guard		
+HG	Quad Turrets	81	High Guard		
+HG	Antimatter Spinal Mount	81	High Guard		
+HG	Plasma-Pulse Cannon	81	High Guard		
+HG	Neutron Laser	81	High Guard		
+HG	Solar Pulse Generator	81	High Guard		
+HG	Super Laser	81	High Guard		
+HG	Tachyon Cannon	81	High Guard		
+HG	Deflector Screens	82	High Guard		
+HG	Energy Shields	82	High Guard		
+HG	White Globe Generators	83	High Guard		
+HG	Collectors	83	High Guard		
+HG	Gravity Well Generators	83	High Guard		
+HG	Jump Filters	84	High Guard		
+HG	Psionic Capacitor	84	High Guard		
+HG	Psionic Capacitor	84	Psionics		
+HG	Psion Stateroom	84	High Guard		
+HG	Psion Stateroom	84	Psionics		
+HG	Psionic Shielding	84	High Guard		
+HG	Psionic Shielding	84	Psionics		
+HG	Crew Roles	85	High Guard		
+HG	Administrator	85	High Guard		Crew Role
+HG	Purser	86	High Guard		Crew Role
+HG	Astrogator	87	High Guard		Crew Role
+HG	Captain	88	High Guard		Crew Role
+HG	Engineer	89	High Guard		Crew Role
+HG	Gunner	90	High Guard		Crew Role
+HG	Maintenance	92	High Guard		Crew Role
+HG	Gunner's Control Panel	92	High Guard		
+HG	Marine	92	High Guard		Crew Role
+HG	Ship's Troop	92	High Guard		Crew Role
+HG	Medic	93	High Guard		Crew Role
+HG	Officer	94	High Guard		Crew Role
+HG	Pilot	94	High Guard		Crew Role
+HG	Pilot's Control Panel	97	High Guard		
+HG	Sensor Operator	97	High Guard		Crew Role
+HG	Steward	98	High Guard		Crew Role
+HG	Creating Deck Plans	100	High Guard		
+HG	Fighters	102	High Guard		
+HG	Dogfighting	103	High Guard		
+HG	Point Defence	104	High Guard		
+HG	Recovery	104	High Guard		
+HG	Fleet Battles	105	High Guard		
+HG	Fighter Squadrons	114	High Guard		
+HG	Fleet Combat Rounds	115	High Guard		
+HG	Critical Hit Effects	120	High Guard		
+HG	Boarding Actions	125	High Guard		
+HG	Tumbling Ships	129	High Guard		
+HG	Resilience of Starship Components	130	High Guard		
+HG	Emergency Cutter	131	Central Supply		Cutting Tool
+HG	Rescue Cutter	131	Central Supply		Cutting Tool
+HG	Heavy-Duty Cutter	131	Central Supply		Cutting Tool
+HG	Assault Cutter	131	Central Supply		Cutting Tool
+HG	Advanced Cutter	131	Central Supply		Cutting Tool
+HG	Fuel Systems	134	High Guard		
+HG	Ultralight Fighter	136	Small craft		
+HG	Light Fighter	137	Small craft		
+HG	Military Gig	138	Small craft		
+HG	Launch	139	Small craft		
+HG	Ship's Boat	140	Small craft		
+HG	Slow Boat	141	Small craft		
+HG	Pinnace	142	Small craft		
+HG	Slow Pinnace	143	Small craft		
+HG	Modular Cutter	144	Small craft		
+HG	Vehicle Cradle Module	145	High Guard		Module
+HG	Personnel Transport Module	145	High Guard		Module
+HG	Cargo Transport Module	145	High Guard		Module
+HG	Fuel Skimmer Module	146	High Guard		Module
+HG	Assault Boat Module	146	High Guard		Module
+HG	Fighter Frame Module	146	High Guard		Module
+HG	Pressurised Shelter Module	147	High Guard		Module
+HG	Gunship Module	147	High Guard		Module
+HG	Heavy Fighter	148	Small craft		
+HG	Troop Transport	150	Small craft		
+HG	Torpedo Boat	152	Small craft		
+HG	Shuttle	154	Small craft		
+HG	Passenger Shuttle	156	Small craft		
+HG	Express Boat	158	Ship		
+HG	Sulieman Class Scout/Courier	160	Ship		
+HG	Scout/Courier	160	Ship		
+HG	Seeker Mining Ship	162	Ship		
+HG	Prospecting Buggy	164	Vehicle		
+HG	Serpent Class Scout	165	Ship		
+HG	Scout	165	Ship		
+HG	Empress Marava Far Trader	167	Ship		
+HG	Far Trader	169	Ship		
+HG	Free Trader	171	Ship		
+HG	Safari Ship	173	Ship		
+HG	System Defence Boat	175	Ship		
+HG	Jump Shuttle	177	Ship		
+HG	Yacht	179	Ship		
+HG	Gazelle Class Close Escort	181	Ship		
+HG	Close Escort	181	Ship		
+HG	Fleet Courier	183	Ship		
+HG	Laboratory Ship	185	Ship		
+HG	Patrol Corvette	187	Ship		
+HG	Subsidised Merchat	189	Ship		
+HG	Survey Scout	191	Ship		
+HG	Dragon Class System Defence Boat	193	Ship		
+HG	Nishemani Corsair	195	Ship		
+HG	Corsair	195	Ship		
+HG	Subsidised Liner	199	Ship		
+HG	Mercenary Cruiser	201	Ship		
+HG	X-Boat Tender	204	Ship		
+HG	Destroyer Escort	207	Ship		
+HG	Chrysanthemum Class Destroyer Escort	207	Ship		
+HG	Destroyer Escort	211	Ship		
+HG	Fer-De-Lance Destroyer Escort	211	Ship		
+HG	Colonial Cruiser	214	Ship		
+HG	Kinunir Class Colonial Cruiser	214	Ship		
+HG	Merchant Cruiser	217	Ship		
+HG	Leviathan Class Merchant Cruiser	217	Ship		
+HG	Cargo Carrier	223	Ship		
+HG	MK Mora Class Cargo Carrier	223	Ship		
+HG	Destroyer	227	Ship		
+HG	Midu Agashaam Class Destroyer	227	Ship		
+HG	Fleet Escort	231	Ship		
+HG	P.F. Sloan Class Fleet Escort	231	Ship		
+HG	Light Carrier	235	Ship		
+HG	Skimkish Class Light Carrier	235	Ship		
+HG	Light Cruiser	238	Ship		
+HG	Valiant Class Light Cruiser	238	Ship		
+HG	Armoured Cruiser	242	Ship		
+HG	Ghalalk Class Armoured Cruiser	242	Ship		
+HG	Planetoid Monitor	247	Ship		
+HG	Strike Cruiser	251	Ship		
+HG	Arakdine Class Strike Cruiser	251	Ship		
+HG	Battle Rider	255	Ship		
+HG	Hadrian Class Battle Rider	255	Ship		
+HG	Frontier Cruiser	258	Ship		
+HG	Azhanti High-Lightning Class Frontier Cruiser	258	Ship		
+HG	Heavy Cruiser	262	Ship		
+HG	Atlantic Class Heavy Cruiser	262	Ship		
+HG	Strike Carrier	266	Ship		
+HG	Wind Class Strike Carrier	266	Ship		
+HG	Fleet Carrier	270	Ship		
+HG	Antiama Class Fleet Carrier	270	Ship		
+HG	Freighter	274	Ship		
+HG	Galika Megula Class Freighter	274	Ship		
+HG	Dreadnought	276	Ship		
+HG	Kokirrak Class Dreadnought	276	Ship		
+HG	Dreadnought	280	Ship		
+HG	Plankwell Class Dreadnought	280	Ship		
+HG	Dreadnought	284	Ship		
+HG	Tigress Class Dreadnought	284	Ship		
+HG	Donosev Class Survey Scout	191	Ship		

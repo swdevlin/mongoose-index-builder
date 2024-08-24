@@ -1,0 +1,561 @@
+Document	Topic	Page	Type	Primary	Group
+CRB	Tech Levels	6	Setting		
+CRB	Traveller Creation	8	Rules		
+CRB	Social Standing	11	Setting		
+CRB	University	16	Pre-Career		
+CRB	Military Academy	16	Pre-Career		
+CRB	Pre-Career Events	17	Rules		
+CRB	Skill Limits	18	Rules		
+CRB	Connection Rule	19	Rules		
+CRB	Draft, The	19	Rules		
+CRB	Contacts	19	Rules		
+CRB	Allies	19	Rules		
+CRB	Rivals	19	Rules		
+CRB	Enemies	19	Rules		
+CRB	Agent	22	Career		
+CRB	Army	24	Career		
+CRB	Citizen	26	Career		
+CRB	Drifter	28	Career		
+CRB	Entertainer	30	Career		
+CRB	Marine	32	Career		
+CRB	Merchant	34	Career		
+CRB	Navy	36	Career		
+CRB	Noble	38	Career		
+CRB	Rogue	40	Career		
+CRB	Scholar	42	Career		
+CRB	Scout	44	Career		
+CRB	Life Events	46	Rules		
+CRB	Benefits	46	Rules		
+CRB	Ship Shares	48	Rules		
+CRB	Pension	48	Rules		
+CRB	Ageing	48	Rules		
+CRB	Travellers' Aid Society	47	Setting		
+CRB	TAS	47	Setting		
+CRB	Injuries	49	Setting		
+CRB	Traveller	50	Rules		Skill Package
+CRB	Explorer	50	Rules		Skill Package
+CRB	Mercenary	50	Rules		Skill Package
+CRB	Diplomat	50	Rules		Skill Package
+CRB	Trader	50	Rules		Skill Package
+CRB	Investigator	50	Rules		Skill Package
+CRB	Starship	50	Rules		Skill Package
+CRB	Criminal	50	Rules		Skill Package
+CRB	Medical Debt	52	Rules		
+CRB	Aslan	53	Rules		
+CRB	Vargr	54	Rules		
+CRB	Training	55	Rules		
+CRB	Prisoner	56	Career		
+CRB	Task Checks	58	Rules		
+CRB	Task Difficulties	60	Rules		
+CRB	Boon	61	Rules		
+CRB	Bane	61	Rules		
+CRB	Effect	61	Rules		
+CRB	Opposed Checks	62	Rules		
+CRB	Timeframes	62	Rules		
+CRB	Task Chains	63	Rules		
+CRB	Task Difficulties	64	Rules	No	
+CRB	Boon	64	Rules	No	
+CRB	Bane	64	Rules	No	
+CRB	Admin	64	Rules		Skill
+CRB	Advocate	64	Rules		Skill
+CRB	Animals	64	Rules		Skill
+CRB	Art	65	Rules		Skill
+CRB	Astrogation	65	Rules		Skill
+CRB	Athletics	65	Rules		Skill
+CRB	Broker	66	Rules		Skill
+CRB	Carouse	66	Rules		Skill
+CRB	Deception	66	Rules		Skill
+CRB	Diplomat	66	Rules		Skill
+CRB	Drive	66	Rules		Skill
+CRB	Electronics	66	Rules		Skill
+CRB	Engineer	67	Rules		Skill
+CRB	Explosives	67	Rules		Skill
+CRB	Flyer	68	Rules		Skill
+CRB	Gambler	68	Rules		Skill
+CRB	Gunner	68	Rules		Skill
+CRB	Gun Combat	68	Rules		Skill
+CRB	Heavy Weapons	68	Rules		Skill
+CRB	Investigate	69	Rules		Skill
+CRB	Jack-of-All-Trades	69	Rules		Skill
+CRB	Language	69	Rules		Skill
+CRB	Leadership	69	Rules		Skill
+CRB	Mechanic	69	Rules		Skill
+CRB	Medic	69	Rules		Skill
+CRB	Melee	70	Rules		Skill
+CRB	Navigation	70	Rules		Skill
+CRB	Persuade	70	Rules		Skill
+CRB	Pilot	70	Rules		Skill
+CRB	Profession	70	Rules		Skill
+CRB	Belter	70	Rules		
+CRB	Recon	71	Rules		Skill
+CRB	Science	71	Rules		Skill
+CRB	Seafarer	71	Rules		Skill
+CRB	Stealth	71	Rules		Skill
+CRB	Steward	71	Rules		Skill
+CRB	Streetwise	71	Rules		Skill
+CRB	Survival	72	Rules		Skill
+CRB	Tactics	72	Rules		Skill
+CRB	Vacc Suit	72	Rules		Skill
+CRB	Initiative	73	Rules		
+CRB	Combat	73	Rules		
+CRB	Attack	74	Rules		Significant Action
+CRB	Leadership	74	Rules		Significant Action
+CRB	Aiming	75	Rules		Minor Action
+CRB	Changing Stance	75	Rules		Minor Action
+CRB	Drawing	75	Rules		Minor Action
+CRB	Movement	75	Rules		Minor Action
+CRB	Reloading	75	Rules		Minor Action
+CRB	Skill Check	75	Rules		Minor Action
+CRB	Free Actions	75	Rules		Action
+CRB	Extended Actions	75	Rules		Action
+CRB	Significant Actions	74	Rules		Action
+CRB	Minor Actions	74	Rules		Action
+CRB	Dodging	76	Rules		
+CRB	Diving for Cover	76	Rules		
+CRB	Parrying	76	Rules		
+CRB	Reactions	75	Rules		
+CRB	Damage	77	Rules		
+CRB	Cover	77	Rules		
+CRB	Hiding	77	Rules		
+CRB	Armour	77	Rules		
+CRB	Destructive Weapons	78	Rules		
+CRB	Grappling	78	Rules		
+CRB	Dual Weapons	78	Rules		
+CRB	AP X	79	Rules		Weapon Trait
+CRB	Auto X	79	Rules		Weapon Trait
+CRB	Blast X	79	Rules		Weapon Trait
+CRB	Bulky	79	Rules		Weapon Trait
+CRB	Radiation	79	Rules		Weapon Trait
+CRB	Scope	79	Rules		Weapon Trait
+CRB	Smart	79	Rules		Weapon Trait
+CRB	Stun	79	Rules		Weapon Trait
+CRB	Very Bulky	79	Rules		Weapon Trait
+CRB	Zero-G	79	Rules		Weapon Trait
+CRB	Diseases	80	Rules		
+CRB	Anthrax	80	Rules		Disease
+CRB	Biological Weapon	80	Rules		Disease
+CRB	Pneumonia	80	Rules		Disease
+CRB	Regina Flu	80	Rules		Disease
+CRB	Falling	80	Rules		
+CRB	Fatigue	80	Rules		
+CRB	Poisons	80	Rules		
+CRB	Arsenic	80	Rules		Poison
+CRB	Tranq Gas	80	Rules		Poison
+CRB	Neurotoxin	80	Rules		Poison
+CRB	Gravity	80	Rules		
+CRB	Radiation	81	Rules		
+CRB	Suffication	82	Rules		
+CRB	Temperature	82	Rules		
+CRB	Vacuum	82	Rules		
+CRB	Weather	82	Rules		
+CRB	Healing	82	Rules		
+CRB	Range Band	83	Rules		
+CRB	Animals	84	Rules		
+CRB	Alarm	84	Rules		Animal Trait
+CRB	Amphibious	84	Rules		Animal Trait
+CRB	Armour (+X)	84	Rules		Animal Trait
+CRB	Bioelectricity (+X)	85	Rules		Animal Trait
+CRB	Camouflaged	85	Rules		Animal Trait
+CRB	Diseased	85	Rules		Animal Trait
+CRB	Echolocation	85	Rules		Animal Trait
+CRB	Fast Metabolism (+X)	85	Rules		Animal Trait
+CRB	Flyer (+X)	85	Rules		Animal Trait
+CRB	Heightened Senses	85	Rules		Animal Trait
+CRB	IR Vision	85	Rules		Animal Trait
+CRB	Large (+X)	85	Rules		Animal Trait
+CRB	Poison	85	Rules		Animal Trait
+CRB	Psionic (X)	85	Rules		Animal Trait
+CRB	Slow Metabolism (-X)	85	Rules		Animal Trait
+CRB	Small (-X)	85	Rules		Animal Trait
+CRB	UR Vision	85	Rules		Animal Trait
+CRB	Animal Hits	85	Rules		
+CRB	Carthus	86	Bestiary		
+CRB	Erakruul	86	Bestiary		
+CRB	Gazaal	87	Bestiary		
+CRB	Klian Sea Sifter	87	Bestiary		
+CRB	Nibbon	88	Bestiary		
+CRB	Ruuta	88	Bestiary		
+CRB	Animal Size	89	Rules		
+CRB	Carrion-Eater	89	Rules		Animal Behaviour
+CRB	Chaser	89	Rules		Animal Behaviour
+CRB	Eater	89	Rules		Animal Behaviour
+CRB	Filter	89	Rules		Animal Behaviour
+CRB	Gatherer	89	Rules		Animal Behaviour
+CRB	Grazer	89	Rules		Animal Behaviour
+CRB	Hunter	89	Rules		Animal Behaviour
+CRB	Hijacker	89	Rules		Animal Behaviour
+CRB	Intimidator	89	Rules		Animal Behaviour
+CRB	Killer	89	Rules		Animal Behaviour
+CRB	Intermittent	89	Rules		Animal Behaviour
+CRB	Pouncer	89	Rules		Animal Behaviour
+CRB	Reducer	89	Rules		Animal Behaviour
+CRB	Siren	90	Rules		Animal Behaviour
+CRB	Trapper	90	Rules		Animal Behaviour
+CRB	Allies	91	Rules		
+CRB	Contacts	91	Rules		
+CRB	Rivals	91	Rules		
+CRB	Enemies	91	Rules		
+CRB	Patrons	91	Rules		
+CRB	Allies and Enemies	92	Rules		Random Table
+CRB	Character Quirks	92	Rules		Random Table
+CRB	Experience	92	Rules		
+CRB	Patrons	93	Rules		Random Table
+CRB	Mission	93	Rules		Random Table
+CRB	Targets	94	Rules		Random Table
+CRB	Opposition	94	Rules		Random Table
+CRB	Starport Encounters	95	Rules		Random Table
+CRB	Rural Encounters	95	Rules		Random Table
+CRB	Urban Encounters	96	Rules		Random Table
+CRB	Standard of Living	98	Rules		
+CRB	Encumbrance	98	Rules		
+CRB	Ablat	102	Armour		
+CRB	Battle Dress	102	Armour		
+CRB	Cloth	102	Armour		
+CRB	Combat Armour	102	Armour		
+CRB	Flak Jacket	102	Armour		
+CRB	Hostile Environment Suit	102	Armour		
+CRB	Jack	102	Armour		
+CRB	Mesh	102	Armour		
+CRB	Reflec	102	Armour		
+CRB	Vacc Suit	102	Armour		
+CRB	Chameleon, IR	102	Armour		Option
+CRB	Chameleon, Vislight	102	Armour		Option
+CRB	Computer Weave	104	Armour		Option
+CRB	Extended Life Support	104	Armour		Option
+CRB	Eye Protection	104	Armour		Option
+CRB	Grav Assist	104	Armour		Option
+CRB	Magnetic Grapples	104	Armour		Option
+CRB	Medikit	104	Armour		Option
+CRB	Self-Sealing	104	Armour		Option
+CRB	Smart Fabric	104	Armour		Option
+CRB	Thruster Pack	104	Armour		Option
+CRB	Cognative	107	Central Supply		Augment
+CRB	Physical Characteristic	106	Central Supply		Augment
+CRB	Endurance	107	Central Supply		Augment
+CRB	Enhanced Vision	106	Central Supply		Augment
+CRB	Neural Comm	107	Central Supply		Augment
+CRB	Skill	107	Central Supply		Augment
+CRB	Subdermal Armour	107	Central Supply		Augment
+CRB	Wafer Jack	106	Central Supply		Augment
+CRB	Augmentations	106	Central Supply		
+CRB	Communications	109	Central Supply		
+CRB	Bug	109	Central Supply		
+CRB	Commdot	109	Central Supply		
+CRB	Mobile Comm	109	Central Supply		
+CRB	Transceiver	109	Central Supply		
+CRB	Computers	110	Central Supply		
+CRB	Software	110	Central Supply		
+CRB	Interface	111	Central Supply		Software
+CRB	Intelligent Interface	111	Central Supply		Software
+CRB	Security	111	Central Supply		Software
+CRB	Intrusion	111	Central Supply		Software
+CRB	Expert	111	Central Supply		Software
+CRB	Translator	111	Central Supply		Software
+CRB	Database	111	Central Supply		Software
+CRB	Agent	111	Central Supply		Software
+CRB	Intellect	111	Central Supply		Software
+CRB	Computer Terminal	111	Central Supply		
+CRB	Portable Computer	112	Central Supply		
+CRB	Comms	112	Central Supply		Computer Option
+CRB	Data Display	112	Central Supply		Computer Option
+CRB	Data Recorder	112	Central Supply		Computer Option
+CRB	Data Wafer	112	Central Supply		Computer Option
+CRB	Specialized Computer	112	Central Supply		Computer Option
+CRB	Expert Skills	113	Central Supply		
+CRB	ProtoTech	113	Central Supply		
+CRB	RetroTech	113	Central Supply		
+CRB	Surgery	114	Central Supply		
+CRB	Cryoberth	114	Central Supply		
+CRB	Medikit	114	Central Supply		
+CRB	Anagathics	115	Central Supply		Drug
+CRB	Anti-rad	115	Central Supply		Drug
+CRB	Combat Drugs	115	Central Supply		Drug
+CRB	Fast Drugs	115	Central Supply		Drug
+CRB	Medicinal Drugs	115	Central Supply		Drug
+CRB	Metabolic Accelerator	115	Central Supply		Drug
+CRB	Panaceas	115	Central Supply		Drug
+CRB	Slow Drug	115	Central Supply		Drug
+CRB	Stime	115	Central Supply		Drug
+CRB	Binoculars	117	Central Supply		
+CRB	Bioscanner	117	Central Supply		
+CRB	Densitometer	117	Central Supply		
+CRB	EM Probe	117	Central Supply		
+CRB	Geiger Counter	117	Central Supply		
+CRB	IS Goggles	117	Central Supply		
+CRB	Light Intensifier Goggles	117	Central Supply		
+CRB	NAS	117	Central Supply		
+CRB	Artificial Gill	119	Central Supply		
+CRB	Breather Mask	119	Central Supply		
+CRB	Climbing Kit	119	Central Supply		
+CRB	Environment Suit	119	Central Supply		
+CRB	Filter Mask	119	Central Supply		
+CRB	Grav Belt	119	Central Supply		
+CRB	Habitat Module	119	Central Supply		
+CRB	Portable Fusion Generator	119	Central Supply		
+CRB	Radiation Suit	119	Central Supply		
+CRB	Rescue Bubble	119	Central Supply		
+CRB	Respirator	119	Central Supply		
+CRB	Tent	119	Central Supply		
+CRB	Climate Controlled	120	Central Supply		Structure Option
+CRB	Self-ASsembling	120	Central Supply		Structure Option
+CRB	Slef-Sealing	120	Central Supply		Structure Option
+CRB	Toolkits	120	Central Supply		
+CRB	Blade	125	Melee Weapon		
+CRB	Broadsword	125	Melee Weapon		
+CRB	Club	125	Melee Weapon		
+CRB	Cutlass	125	Melee Weapon		
+CRB	Dagger	125	Melee Weapon		
+CRB	Improvised	125	Melee Weapon		
+CRB	Rapier	125	Melee Weapon		
+CRB	Shield	125	Melee Weapon		
+CRB	Staff	125	Melee Weapon		
+CRB	Stunstick	125	Melee Weapon		
+CRB	Accelerator Rifle	127	Weapon		
+CRB	Advanced Combat Rifle	127	Weapon		
+CRB	Antique Pistol	127	Weapon		
+CRB	Antique Rifle	127	Weapon		
+CRB	Autopistol	127	Weapon		
+CRB	Autorifle	127	Weapon		
+CRB	Body Pistol	127	Weapon		
+CRB	Gauss Pistol	127	Weapon		
+CRB	Gauss Rifle	127	Weapon		
+CRB	Revolver	127	Weapon		
+CRB	Rifle	127	Weapon		
+CRB	Shotgun	127	Weapon		
+CRB	Snub Pistol	127	Weapon		
+CRB	Submachine Gun	127	Weapon		
+CRB	Laser Pistol	129	Weapon		
+CRB	Laser Carbine	129	Weapon		
+CRB	Laser Rifle	129	Weapon		
+CRB	Laser Sniper Rifle	129	Weapon		
+CRB	Plasma Rifle	129	Weapon		
+CRB	Stunner	129	Weapon		
+CRB	Aerosol	131	Grenade		
+CRB	Frag	131	Grenade		
+CRB	Smoke	131	Grenade		
+CRB	Stun	131	Grenade		
+CRB	FGHP	133	Heavy Weapon		
+CRB	Grenade Launcher	133	Heavy Weapon		
+CRB	Machinegun	133	Heavy Weapon		
+CRB	PGHP	133	Heavy Weapon		
+CRB	RAM Grenade Launcher	133	Heavy Weapon		
+CRB	Rocket Launcher	133	Heavy Weapon		
+CRB	Auxiliary Grenade Launcher	135	Central Supply		Weapon Option
+CRB	Gyrostabiliser	135	Central Supply		Weapon Option
+CRB	Intelligent Weapon	135	Central Supply		Weapon Option
+CRB	Laser Sight	135	Central Supply		Weapon Option
+CRB	Scope	135	Central Supply		Weapon Option
+CRB	Secure Weapon	135	Central Supply		Weapon Option
+CRB	Suppressor	135	Central Supply		Weapon Option
+CRB	Speed Bands	136	Rules		
+CRB	Vehicles	136	Rules		
+CRB	Vehicle Combat	138	Rules		
+CRB	Dogfight	138	Rules		Vehicular Action
+CRB	Evasive	138	Rules		Vehicular Action
+CRB	Manoeuvre	139	Rules		Vehicular Action
+CRB	Ram	139	Rules		Vehicular Action
+CRB	Stunt	139	Rules		Vehicular Action
+CRB	Weave	139	Rules		Vehicular Action
+CRB	Firing Arcs	138	Rules		
+CRB	Vehicle Critical Hits	140	Rules		
+CRB	Cannon	142	Vehicle Weapon		
+CRB	Laser Cannon	142	Vehicle Weapon		
+CRB	Light Autocannon	142	Vehicle Weapon		
+CRB	Heavy Machinegun	142	Vehicle Weapon		
+CRB	Aquatic Drive	142	Central Supply		Vehicle Equipment
+CRB	Autopilot	142	Central Supply		Vehicle Equipment
+CRB	Communications	142	Central Supply		Vehicle Equipment
+CRB	Entertainment System	143	Central Supply		Vehicle Equipment
+CRB	Navigation	143	Central Supply		Vehicle Equipment
+CRB	Off-road	143	Central Supply		Vehicle Equipment
+CRB	Sensors	143	Central Supply		Vehicle Equipment
+CRB	Short Term Life Support	143	Central Supply		Vehicle Equipment
+CRB	Turret	143	Central Supply		Vehicle Equipment
+CRB	Weapon	143	Central Supply		Vehicle Equipment
+CRB	Air/Raft	144	Vehicle		
+CRB	ATV	144	Vehicle		
+CRB	Brutus heavy cargo truck	145	Vehicle		
+CRB	Cargo Lifter	145	Vehicle		
+CRB	G/Bike	146	Vehicle		
+CRB	G/Racer	146	Vehicle		
+CRB	Gecko All-Terrain Assault Vehicle	147	Vehicle		
+CRB	Gunskiff	147	Vehicle		
+CRB	Personal Land Yacht	148	Vehicle		
+CRB	G/Carrier	148	Vehicle		
+CRB	Fusion Gun	148	Wehicle Weapon		
+CRB	Buying a Ship	149	High Guard		
+CRB	Mortgage	149	High Guard		
+CRB	Ship Career Benefit	149	High Guard		
+CRB	Ship Shares	149	High Guard		
+CRB	Airlocks	152	High Guard		
+CRB	Atmospheric Operations	152	High Guard		
+CRB	Spacecraft Operations	149	High Guard		
+CRB	Docking	152	High Guard		
+CRB	Landing	152	High Guard		
+CRB	Boarding	152	High Guard		
+CRB	Power	152	High Guard		
+CRB	Running Costs	153	High Guard		
+CRB	Maintenance Costs	153	High Guard		
+CRB	Space Encounters	155	Rules		Random Table
+CRB	Fuel	156	High Guard		
+CRB	Salvage	156	High Guard		
+CRB	Jump Travel	157	High Guard		
+CRB	Passengers	158	High Guard		
+CRB	Remote Operations	158	High Guard		
+CRB	Electronics (remote ops)	158	High Guard		Skill
+CRB	Mining Drones	159	High Guard		
+CRB	Probe Dones	159	High Guard		
+CRB	Repair Drones	159	High Guard		
+CRB	Repairs	159	High Guard		
+CRB	Sensors	160	High Guard		
+CRB	Encounters	155	High Guard		
+CRB	Range Bands	160	High Guard		
+CRB	Ship Computers	161	High Guard		
+CRB	Manoeuvre	161	High Guard		Ship Software
+CRB	Intellect	161	High Guard		Ship Software
+CRB	Jump Control	161	High Guard		Ship Software
+CRB	Evade	161	High Guard		Ship Software
+CRB	Fire Control	161	High Guard		Ship Software
+CRB	Auto-Repair	161	High Guard		Ship Software
+CRB	Library	161	High Guard		Ship Software
+CRB	Security	161	High Guard		
+CRB	Travel Times	163	High Guard		
+CRB	Combat	164	High Guard		
+CRB	Beam Laser	167	High Guard		Spacecraft Weapon
+CRB	Missile Rack	167	High Guard		Spacecraft Weapon
+CRB	Particle Barbette	168	High Guard		Spacecraft Weapon
+CRB	Pulse Laser	168	High Guard		Spacecraft Weapon
+CRB	Sandcaster	168	High Guard		Spacecraft Weapon
+CRB	Critical Hits	168	High Guard		
+CRB	Damage	168	High Guard		
+CRB	Evasive Action	171	High Guard		Combat Reaction
+CRB	Point Defence	171	High Guard		Combat Reaction
+CRB	Disperse Sand	171	High Guard		Combat Reaction
+CRB	Improve Initiative	171	High Guard		Combat Action
+CRB	Jump	171	High Guard		Combat Action
+CRB	Offline System	171	High Guard		Combat Action
+CRB	Overload Drive	171	High Guard		Combat Action
+CRB	Overload Plant	171	High Guard		Combat Action
+CRB	Repair System	172	High Guard		Combat Action
+CRB	Reload Turret	172	High Guard		Combat Action
+CRB	Sensor Lock	172	High Guard		Combat Action
+CRB	Electronic Warfare	172	High Guard		Combat Action
+CRB	Boarding Action	172	High Guard		Combat Action
+CRB	Reassignment	172	High Guard		Combat Action
+CRB	Missle Combat	172	High Guard		
+CRB	Dogfighting	173	High Guard		
+CRB	Boarding Actions	173	High Guard		
+CRB	Spacecraft Construction	176	High Guard		
+CRB	Construction Times	176	High Guard		
+CRB	Standard	178	High Guard		Hull Configuration
+CRB	Streamlined	178	High Guard		Hull Configuration
+CRB	Dispersed	178	High Guard		Hull Configuration
+CRB	Aerofins	184	High Guard		Spacecraft Equipment
+CRB	Cargo Crane	184	High Guard		Spacecraft Equipment
+CRB	Cargo Scoop	184	High Guard		Spacecraft Equipment
+CRB	Collapsible Fuel Tanks	184	High Guard		Spacecraft Equipment
+CRB	Concealed Compartment	185	High Guard		Spacecraft Equipment
+CRB	Docking Space	185	High Guard		Spacecraft Equipment
+CRB	Drones	185	High Guard		Spacecraft Equipment
+CRB	Fuel Processor	185	High Guard		Spacecraft Equipment
+CRB	Fuel Scoop	185	High Guard		Spacecraft Equipment
+CRB	Mining Drones	185	High Guard		
+CRB	Probe Drones	185	High Guard		
+CRB	Repair Drones	185	High Guard		
+CRB	High Staterooms	186	High Guard		Spacecraft Equipment
+CRB	Holographic Controls	186	High Guard		Spacecraft Equipment
+CRB	Holographic Hull	186	High Guard		Spacecraft Equipment
+CRB	Laboratory	186	High Guard		Spacecraft Equipment
+CRB	Library	186	High Guard		Spacecraft Equipment
+CRB	Luxury Staterooms	186	High Guard		Spacecraft Equipment
+CRB	Medical Bay	186	High Guard		Spacecraft Equipment
+CRB	Multi-Environment Space	186	High Guard		Spacecraft Equipment
+CRB	Sensor Station	187	High Guard		Spacecraft Equipment
+CRB	Workshop	187	High Guard		Spacecraft Equipment
+CRB	Outdated Ships	188	High Guard		
+CRB	Spacecraft Quirks	188	High Guard		
+CRB	Older Ships	188	High Guard		
+CRB	Scout/Courier	190	Ship		
+CRB	Seeker Mining Ship	192	Ship		
+CRB	Free Trader	194	Ship		
+CRB	Far Trader	196	Ship		
+CRB	Safari Ship	198	Ship		
+CRB	System Defence Boat	200	Ship		
+CRB	Yacht Type Y	202	Ship		
+CRB	Gazelle Close Escort	204	Ship		
+CRB	Laboratory Ship	206	Ship		
+CRB	Patrol Corvette	208	Ship		
+CRB	Subsidised Merchant	210	Ship		
+CRB	Donosev Survey Scout	212	Ship		
+CRB	Subsidised Liner	214	Ship		
+CRB	Mercenary Cruiser	216	Ship		
+CRB	Light Fighter	218	Small craft		
+CRB	Gig	219	Small craft		
+CRB	Launch	220	Small craft		
+CRB	Ship's Boat	221	Small craft		
+CRB	Slow Boat	222	Small craft		
+CRB	Pinnace	223	Small craft		
+CRB	Slow Pinnace	224	Small craft		
+CRB	Modular Cutter	225	Small craft		
+CRB	Shuttle	226	Small craft		
+CRB	Passenger Shuttle	227	Small craft		
+CRB	Psionics	228	Rules		
+CRB	Recovering PSI	228	Rules		
+CRB	Psionic Testing	228	Rules		
+CRB	Psionic Strength	228	Rules		
+CRB	Psionic Range	229	Rules		
+CRB	Telepathy	230	Rules		Psionic Talent
+CRB	Telekinesis	232	Rules		Psionic Talent
+CRB	Clairvoyance	231	Rules		Psionic Talent
+CRB	Awareness	233	Rules		Psionic Talent
+CRB	Teleportation	234	Rules		Psionic Talent
+CRB	Regeneration	234	Rules		Psionic Power
+CRB	Inspiration	233	Rules		Psionic Power
+CRB	Fortitude	233	Rules		Psionic Power
+CRB	Enhanced Endurance	233	Rules		Psionic Power
+CRB	Enhanced Strength	233	Rules		Psionic Power
+CRB	Suspended Animation	233	Rules		Psionic Power
+CRB	Pyrokinesis	233	Rules		Psionic Power
+CRB	Microkinesis	233	Rules		Psionic Power
+CRB	Telekinetic Punch	232	Rules		Psionic Power
+CRB	Flight	232	Rules		Psionic Power
+CRB	Telekinesis	232	Rules		Psionic Power
+CRB	Clairsentience	232	Rules		Psionic Power
+CRB	Clairaudience	232	Rules		Psionic Power
+CRB	Clairvoyance	232	Rules		Psionic Power
+CRB	Tactical Awareness	232	Rules		Psionic Power
+CRB	Sense	231	Rules		Psionic Power
+CRB	Shield	231	Rules		Psionic Power
+CRB	Assault	231	Rules		Psionic Power
+CRB	Probe	231	Rules		Psionic Power
+CRB	Suggestion	231	Rules		Psionic Power
+CRB	Send Thoughts	230	Rules		Psionic Power
+CRB	Read Surface Thoughts	230	Rules		Psionic Power
+CRB	Telempathy	230	Rules		Psionic Power
+CRB	Mind Link	230	Rules		Psionic Power
+CRB	Life Detection	230	Rules		Psionic Power
+CRB	Psi-Drugs	234	Rules		Drug
+CRB	Psionic Inhibitor	235	Rules		Drug
+CRB	Psionic Inhibitor	235	Rules		Drug
+CRB	Psionic Shield	235	Central Supply		
+CRB	Psionic Interface	235	Central Supply		
+CRB	Teleportation Suit	235	Central Supply		
+CRB	Psion	236	Career		
+CRB	High Passage	238	Rules		
+CRB	Middle Passage	238	Rules		
+CRB	Low Passage	238	Rules		
+CRB	Passengers	238	Rules		
+CRB	Freight	239	Rules		
+CRB	Passenger	240	Rules		Random Table
+CRB	Mail	241	Rules		
+CRB	Speculative Trade	241	Rules		
+CRB	Smuggling	243	Rules		
+CRB	Trade Goods	244	Rules		
+CRB	Sector and Subsector Creation	246	Rules		
+CRB	World Creation	248	Rules		
+CRB	Government Code	253	Rules		
+CRB	Cultural Differences	254	Rules		Random Table
+CRB	Factions	254	Rules		Random Table
+CRB	Crime	256	Rules		
+CRB	Travel Codes	260	Rules		
+CRB	Trade Codes	260	Rules		
