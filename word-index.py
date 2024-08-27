@@ -8,6 +8,7 @@ from docx.shared import Pt, Inches, Cm
 
 LEFT_ALIGNMENT = 0
 
+
 def add_type_paragraph(document, type_name):
     paragraph = document.add_paragraph()
     run = paragraph.add_run(type_name)
