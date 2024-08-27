@@ -1,0 +1,238 @@
+Document	Topic	Page	Type	Primary	Group
+TTR	Pirates of Drinax	1	Adventure		
+TTR	Floating Palace Life Events	4	Rules		
+TTR	Wasteland Life Events	5	Rules		
+TTR	Asim Life Events	6	Rules		
+TTR	Drinaxi Harrier-Class Commerce Raider	8	Ship		
+TTR	Kingdom of Drinax	14	Polity		
+TTR	Letter of Marque	18	Setting		
+TTR	Floating Palace	18	Setting		
+TTR	Floating Palace	18	Starport		
+TTR	Vespexer	21	Setting		
+TTR	Asim, Tlaiowaha	22	System		
+TTR	King Oleb	22	Person		
+TTR	Prince Harrick	23	Person		
+TTR	Princess Rao	23	Person		
+TTR	Lord Wrax	24	Person		
+TTR	Scholar Voha	24	Person		
+TTR	Kaslyl of the Ahroay'	24	Person		
+TTR	Imperial Consul Thao Poluc	24	Person		
+TTR	Lady Hil	24	Person		
+TTR	Rachando	24	Person		
+TTR	Sal Dance	24	Person		
+TTR	Cleon Hardy	24	Person		
+TTR	Chieftan Gaix	24	Person		
+TTR	General Development Company	25	Megacorporation		
+TTR	Admiral Darokyn	25	Person		
+TTR	Peytr Vallis	25	Person		
+TTR	The Ghost	25	Person		
+TTR	Hroal Irontooth	25	Person		
+TTR	The Dread Pirate Ashan	25	Person		
+TTR	Zuekhvi the Corsair	25	Person		
+TTR	Aslan Hierate	26	Setting		
+TTR	Aslan Hierate	26	Aslan		
+TTR	Aslan Calendar	26	Setting		
+TTR	Calendar	26	Aslan		
+TTR	Reactions	32	Aslan		
+TTR	Wars	33	Aslan		
+TTR	Territory (TER)	34	Aslan		
+TTR	Territory (TER)	34	Characteristic		
+TTR	Ihatei	36	Aslan		
+TTR	Outcasts	37	Aslan		
+TTR	Gender	37	Aslan		
+TTR	Social Structure	39	Aslan		
+TTR	Kusyu, Kilrai’	41	Aslan		System
+TTR	Kusyu, Kilrai’	41	System		
+TTR	Creating Aslan Worlds	42	Aslan		
+TTR	Tlasayerlahel	45	Megacorporation		Aslan
+TTR	Tlasayerlahel	45	Aslan		Megacorporation
+TTR	Reastirlao	45	Megacorporation		Aslan
+TTR	Reastirlao	45	Aslan		Megacorporation
+TTR	Iyalil	45	Megacorporation		Aslan
+TTR	Iyalil	45	Aslan		Megacorporation
+TTR	Khtularoihowa	45	Megacorporation		Aslan
+TTR	Khtularoihowa	45	Aslan		Megacorporation
+TTR	Language	48	Aslan		
+TTR	Aslan Language	48	Setting		
+TTR	Awyraolr	56	Aslan		Clan
+TTR	Hfuah	56	Aslan		Clan
+TTR	Trui’kt	56	Aslan		Clan
+TTR	Trui’ah	56	Aslan		Clan
+TTR	Khoafteirftah	56	Aslan		Clan
+TTR	Aslan Border Wars	57	Setting		
+TTR	Aslan Border Wars	57	Aslan		
+TTR	Aroaye’i	59	Aslan		Clan
+TTR	Ahroay’if	59	Aslan		Clan
+TTR	Hlewela	59	Aslan		Clan
+TTR	Hlyueawi	59	Aslan		Clan
+TTR	Hrasua	59	Aslan		Clan
+TTR	Hrakoea	59	Aslan		Clan
+TTR	Hrawoao	59	Aslan		Clan
+TTR	Ikhtealyo	59	Aslan		Clan
+TTR	Khaukheairl	59	Aslan		Clan
+TTR	Syoisuis	59	Aslan		Clan
+TTR	Tlaiowaha	60	Aslan		Clan
+TTR	Tokouea’we	60	Aslan		Clan
+TTR	Tralyeaeawi	60	Aslan		Clan
+TTR	Uawairlew	60	Aslan		Clan
+TTR	Wahtoi	60	Aslan		Clan
+TTR	Yerlyaruiwo	60	Aslan		Clan
+TTR	Tlaukhu Structure	53	Aslan		
+TTR	Starports	60	Aslan		
+TTR	Cities	61	Aslan		
+TTR	Rural Areas	61	Aslan		
+TTR	Atekteia	62	Bestiary		
+TTR	Aua	62	Bestiary		
+TTR	Aua’ka	62	Bestiary		
+TTR	Khekha	63	Bestiary		
+TTR	Khta	63	Bestiary		
+TTR	Stii	63	Bestiary		
+TTR	Aslan Travellers	64	Rules		
+TTR	Travellers	64	Aslan		
+TTR	Territory (TER)	64	Aslan		Aslan Travellers
+TTR	Territory (TER)	64	Characteristic		
+TTR	Right of Passage	67	Aslan		Aslan Travellers
+TTR	Inheritance	66	Aslan		Aslan Travellers
+TTR	Ancestral Territory	64	Aslan		Aslan Travellers
+TTR	Deeds	66	Aslan		Aslan Travellers
+TTR	Qualification	68	Aslan		Aslan Travellers
+TTR	Ceremonial	67	Aslan		Aslan Travellers
+TTR	Ceremonial	67	Career		Aslan
+TTR	Envoy	67	Aslan		Aslan Travellers
+TTR	Envoy	67	Career		Aslan
+TTR	Management	67	Aslan		Aslan Travellers
+TTR	Management	67	Career		Aslan
+TTR	Military	67	Aslan		Aslan Travellers
+TTR	Military	67	Career		Aslan
+TTR	Military Officer	67	Aslan		Aslan Travellers
+TTR	Military Officer	67	Career		Aslan
+TTR	Outcast	68	Aslan		Aslan Travellers
+TTR	Outcast	68	Career		Aslan
+TTR	Outlaw	68	Aslan		Aslan Travellers
+TTR	Outlaw	68	Career		Aslan
+TTR	Scientist	68	Aslan		Aslan Travellers
+TTR	Scientist	68	Career		Aslan
+TTR	Spacer	68	Aslan		Aslan Travellers
+TTR	Spacer	68	Career		Aslan
+TTR	Spacer Officer	68	Aslan		Aslan Travellers
+TTR	Spacer Officer	68	Career		Aslan
+TTR	Wanderer	68	Aslan		Aslan Travellers
+TTR	Wanderer	68	Career		Aslan
+TTR	Skills	67	Aslan		Aslan Travellers
+TTR	Aging	67	Aslan		Aslan Travellers
+TTR	Independence	71	Aslan		Skill
+TTR	Independence	71	Skill		Aslan
+TTR	Tolerance	71	Aslan		Skill
+TTR	Tolerance	71	Skill		Aslan
+TTR	Ceremonial	72	Aslan		Aslan Travellers
+TTR	Ceremonial	72	Career		Aslan
+TTR	Envoy	74	Aslan		Aslan Travellers
+TTR	Envoy	74	Career		Aslan
+TTR	Management	76	Aslan		Aslan Travellers
+TTR	Management	76	Career		Aslan
+TTR	Military	78	Aslan		Aslan Travellers
+TTR	Military	78	Career		Aslan
+TTR	Military Officer	80	Aslan		Aslan Travellers
+TTR	Military Officer	80	Career		Aslan
+TTR	Outcast	88	Aslan		Aslan Travellers
+TTR	Outcast	88	Career		Aslan
+TTR	Outlaw	90	Aslan		Aslan Travellers
+TTR	Outlaw	90	Career		Aslan
+TTR	Scientist	82	Aslan		Aslan Travellers
+TTR	Scientist	82	Career		Aslan
+TTR	Spacer	84	Aslan		Aslan Travellers
+TTR	Spacer	84	Career		Aslan
+TTR	Spacer Officer	86	Aslan		Aslan Travellers
+TTR	Spacer Officer	86	Career		Aslan
+TTR	Wanderer	92	Aslan		Aslan Travellers
+TTR	Wanderer	92	Career		Aslan
+TTR	Mustering Out	94	Aslan		Aslan Travellers
+TTR	Kinships	94	Aslan		Aslan Travellers
+TTR	Pensions	94	Aslan		Aslan Travellers
+TTR	Benefits	94	Aslan		Aslan Travellers
+TTR	Clan Shares	94	Aslan		Aslan Travellers
+TTR	Life Events	95	Aslan		Aslan Travellers
+TTR	Clan Events	95	Aslan		Aslan Travellers
+TTR	Aua-leather	99	Aslan		Armour
+TTR	Aua-leather	99	Armour		
+TTR	Aslan Battle Dress	99	Aslan		Armour
+TTR	Aslan Battle Dress	99	Armour		
+TTR	Assassin’s Garb	99	Aslan		Armour
+TTR	Assassin’s Garb	99	Armour		
+TTR	Ceremonial Armour	100	Aslan		Armour
+TTR	Ceremonial Armour	100	Armour		
+TTR	Ceremonial Breastplate	100	Aslan		Armour
+TTR	Ceremonial Breastplate	100	Armour		
+TTR	Su’yerl	101	Aslan		Armour
+TTR	Su’yerl	101	Armour		
+TTR	Combat Armour	101	Aslan		Armour
+TTR	Combat Armour	101	Armour		
+TTR	Combat Flex	101	Aslan		Armour
+TTR	Combat Flex	101	Armour		
+TTR	Combat Vacc Suit	102	Aslan		Armour
+TTR	Combat Vacc Suit	102	Armour		
+TTR	Suya’uiyekhyerl	102	Aslan		Armour
+TTR	Suya’uiyekhyerl	102	Armour		
+TTR	Heavy Combat Armour	102	Aslan		Armour
+TTR	Heavy Combat Armour	102	Armour		
+TTR	Su’yerlva	102	Aslan		Armour
+TTR	Su’yerlva	102	Armour		
+TTR	Combat Vacc Suit	102	Aslan		Armour
+TTR	Combat Vacc Suit	102	Armour		
+TTR	Suya’uiyekhyerl	102	Aslan		Armour
+TTR	Suya’uiyekhyerl	102	Armour		
+TTR	Heavy Vacc Suit	102	Aslan		Armour
+TTR	Heavy Vacc Suit	102	Armour		
+TTR	Suya’uiyekhva	102	Aslan		Armour
+TTR	Suya’uiyekhva	102	Armour		
+TTR	Vacc Suit	102	Aslan		Armour
+TTR	Vacc Suit	102	Armour		
+TTR	Claw Port	104	Aslan		Armour Modification
+TTR	Command Suite	104	Aslan		Armour Modification
+TTR	Ornamentation	104	Aslan		Armour Modification
+TTR	Tail Armour	104	Aslan		Armour Modification
+TTR	Boundary Box	105	Aslan		Central Supply
+TTR	Boundary Box	105	Central Supply		
+TTR	Clan Comm	105	Aslan		Central Supply
+TTR	Clan Comm	105	Central Supply		
+TTR	Mousebot	106	Aslan		Robot
+TTR	Mousebot	106	Robot		
+TTR	Slave Machine	106	Aslan		Robot
+TTR	Slave Machine	106	Robot		
+TTR	Technician	107	Aslan		Robot
+TTR	Technician	107	Robot		
+TTR	Hikare’	107	Aslan		Robot
+TTR	Hikare’	107	Robot		
+TTR	Bio-adjustment Pills	108	Central Supply		
+TTR	Bio-adjustment Pills	108	Aslan		Central Supply
+TTR	Slashpatch	108	Central Supply		
+TTR	Slashpatch	108	Aslan		Central Supply
+TTR	Field Medical Kit	108	Central Supply		
+TTR	Field Medical Kit	108	Aslan		Central Supply
+TTR	Claw Coating	109	Central Supply		Augmentation
+TTR	Claw Coating	109	Aslan		Personal Augmentation
+TTR	Claw Edging	109	Central Supply		Augmentation
+TTR	Claw Edging	109	Aslan		Personal Augmentation
+TTR	Claw Hardening	109	Central Supply		Augmentation
+TTR	Claw Hardening	109	Aslan		Personal Augmentation
+TTR	Claw Implant	110	Central Supply		Augmentation
+TTR	Predator Suite	110	Central Supply		Augmentation
+TTR	Predator Suite	110	Aslan		Personal Augmentation
+TTR	Prehensile Tail	110	Central Supply		Augmentation
+TTR	Prehensile Tail	110	Aslan		Personal Augmentation
+TTR	Tail Implant	110	Central Supply		Augmentation
+TTR	Tail Implant	110	Aslan		Personal Augmentation
+TTR	Soisu’soi	111	Aslan		Weapon
+TTR	Soisu’soi	111	Weapon		Melee
+TTR	Assassin’s Blade	111	Weapon		Melee
+TTR	Assassin’s Blade	111	Aslan		Weapon
+TTR	Taleryu	111	Aslan		Weapon
+TTR	Taleryu	111	Weapon		
+TTR	Crescent Blade	111	Weapon		
+TTR	Crescent Blade	111	Aslan		Weapon
+TTR	Fierah	111	Weapon		
+TTR	Fierah	111	Aslan		Weapon
+TTR	Hi’asoi	112	Weapon		
+TTR	Hi’asoi	112	Aslan		Weapon
+TTR	Monkey Knife	112	Weapon		
+TTR	Monkey Knife	112	Aslan		Weapon
