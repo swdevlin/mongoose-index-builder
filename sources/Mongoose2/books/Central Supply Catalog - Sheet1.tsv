@@ -1,0 +1,752 @@
+Document	Topic	Page	Type	Primary	Group
+CSC	Availability	4	Rules		
+CSC	Black Market	4	Rules		
+CSC	Law Enforcement	6	Rules		
+CSC	Fabrication Chambers	7	Rules		
+CSC	Ship's Locker	10	High Guard		
+CSC	ProtoTech	10	Rules		
+CSC	RetroTech	11	Rules		
+CSC	Ballistic Vest	12	Armour		
+CSC	Ceramic Carapace	12	Armour		
+CSC	Cloth	12	Armour		
+CSC	Cloth Jacket	12	Armour		
+CSC	Cloth Trench Coat	12	Armour		
+CSC	Diplo Vest	14	Armour		
+CSC	Flak Jacket	14	Armour		
+CSC	Flak Shell	14	Armour		
+CSC	Hunter Field Garb	14	Armour		
+CSC	Jack	14	Armour		
+CSC	Mesh	14	Armour		
+CSC	Protec Suit	14	Armour		
+CSC	Personal Energy Shield	14	Armour		
+CSC	Poly Carapace	14	Armour		
+CSC	Post-Apocalyptic	14	Armour		
+CSC	Tactical Riot Armour	14	Armour		
+CSC	Armour	12	Rules		
+CSC	Breastplate	17	Armour		
+CSC	Full Plate	17	Armour		
+CSC	Half-Plate	17	Armour		
+CSC	Mail Hauberk	17	Armour		
+CSC	Archaic Armour	17	Rules		
+CSC	Anti-Energy Armour	18	Rules		
+CSC	Ablat	18	Armour		
+CSC	Conduit-Bleed	18	Armour		
+CSC	Dispersion	18	Armour		
+CSC	Fireproof Suit	18	Armour		
+CSC	Neural Sheath	18	Armour		
+CSC	Reflec	18	Armour		
+CSC	Modification	20	Armour		
+CSC	Additional Padding	20	Armour		Modification
+CSC	Auto Helmet	20	Armour		Modification
+CSC	Automedikit	20	Armour		Modification
+CSC	Auto Protect Kit	20	Armour		Modification
+CSC	Camouflage	20	Armour		Modification
+CSC	Chameleon	21	Armour		Modification
+CSC	Computer Weave	21	Armour		Modification
+CSC	Coolant Rig	21	Armour		Modification
+CSC	Environment Reader	22	Armour		Modification
+CSC	Extended Life Support	22	Armour		Modification
+CSC	Eye Protection	22	Armour		Modification
+CSC	Friend or Foe HUD	22	Armour		Modification
+CSC	Gecko Pads	22	Armour		Modification
+CSC	Grav Assist	23	Armour		Modification
+CSC	Gyro-stabiliser Rig	23	Armour		Modification
+CSC	Hands-Free Cuff	23	Armour		Modification
+CSC	Helmet Lights	23	Armour		Modification
+CSC	Life Support Belt	24	Armour		Modification
+CSC	Life Support System	24	Armour		Modification
+CSC	Magnetic Grapples	24	Armour		Modification
+CSC	Minefield Boots	24	Armour		Modification
+CSC	Null Shield	24	Armour		Modification
+CSC	Personalisation	25	Armour		Modification
+CSC	Psionic Shield Helmet	25	Armour		Modification
+CSC	Self-Sealing	25	Armour		Modification
+CSC	Reflec Coating	25	Armour		Modification
+CSC	Smart Fabric	25	Armour		Modification
+CSC	Submarine Functionality	25	Armour		Modification
+CSC	Tactical Video Suite	26	Armour		Modification
+CSC	Thruster Pack	26	Armour		Modification
+CSC	Vacc Suit Accessory Pack	26	Armour		Modification
+CSC	Protective Suits	27	Rules		
+CSC	Electronics Suite	27	Central Supply		
+CSC	Electronics Suite	27	Armour		
+CSC	Emergency Hostile Environment Suit	28	Armour		
+CSC	Emergency Softsuit	29	Armour		
+CSC	Environment Suit	29	Armour		
+CSC	Explosive Ordnance Disposal Suit	29	Armour		
+CSC	Hostile Environment Vacc (HEV) Suit	29	Armour		
+CSC	Pressure Sleeve	29	Armour		
+CSC	Rescue Suit	31	Armour		
+CSC	Shipsuit	31	Armour		
+CSC	Skinsuit	31	Armour		
+CSC	Vacc Suit	31	Armour		
+CSC	Boarding Vacc Suit	33	Armour		
+CSC	Ceramic Combat Armour	33	Armour		
+CSC	Combat Armour	33	Armour		
+CSC	Combat Environment Suit	33	Armour		
+CSC	Psi-Enhanced Combat Armour	33	Armour		
+CSC	Military Suits	33	Armour		
+CSC	Military Suits	33	Rules		
+CSC	Civilian Suits	28	Armour		
+CSC	Civilian Suits	28	Rules		
+CSC	Powered Suits	35	Armour		
+CSC	Powered Suits	35	Rules		
+CSC	Ceramic Powered Plate	35	Armour		
+CSC	Exoskeleton	36	Armour		
+CSC	Extreme Environment Exploration (E3) Suit	36	Armour		
+CSC	Grav-Enhanced Powered Plate	36	Armour		
+CSC	Mechanical Carapace	36	Armour		
+CSC	Powered Plate	36	Armour		
+CSC	Battle Dress	38	Armour		
+CSC	Battle Dress	38	Rules		
+CSC	Artillery Battle Dress	40	Armour		
+CSC	Assault Battle Dress	40	Armour		
+CSC	Battle Dress	40	Armour		
+CSC	Ceramic Battle Dress	40	Armour		
+CSC	Combat Pioneer Battle Dress	40	Armour		
+CSC	Command Battle Dress	40	Armour		
+CSC	Logistics Battle Dress	40	Armour		
+CSC	Psi-Commando Battle Dress	40	Armour		
+CSC	Psi-Enhanced Battle Dress	40	Armour		
+CSC	Scout Battle Dress	40	Armour		
+CSC	Battle Dress Modification	44	Armour		
+CSC	Anti-Missile System	44	Armour		Battle Dress Modification
+CSC	Active Camouflage	44	Armour		Battle Dress Modification
+CSC	Advanced Life Support	44	Armour		Battle Dress Modification
+CSC	Enhanced Mobility	45	Armour		Battle Dress Modification
+CSC	Enhanced Strength	45	Armour		Battle Dress Modification
+CSC	Environment Protection	45	Armour		Battle Dress Modification
+CSC	Flight Pack	45	Armour		Battle Dress Modification
+CSC	Fuel Cells	45	Armour		Battle Dress Modification
+CSC	Heavy Plating	45	Armour		Battle Dress Modification
+CSC	High Velocity Targeting Array	46	Armour		Battle Dress Modification
+CSC	Integrated Toolkit	46	Armour		Battle Dress Modification
+CSC	Integrated Weapon Mount	46	Armour		Battle Dress Modification
+CSC	Ion Shield	46	Armour		Battle Dress Modification
+CSC	Parachute	47	Armour		Battle Dress Modification
+CSC	Prismatic Aerosol	47	Armour		Battle Dress Modification
+CSC	Sensor Suite	47	Armour		Battle Dress Modification
+CSC	Stealth	47	Armour		Battle Dress Modification
+CSC	Augments	48	Central Supply		
+CSC	Detachable	49	Central Supply		Augment Option
+CSC	Invisitech	49	Central Supply		Augment Option
+CSC	Natural-looking	49	Central Supply		Augment Option
+CSC	Ruggedised	49	Central Supply		Augment Option
+CSC	Self-repairing	49	Central Supply		Augment Option
+CSC	Additional Manipulator	50	Central Supply		
+CSC	All-Temperature Epidermal Symbiote	50	Central Supply		
+CSC	Altered Appearance	50	Central Supply		
+CSC	Biotech	50	Rules		
+CSC	Bio-fusion Power Port	51	Central Supply		
+CSC	Cardiotrigger Detonator	51	Central Supply		
+CSC	Genetic Aquamorph Adaption	51	Central Supply		
+CSC	Genetic Environmental Adaption	52	Central Supply		
+CSC	Genetic Microgravity Adaption	52	Central Supply		
+CSC	Internal Auto-injector	53	Central Supply		
+CSC	Metastatic Platelet Injection	53	Central Supply		
+CSC	Muscular Bridging	53	Central Supply		
+CSC	Physical Augmentation	53	Central Supply		
+CSC	Soldier’s Organ Package	53	Central Supply		
+CSC	Smuggling Container	54	Central Supply		
+CSC	Subdermal Armour	54	Central Supply		
+CSC	Terminal Stabilisation System	54	Central Supply		
+CSC	Video Tattoo	54	Central Supply		
+CSC	Aslan Cyber-claw	54	Central Supply		
+CSC	Aslan Cyber-claw	54	Aslan		Central Supply
+CSC	Autonomous Locomotion Rig (ALR)	55	Central Supply		
+CSC	Combat Arm	55	Central Supply		
+CSC	Enhanced Mobility	56	Central Supply		
+CSC	Razor Claw	56	Central Supply		
+CSC	Prosthetic Limb	56	Central Supply		
+CSC	Weapon Implant	57	Central Supply		
+CSC	Assisted Ambulation	58	Central Supply		
+CSC	Ballistic Tracking Lenses	58	Central Supply		
+CSC	Cockpit Sensory Suite	58	Central Supply		
+CSC	Cognitive Augmentation	58	Central Supply		
+CSC	Complex Cranial Processing Unit	58	Central Supply		
+CSC	Enhanced Vision	58	Central Supply		
+CSC	Fabulous Augmentation Treatment	59	Central Supply		
+CSC	Mechanostatic Scanner	59	Central Supply		
+CSC	Neural Comm	59	Central Supply		
+CSC	Neural Link	60	Central Supply		
+CSC	Neural Jack	60	Central Supply		
+CSC	Nerve-plug Response Rig	60	Central Supply		
+CSC	Null Skull	60	Central Supply		
+CSC	Peripheral Vision Enhancement	60	Central Supply		
+CSC	Psi-taps	60	Central Supply		
+CSC	Shriekerbox	60	Central Supply		
+CSC	Skill Augmentation	61	Central Supply		
+CSC	Venom Glands	61	Central Supply		
+CSC	Wafer Jack	61	Central Supply		
+CSC	Communications	62	Rules		
+CSC	Bug	62	Central Supply		
+CSC	Commdot	62	Central Supply		
+CSC	Holographic Display	63	Central Supply		
+CSC	Holographic Projector	63	Central Supply		
+CSC	Mobile Comm	63	Central Supply		
+CSC	Transceiver	64	Central Supply		
+CSC	Transceiver	64	Rules		
+CSC	Radio Transceiver	64	Central Supply		
+CSC	Laser Transceiver	64	Central Supply		
+CSC	Meson Transceiver	65	Central Supply		
+CSC	Computer	65	Central Supply		Transceiver Option
+CSC	Encryption	65	Central Supply		Transceiver Option
+CSC	Satellite uplink	65	Central Supply		Transceiver Option
+CSC	Computer	66	Rules		
+CSC	Computer Terminal	67	Central Supply		
+CSC	Computer Interface	67	Central Supply		
+CSC	Mainframe Computer	67	Central Supply		
+CSC	Mid-sized Computer	67	Central Supply		
+CSC	Portable Computer	67	Central Supply		
+CSC	Computer	66	Central Supply		
+CSC	Camera	68	Central Supply		Portable Computer Option
+CSC	Comms	68	Central Supply		Portable Computer Option
+CSC	Data Display	68	Central Supply		Portable Computer Option
+CSC	Data Recorder	68	Central Supply		Portable Computer Option
+CSC	Data Wafer	68	Central Supply		Portable Computer Option
+CSC	Physical User Interface	68	Central Supply		Portable Computer Option
+CSC	Interfaces and Intellects	68	Rules		
+CSC	Specialised Computer	69	Central Supply		
+CSC	Agent	69	Central Supply		Software
+CSC	Database	69	Central Supply		Software
+CSC	Decryptor	69	Central Supply		Software
+CSC	Digital Friend	70	Central Supply		Software
+CSC	Expert	70	Central Supply		Software
+CSC	Intellect	71	Central Supply		Software
+CSC	Intelligent Interface	71	Central Supply		Software
+CSC	Interface	71	Central Supply		Software
+CSC	Intrusion	71	Central Supply		Software
+CSC	Personal Trainer	71	Central Supply		Software
+CSC	Security	71	Central Supply		Software
+CSC	Translator	72	Central Supply		Software
+CSC	Universal Translator	72	Central Supply		Software
+CSC	Open-source Software	72	Rules		
+CSC	Open-source Software	72	Central Supply		
+CSC	Binoculars	73	Central Supply		
+CSC	Camera	73	Central Supply		
+CSC	Chemi-view Goggles	74	Central Supply		
+CSC	Cold Light Lantern	74	Central Supply		
+CSC	Electronic Binoculars	74	Central Supply		
+CSC	Flashlight	75	Central Supply		
+CSC	Geiger Counter	75	Central Supply		
+CSC	Infrared Flashlight	75	Central Supply		
+CSC	Infrared Goggles	75	Central Supply		
+CSC	Light Intensifier Goggles	75	Central Supply		
+CSC	Personal HUD	75	Central Supply		
+CSC	PRIS Binoculars	76	Central Supply		
+CSC	PRIS Goggles	76	Central Supply		
+CSC	PRIS Sunglasses	76	Central Supply		
+CSC	Psi-finder Binoculars	76	Central Supply		
+CSC	Psi-finder Visor	76	Central Supply		
+CSC	Spotlight	76	Central Supply		
+CSC	Floodlight	76	Central Supply		
+CSC	Combination Light	76	Central Supply		
+CSC	Radio Jammer	77	Central Supply		
+CSC	Ring Laser	77	Central Supply		
+CSC	Wristwatch	77	Central Supply		
+CSC	Bioscanner	78	Central Supply		
+CSC	Sensors	78	Central Supply		
+CSC	Electronics	73	Central Supply		
+CSC	Bug Sweeper	78	Central Supply		
+CSC	Densitometer	78	Central Supply		
+CSC	EM Probe	79	Central Supply		
+CSC	Ground Penetrating Radar	79	Central Supply		
+CSC	Metal Detector	79	Central Supply		
+CSC	NAS	79	Central Supply		
+CSC	Psi-detector	79	Central Supply		
+CSC	Alien Cosplay Kit	80	Central Supply		
+CSC	Autobar	80	Central Supply		
+CSC	Autochef	80	Central Supply		
+CSC	Autolaundry	80	Central Supply		
+CSC	Bed	81	Central Supply		
+CSC	Clothing Consultant	81	Central Supply		
+CSC	Disguise Kit	81	Central Supply		
+CSC	Disguise Net	82	Central Supply		
+CSC	Environment Replicator	82	Central Supply		
+CSC	Flashtray	82	Central Supply		
+CSC	Float Table	83	Central Supply		
+CSC	Hair Styler	83	Central Supply		
+CSC	High Fidelity Music System	83	Central Supply		
+CSC	Holographic Play Table	83	Central Supply		
+CSC	Holographic Wallpaper	84	Central Supply		
+CSC	Home Theatre	84	Central Supply		
+CSC	Lords of Space	84	Central Supply		
+CSC	Miniatures Wargame	84	Central Supply		
+CSC	Personal Safe	85	Central Supply		
+CSC	Remembrance Hologram	85	Central Supply		
+CSC	Sleep Inducer	85	Central Supply		
+CSC	Sonic Sweat and Stain Remover	86	Central Supply		
+CSC	Sphere of Solace	86	Central Supply		
+CSC	Vivarium	86	Central Supply		
+CSC	VR Goggles	87	Central Supply		
+CSC	VR Helmet	87	Central Supply		
+CSC	VR Immersion Chair	87	Central Supply		
+CSC	Medical and Care Supplies	88	Central Supply		
+CSC	Adhesive Bandages	88	Central Supply		
+CSC	Autodoc	88	Central Supply		
+CSC	Bioreaction Chamber	88	Central Supply		
+CSC	Cryoberth	89	Central Supply		
+CSC	Field Surgical Kit	90	Central Supply		
+CSC	First Aid Kit	90	Central Supply		
+CSC	Medikit	90	Central Supply		
+CSC	Personal Automedic	91	Central Supply		
+CSC	Personal Mediscanner	91	Central Supply		
+CSC	Portable Mediscanner	91	Central Supply		
+CSC	Trauma Pack	91	Central Supply		
+CSC	Adrenaliser	92	Central Supply		Drug
+CSC	Anagathics	92	Central Supply		Drug
+CSC	Anagathics Withdrawl	92	Rules		
+CSC	Anti-rad	92	Central Supply		Drug
+CSC	Combat Drug	93	Central Supply		Drug
+CSC	Fast Drug	93	Central Supply		Drug
+CSC	G-Tolerance Drug	93	Central Supply		Drug
+CSC	Inhibitor Drug	93	Central Supply		Drug
+CSC	Medicinal Drug	93	Central Supply		Drug
+CSC	Meta-performance Enhancer	94	Central Supply		Drug
+CSC	Metabolic Accelerator	94	Central Supply		Drug
+CSC	Nervous Response Dampener	94	Central Supply		Drug
+CSC	Null Drug	94	Central Supply		Drug
+CSC	Panaceas	94	Central Supply		Drug
+CSC	Psi-Drug	94	Central Supply		Drug
+CSC	Radiation Emergency Applicator	95	Central Supply		Drug
+CSC	Recreational Drugs	95	Central Supply		Drug
+CSC	Slow Drug	95	Central Supply		Drug
+CSC	Starlight Drops	95	Central Supply		Drug
+CSC	Stims	95	Central Supply		Drug
+CSC	Addiction	96	Rules		
+CSC	Withdrawl	96	Rules		
+CSC	Truth Serum	96	Central Supply		Drug
+CSC	Zero-G Tolerance Drug	96	Central Supply		Drug
+CSC	Grav Belt	97	Central Supply		
+CSC	Grav Parachute	97	Central Supply		
+CSC	Parawing	97	Central Supply		
+CSC	Survival Gear	97	Central Supply		
+CSC	Squirrel Suit	98	Central Supply		
+CSC	Breather Mask	98	Central Supply		
+CSC	Environment Mask	98	Central Supply		
+CSC	Atmospheric Protection	98	Central Supply		
+CSC	Face Mask	99	Central Supply		
+CSC	Filter Mask	99	Central Supply		
+CSC	Life Support Mask	99	Central Supply		
+CSC	NBC Suit	99	Central Supply		
+CSC	Oxygen/Air Tanks	99	Central Supply		
+CSC	Protective Suit	99	Central Supply		
+CSC	Radiation Suit	100	Central Supply		
+CSC	Rebreather	100	Central Supply		
+CSC	Respirator	100	Central Supply		
+CSC	Arctic and Cold Environments	101	Central Supply		
+CSC	Cold Weather Clothing	101	Central Supply		
+CSC	Heatsuit	101	Central Supply		
+CSC	Ice Axe	101	Central Supply		
+CSC	Ice Terrain Kit	102	Central Supply		
+CSC	Skis	102	Central Supply		
+CSC	Snowshoes	102	Central Supply		
+CSC	Advanced Desert Suit	102	Central Supply		
+CSC	Desert Kit	102	Central Supply		
+CSC	Desert and Arid Environments	102	Central Supply		
+CSC	Goggles	103	Central Supply		
+CSC	Shades	103	Central Supply		
+CSC	Heatproof Suit	103	Central Supply		
+CSC	Hydro-collector	103	Central Supply		
+CSC	Hydro-Reclamation Suit	103	Central Supply		
+CSC	Solar Vaporator	104	Central Supply		
+CSC	Backpack	104	Central Supply		
+CSC	Bivvy Pack	104	Central Supply		
+CSC	Canteen	104	Central Supply		
+CSC	Chemical Lightstick	105	Central Supply		
+CSC	Distress Flare	105	Central Supply		
+CSC	Duct Tape	105	Central Supply		
+CSC	Field Kit	105	Central Supply		
+CSC	Fire Extinguisher	105	Central Supply		
+CSC	Flare	105	Central Supply		
+CSC	Flare Launcher	105	Central Supply		
+CSC	Folding Cage	106	Central Supply		
+CSC	G-Suit	106	Central Supply		
+CSC	Gas Lamp	106	Central Supply		
+CSC	Oil Lamp	106	Central Supply		
+CSC	Grav Harness	106	Central Supply		
+CSC	Inertial Locator	106	Central Supply		
+CSC	Infinite Rope	107	Central Supply		
+CSC	Hiking Boots	107	Central Supply		
+CSC	Magnetic Compass	107	Central Supply		
+CSC	Pocket Saw	107	Central Supply		
+CSC	Purification Tablets	108	Central Supply		
+CSC	Rad Blanket	108	Central Supply		
+CSC	Reflectorised Tarpaulin	108	Central Supply		
+CSC	Rope	109	Central Supply		
+CSC	Sleeping Bag	109	Central Supply		
+CSC	Survival Kit	109	Central Supply		
+CSC	Survival Meal	109	Central Supply		
+CSC	Survival Still	109	Central Supply		
+CSC	Torch	110	Central Supply		
+CSC	Housing Option	110	Central Supply		
+CSC	Armoured	110	Central Supply		Housing Option
+CSC	Chameleon Fibres	110	Central Supply		Housing Option
+CSC	Climate Controlled	111	Central Supply		Housing Option
+CSC	Holosimulacrum	111	Central Supply		Housing Option
+CSC	Null-Shielding	111	Central Supply		Housing Option
+CSC	Psi-Amplifier	111	Central Supply		Housing Option
+CSC	Rad-Shielding	111	Central Supply		Housing Option
+CSC	Self-Assembling	111	Central Supply		Housing Option
+CSC	Self-Sealing	111	Central Supply		Housing Option
+CSC	Marine Environments	112	Central Supply		
+CSC	Artificial Gill	112	Central Supply		
+CSC	Atmospheric Diving Suit	112	Central Supply		
+CSC	Deep-Diving Suit	112	Central Supply		
+CSC	Dive Suit	113	Central Supply		
+CSC	Heated Dive Suit	113	Central Supply		
+CSC	Swimming Equipment	114	Central Supply		
+CSC	Underwater Air Tanks	114	Central Supply		
+CSC	Water Dye	114	Central Supply		
+CSC	Very Deep Operation Diving Suit	114	Central Supply		
+CSC	Climbing	115	Central Supply		
+CSC	Mountains and Cliffs	115	Central Supply		
+CSC	Climbing Hoist	115	Central Supply		
+CSC	Climbing Kit	115	Central Supply		
+CSC	Grapnel and Cable	115	Central Supply		
+CSC	Grapnel Launcher	115	Central Supply		
+CSC	Pitons	115	Central Supply		
+CSC	Piton Hammer	115	Central Supply		
+CSC	Portable Power Systems	116	Central Supply		
+CSC	Portable Power Systems	116	Rules		
+CSC	Antimatter Battery	116	Central Supply		
+CSC	Fission Microreactor	117	Central Supply		
+CSC	Fusion Plus Generator	117	Central Supply		
+CSC	Hydrocarbon Generator	118	Central Supply		
+CSC	Power Cell	118	Central Supply		
+CSC	Radioisotope Thermoelectric Generator	118	Central Supply		
+CSC	Solar Panel Array	119	Central Supply		
+CSC	Wind Turbine	119	Central Supply		
+CSC	Vacuum Environments	120	Central Supply		
+CSC	Bulkhead Patches	120	Central Supply		
+CSC	Iris Valve Opener	120	Central Supply		
+CSC	Portable Airlock	120	Central Supply		
+CSC	Personal Re-Entry Kit	120	Central Supply		
+CSC	Rescue Bubble	120	Central Supply		
+CSC	Re-Entry Computer	120	Central Supply		
+CSC	Thrust Pistol	121	Central Supply		
+CSC	Vacc Emergency Kit	121	Central Supply		
+CSC	Wilderness Housing	122	Central Supply		
+CSC	Advanced Base	122	Central Supply		
+CSC	Blank Module	123	Central Supply		Advanced Base Option
+CSC	Power Module	123	Central Supply		Advanced Base Option
+CSC	Corrosive protection	123	Central Supply		Advanced Base Option
+CSC	Foam Protection	123	Central Supply		Advanced Base Option
+CSC	Life Support	123	Central Supply		Advanced Base Option
+CSC	Power Cell Backup	123	Central Supply		Advanced Base Option
+CSC	Habitat Module	123	Central Supply		
+CSC	Pre-Fabricated Cabin	124	Central Supply		
+CSC	Tarpaulin	124	Central Supply		
+CSC	Tent	124	Central Supply		
+CSC	Tent Barracks	124	Central Supply		
+CSC	Tools	125	Central Supply		
+CSC	Carpentry Tool Set	125	Central Supply		
+CSC	Chain	125	Central Supply		
+CSC	Chain Saw	125	Central Supply		
+CSC	Combat Engineering Tool Set	125	Central Supply		
+CSC	Cutting Torch	126	Central Supply		
+CSC	Electric Welding Kit	126	Central Supply		
+CSC	Electronic Tool Set	126	Central Supply		
+CSC	Excavation Tool Set	126	Central Supply		
+CSC	Forensics Toolkit	127	Central Supply		
+CSC	Laser Cutting Gear	127	Central Supply		
+CSC	Laser Drill	127	Central Supply		
+CSC	Laser Scalpel	128	Central Supply		
+CSC	Mechanical Tool Set	128	Central Supply		
+CSC	Metalwork Tool Set	128	Central Supply		
+CSC	Navigation Tool Set	128	Central Supply		
+CSC	Offworld Construction Toolkit	129	Central Supply		
+CSC	Pocket Magnet	129	Central Supply		
+CSC	Return Mirror	129	Central Supply		
+CSC	Rescue Tool Set	129	Central Supply		
+CSC	Scientific Toolkit	129	Central Supply		
+CSC	Spade	129	Central Supply		
+CSC	Shovel	129	Central Supply		
+CSC	Starship Engineer Tool Set	130	Central Supply		
+CSC	Surveying Tool Set	130	Central Supply		
+CSC	Tool Laser	130	Central Supply		
+CSC	Weapon Engineering Tool Set	130	Central Supply		
+CSC	Weaponry	131	Central Suppy		
+CSC	Weaponry	131	Weapon		
+CSC	Artillery	131	Weapon		Trait
+CSC	Dangerous	131	Weapon		Trait
+CSC	Fire	131	Weapon		Trait
+CSC	One Use	131	Weapon		Trait
+CSC	Silent	131	Weapon		Trait
+CSC	Smasher	131	Weapon		Trait
+CSC	Very Dangerous	131	Weapon		Trait
+CSC	TL0 Weapons	131	Weapon		
+CSC	Improvised Weapons	132	Rules		
+CSC	Finely Made Weapons	132	Rules		
+CSC	Anti-Armour Flail	132	Melee Weapon		
+CSC	Club	132	Melee Weapon		
+CSC	Gravity Hammer	132	Melee Weapon		
+CSC	Mace	132	Melee Weapon		
+CSC	Sap	132	Melee Weapon		
+CSC	Sledgehammer	132	Melee Weapon		
+CSC	Staff	134	Melee Weapon		
+CSC	Static Maul	134	Melee Weapon		
+CSC	Stunstick	134	Melee Weapon		
+CSC	Arc-Field Weapon	134	Melee Weapon		
+CSC	Assault Pike	134	Melee Weapon		
+CSC	Battle Axe	134	Melee Weapon		
+CSC	Blade	134	Melee Weapon		
+CSC	Broadsword	134	Melee Weapon		
+CSC	Chaindrive Axe	134	Melee Weapon		
+CSC	Chaindrive Sword	134	Melee Weapon		
+CSC	Cutlass	134	Melee Weapon		
+CSC	Dagger	134	Melee Weapon		
+CSC	Great Axe	134	Melee Weapon		
+CSC	Hatchet	134	Melee Weapon		
+CSC	Lance	134	Melee Weapon		
+CSC	Long Blade	135	Melee Weapon		
+CSC	Monoblade	135	Melee Weapon		
+CSC	Monofilament Axe	135	Melee Weapon		
+CSC	Piston Spear	135	Melee Weapon		
+CSC	Psi Blade	137	Melee Weapon		
+CSC	Psi Dagger	137	Melee Weapon		
+CSC	Rapier	137	Melee Weapon		
+CSC	Spear	137	Melee Weapon		
+CSC	Static Axe	137	Melee Weapon		
+CSC	Static Blade	137	Melee Weapon		
+CSC	Stealth Dagger	137	Melee Weapon		
+CSC	Stone Axe	137	Melee Weapon		
+CSC	War Pick	137	Melee Weapon		
+CSC	Brass Knuckles	138	Melee Weapon		
+CSC	Claw Glove	138	Melee Weapon		
+CSC	Garrotte	138	Melee Weapon		
+CSC	Handspikes	138	Melee Weapon		
+CSC	Knuckleblasters	138	Melee Weapon		
+CSC	Monofilament Garrotte	139	Melee Weapon		
+CSC	Piston Fist	139	Melee Weapon		
+CSC	Stunfist	139	Melee Weapon		
+CSC	Boarding Shield	140	Melee Weapon		
+CSC	Buckler	140	Melee Weapon		
+CSC	Expandable Shield	140	Melee Weapon		
+CSC	Gravitic Shield	140	Melee Weapon		
+CSC	Large Shield	141	Melee Weapon		
+CSC	Riot Shield	141	Melee Weapon		
+CSC	Shield	141	Melee Weapon		
+CSC	Shock Whip	141	Melee Weapon		
+CSC	Whip	141	Melee Weapon		
+CSC	Ammunition Mass	142	Rules		
+CSC	Ammunition Mass	142	Central Supply		
+CSC	Ammunition Mass	142	Weapon		
+CSC	Antique Pistol	142	Weapon		
+CSC	Assault Pistol	142	Weapon		
+CSC	Autopistol	142	Weapon		
+CSC	Body Pistol	142	Weapon		
+CSC	Cartridge Pistol	142	Weapon		
+CSC	Coach Pistol	142	Weapon		
+CSC	Duck’s Foot Pistol	142	Weapon		
+CSC	Flechette Pistol	142	Weapon		
+CSC	Gauss Pistol	144	Weapon		
+CSC	Heavy Revolver	144	Weapon		
+CSC	Magrail Pistol	144	Weapon		
+CSC	Revolver	144	Weapon		
+CSC	Shot Pistol	144	Weapon		
+CSC	Snub Pistol	144	Weapon		
+CSC	Universal Autopistol	144	Weapon		
+CSC	Zip Gun	144	Weapon		
+CSC	Accelerator Rifle	145	Weapon		
+CSC	Advanced Combat Rifle	145	Weapon		
+CSC	Air Rifle	146	Weapon		
+CSC	Antique Rifle	146	Weapon		
+CSC	Assault Rifle	146	Weapon		
+CSC	Assault Shotgun	146	Weapon		
+CSC	Autorifle	146	Weapon		
+CSC	Big Game Rifle	146	Weapon		
+CSC	Flechette Submachine Gun	146	Weapon		
+CSC	Gauss Assault Gun	146	Weapon		
+CSC	Gauss Rifle	146	Weapon		
+CSC	Gauss Sniper Rifle	146	Weapon		
+CSC	Gauss Submachinegun	146	Weapon		
+CSC	Heavy Advanced Combat Rifle	146	Weapon		
+CSC	Magrail Rifle	146	Weapon		
+CSC	Rifle	146	Weapon		
+CSC	Sawed-off Shotgun	147	Weapon		
+CSC	Shotgun	147	Weapon		
+CSC	Light Shotgun	147	Weapon		
+CSC	Sniper Rifle	147	Weapon		
+CSC	Snub Carbine	147	Weapon		
+CSC	Spear Gun	147	Weapon		
+CSC	Submachine Gun	147	Weapon		
+CSC	Gauntlet Laser	149	Weapon		
+CSC	Hand Flamer	149	Weapon		
+CSC	Laser Pistol	149	Weapon		
+CSC	Maser Pistol	149	Weapon		
+CSC	Matter Disintegrator	150	Weapon		
+CSC	Pepper Spray	150	Weapon		
+CSC	Personal Defence Laser	150	Weapon		
+CSC	Stunner	150	Weapon		
+CSC	Energy Weapons	149	Weapon		
+CSC	Energy Weapons	149	Central Supply		
+CSC	Slug Throwers	142	Weapon		
+CSC	Slug Throwers	142	Central Supply		
+CSC	Cartridge Laser Carbine	151	Weapon		
+CSC	Cartridge Laser Rifle	151	Weapon		
+CSC	Cryo Rifle	151	Weapon		
+CSC	Flame Rifle	151	Weapon		
+CSC	Heavy Laser Rifle	151	Weapon		
+CSC	Ion Rifle	151	Weapon		
+CSC	Laser Carbine	151	Weapon		
+CSC	Laser Rifle	151	Weapon		
+CSC	Laser Sniper Rifle	151	Weapon		
+CSC	Maser Rifle	152	Weapon		
+CSC	Plasma Rifle	152	Weapon		
+CSC	Solar Beam Rifle	152	Weapon		
+CSC	Stagger Laser Rifle	152	Weapon		
+CSC	Stun Blaster (beam)	152	Weapon		
+CSC	Stun Blaster (blast)	152	Weapon		
+CSC	Stun Carbine	152	Weapon		
+CSC	Atlatl	154	Weapon		
+CSC	Compound Cam Bow	154	Weapon		
+CSC	Crossbow	154	Weapon		
+CSC	Dart	154	Weapon		
+CSC	Javelin	154	Weapon		
+CSC	Long Bow	154	Weapon		
+CSC	Repeating Crossbow	154	Weapon		
+CSC	Short Bow	154	Weapon		
+CSC	Bolas	155	Weapon		
+CSC	Boomerang	155	Weapon		
+CSC	Monofilament Bolas	155	Weapon		
+CSC	Monofilament Net	155	Weapon		
+CSC	Net	156	Weapon		
+CSC	Sling	156	Weapon		
+CSC	Grenades	157	Weapon		
+CSC	Aerosol	157	Weapon		Grenades
+CSC	Chemical	157	Weapon		Grenades
+CSC	Electromagnetic Pulse	157	Weapon		Grenades
+CSC	Frag	158	Weapon		Grenades
+CSC	Incendiary	158	Weapon		Grenades
+CSC	Neurotoxin	158	Weapon		Grenades
+CSC	Plasma	158	Weapon		Grenades
+CSC	Smoke	158	Weapon		Grenades
+CSC	Stun	158	Weapon		Grenades
+CSC	Thermal Smoke	158	Weapon		Grenades
+CSC	Tranq Gas	158	Weapon		Grenades
+CSC	Explosives	159	Weapon		
+CSC	Breaching Charge	159	Weapon		Explosives
+CSC	Complex Chemical Charge	159	Weapon		Explosives
+CSC	Fusion Block	159	Weapon		Explosives
+CSC	Neutrino Detonator	159	Weapon		Explosives
+CSC	Plastic Explosive	159	Weapon		Explosives
+CSC	Pocket Nuke	159	Weapon		Explosives
+CSC	TDX	159	Weapon		Explosives
+CSC	Anti-Material Rifle	160	Weapon		
+CSC	Assault Rocket Launcher	160	Weapon		
+CSC	Cartridge Portable Plasma Gun	160	Weapon		
+CSC	Cryojet	160	Weapon		
+CSC	Disposable Plasma Launcher	160	Weapon		
+CSC	Early Machinegun	160	Weapon		
+CSC	FGHP	160	Weapon		
+CSC	Flamethrower	160	Weapon		
+CSC	Grenade Launcher	160	Weapon		
+CSC	Light Assault Gun	161	Weapon		
+CSC	Light Gatling Laser	161	Weapon		
+CSC	Machinegun	161	Weapon		
+CSC	Plasma Jet	161	Weapon		
+CSC	RAM Grenade Launcher	161	Weapon		
+CSC	Rapid-Fire Machinegun	161	Weapon		
+CSC	Rocket Launcher	161	Weapon		
+CSC	Forward Observers	164	Rules		
+CSC	Black Powder Mortar	164	Weapon		
+CSC	Bombardment Gun	164	Weapon		
+CSC	Demolition Gun	164	Weapon		
+CSC	Heavy Bombardment Gun	164	Weapon		
+CSC	Heavy Gun	164	Weapon		
+CSC	Infantry Mortar	164	Weapon		
+CSC	Light Howitzer	166	Weapon		
+CSC	Light Gun	166	Weapon		
+CSC	Mass Driver	166	Weapon		
+CSC	Siege Gun	166	Weapon		
+CSC	Support Mortar	166	Weapon		
+CSC	Artillery Weapons	164	Weapon		
+CSC	Artillery Weapons	164	Rules		
+CSC	Aerospace Defence Laser	168	Vehicle		Weapon
+CSC	Light Autocannon	168	Vehicle		Weapon
+CSC	Medium Autocannon	168	Vehicle		Weapon
+CSC	Heavy Autocannon	168	Vehicle		Weapon
+CSC	Black Powder Cannon	168	Vehicle		Weapon
+CSC	Cannon	168	Vehicle		Weapon
+CSC	Field Gun	168	Vehicle		Weapon
+CSC	Fusion Gun	168	Vehicle		Weapon
+CSC	Gatling Laser	169	Vehicle		Weapon
+CSC	Gauss Cannon	169	Vehicle		Weapon
+CSC	Heavy Machinegun	169	Vehicle		Weapon
+CSC	Hypervelocity Cannon	169	Vehicle		Weapon
+CSC	Laser Cannon	169	Vehicle		Weapon
+CSC	Meson Accelerator	169	Vehicle		Weapon
+CSC	Orbital Defence Cannon	170	Vehicle		Weapon
+CSC	Plasma Gun	170	Vehicle		Weapon
+CSC	Rail Gun	170	Vehicle		Weapon
+CSC	Rotary Autocannon	170	Vehicle		Weapon
+CSC	VRF Gauss Gun	170	Vehicle		Weapon
+CSC	VRF Machinegun	170	Vehicle		Weapon
+CSC	Anti-Air Missile	172	Vehicle		Weapon
+CSC	Anti-Tank Missile	172	Vehicle		Weapon
+CSC	Bolt Thrower	172	Vehicle		Weapon
+CSC	Bomb	172	Vehicle		Weapon
+CSC	Bombardment Missile	172	Vehicle		Weapon
+CSC	Bombardment Rocket Rack	172	Vehicle		Weapon
+CSC	Earthquake Bomb	172	Vehicle		Weapon
+CSC	Heavy Rocket Pod	172	Vehicle		Weapon
+CSC	Plasma Missile Rack	172	Vehicle		Weapon
+CSC	Rocket Pod	173	Vehicle		Weapon
+CSC	Tac Launcher	173	Vehicle		Weapon
+CSC	Rotary Autocannon	173	Vehicle		Weapon
+CSC	Torpedo	173	Vehicle		Weapon
+CSC	Water Cannon	173	Vehicle		Weapon
+CSC	Accessories	174	Weapon		
+CSC	Auxiliary Grenade Launcher	174	Weapon		Accessories
+CSC	Auxiliary RAM Grenade Launcher	174	Weapon		Accessories
+CSC	Bandolier	174	Weapon		Accessories
+CSC	Bayonet	174	Weapon		Accessories
+CSC	Bipod	174	Weapon		Accessories
+CSC	Craindrive Bayonet	174	Weapon		Accessories
+CSC	FOF Safety	175	Weapon		Accessories
+CSC	FOF Tag	175	Weapon		Accessories
+CSC	Friend or Foe	175	Weapon		Accessories
+CSC	Gyrostabiliser	175	Weapon		Accessories
+CSC	Heavy Tripod	175	Weapon		Accessories
+CSC	High-capacity Magazine	175	Weapon		Accessories
+CSC	Holographic Sights	175	Weapon		Accessories
+CSC	Intelligent Weapon	175	Weapon		Accessories
+CSC	Laser Sight	176	Weapon		Accessories
+CSC	Personal Heads-Up Display	176	Weapon		Accessories
+CSC	Psi-enhanced Targeting	176	Weapon		Accessories
+CSC	Scan Jammer	176	Weapon		Accessories
+CSC	Scope	176	Weapon		Accessories
+CSC	Secure Weapon	177	Weapon		Accessories
+CSC	Shoulder Stock	177	Weapon		Accessories
+CSC	Smart Tracker	177	Weapon		Accessories
+CSC	Suppressor	177	Weapon		Accessories
+CSC	X-Ray Outlining Aid	177	Weapon		Accessories
+CSC	Specialised Ammo	178	Rules		
+CSC	Specialised Ammo	178	Central Supply		
+CSC	Ammo	178	Weapon		
+CSC	Aerosol	178	Weapon		Ammo
+CSC	Armor Piercing Discarding Sabot (APDS)	179	Weapon		Ammo
+CSC	Armour Piercing	178	Weapon		Ammo
+CSC	Baton	179	Weapon		Ammo
+CSC	Bomblet	179	Weapon		Ammo
+CSC	Canister	179	Weapon		Ammo
+CSC	Chemical	179	Weapon		Ammo
+CSC	Concussion	179	Weapon		Ammo
+CSC	Directed Plasma	179	Weapon		Ammo
+CSC	Electromagnetic Pulse	179	Weapon		Ammo
+CSC	Extended Range	179	Weapon		Ammo
+CSC	Flare	179	Weapon		Ammo
+CSC	Foam	179	Weapon		Ammo
+CSC	Fragmentation	179	Weapon		Ammo
+CSC	Fuel-air	180	Weapon		Ammo
+CSC	Guided	180	Weapon		Ammo
+CSC	High Explosive Armour Piercing (HEAP)	180	Weapon		Ammo
+CSC	Incendiary	180	Weapon		Ammo
+CSC	Net	180	Weapon		Ammo
+CSC	Neurotoxin	180	Weapon		Ammo
+CSC	Nuclear	180	Weapon		Ammo
+CSC	Plasma	180	Weapon		Ammo
+CSC	Smoke	180	Weapon		Ammo
+CSC	Solid Shot	180	Weapon		Ammo
+CSC	Thermal Smoke	180	Weapon		Ammo

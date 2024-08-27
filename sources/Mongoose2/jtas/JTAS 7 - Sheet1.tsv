@@ -10,7 +10,7 @@ JTAS7	Initial 24	31	Corporation
 JTAS7	Revcart Pistol	32	Weapon		
 JTAS7	Revcart Shotgun	32	Weapon		
 JTAS7	Short Semi-Carbine	32	Weapon		
-JTAS7	Compensator	32	Weapon Mod		
+JTAS7	Compensator	32	Weapon		Modifier
 JTAS7	Standard Cases	33	Weapon		
 JTAS7	Executive Cases	35	Weapon		
 JTAS7	Tactical Cases	36	Weapon		

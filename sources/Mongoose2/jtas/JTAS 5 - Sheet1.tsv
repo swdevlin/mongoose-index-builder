@@ -25,9 +25,9 @@ JTAS5	Jaice Group, The	70	Corporation	No
 JTAS5	Unified Mobile Solutions	71	Corporation	No	
 JTAS5	F-500 Field Power Unit	71	Vehicle		
 JTAS5	Chariots of Fire	73	Adventure		
-JTAS5	Fire and Rescue	77	Vehicle Equipment		
-JTAS5	Suppressant Tanks	77	Vehicle Equipment		
-JTAS5	Rescue Ladder	77	Vehicle Equipment		
+JTAS5	Fire and Rescue	77	Vehicle		Equipment
+JTAS5	Suppressant Tanks	77	Vehicle		Equipment
+JTAS5	Rescue Ladder	77	Vehicle		Equipment
 JTAS5	Hazardous Environment Fire Engine	78	Vehicle		
 JTAS5	Advanced Fire Engine	80	Vehicle		
 JTAS5	Towing Ships	82	Rules		

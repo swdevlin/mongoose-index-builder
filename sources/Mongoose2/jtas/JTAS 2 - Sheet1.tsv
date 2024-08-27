@@ -22,7 +22,7 @@ JTAS2	Githiaskio	38	Sophont
 JTAS2	Githiaski, Dartho	38	System		
 JTAS2	4518th Lift Infantry	43	Setting		
 JTAS2	Foxhound Air Superiority Fighter	50	Vehicle		
-JTAS2	Gyrfalcon Orbital Defence Missile	53	Vehicle Weapon		
+JTAS2	Gyrfalcon Orbital Defence Missile	53	Vehicle		Weapon
 JTAS2	Zhodani Philosophies	54	Setting	No	
 JTAS2	Zhodani	54	Sophont	No	
 JTAS2	Rampart Atmosphere-Capable Fighter	57	Small craft		
@@ -46,14 +46,14 @@ JTAS2	Comets	84	Setting	No
 JTAS2	Oort Cloud	85	Setting	No	
 JTAS2	Quiet Vigilance Outsystem Patrol Vessel	86	Ship		
 JTAS2	Glorinna Firella	94	Encounter		
-JTAS2	Glorious Empire	97	Setting	No	
+JTAS2	Glorious Empire	97	Polity	No	
 JTAS2	Wahtoi-Class Courier	105	Ship		
 JTAS2	Airstrike	109	Setting		
 JTAS2	Airstrike, spotting	109	Rules		
 JTAS2	Airstrike, attacking	110	Rules		
-JTAS2	Bomblet Rack	111	Vehicle Weapon		
-JTAS2	Machinegun Pod	113	Vehicle Weapon		
-JTAS2	Cluster Bombs	113	Vehicle Weapon		
+JTAS2	Bomblet Rack	111	Vehicle		Weapon
+JTAS2	Machinegun Pod	113	Vehicle		Weapon
+JTAS2	Cluster Bombs	113	Vehicle		Weapon
 JTAS2	Sky Whale Class Airship Bomber	114	Vehicle		
 JTAS2	Palomino Light Strike Aircraft	116	Vehicle		
 JTAS2	Lightning Ground-Attack Aircraft	118	Vehicle		

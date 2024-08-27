@@ -56,46 +56,46 @@ CRB	Task Chains	63	Rules
 CRB	Task Difficulties	64	Rules	No	
 CRB	Boon	64	Rules	No	
 CRB	Bane	64	Rules	No	
-CRB	Admin	64	Rules		Skill
-CRB	Advocate	64	Rules		Skill
-CRB	Animals	64	Rules		Skill
-CRB	Art	65	Rules		Skill
-CRB	Astrogation	65	Rules		Skill
-CRB	Athletics	65	Rules		Skill
-CRB	Broker	66	Rules		Skill
-CRB	Carouse	66	Rules		Skill
-CRB	Deception	66	Rules		Skill
-CRB	Diplomat	66	Rules		Skill
-CRB	Drive	66	Rules		Skill
-CRB	Electronics	66	Rules		Skill
-CRB	Engineer	67	Rules		Skill
-CRB	Explosives	67	Rules		Skill
-CRB	Flyer	68	Rules		Skill
-CRB	Gambler	68	Rules		Skill
-CRB	Gunner	68	Rules		Skill
-CRB	Gun Combat	68	Rules		Skill
-CRB	Heavy Weapons	68	Rules		Skill
-CRB	Investigate	69	Rules		Skill
-CRB	Jack-of-All-Trades	69	Rules		Skill
-CRB	Language	69	Rules		Skill
-CRB	Leadership	69	Rules		Skill
-CRB	Mechanic	69	Rules		Skill
-CRB	Medic	69	Rules		Skill
-CRB	Melee	70	Rules		Skill
-CRB	Navigation	70	Rules		Skill
-CRB	Persuade	70	Rules		Skill
-CRB	Pilot	70	Rules		Skill
-CRB	Profession	70	Rules		Skill
+CRB	Admin	64	Skill		
+CRB	Advocate	64	Skill		
+CRB	Animals	64	Skill		
+CRB	Art	65	Skill		
+CRB	Astrogation	65	Skill		
+CRB	Athletics	65	Skill		
+CRB	Broker	66	Skill		
+CRB	Carouse	66	Skill		
+CRB	Deception	66	Skill		
+CRB	Diplomat	66	Skill		
+CRB	Drive	66	Skill		
+CRB	Electronics	66	Skill		
+CRB	Engineer	67	Skill		
+CRB	Explosives	67	Skill		
+CRB	Flyer	68	Skill		
+CRB	Gambler	68	Skill		
+CRB	Gunner	68	Skill		
+CRB	Gun Combat	68	Skill		
+CRB	Heavy Weapons	68	Skill		
+CRB	Investigate	69	Skill		
+CRB	Jack-of-All-Trades	69	Skill		
+CRB	Language	69	Skill		
+CRB	Leadership	69	Skill		
+CRB	Mechanic	69	Skill		
+CRB	Medic	69	Skill		
+CRB	Melee	70	Skill		
+CRB	Navigation	70	Skill		
+CRB	Persuade	70	Skill		
+CRB	Pilot	70	Skill		
+CRB	Profession	70	Skill		
 CRB	Belter	70	Rules		
-CRB	Recon	71	Rules		Skill
-CRB	Science	71	Rules		Skill
-CRB	Seafarer	71	Rules		Skill
-CRB	Stealth	71	Rules		Skill
-CRB	Steward	71	Rules		Skill
-CRB	Streetwise	71	Rules		Skill
-CRB	Survival	72	Rules		Skill
-CRB	Tactics	72	Rules		Skill
-CRB	Vacc Suit	72	Rules		Skill
+CRB	Recon	71	Skill		
+CRB	Science	71	Skill		
+CRB	Seafarer	71	Skill		
+CRB	Stealth	71	Skill		
+CRB	Steward	71	Skill		
+CRB	Streetwise	71	Skill		
+CRB	Survival	72	Skill		
+CRB	Tactics	72	Skill		
+CRB	Vacc Suit	72	Skill		
 CRB	Initiative	73	Rules		
 CRB	Combat	73	Rules		
 CRB	Attack	74	Rules		Significant Action
@@ -121,16 +121,16 @@ CRB	Armour	77	Rules
 CRB	Destructive Weapons	78	Rules		
 CRB	Grappling	78	Rules		
 CRB	Dual Weapons	78	Rules		
-CRB	AP X	79	Rules		Weapon Trait
-CRB	Auto X	79	Rules		Weapon Trait
-CRB	Blast X	79	Rules		Weapon Trait
-CRB	Bulky	79	Rules		Weapon Trait
-CRB	Radiation	79	Rules		Weapon Trait
-CRB	Scope	79	Rules		Weapon Trait
-CRB	Smart	79	Rules		Weapon Trait
-CRB	Stun	79	Rules		Weapon Trait
-CRB	Very Bulky	79	Rules		Weapon Trait
-CRB	Zero-G	79	Rules		Weapon Trait
+CRB	AP X	79	Weapon		Trait
+CRB	Auto X	79	Weapon		Trait
+CRB	Blast X	79	Weapon		Trait
+CRB	Bulky	79	Weapon		Trait
+CRB	Radiation	79	Weapon		Trait
+CRB	Scope	79	Weapon		Trait
+CRB	Smart	79	Weapon		Trait
+CRB	Stun	79	Weapon		Trait
+CRB	Very Bulky	79	Weapon		Trait
+CRB	Zero-G	79	Weapon		Trait
 CRB	Diseases	80	Rules		
 CRB	Anthrax	80	Rules		Disease
 CRB	Biological Weapon	80	Rules		Disease
@@ -340,13 +340,13 @@ CRB	Machinegun	133	Heavy Weapon
 CRB	PGHP	133	Heavy Weapon		
 CRB	RAM Grenade Launcher	133	Heavy Weapon		
 CRB	Rocket Launcher	133	Heavy Weapon		
-CRB	Auxiliary Grenade Launcher	135	Central Supply		Weapon Option
-CRB	Gyrostabiliser	135	Central Supply		Weapon Option
-CRB	Intelligent Weapon	135	Central Supply		Weapon Option
-CRB	Laser Sight	135	Central Supply		Weapon Option
-CRB	Scope	135	Central Supply		Weapon Option
-CRB	Secure Weapon	135	Central Supply		Weapon Option
-CRB	Suppressor	135	Central Supply		Weapon Option
+CRB	Auxiliary Grenade Launcher	135	Weapon		Option
+CRB	Gyrostabiliser	135	Weapon		Option
+CRB	Intelligent Weapon	135	Weapon		Option
+CRB	Laser Sight	135	Weapon		Option
+CRB	Scope	135	Weapon		Option
+CRB	Secure Weapon	135	Weapon		Option
+CRB	Suppressor	135	Weapon		Option
 CRB	Speed Bands	136	Rules		
 CRB	Vehicles	136	Rules		
 CRB	Vehicle Combat	138	Rules		
@@ -358,20 +358,20 @@ CRB	Stunt	139	Rules		Vehicular Action
 CRB	Weave	139	Rules		Vehicular Action
 CRB	Firing Arcs	138	Rules		
 CRB	Vehicle Critical Hits	140	Rules		
-CRB	Cannon	142	Vehicle Weapon		
-CRB	Laser Cannon	142	Vehicle Weapon		
-CRB	Light Autocannon	142	Vehicle Weapon		
-CRB	Heavy Machinegun	142	Vehicle Weapon		
-CRB	Aquatic Drive	142	Central Supply		Vehicle Equipment
-CRB	Autopilot	142	Central Supply		Vehicle Equipment
-CRB	Communications	142	Central Supply		Vehicle Equipment
-CRB	Entertainment System	143	Central Supply		Vehicle Equipment
-CRB	Navigation	143	Central Supply		Vehicle Equipment
-CRB	Off-road	143	Central Supply		Vehicle Equipment
-CRB	Sensors	143	Central Supply		Vehicle Equipment
-CRB	Short Term Life Support	143	Central Supply		Vehicle Equipment
-CRB	Turret	143	Central Supply		Vehicle Equipment
-CRB	Weapon	143	Central Supply		Vehicle Equipment
+CRB	Cannon	142	Vehicle		Weapon
+CRB	Laser Cannon	142	Vehicle		Weapon
+CRB	Light Autocannon	142	Vehicle		Weapon
+CRB	Heavy Machinegun	142	Vehicle		Weapon
+CRB	Aquatic Drive	142	Vehicle		Equipment
+CRB	Autopilot	142	Vehicle		Equipment
+CRB	Communications	142	Vehicle		Equipment
+CRB	Entertainment System	143	Vehicle		Equipment
+CRB	Navigation	143	Vehicle		Equipment
+CRB	Off-road	143	Vehicle		Equipment
+CRB	Sensors	143	Vehicle		Equipment
+CRB	Short Term Life Support	143	Vehicle		Equipment
+CRB	Turret	143	Vehicle		Equipment
+CRB	Weapon	143	Vehicle		Equipment
 CRB	Air/Raft	144	Vehicle		
 CRB	ATV	144	Vehicle		
 CRB	Brutus heavy cargo truck	145	Vehicle		
@@ -382,7 +382,7 @@ CRB	Gecko All-Terrain Assault Vehicle	147	Vehicle
 CRB	Gunskiff	147	Vehicle		
 CRB	Personal Land Yacht	148	Vehicle		
 CRB	G/Carrier	148	Vehicle		
-CRB	Fusion Gun	148	Wehicle Weapon		
+CRB	Fusion Gun	148	Vehicle		Weapon
 CRB	Buying a Ship	149	High Guard		
 CRB	Mortgage	149	High Guard		
 CRB	Ship Career Benefit	149	High Guard		
