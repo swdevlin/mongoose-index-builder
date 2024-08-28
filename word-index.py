@@ -10,12 +10,12 @@ LEFT_ALIGNMENT = 0
 
 
 def add_type_paragraph(document, type_name):
+    document.add_page_break()
     paragraph = document.add_paragraph()
     run = paragraph.add_run(type_name)
     run.bold = True
     run.font.size = Pt(12)
     paragraph.alignment = LEFT_ALIGNMENT
-    paragraph.paragraph_format.space_before = Pt(3)
     return paragraph
 
 
