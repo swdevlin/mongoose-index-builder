@@ -1,4 +1,4 @@
-Document	Topic	Page	Type	Primary	
+Document	Topic	Page	Type	Primary	Group
 JTAS13	Arturo Coglan, Confederation Admiral	2	Person		
 JTAS13	Star Angel Ambulance Pinnace, The	4	Encounter		
 JTAS13	Ro Aohyerlreiho Asaueaw, Dr.	4	Person		
@@ -37,7 +37,7 @@ JTAS13	Skill, Profession	66	Rules	No
 JTAS13	Skill, Science	68	Rules	No	
 JTAS13	Skill, Tactics	69	Rules	No	
 JTAS13	Ralonya	70	Bestiary		
-JTAS13	Art College	71	Pre-Career		
+JTAS13	Art College	71	Career		Pre-Career
 JTAS13	Gap Years	72	Rules		
 JTAS13	Pilot Controls, Customising 	73	Setting		
 JTAS13	Healthcare	75	Rules		

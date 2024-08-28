@@ -14,11 +14,11 @@ TC	Affinity	25	Rules
 TC	Enmity	25	Rules		
 TC	Power	28	Rules		
 TC	Influence	28	Rules		
-TC	Colonial Upbringing	32	Pre-Career		
-TC	Merchant Academy	33	Pre-Career		
-TC	Psionic Community	33	Pre-Career		
-TC	School of Hard Knocks	34	Pre-Career		
-TC	Spacer Community	34	Pre-Career		
+TC	Colonial Upbringing	32	Career		Pre-Career
+TC	Merchant Academy	33	Career		Pre-Career
+TC	Psionic Community	33	Career		Pre-Career
+TC	School of Hard Knocks	34	Career		Pre-Career
+TC	Spacer Community	34	Career		Pre-Career
 TC	Truther	35	Career		
 TC	Believer	35	Career		
 TC	Experience	41	Rules		
