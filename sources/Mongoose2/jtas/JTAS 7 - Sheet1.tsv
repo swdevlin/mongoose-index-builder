@@ -6,7 +6,7 @@ JTAS7	Lasers, Advanced	16	High Guard
 JTAS7	Character Creation, Deepnight Revelation	17	Rules		
 JTAS7	Izikai Nafir, Dr.	22	Encounter		
 JTAS7	Golden Dawn Yacht	25	Ship		
-JTAS7	Initial 24	31	Corporation		
+JTAS7	Initial 24	31	Setting		
 JTAS7	Revcart Pistol	32	Weapon		
 JTAS7	Revcart Shotgun	32	Weapon		
 JTAS7	Short Semi-Carbine	32	Weapon		
@@ -38,9 +38,9 @@ JTAS7	Solomani Federation of Starship Crew and Worker Unions	99	Setting
 JTAS7	SFSCWU	99	Setting		
 JTAS7	Uraz Gnoezdanu, Emissary	103	Patron		
 JTAS7	Thoznaen, Marrakesh	103	System	No	
-JTAS7	Ongozzaen Arms	103	Corporation		
+JTAS7	Ongozzaen Arms	103	Setting		
 JTAS7	Kozvurrouk Secret Service	105	Setting	No	
-JTAS7	Infiniti Arms	108	Corporation		
+JTAS7	Infiniti Arms	108	Setting		
 JTAS7	General Development Corporation	108	Megacorporation	No	
 JTAS7	Stunner	109	Weapon		
 JTAS7	Stazer	109	Weapon		
@@ -53,6 +53,6 @@ JTAS7	Immigration in the Imperium	118	Setting
 JTAS7	Immigration, Registering	118	Rules		
 JTAS7	Baixing, Harmony	120	System	No	
 JTAS7	Freni	120	Sophont	No	
-JTAS7	Like It Never Happened	120	Business		
+JTAS7	Like It Never Happened	120	Setting		
 JTAS7	Rupert Feather-Red-Bird Dark-Storm-Cloud	120	Person		
 JTAS7	Black Zone Astro-Tomb	126	Setting		

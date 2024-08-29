@@ -41,7 +41,6 @@ TTR	Ihatei	36	Aslan
 TTR	Outcasts	37	Aslan		
 TTR	Gender	37	Aslan		
 TTR	Social Structure	39	Aslan		
-TTR	Kusyu, Kilrai’	41	Aslan		System
 TTR	Kusyu, Kilrai’	41	System		
 TTR	Creating Aslan Worlds	42	Aslan		
 TTR	Tlasayerlahel	45	Megacorporation		Aslan
@@ -235,4 +234,272 @@ TTR	Fierah	111	Aslan		Weapon
 TTR	Hi’asoi	112	Weapon		
 TTR	Hi’asoi	112	Aslan		Weapon
 TTR	Monkey Knife	112	Weapon		
-TTR	Monkey Knife	112	Aslan		Weapon
+TTR	Setting	112	Aslan		Weapon
+TTR	Weapons of Honour	111	Aslan		
+TTR	Melee	111	Weapon		
+TTR	Reaver’s Axe	112	Weapon		
+TTR	Reaver’s Axe	112	Aslan		Weapon
+TTR	Yuhaih	112	Weapon		
+TTR	Yuhaih	112	Aslan		Weapon
+TTR	Spear-hook	112	Weapon		
+TTR	Spear-hook	112	Aslan		Weapon
+TTR	Yurletya	112	Weapon		
+TTR	Yurletya	112	Aslan		Weapon
+TTR	Weapons of the Hunt	113	Aslan		
+TTR	Slug Throwers	113	Weapon		
+TTR	Yeheal Autorifle	113	Aslan		Weapon
+TTR	Yeheal Autorifle	113	Weapon		
+TTR	Trakhtyaua	113	Aslan		Weapon
+TTR	Trakhtyaua	113	Weapon		
+TTR	Triluealikhe	113	Aslan		Weapon
+TTR	Triluealikhe	113	Weapon		
+TTR	Trolitakheal	113	Aslan		Weapon
+TTR	Trolitakheal	113	Weapon		
+TTR	Heavy Weapon	114	Aslan		Weapon
+TTR	Heavy Weapon	114	Weapon		
+TTR	Gravity Spear	114	Aslan		Weapon
+TTR	Gravity Spear	114	Weapon		
+TTR	Hlaulrakh	114	Aslan		Weapon
+TTR	Hlaulrakh	114	Weapon		
+TTR	Plasma Streamer	114	Aslan		Weapon
+TTR	Plasma Streamer	114	Weapon		
+TTR	Wye’oiheasarl	114	Aslan		Weapon
+TTR	Wye’oiheasarl	114	Weapon		
+TTR	Taoyuhrir Heavy Machinegun	114	Aslan		Weapon
+TTR	Taoyuhrir Heavy Machinegun	114	Weapon		
+TTR	Clawbike	116	Vehicle		
+TTR	Clawbike	116	Aslan		Vehicle
+TTR	Crawler	117	Vehicle		
+TTR	Crawler	117	Aslan		Vehicle
+TTR	Khtachwel Assault Grav Tank	118	Vehicle		
+TTR	Khtachwel Assault Grav Tank	118	Aslan		Vehicle
+TTR	Grav Barge	119	Vehicle		
+TTR	Grav Barge	119	Aslan		Vehicle
+TTR	The Trojan Reach	120	Setting		
+TTR	Sindalian Empire	121	Polity		
+TTR	Florian League	122	Polity		
+TTR	Floriani Travellers	122	Rules		
+TTR	Ya’soisthea	122	Setting		
+TTR	Ya’soisthea	122	Aslan		
+TTR	Glorious Empire	124	Polity	No	
+TTR	Glorious Empire	124	Aslan	No	
+TTR	Raiders	127	Setting		
+TTR	Pirates	127	Setting		
+TTR	Glorious Empire	126	Polity	No	
+TTR	Glorious Empire	126	Aslan	No	
+TTR	Florian League	122	Polity	No	
+TTR	Belgardian Sojournate	126	Polity	No	
+TTR	Senlis Foederate	127	Polity	No	
+TTR	Strend Cluster	127	Polity	No	
+TTR	Dustbelt	127	Region	No	
+TTR	Kingdom of Drinax	127	Polity	No	
+TTR	Zhodani Consulate	127	Polity	No	
+TTR	General Development Company	130	Megacorporation		
+TTR	Florian Trade Company	130	Setting		
+TTR	Pax Rulin Quartermasters	131	Setting		
+TTR	Tobia Commerce Guild	131	Setting		
+TTR	Company of Grandmotherly Kindness	131	Setting		
+TTR	Company of Grandmotherly Kindness	131	Aslan		
+TTR	Glories Under The Claw	132	Setting		
+TTR	Glories Under The Claw	132	Aslan		
+TTR	Tyeyo Dust-Spice Importers	132	Setting		
+TTR	Tyeyo Dust-Spice Importers	132	Aslan		
+TTR	Five Shields	132	Setting		
+TTR	Five Shields	132	Aslan		
+TTR	Acquisition of Things Not-Us	132	Setting		
+TTR	Acquisition of Things Not-Us	132	Aslan		
+TTR	Menorial, Trojan Reach	133	Setting		
+TTR	Allemagne, Menorial	134	System		
+TTR	Dustpan, Menorial	134	System		
+TTR	Fomalhaut, Menorial	134	System		
+TTR	Sable des Etoiles, Menorial	134	System		
+TTR	Strend, Menorial	135	System		
+TTR	Trossachs, Menorial	135	System		
+TTR	Egyrn, Trojan Reach	137	Setting		
+TTR	Bennett Lai da Santos	137	Person		
+TTR	The Adventures of Bennet Lai da Santos	137	Setting		
+TTR	985-373, Egyrn	138	System		
+TTR	Belgar, Egyrn	138	System		
+TTR	Eleson, Egyrn	138	System		
+TTR	Ganulph, Egyrn	138	System		
+TTR	Gollere, Egyrn	138	System		
+TTR	Hadara, Egyrn	139	System		
+TTR	Nabeth, Egyrn	139	System		
+TTR	Pa’an, Egyrn	139	System		
+TTR	Velscur, Egyrn	140	System		
+TTR	Vior, Egyrn	140	System		
+TTR	Walei, Egyrn	140	System		
+TTR	Outrim Void	140	Setting		
+TTR	Pax Rulin, Trojan Reach	142	Setting		
+TTR	Senlis Foederate	142	Polity	No	
+TTR	Berengaria, Pax Rulin	143	System		
+TTR	Bantral, Pax Rulin	143	System		
+TTR	Caraz, Pax Rulin	143	System		
+TTR	The Baraccai Technum	143	Setting	No	
+TTR	Pax Rulin,Pax Rulin	144	System		
+TTR	Senli, Pax Rulin	144	System		
+TTR	Gazulin, Trojan Reach	146	Setting		
+TTR	627-301, Gazulin	147	System		
+TTR	Neumann, Gazulin	147	System		
+TTR	Shield Church	147	Setting	No	
+TTR	Ochkeefee Worm	148	Bestiary		
+TTR	O’Keefe, Gazulin	148	System		
+TTR	Susanawo, Gazulin	148	System		
+TTR	Yggdrasil, Trojan Reach	150	Setting		
+TTR	Floria, Yggdrasil	151	System		
+TTR	Floria, Yggdrasil	151	Ancients Site		
+TTR	Vorn, Yggdrasil	151	System		
+TTR	Yggdrasil, Yggdrasil	152	System		
+TTR	Golden Queen	152	Person		
+TTR	Dpres, Trojan Reach	154	Setting		
+TTR	Dpres, Dpres	155	System		
+TTR	Thalassa, Dpres	155	System		
+TTR	Tlazolteotl, Dpres	156	System		
+TTR	Torrance, Dpres	156	System		
+TTR	Righteous John	156	Person		
+TTR	Sindal, Trojan Reach	158	Setting		
+TTR	Ace, Sindal	159	System		
+TTR	Albe, Sindal	159	System		
+TTR	Borite, Sindal	159	System		
+TTR	Gorluun the Undying	159	Person		
+TTR	Borite Continuity Authority	159	Setting		
+TTR	One-shot Jump Drives	160	High Guard		
+TTR	Chalchiutlicue, Sindal	160	System		
+TTR	Marduk, Sindal	160	System		
+TTR	Noricum, Sindal	160	System		
+TTR	Number One, Sindal	160	System		
+TTR	Oghma, Sindal	161	System		
+TTR	Oghman Raiders	161	Setting	No	
+TTR	Palindrome, Sindal	161	System		
+TTR	Lady Yemar	161	Person	No	
+TTR	Tisnee Zazzle	161	Person	No	
+TTR	Salif, Sindal	161	System		
+TTR	Thebus, Sindal	161	System		
+TTR	Theev, Sindal	162	System		
+TTR	Blacksand City	162	Setting		
+TTR	Vume, Sindal	162	Setting		
+TTR	Thebun Lion	162	Bestiary		
+TTR	Tobia, Trojan Reach	164	Setting		
+TTR	Boulder, Tobia	164	System		
+TTR	Empire, Tobia	164	System		
+TTR	Exocet, Tobia	164	System		
+TTR	Fist, Tobia	164	System		
+TTR	Hradus, Tobia	166	System		
+TTR	Iilgan, Tobia	166	System		
+TTR	Imisaa, Tobia	166	System		
+TTR	Scaladon, Tobia	166	System		
+TTR	Simok, Tobia	167	System		
+TTR	Simokian Pharaohs	167	Person		
+TTR	Tobia,Tobia	167	System		
+TTR	Wildeman, Tobia	167	System		
+TTR	Nora’a, Trojan Reach	169	Setting		
+TTR	Aftye, Nora'a	169	System	No	
+TTR	Iryao, Nora'a	169	System	No	
+TTR	Alirar, Nora'a	169	System		
+TTR	Nora’a, Nora’a	171	System		
+TTR	Oihyeti’he, Nora'a	171	System		
+TTR	Suiaoir, Nora'a	171	System		
+TTR	Vadada, Nora'a	172	System		
+TTR	Florian Naval Academy	172	Setting		
+TTR	Goertel, Trojan Reach	174	Setting		
+TTR	Tokouea’we	174	Aslan	No	Clan
+TTR	Colony Six, Goertel	176	System		
+TTR	Goertel, Goertel	176	System		
+TTR	Church of Nom	176	Setting		
+TTR	Syoakh, Goertel	177	System		
+TTR	Glorius Empire	177	Polity		
+TTR	Tryaoke, Goertel	177	System		
+TTR	Tlaiowaha, Trojan Reach	179	Setting		
+TTR	Tlaiowaha	179	Aslan	No	Clan
+TTR	Ahroay’if	179	Aslan	No	Clan
+TTR	Jona Rhas	180	Person		
+TTR	Akoaft, Tlaiowaha	180	System		
+TTR	Blue, Tlaiowaha	180	System		
+TTR	Clarke, Tlaiowaha	180	System		
+TTR	Drinax, Tlaiowaha	180	System	No	
+TTR	Fantasy, Tlaiowaha	181	System		
+TTR	Hilfer, Tlaiowaha	181	System		
+TTR	Iroioah, Tlaiowaha	181	System		
+TTR	Keaih, Tlaiowaha	181	System		
+TTR	Khusai, Tlaiowaha	182	System		
+TTR	Kteiroa, Tlaiowaha	182	System		
+TTR	Torpol, Tlaiowaha	182	System		
+TTR	Paal, Tlaiowaha	182	System		
+TTR	Pourne, Tlaiowaha	182	System		
+TTR	Sink, Tlaiowaha	182	System		
+TTR	The World, Tlaiowaha	182	System		
+TTR	Tlaiowaha, Tlaiowaha	182	System		
+TTR	Tyokh, Tlaiowaha	183	System		
+TTR	Vorito, Tlaiowaha	183	System		
+TTR	Rea’a Hrilkhir	183	Setting		
+TTR	General Development Corporation	183	Megacorporation	No	
+TTR	The Borderland, Trojan Reach	185	Setting		
+TTR	Acrid, The Borderland	186	System		
+TTR	Argona, The Borderland	186	System		
+TTR	Pax Rulin Quartermasters	186	Corporation	No	
+TTR	Byrni, The Borderland	187	System		
+TTR	Arunisiir, The Borderland	187	System		
+TTR	Browne, The Borderland	187	System		
+TTR	Hkaaiheir	187	Aslan	Clan	
+TTR	People’s League	187	Setting		
+TTR	Cordon, The Borderland	188	System		
+TTR	Ergo, The Borderland	188	System		
+TTR	Exe, The Borderland	188	System		
+TTR	Falcon, The Borderland	188	System		
+TTR	Inurin, The Borderland	188	System		
+TTR	Pandora, The Borderland	188	System		
+TTR	Sperle, The Borderland	188	System		
+TTR	Tanith, The Borderland	188	System		
+TTR	General Development Corporation	188	Megacorporation	No	
+TTR	Tech-World, The Borderland	189	System		
+TTR	Umemii, The Borderland	189	System		
+TTR	Vargr	189	Sophont		
+TTR	Ranib, Trojan Reach	191	Setting		
+TTR	Ttlaukhu	191	Aslan		
+TTR	Aehahr, Ranib	192	System		
+TTR	Ftoakh, Ranib	192	System		
+TTR	Ftyewirl, Ranib	192	System		
+TTR	Khaukhearl	192	Aslan	No	Clan
+TTR	Khtiatiyeea	192	Aslan	No	Clan
+TTR	Euikhter	192	Aslan		
+TTR	Syoisuis	193	Aslan	No	Clan
+TTR	Hkesuh, Ranib	193	System		
+TTR	Taukhaotuar	193	Aslan	No	Clan
+TTR	Stohyus, Ranib	194	System		
+TTR	Yekhtia, Ranib	194	System		
+TTR	Ahroay’if	194	Aslan	No	Clan
+TTR	Silraaihe, Trojan Reach	196	Setting		
+TTR	Aisaoawi, Silraaihe	197	System		
+TTR	Awaweaw, Silraaihe	197	System		
+TTR	Earlyu, Silraaihe	197	System		
+TTR	Prince Wauiatyakhiyw	197	Setting		
+TTR	General Development Corporation	197	Megacorporation	No	
+TTR	Yont	197	Sophant	No	
+TTR	Yont Travellers	197	Rules		
+TTR	Ouivloi Man-Brute	198	Bestiary		
+TTR	Teiserle Shark	198	Bestiary		
+TTR	Haum	198	Bestiary		
+TTR	Eoiw, Silraaihe	199	System		
+TTR	Irlaiw, Silraaihe	199	System		
+TTR	Ouiyloi, Silraaihe	199	System		
+TTR	Florian League	199	Polity	No	
+TTR	Hkea’as, Trojan Reach	201	Setting		
+TTR	Tiykhisto	201	Aslan	No	Clan
+TTR	Afeakter, Hkea’as	202	System		
+TTR	Ayayo, Hkea’as	202	System		
+TTR	Burgess, Hkea’as	202	System		
+TTR	Gikarlum, Hkea’as	203	System		
+TTR	Ya’soisthea	202	Aslan		
+TTR	Khtiyrlo, Hkea’as	203	System		
+TTR	Tisilli, Hkea’as	203	System		
+TTR	Binary, Trojan Reach	205	Setting		
+TTR	Auitawry, Binary	205	System		
+TTR	Sarage, Binary	205	System		
+TTR	Auitawry, Binary	205	Ancients Site		
+TTR	Aslan Glossary	207	Setting		
+TTR	Glossary	207	Aslan		
+TTR	Deep Space Refuelling	209	Setting		
+TTR	Admiral Darokyn	209	Setting		
+TTR	Everglass	209	Setting		
+TTR	Lords of Blacksand	209	Setting		
+TTR	Nanotech Swarms	209	Setting		

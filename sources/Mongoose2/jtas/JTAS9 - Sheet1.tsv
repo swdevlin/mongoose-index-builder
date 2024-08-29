@@ -1,4 +1,4 @@
-Document	Topic	Page	Type	Primary	
+Document	Topic	Page	Type	Primary	Group
 JTAS9	Prince Amaad Dagashkugiim	2	Patron		
 JTAS9	Hoganas, Four Corners	2	System		
 JTAS9	Haapamaki, Hyperion	2	System		
@@ -54,10 +54,10 @@ JTAS9	Anastasia Bruglio	81	Person
 JTAS9	Tchek’ra	81	Person		
 JTAS9	Henrik Riordonson	81	Person		
 JTAS9	Criminal Organisations of the Marches	90	Setting		
-JTAS9	The Vriterbei	91	Criminal Organization		
-JTAS9	Ine Givar	94	Criminal Organization		
-JTAS9	The Syndicate	96	Criminal Organization		
-JTAS9	Cult of the Traveller	98	Criminal Organization		
-JTAS9	Democratic Government of Rabwhar in Exile	100	Criminal Organization		
+JTAS9	The Vriterbei	91	Setting		Criminal Organisation
+JTAS9	Ine Givar	94	Setting		Criminal Organisation
+JTAS9	The Syndicate	96	Setting		Criminal Organisation
+JTAS9	Cult of the Traveller	98	Setting		Criminal Organisation
+JTAS9	Democratic Government of Rabwhar in Exile	100	Setting		Criminal Organisation
 JTAS9	Avastan, District 268	102	System		
 JTAS9	The Wrong Patron	119	Patron		
