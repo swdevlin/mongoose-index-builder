@@ -117,6 +117,8 @@ def parse_topics(source, topics):
         key = (row['Type'], subject)
         if group_key:
             add_topic(key, row, topics[group_key]['children'])
+            if row['Type'] == 'Setting':
+                add_topic(key, row, topics)
         else:
             add_topic(key, row, topics)
 
