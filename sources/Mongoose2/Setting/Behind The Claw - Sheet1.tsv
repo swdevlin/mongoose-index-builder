@@ -68,7 +68,7 @@ BtC	Saurus, Vilis	66	System
 BtC	Saurian	66	Sophont		
 BtC	Travellers	66	Sophont		Saurian
 BtC	Lanth, Spinward Marches	67	Setting		
-BtC	Abyss Rift	69	Region		
+BtC	Abyss Rift	69	Setting	No	
 BtC	Dinom, Lanth	69	System		
 BtC	Djinni, Lanth	69	System	No	
 BtC	K'Kirka, Lanth	70	System		
@@ -170,12 +170,12 @@ BtC	Kian	135	Bestiary
 BtC	Thisbe, Trin's Veil	135	System	No	
 BtC	Prilissa, Trin's Veil	135	System	No	
 BtC	Aramis, Trin's Veil	135	System		
-BtC	Peabody Instrument	136	Corporation		
+BtC	Peabody Instrument	136	Setting		
 BtC	Tee-Tee-Tee, Trin's Veil	136	System		
 BtC	Trin, Trin's Veil	137	System		
 BtC	Imperial Trin Institute of Commerce	137	System		
 BtC	Deneb	140	Setting		
-BtC	Malden Arkhesaar	140	Person	No	
+BtC	Malden Arkhesaar	140	Setting	No	
 BtC	Starport Traffic	141	Setting		
 BtC	Jehun, Sabine	142	System	No	
 BtC	Magash, Sabine	142	System	No	
@@ -184,8 +184,8 @@ BtC	Northammon, Vincennes	142	System	No
 BtC	Thengin, Sabine	142	System	No	
 BtC	Inar, Inar	142	System	No	
 BtC	First Frontier War	144	Setting	No	
-BtC	Olav Hault-Plankwell	144	Person	No	
-BtC	Arbellatra	144	Person	No	
+BtC	Olav Hault-Plankwell	144	Setting	No	
+BtC	Arbellatra	144	Setting	No	
 BtC	Letters of Marque and Reprisal	145	Setting		
 BtC	Privateer	145	Setting		
 BtC	Duchy of Pretoria	153	Polity		

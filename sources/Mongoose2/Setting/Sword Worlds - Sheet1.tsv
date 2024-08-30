@@ -68,7 +68,7 @@ SW	Military Ranks	52	Sword Worlds Confederation
 SW	Enlisted Ranks	53	Sword Worlds Confederation		Military Ranks
 SW	Officer Ranks	54	Sword Worlds Confederation		Military Ranks
 SW	General Officrt Ranks	54	Sword Worlds Confederation		Military Ranks
-SW	Gram Arm	55	Region		
+SW	Gram Arm	55	Setting		
 SW	Gram Arm	55	Sword Worlds Confederation		Region
 SW	Tizon, Sword Worlds	56	System		
 SW	Tizon, Sword Worlds	56	Sword Worlds Confederation		System
@@ -82,7 +82,7 @@ SW	Tyrfing, Sword Worlds	64	System
 SW	Tyrfing, Sword Worlds	64	Sword Worlds Confederation		System
 SW	Beater, Sword Worlds	65	System		
 SW	Beater, Sword Worlds	65	Sword Worlds Confederation		System
-SW	Sacnoth Arm	67	Region		
+SW	Sacnoth Arm	67	Setting		
 SW	Sacnoth Arm	67	Sword Worlds Confederation		Region
 SW	Narsil, Sword Worlds	68	System		
 SW	Narsil, Sword Worlds	68	Sword Worlds Confederation		System
@@ -95,7 +95,7 @@ SW	Excalibur, Sword Worlds	71	Sword Worlds Confederation		System
 SW	Sacnoth, Sword Worlds	72	System		
 SW	Sacnoth, Sword Worlds	72	Sword Worlds Confederation		System
 SW	Trailing Worlds	74	Sword Worlds Confederation		Region
-SW	Trailing Worlds	74	Region		
+SW	Trailing Worlds	74	Setting		
 SW	Dyrnwyn, Sword Worlds	75	System		
 SW	Dyrnwyn, Sword Worlds	75	Sword Worlds Confederation		System
 SW	Durendal, Sword Worlds	76	System		

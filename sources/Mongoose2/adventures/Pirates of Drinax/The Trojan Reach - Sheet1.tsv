@@ -36,7 +36,7 @@ TTR	Calendar	26	Aslan
 TTR	Reactions	32	Aslan		
 TTR	Wars	33	Aslan		
 TTR	Territory (TER)	34	Aslan		
-TTR	Territory (TER)	34	Characteristic		
+TTR	Territory (TER)	34	Rules		Characteristic
 TTR	Ihatei	36	Aslan		
 TTR	Outcasts	37	Aslan		
 TTR	Gender	37	Aslan		
@@ -290,10 +290,10 @@ TTR	Florian League	122	Polity	No
 TTR	Belgardian Sojournate	126	Polity	No	
 TTR	Senlis Foederate	127	Polity	No	
 TTR	Strend Cluster	127	Polity	No	
-TTR	Dustbelt	127	Region	No	
+TTR	Dustbelt	127	Setting	No	
 TTR	Kingdom of Drinax	127	Polity	No	
 TTR	Zhodani Consulate	127	Polity	No	
-TTR	General Development Company	130	Megacorporation		
+TTR	General Development Company	130	Setting		
 TTR	Florian Trade Company	130	Setting		
 TTR	Pax Rulin Quartermasters	131	Setting		
 TTR	Tobia Commerce Guild	131	Setting		
@@ -431,11 +431,11 @@ TTR	Tlaiowaha, Tlaiowaha	182	System
 TTR	Tyokh, Tlaiowaha	183	System		
 TTR	Vorito, Tlaiowaha	183	System		
 TTR	Rea’a Hrilkhir	183	Setting		
-TTR	General Development Corporation	183	Megacorporation	No	
+TTR	General Development Corporation	183	Setting	No	
 TTR	The Borderland, Trojan Reach	185	Setting		
 TTR	Acrid, The Borderland	186	System		
 TTR	Argona, The Borderland	186	System		
-TTR	Pax Rulin Quartermasters	186	Corporation	No	
+TTR	Pax Rulin Quartermasters	186	Setting	No	
 TTR	Byrni, The Borderland	187	System		
 TTR	Arunisiir, The Borderland	187	System		
 TTR	Browne, The Borderland	187	System		
@@ -449,7 +449,7 @@ TTR	Inurin, The Borderland	188	System
 TTR	Pandora, The Borderland	188	System		
 TTR	Sperle, The Borderland	188	System		
 TTR	Tanith, The Borderland	188	System		
-TTR	General Development Corporation	188	Megacorporation	No	
+TTR	General Development Corporation	188	Setting	No	
 TTR	Tech-World, The Borderland	189	System		
 TTR	Umemii, The Borderland	189	System		
 TTR	Vargr	189	Sophont		
@@ -472,7 +472,7 @@ TTR	Aisaoawi, Silraaihe	197	System
 TTR	Awaweaw, Silraaihe	197	System		
 TTR	Earlyu, Silraaihe	197	System		
 TTR	Prince Wauiatyakhiyw	197	Setting		
-TTR	General Development Corporation	197	Megacorporation	No	
+TTR	General Development Corporation	197	Setting	No	
 TTR	Yont	197	Sophont	No	
 TTR	Travellers	197	Sophont		Yont
 TTR	Ouivloi Man-Brute	198	Bestiary		
