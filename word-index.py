@@ -22,12 +22,13 @@ def add_type_paragraph(document, type_name):
 def add_page_text(paragraph, topic):
     paragraph.add_run('\t')
 
-    for i, entry in enumerate(topic['entries']):
-        entry_text = paragraph.add_run(f"{entry['book']} {int(entry['page'])}")
-        if not entry['primary']:
-            entry_text.italic = True
+    books = sorted(topic['entries'].keys())
+    for i, book in enumerate(books):
+        pages = topic['entries'][book]
+        p = ','.join(str(page['page']) for page in pages)
+        entry_text = paragraph.add_run(f"{book} {p}")
         entry_text.font.size = Pt(8)
-        if i < len(topic['entries']) - 1:
+        if i < len(books) - 1:
             comma = paragraph.add_run(", ")
             comma.font.size = Pt(8)
     paragraph.alignment = LEFT_ALIGNMENT
@@ -85,12 +86,15 @@ def add_topic(key, row, topics):
     if not key in topics:
         topics[key] = {
             'children': {},
-            'entries': [],
+            'entries': {},
             'topic': row['Topic'],
             'type': row['Type'],
         }
-    topics[key]['entries'].append({
-        "book": row['Document'],
+    book = row['Document']
+    entry = topics[key]['entries']
+    if not book in entry:
+        entry[book] = []
+    entry[book].append({
         "page": row['Page'],
         "primary": row['Primary'] != 'No',
     })
@@ -109,7 +113,7 @@ def parse_topics(source, topics):
                     'children': {},
                     'topic': group,
                     'type': row['Type'],
-                    'entries': [],
+                    'entries': {},
                 }
         else:
             group_key = None
