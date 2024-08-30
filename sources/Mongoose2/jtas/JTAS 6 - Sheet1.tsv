@@ -8,7 +8,7 @@ JTAS6	Torpedo Module	13	High Guard		Module
 JTAS6	Hop Drive	14	High Guard		
 JTAS6	Dev Landrel	16	Encounter		
 JTAS6	Stars and Stellar Objects	19	Setting	No	
-JTAS6	Irklan	27	Religion		
+JTAS6	Irklan	27	Setting		Religion
 JTAS6	Menorb, Regina	27	System	No	
 JTAS6	Subsidised Merchant	32	Setting		
 JTAS6	Ship Shares	35	Rules		
@@ -31,10 +31,11 @@ JTAS6	Javelin Light Gunboat	76	Ship
 JTAS6	Dart Interceptor	80	Small craft		
 JTAS6	Atlatl Boost System	76	High Guard	No	
 JTAS6	First Contact	84	Setting		
-JTAS6	Trait, Guided	90	Vehicle		Mods
+JTAS6	Guided	90	Vehicle		Trait
 JTAS6	Blue Fantail 70mm FFGR	91	Vehicle		Weapon
 JTAS6	GLMM-128 Gun/Missile Launcher	92	Vehicle		Weapon
-JTAS6	AP-150 (Actiune Puternica) 150mm Battlefield Missile	93	Vehicle		Weapon
+JTAS6	AP-150 150mm Battlefield Missile	93	Vehicle		Weapon
+JTAS6	Actiune Puternica	93	Vehicle		Weapon
 JTAS6	Spearwall Orbital Defence Missile System	95	Vehicle		Weapon
 JTAS6	Transportation, Planetside	97	Setting		
 JTAS6	Incarnate-Class Strik Destroyer	103	Ship		

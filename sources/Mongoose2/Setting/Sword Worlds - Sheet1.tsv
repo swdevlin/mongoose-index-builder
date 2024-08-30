@@ -1,44 +1,224 @@
 Document	Topic	Page	Type	Primary	Group
 SW	Sword Worlds Confederation	2	Polity		
 SW	Gram	3	Setting		
-SW	Aesirists	21	Religion		
-SW	Patrol Ranks	29	Sword Worlds		
-SW	Enlisted Ranks	41	Sword Worlds		
-SW	Officer Ranks	42	Sword Worlds		
-SW	Flag Officer Ranks	42	Sword Worlds		
+SW	Triple Dominion	6	Sword Worlds Confederation		
+SW	Sacnoth Dominate	6	Sword Worlds Confederation		
+SW	Second Dominate	10	Sword Worlds Confederation		
+SW	Society	17	Sword Worlds Confederation		
+SW	Soldat	18	Sword Worlds Confederation		
+SW	Money	18	Sword Worlds Confederation		
+SW	Law	19	Sword Worlds Confederation		
+SW	Social Standing	20	Sword Worlds Confederation		
+SW	Outlaws	20	Sword Worlds Confederation		
+SW	Thralls	20	Sword Worlds Confederation		
+SW	Lagre Order	20	Sword Worlds Confederation		
+SW	Cottars	20	Sword Worlds Confederation		
+SW	Carls	20	Sword Worlds Confederation		
+SW	Greve	20	Sword Worlds Confederation		
+SW	Jarl	20	Sword Worlds Confederation		
+SW	Hertug	20	Sword Worlds Confederation		
+SW	Religion	21	Sword Worlds Confederation		
+SW	Aesirists	21	Sword Worlds Confederation		Religion
+SW	Aesirists	21	Setting		Religion
+SW	Government	22	Sword Worlds Confederation		
+SW	Infrastructure	24	Sword Worlds Confederation		
+SW	Commerce	24	Sword Worlds Confederation		
+SW	Exiles	24	Sword Worlds Confederation		
+SW	Outlaws	24	Sword Worlds Confederation		
+SW	Refugees	24	Sword Worlds Confederation		
+SW	Government	26	Sword Worlds Confederation		
+SW	Military	27	Sword Worlds Confederation		
+SW	Interstellar Patrol	27	Sword Worlds Confederation		
+SW	Patrol Ranks	29	Sword Worlds Confederation		
+SW	Diplomatic Corp	30	Sword Worlds Confederation		
+SW	Scientific Corp	31	Sword Worlds Confederation		
+SW	Mercantile Service	32	Sword Worlds Confederation		
+SW	Navy	33	Sword Worlds Confederation		
+SW	Fleets	33	Sword Worlds Confederation		
+SW	Tizon	34	Sword Worlds Confederation		Fleets
+SW	Joyeuse	34	Sword Worlds Confederation		Fleets
+SW	Gram	34	Sword Worlds Confederation		Fleets
+SW	Sacnoth	34	Sword Worlds Confederation		Fleets
+SW	Narsil	34	Sword Worlds Confederation		Fleets
+SW	Dyrnwyn	34	Sword Worlds Confederation		Fleets
+SW	Sting	34	Sword Worlds Confederation		Fleets
+SW	Biter	34	Sword Worlds Confederation		Fleets
+SW	Command Area	34	Sword Worlds Confederation		
+SW	Hrunting	35	Sword Worlds Confederation		Command Area
+SW	Mjolnir	35	Sword Worlds Confederation		Command Area
+SW	Colada	35	Sword Worlds Confederation		Command Area
+SW	Durendal	35	Sword Worlds Confederation		Command Area
+SW	Anduril	35	Sword Worlds Confederation		Command Area
+SW	Enos	35	Sword Worlds Confederation		Command Area
+SW	Tactical Formations	35	Sword Worlds Confederation		
+SW	Warships	36	Sword Worlds Confederation		
+SW	Ship Types	36	Sword Worlds Confederation		
+SW	Defensive Operations	38	Sword Worlds Confederation		
+SW	Offensive Operations	39	Sword Worlds Confederation		
+SW	Raiding Operations	40	Sword Worlds Confederation		
+SW	Naval Ranks	40	Sword Worlds Confederation		
+SW	Enlisted Ranks	41	Sword Worlds Confederation		Naval Ranks
+SW	Officer Ranks	42	Sword Worlds Confederation		Naval Ranks
+SW	Flag Officer Ranks	42	Sword Worlds Confederation		Naval Ranks
+SW	Ground Forces	44	Sword Worlds Confederation		
+SW	Grav-Mobile Forces	45	Sword Worlds Confederation		
+SW	Non-Grav Mobile Units	45	Sword Worlds Confederation		
+SW	Maritime and Aerospace Forces	52	Sword Worlds Confederation		
+SW	Military Ranks	52	Sword Worlds Confederation		
+SW	Enlisted Ranks	53	Sword Worlds Confederation		Military Ranks
+SW	Officer Ranks	54	Sword Worlds Confederation		Military Ranks
+SW	General Officrt Ranks	54	Sword Worlds Confederation		Military Ranks
 SW	Gram Arm	55	Region		
-SW	Gram Arm	55	Sword Worlds		Region
+SW	Gram Arm	55	Sword Worlds Confederation		Region
 SW	Tizon, Sword Worlds	56	System		
-SW	Tizon, Sword Worlds	56	Sword Worlds		System
+SW	Tizon, Sword Worlds	56	Sword Worlds Confederation		System
 SW	Colada, Sword Worlds	58	System		
-SW	Colada, Sword Worlds	58	Sword Worlds		System
+SW	Colada, Sword Worlds	58	Sword Worlds Confederation		System
 SW	Joyeuse, Sword Worlds	60	System		
-SW	Joyeuse, Sword Worlds	60	Sword Worlds		System
+SW	Joyeuse, Sword Worlds	60	Sword Worlds Confederation		System
 SW	Gram, Sword Worlds	62	System		
-SW	Gram, Sword Worlds	62	Sword Worlds		System
+SW	Gram, Sword Worlds	62	Sword Worlds Confederation		System
 SW	Tyrfing, Sword Worlds	64	System		
-SW	Tyrfing, Sword Worlds	64	Sword Worlds		System
+SW	Tyrfing, Sword Worlds	64	Sword Worlds Confederation		System
 SW	Beater, Sword Worlds	65	System		
-SW	Beater, Sword Worlds	65	Sword Worlds		System
+SW	Beater, Sword Worlds	65	Sword Worlds Confederation		System
 SW	Sacnoth Arm	67	Region		
-SW	Sacnoth Arm	67	Sword Worlds		Region
+SW	Sacnoth Arm	67	Sword Worlds Confederation		Region
 SW	Narsil, Sword Worlds	68	System		
-SW	Narsil, Sword Worlds	68	Sword Worlds		System
+SW	Narsil, Sword Worlds	68	Sword Worlds Confederation		System
 SW	Anduril, Sword Worlds	69	System		
-SW	Anduril, Sword Worlds	69	Sword Worlds		System
+SW	Anduril, Sword Worlds	69	Sword Worlds Confederation		System
 SW	Orcrist, Sword Worlds	70	System		
-SW	Orcrist, Sword Worlds	70	Sword Worlds		System
+SW	Orcrist, Sword Worlds	70	Sword Worlds Confederation		System
 SW	Excalibur, Sword Worlds	71	System		
-SW	Excalibur, Sword Worlds	71	Sword Worlds		System
+SW	Excalibur, Sword Worlds	71	Sword Worlds Confederation		System
 SW	Sacnoth, Sword Worlds	72	System		
-SW	Sacnoth, Sword Worlds	72	Sword Worlds		System
-SW	Trailing Worlds	74	Sword Worlds		Region
+SW	Sacnoth, Sword Worlds	72	Sword Worlds Confederation		System
+SW	Trailing Worlds	74	Sword Worlds Confederation		Region
 SW	Trailing Worlds	74	Region		
 SW	Dyrnwyn, Sword Worlds	75	System		
-SW	Dyrnwyn, Sword Worlds	75	Sword Worlds		System
+SW	Dyrnwyn, Sword Worlds	75	Sword Worlds Confederation		System
 SW	Durendal, Sword Worlds	76	System		
-SW	Durendal, Sword Worlds	76	Sword Worlds		System
+SW	Durendal, Sword Worlds	76	Sword Worlds Confederation		System
 SW	Hofud, Sword Worlds	77	System		
-SW	Hofud, Sword Worlds	77	Sword Worlds		System
+SW	Hofud, Sword Worlds	77	Sword Worlds Confederation		System
 SW	Sting, Sword Worlds	78	System		
-SW	Sting, Sword Worlds	78	Sword Worlds		System
+SW	Sting, Sword Worlds	78	Sword Worlds Confederation		System
+SW	Biter, Sword Worlds	79	System		
+SW	Biter, Sword Worlds	79	Sword Worlds Confederation		System
+SW	Travellers	99	Sword Worlds Confederation		
+SW	Patrol	101	Sword Worlds Confederation		Career
+SW	Patrol	101	Career		Sword Worlds Confederation
+SW	Projectile Ground Defence Weapons	106	Rules		
+SW	Planetary Defence Cannon	106	Vehicle		Weapon
+SW	Integrated Munition System	108	High Guard		
+SW	Heavy Ordnance	108	High Guard		
+SW	Ordnance Pod	109	High Guard		
+SW	Torpedo Pylon	110	High Guard		
+SW	Standardised Craft Docking System	110	High Guard		
+SW	Orbital Mines	111	High Guard		
+SW	Defensive	111	High Guard		Orbital Mines
+SW	Offensive	111	High Guard		Orbital Mines
+SW	Electronic Warefare Drone	111	High Guard		Orbital Mines
+SW	Scatter Rocket	112	High Guard		
+SW	Minelaying System	112	High Guard		
+SW	Gripen-Class Aerospace/Close Orbit Interceptor	114	Small Craft		
+SW	Turunmaa-Class Fighter	116	Small Craft		
+SW	Rauma-Class Utility Boat	118	Small Craft		
+SW	Tjell-Class Shuttle	120	Small Craft		
+SW	Draug-Class Torpedo Boat	122	Small Craft		
+SW	Draken-Class Light Strike Boat	124	Ship		
+SW	Sobjornen-Class Heavy Gunboat	126	Ship		
+SW	Illern-Class Orbital Defence Platform	129	Ship		
+SW	Ahven-Class Light Transport	132	Ship		
+SW	Braxen-Class Light Communications Vessel	134	Ship		
+SW	Saukko-Class Medium Transport	137	Ship		
+SW	Havmanden-Class Long Range Trader	140	Ship		
+SW	Glenten-Class Minelaying Frigate	143	Ship		
+SW	Ornen-Class Strike Destroyer	146	Ship		
+SW	Byrding-Class Armed Merchant Cruiser	150	Ship		
+SW	Denisov Battlecruiser	154	Ship		
+SW	Draken-Class Light Strike Boat	124	Sword Worlds Confederation		Ship
+SW	Sobjornen-Class Heavy Gunboat	126	Sword Worlds Confederation		Ship
+SW	Illern-Class Orbital Defence Platform	129	Sword Worlds Confederation		Ship
+SW	Ahven-Class Light Transport	132	Sword Worlds Confederation		Ship
+SW	Braxen-Class Light Communications Vessel	134	Sword Worlds Confederation		Ship
+SW	Saukko-Class Medium Transport	137	Sword Worlds Confederation		Ship
+SW	Havmanden-Class Long Range Trader	140	Sword Worlds Confederation		Ship
+SW	Glenten-Class Minelaying Frigate	143	Sword Worlds Confederation		Ship
+SW	Ornen-Class Strike Destroyer	146	Sword Worlds Confederation		Ship
+SW	Byrding-Class Armed Merchant Cruiser	150	Sword Worlds Confederation		Ship
+SW	Denisov Battlecruiser	154	Sword Worlds Confederation		Ship
+SW	Gripen-Class Aerospace/Close Orbit Interceptor	114	Sword Worlds Confederation		Small Craft
+SW	Turunmaa-Class Fighter	116	Sword Worlds Confederation		Small Craft
+SW	Rauma-Class Utility Boat	118	Sword Worlds Confederation		Small Craft
+SW	Tjell-Class Shuttle	120	Sword Worlds Confederation		Small Craft
+SW	Draug-Class Torpedo Boat	122	Sword Worlds Confederation		Small Craft
+SW	Aluksen Ase	160	Weapon		
+SW	Aluksen Ase	160	Sword Worlds Confederation		Weapon
+SW	Holmgang Sword	160	Melee Weapon		
+SW	Holmgang Sword	160	Sword Worlds Confederation		Melee Weapon
+SW	Jaegergevar	161	Weapon		
+SW	Jaegergevar	161	Sword Worlds Confederation		Weapon
+SW	Jaegerkarbin	161	Weapon		
+SW	Jaegerkarbin	161	Sword Worlds Confederation		Weapon
+SW	Palvelupistooli	161	Weapon		
+SW	Palvelupistooli	161	Sword Worlds Confederation		Weapon
+SW	Seax	162	Weapon		
+SW	Seax	162	Sword Worlds Confederation		Weapon
+SW	VM-11	162	Weapon		
+SW	VM-11	162	Sword Worlds Confederation		Weapon
+SW	Vaerktojsoks	163	Melee Weapon		
+SW	Vaerktojsoks	163	Sword Worlds Confederation		Melee Weapon
+SW	VPF	163	Weapon		
+SW	VPF	163	Sword Worlds Confederation		Weapon
+SW	Active Vehicle Protection System	164	Vehicle		Weapon
+SW	Passive Vehicle Protection System	164	Vehicle		Weapon
+SW	Standoff Decoy System	164	Vehicle		Weapon
+SW	Penetrator Cannon	165	Vehicle		Weapon
+SW	Assault Defence System	164	Vehicle		Weapon
+SW	Veijari Wheeled Utility Vehicle	166	Vehicle		
+SW	Veijari Wheeled Utility Vehicle	166	Sword Worlds Confederation		Vehicle
+SW	Machinegun	167	Vehicle		Weapon
+SW	Autocannon	167	Vehicle		Weapon
+SW	Anti-Air Missile	167	Vehicle		Weapon
+SW	PK-1065 Wheeled Armoured Personnel Carrier	167	Vehicle		
+SW	PK-1065 Wheeled Armoured Personnel Carrier	167	Sword Worlds Confederation		Vehicle
+SW	Panssaroitu Kuljetus	167	Vehicle		
+SW	Panssaroitu Kuljetus	167	Sword Worlds Confederation		Vehicle
+SW	Skoeld	167	Vehicle		
+SW	Skoeld	167	Sword Worlds Confederation		Vehicle
+SW	MTD-1088	169	Vehicle		
+SW	MTD-1088	169	Sword Worlds Confederation		Vehicle
+SW	Magnetisk Tankdämpare	169	Vehicle		
+SW	Magnetisk Tankdämpare	169	Sword Worlds Confederation		Vehicle
+SW	Hnaefir Militarised Air/Raft	169	Vehicle		
+SW	Hnaefir Militarised Air/Raft	169	Sword Worlds Confederation		Vehicle
+SW	P-984 Armoured Personnel Carrier	169	Vehicle		
+SW	P-984 Armoured Personnel Carrier	169	Sword Worlds Confederation		Vehicle
+SW	Patruljeholder	169	Vehicle		
+SW	Patruljeholder	169	Sword Worlds Confederation		Vehicle
+SW	Gauss Cannon	169	Vehicle		Weapon
+SW	Autocannon	169	Vehicle		Weapon
+SW	Machinegun	169	Vehicle		Weapon
+SW	Anti-Air Missile	169	Vehicle		Weapon
+SW	Anti-Missile System	169	Vehicle		Weapon
+SW	ST-1085 Tank Hunter	173	Vehicle		
+SW	ST-1085 Tank Hunter	173	Sword Worlds Confederation		Vehicle
+SW	Säiliön Tappaja	173	Vehicle		
+SW	Säiliön Tappaja	173	Sword Worlds Confederation		Vehicle
+SW	LT-1067 Grav Gunship	173	Vehicle		
+SW	LT-1067 Grav Gunship	173	Sword Worlds Confederation		Vehicle
+SW	Lentävä Taistelulaite	173	Vehicle		
+SW	Lentävä Taistelulaite	173	Sword Worlds Confederation		Vehicle
+SW	LK-1001 Light Grav Tank	173	Vehicle		
+SW	LK-1001 Light Grav Tank	173	Sword Worlds Confederation		Vehicle
+SW	Luftburna Kampfordon	173	Vehicle		
+SW	Luftburna Kampfordon	173	Sword Worlds Confederation		Vehicle
+SW	Penetrator Cannon	174	Vehicle		Weapon
+SW	Anti-Missile System	174	Vehicle		Weapon
+SW	Plasma Gun-C	175	Vehicle		Weapon
+SW	Anti-Missile System	175	Vehicle		Weapon
+SW	Gauss Cannon	176	Vehicle		Weapon
+SW	Laser Cannon	176	Vehicle		Weapon
+SW	Anti-Missile System	176	Vehicle		Weapon

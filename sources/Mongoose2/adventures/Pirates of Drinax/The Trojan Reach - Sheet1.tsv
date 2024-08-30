@@ -86,72 +86,71 @@ TTR	Aua’ka	62	Bestiary
 TTR	Khekha	63	Bestiary		
 TTR	Khta	63	Bestiary		
 TTR	Stii	63	Bestiary		
-TTR	Aslan Travellers	64	Rules		
 TTR	Travellers	64	Aslan		
-TTR	Territory (TER)	64	Aslan		Aslan Travellers
+TTR	Territory (TER)	64	Aslan		Travellers
 TTR	Territory (TER)	64	Characteristic		
-TTR	Right of Passage	67	Aslan		Aslan Travellers
-TTR	Inheritance	66	Aslan		Aslan Travellers
-TTR	Ancestral Territory	64	Aslan		Aslan Travellers
-TTR	Deeds	66	Aslan		Aslan Travellers
-TTR	Qualification	68	Aslan		Aslan Travellers
-TTR	Ceremonial	67	Aslan		Aslan Travellers
+TTR	Right of Passage	67	Aslan		Travellers
+TTR	Inheritance	66	Aslan		Travellers
+TTR	Ancestral Territory	64	Aslan		Travellers
+TTR	Deeds	66	Aslan		Travellers
+TTR	Qualification	68	Aslan		Travellers
+TTR	Ceremonial	67	Aslan		Travellers
 TTR	Ceremonial	67	Career		Aslan
-TTR	Envoy	67	Aslan		Aslan Travellers
+TTR	Envoy	67	Aslan		Travellers
 TTR	Envoy	67	Career		Aslan
-TTR	Management	67	Aslan		Aslan Travellers
+TTR	Management	67	Aslan		Travellers
 TTR	Management	67	Career		Aslan
-TTR	Military	67	Aslan		Aslan Travellers
+TTR	Military	67	Aslan		Travellers
 TTR	Military	67	Career		Aslan
-TTR	Military Officer	67	Aslan		Aslan Travellers
+TTR	Military Officer	67	Aslan		Travellers
 TTR	Military Officer	67	Career		Aslan
-TTR	Outcast	68	Aslan		Aslan Travellers
+TTR	Outcast	68	Aslan		Travellers
 TTR	Outcast	68	Career		Aslan
-TTR	Outlaw	68	Aslan		Aslan Travellers
+TTR	Outlaw	68	Aslan		Travellers
 TTR	Outlaw	68	Career		Aslan
-TTR	Scientist	68	Aslan		Aslan Travellers
+TTR	Scientist	68	Aslan		Travellers
 TTR	Scientist	68	Career		Aslan
-TTR	Spacer	68	Aslan		Aslan Travellers
+TTR	Spacer	68	Aslan		Travellers
 TTR	Spacer	68	Career		Aslan
-TTR	Spacer Officer	68	Aslan		Aslan Travellers
+TTR	Spacer Officer	68	Aslan		Travellers
 TTR	Spacer Officer	68	Career		Aslan
-TTR	Wanderer	68	Aslan		Aslan Travellers
+TTR	Wanderer	68	Aslan		Travellers
 TTR	Wanderer	68	Career		Aslan
-TTR	Skills	67	Aslan		Aslan Travellers
-TTR	Aging	67	Aslan		Aslan Travellers
+TTR	Skills	67	Aslan		Travellers
+TTR	Aging	67	Aslan		Travellers
 TTR	Independence	71	Aslan		Skill
 TTR	Independence	71	Skill		Aslan
 TTR	Tolerance	71	Aslan		Skill
 TTR	Tolerance	71	Skill		Aslan
-TTR	Ceremonial	72	Aslan		Aslan Travellers
+TTR	Ceremonial	72	Aslan		Travellers
 TTR	Ceremonial	72	Career		Aslan
-TTR	Envoy	74	Aslan		Aslan Travellers
+TTR	Envoy	74	Aslan		Travellers
 TTR	Envoy	74	Career		Aslan
-TTR	Management	76	Aslan		Aslan Travellers
+TTR	Management	76	Aslan		Travellers
 TTR	Management	76	Career		Aslan
-TTR	Military	78	Aslan		Aslan Travellers
+TTR	Military	78	Aslan		Travellers
 TTR	Military	78	Career		Aslan
-TTR	Military Officer	80	Aslan		Aslan Travellers
+TTR	Military Officer	80	Aslan		Travellers
 TTR	Military Officer	80	Career		Aslan
-TTR	Outcast	88	Aslan		Aslan Travellers
+TTR	Outcast	88	Aslan		Travellers
 TTR	Outcast	88	Career		Aslan
-TTR	Outlaw	90	Aslan		Aslan Travellers
+TTR	Outlaw	90	Aslan		Travellers
 TTR	Outlaw	90	Career		Aslan
-TTR	Scientist	82	Aslan		Aslan Travellers
+TTR	Scientist	82	Aslan		Travellers
 TTR	Scientist	82	Career		Aslan
-TTR	Spacer	84	Aslan		Aslan Travellers
+TTR	Spacer	84	Aslan		Travellers
 TTR	Spacer	84	Career		Aslan
-TTR	Spacer Officer	86	Aslan		Aslan Travellers
+TTR	Spacer Officer	86	Aslan		Travellers
 TTR	Spacer Officer	86	Career		Aslan
-TTR	Wanderer	92	Aslan		Aslan Travellers
+TTR	Wanderer	92	Aslan		Travellers
 TTR	Wanderer	92	Career		Aslan
-TTR	Mustering Out	94	Aslan		Aslan Travellers
-TTR	Kinships	94	Aslan		Aslan Travellers
-TTR	Pensions	94	Aslan		Aslan Travellers
-TTR	Benefits	94	Aslan		Aslan Travellers
-TTR	Clan Shares	94	Aslan		Aslan Travellers
-TTR	Life Events	95	Aslan		Aslan Travellers
-TTR	Clan Events	95	Aslan		Aslan Travellers
+TTR	Mustering Out	94	Aslan		Travellers
+TTR	Kinships	94	Aslan		Travellers
+TTR	Pensions	94	Aslan		Travellers
+TTR	Benefits	94	Aslan		Travellers
+TTR	Clan Shares	94	Aslan		Travellers
+TTR	Life Events	95	Aslan		Travellers
+TTR	Clan Events	95	Aslan		Travellers
 TTR	Aua-leather	99	Aslan		Armour
 TTR	Aua-leather	99	Armour		
 TTR	Aslan Battle Dress	99	Aslan		Armour
@@ -278,7 +277,7 @@ TTR	Grav Barge	119	Aslan		Vehicle
 TTR	The Trojan Reach	120	Setting		
 TTR	Sindalian Empire	121	Polity		
 TTR	Florian League	122	Polity		
-TTR	Floriani Travellers	122	Rules		
+TTR	Travellers	122	Polity		Florian League
 TTR	Ya’soisthea	122	Setting		
 TTR	Ya’soisthea	122	Aslan		
 TTR	Glorious Empire	124	Polity	No	
@@ -474,8 +473,8 @@ TTR	Awaweaw, Silraaihe	197	System
 TTR	Earlyu, Silraaihe	197	System		
 TTR	Prince Wauiatyakhiyw	197	Setting		
 TTR	General Development Corporation	197	Megacorporation	No	
-TTR	Yont	197	Sophant	No	
-TTR	Yont Travellers	197	Rules		
+TTR	Yont	197	Sophont	No	
+TTR	Travellers	197	Sophont		Yont
 TTR	Ouivloi Man-Brute	198	Bestiary		
 TTR	Teiserle Shark	198	Bestiary		
 TTR	Haum	198	Bestiary		

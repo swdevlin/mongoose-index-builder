@@ -3,7 +3,7 @@ DE	Deepnight Endeavour	1	Adventure
 DE	Deepnight Exploration, LIC	3	Corporation		
 DE	Deepnight Endeavour	4	Ship		
 DE	Deepnight Endeavour Fuel Shuttle	16	Ship		
-DE	Deepnight Entity	27	Disease		
+DE	Deepnight Entity	27	Setting		Disease
 DE	Shambler	31	Bestiary		
 DE	Miklos Zenkhuirli, Captain	33	Person		
 DE	Riece Arbonne	33	Person		
@@ -13,3 +13,8 @@ DE	Andrea Ricardssen	40	Person
 DE	Trennance Zedehlale	41	Person		
 DE	Snub Revolver	55	Weapon		
 DE	Snub Carbine	55	Weapon		
+DE	Bridge Faction	32	NPCs		
+DE	Engineering Faction	34	NPCs		
+DE	Mission Faction	37	NPCs		
+DE	Starboard Sider	39	NPCs		
+DE	Survivor	39	NPCs		
