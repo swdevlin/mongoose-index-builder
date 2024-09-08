@@ -8,6 +8,18 @@ from docx.shared import Pt, Inches, Cm
 
 LEFT_ALIGNMENT = 0
 
+SHOULD_BE_PLURAL = {
+	'Robot': 'Robots',
+	'Drone': 'Drones',
+	'Ship': 'Ships',
+	'Vehicle': 'Vehicles',
+}
+
+# Bulk correct entries with the incorrect type
+TYPE_CORRECTIONS = {
+	'small craft': 'Small Craft'
+}
+
 
 def add_type_paragraph(document, type_name):
 	document.add_page_break()
@@ -104,16 +116,14 @@ def parse_topics(source, topics):
 	df = pd.read_csv(source, delimiter='\t')
 	df = df.replace({pd.NA: None, pd.NaT: None, float('nan'): None})
 	for index, row in df.iterrows():
-		if row['Type'] == 'Robot':
-			row['Type'] = 'Robots'
-		if row['Type'] == 'Drone':
-			row['Type'] = 'Drones'
-		if row['Type'] == 'Ship':
-			row['Type'] = 'Ships'
-		if row['Type'] == 'Vehicle':
-			row['Type'] = 'Vehicles'
-		if row['Type'].lower() == 'small craft':
-			row['Type'] = 'Small Craft'
+		for key in SHOULD_BE_PLURAL:
+			if row['Type'] == 'Key':
+				row['Type'] = SHOULD_BE_PLURAL[key]
+
+		for key in TYPE_CORRECTIONS:
+			if row['Type'] == 'Key':
+				row['Type'] = TYPE_CORRECTIONS[key]
+
 		subject = row['Topic']
 		group = row.get('Group', None)
 		if group:
