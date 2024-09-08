@@ -663,40 +663,40 @@ CSC	Siege Gun	166	Weapon
 CSC	Support Mortar	166	Weapon		
 CSC	Artillery Weapons	164	Weapon		
 CSC	Artillery Weapons	164	Rules		
-CSC	Aerospace Defence Laser	168	Vehicle		Weapon
-CSC	Light Autocannon	168	Vehicle		Weapon
-CSC	Medium Autocannon	168	Vehicle		Weapon
-CSC	Heavy Autocannon	168	Vehicle		Weapon
-CSC	Black Powder Cannon	168	Vehicle		Weapon
-CSC	Cannon	168	Vehicle		Weapon
-CSC	Field Gun	168	Vehicle		Weapon
-CSC	Fusion Gun	168	Vehicle		Weapon
-CSC	Gatling Laser	169	Vehicle		Weapon
-CSC	Gauss Cannon	169	Vehicle		Weapon
-CSC	Heavy Machinegun	169	Vehicle		Weapon
-CSC	Hypervelocity Cannon	169	Vehicle		Weapon
-CSC	Laser Cannon	169	Vehicle		Weapon
-CSC	Meson Accelerator	169	Vehicle		Weapon
-CSC	Orbital Defence Cannon	170	Vehicle		Weapon
-CSC	Plasma Gun	170	Vehicle		Weapon
-CSC	Rail Gun	170	Vehicle		Weapon
-CSC	Rotary Autocannon	170	Vehicle		Weapon
-CSC	VRF Gauss Gun	170	Vehicle		Weapon
-CSC	VRF Machinegun	170	Vehicle		Weapon
-CSC	Anti-Air Missile	172	Vehicle		Weapon
-CSC	Anti-Tank Missile	172	Vehicle		Weapon
-CSC	Bolt Thrower	172	Vehicle		Weapon
-CSC	Bomb	172	Vehicle		Weapon
-CSC	Bombardment Missile	172	Vehicle		Weapon
-CSC	Bombardment Rocket Rack	172	Vehicle		Weapon
-CSC	Earthquake Bomb	172	Vehicle		Weapon
-CSC	Heavy Rocket Pod	172	Vehicle		Weapon
-CSC	Plasma Missile Rack	172	Vehicle		Weapon
-CSC	Rocket Pod	173	Vehicle		Weapon
-CSC	Tac Launcher	173	Vehicle		Weapon
-CSC	Rotary Autocannon	173	Vehicle		Weapon
-CSC	Torpedo	173	Vehicle		Weapon
-CSC	Water Cannon	173	Vehicle		Weapon
+CSC	Aerospace Defence Laser	168	Vehicle Workshop		Weapons
+CSC	Light Autocannon	168	Vehicle Workshop		Weapons
+CSC	Medium Autocannon	168	Vehicle Workshop		Weapons
+CSC	Heavy Autocannon	168	Vehicle Workshop		Weapons
+CSC	Black Powder Cannon	168	Vehicle Workshop		Weapons
+CSC	Cannon	168	Vehicle Workshop		Weapons
+CSC	Field Gun	168	Vehicle Workshop		Weapons
+CSC	Fusion Gun	168	Vehicle Workshop		Weapons
+CSC	Gatling Laser	169	Vehicle Workshop		Weapons
+CSC	Gauss Cannon	169	Vehicle Workshop		Weapons
+CSC	Heavy Machinegun	169	Vehicle Workshop		Weapons
+CSC	Hypervelocity Cannon	169	Vehicle Workshop		Weapons
+CSC	Laser Cannon	169	Vehicle Workshop		Weapons
+CSC	Meson Accelerator	169	Vehicle Workshop		Weapons
+CSC	Orbital Defence Cannon	170	Vehicle Workshop		Weapons
+CSC	Plasma Gun	170	Vehicle Workshop		Weapons
+CSC	Rail Gun	170	Vehicle Workshop		Weapons
+CSC	Rotary Autocannon	170	Vehicle Workshop		Weapons
+CSC	VRF Gauss Gun	170	Vehicle Workshop		Weapons
+CSC	VRF Machinegun	170	Vehicle Workshop		Weapons
+CSC	Anti-Air Missile	172	Vehicle Workshop		Weapons
+CSC	Anti-Tank Missile	172	Vehicle Workshop		Weapons
+CSC	Bolt Thrower	172	Vehicle Workshop		Weapons
+CSC	Bomb	172	Vehicle Workshop		Weapons
+CSC	Bombardment Missile	172	Vehicle Workshop		Weapons
+CSC	Bombardment Rocket Rack	172	Vehicle Workshop		Weapons
+CSC	Earthquake Bomb	172	Vehicle Workshop		Weapons
+CSC	Heavy Rocket Pod	172	Vehicle Workshop		Weapons
+CSC	Plasma Missile Rack	172	Vehicle Workshop		Weapons
+CSC	Rocket Pod	173	Vehicle Workshop		Weapons
+CSC	Tac Launcher	173	Vehicle Workshop		Weapons
+CSC	Rotary Autocannon	173	Vehicle Workshop		Weapons
+CSC	Torpedo	173	Vehicle Workshop		Weapons
+CSC	Water Cannon	173	Vehicle Workshop		Weapons
 CSC	Accessories	174	Weapon		
 CSC	Auxiliary Grenade Launcher	174	Weapon		Accessories
 CSC	Auxiliary RAM Grenade Launcher	174	Weapon		Accessories

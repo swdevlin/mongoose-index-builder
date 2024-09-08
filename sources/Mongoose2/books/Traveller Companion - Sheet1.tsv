@@ -22,11 +22,64 @@ TC	Spacer Community	34	Career		Pre-Career
 TC	Truther	35	Career		
 TC	Believer	35	Career		
 TC	Experience	41	Rules		
+TC	Dedicated Experience	41	Rules		
+TC	General Experience	41	Rules		
+TC	Morale (MRL)	41	Rules		Characteristic
 TC	Training	41	Rules		
+TC	Gaining Skills	41	Rules		
+TC	Increasing	41	Rules		Characteristic
+TC	Increasing Characteristics	41	Rules		
+TC	Skills	43	Rules		
 TC	Art	43	Skill	No	
 TC	Profession	43	Skill	No	
+TC	Colonist	44	Skill		Profession
+TC	Crewmember	44	Skill		Profession
+TC	Freeloader	44	Skill		Profession
+TC	Hostile Environment	44	Skill		Profession
+TC	Spacer	44	Skill		Profession
+TC	Sport	44	Skill		Profession
+TC	Worker	44	Skill		Profession
+TC	Colonist/Ranching	44	Skill		Profession
+TC	Freeloader/Scrounging	44	Skill		Profession
+TC	Freeloader/Security	45	Skill		Profession
+TC	Hostile Environment/Contaminant	45	Skill		Profession
+TC	Hostile Environment/High-G	45	Skill		Profession
+TC	Hostile Environment/Low-G	45	Skill		Profession
+TC	Hostile Environment/Underwater	45	Skill		Profession
+TC	Spacer/Belter	45	Skill		Profession
+TC	Spacer/Crewmember	45	Skill		Profession
+TC	Sport/Various	45	Skill		Profession
+TC	Worker/Metalworking	45	Skill		Profession
+TC	Worker/Armourer	45	Skill		Profession
 TC	Science	45	Skill	No	
+TC	Life Sciences	45	Skill		Science
+TC	Physical Sciences	46	Skill		Science
+TC	Robotic Sciences	46	Skill		Science
+TC	Social Sciences	46	Skill		Science
+TC	Space Sciences	46	Skill		Science
+TC	Life Sciences/Biology	46	Skill		Science
+TC	Life Sciences/Genetics	46	Skill		Science
+TC	Life Sciences/Psionicology	46	Skill		Science
+TC	Life Sciences/Xenology	46	Skill		Science
+TC	Physical Sciences/Chemistry	46	Skill		Science
+TC	Physical Sciences/Physics	46	Skill		Science
+TC	Physical Sciences/Jumpspace Physics	46	Skill		Science
+TC	Robotic Sciences/Cybernetics	46	Skill		Science
+TC	Robotic Sciences/Robotics	46	Skill		Science
+TC	Social Sciences/Archaeology	46	Skill		Science
+TC	Social Sciences/Economics	46	Skill		Science
+TC	Social Sciences/History	46	Skill		Science
+TC	Social Sciences/Linguistics	46	Skill		Science
+TC	Social Sciences/Philosophy	46	Skill		Science
+TC	Social Sciences/Psychology	46	Skill		Science
+TC	Social Sciences/Sophontology	46	Skill		Science
+TC	Space Sciences/Astronomy	46	Skill		Science
+TC	Space Sciences/Cosmology	46	Skill		Science
+TC	Space Sciences/Planetology	46	Skill		Science
 TC	Melee	46	Skill	No	
+TC	Grapple	46	Skill		Melee
+TC	Striking	46	Skill		Melee
+TC	Fencing	46	Skill		Melee
 TC	Task Resolution, Narrative	47	Rules		
 TC	Competence	48	Rules		
 TC	Mundane Events Check	48	Rules		
@@ -57,7 +110,7 @@ TC	Acids	79	Rules
 TC	Corrosives	79	Rules		
 TC	Starvation	80	Rules		
 TC	Thirst	81	Rules		
-TC	Temperatire	82	Rules		
+TC	Temperature	82	Rules		
 TC	Terrain	84	Rules		
 TC	Clever	93	Rules		Animal Trait
 TC	Composite	93	Rules		Animal Trait

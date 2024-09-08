@@ -298,7 +298,7 @@ RH	Critical Hit Effect	110	Robotics
 RH	Repairing	110	Robotics		
 RH	Used	111	Robotics		
 RH	Quirks	111	Robotics		
-RH	Sanity (STY)	112	Characterictic		
+RH	Sanity (STY)	112	Rules		Characteristic
 RH	Reprogramming	112	Robotics		
 RH	Backup and Restore	113	Robotics		
 RH	Brain Upgrade	113	Robotics		
@@ -402,6 +402,7 @@ RH	Utility Robots	175	Robots
 RH	Utility Robots	175	Setting		
 RH	AG300 Agricultural Worker	175	Robots		
 RH	Bulk Delivery Servitor (BDS)	176	Robots		
+RH	Spinward Specialties	176	Setting		Robot Manufacturers
 RH	Courier, Basic	177	Robots		
 RH	Courier, Advanced	178	Robots		
 RH	Domestic Servant	179	Robots		

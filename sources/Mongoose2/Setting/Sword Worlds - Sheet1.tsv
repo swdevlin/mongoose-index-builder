@@ -110,7 +110,7 @@ SW	Travellers	99	Sword Worlds Confederation
 SW	Patrol	101	Sword Worlds Confederation		Career
 SW	Patrol	101	Career		Sword Worlds Confederation
 SW	Projectile Ground Defence Weapons	106	Rules		
-SW	Planetary Defence Cannon	106	Vehicle		Weapon
+SW	Planetary Defence Cannon	106	Vehicle Workshop		Weapons
 SW	Integrated Munition System	108	High Guard		
 SW	Heavy Ordnance	108	High Guard		
 SW	Ordnance Pod	109	High Guard		
@@ -172,16 +172,16 @@ SW	Vaerktojsoks	163	Melee Weapon
 SW	Vaerktojsoks	163	Sword Worlds Confederation		Melee Weapon
 SW	VPF	163	Weapon		
 SW	VPF	163	Sword Worlds Confederation		Weapon
-SW	Active Vehicle Protection System	164	Vehicle		Weapon
-SW	Passive Vehicle Protection System	164	Vehicle		Weapon
-SW	Standoff Decoy System	164	Vehicle		Weapon
-SW	Penetrator Cannon	165	Vehicle		Weapon
-SW	Assault Defence System	164	Vehicle		Weapon
+SW	Active Vehicle Protection System	164	Vehicle Workshop		Weapons
+SW	Passive Vehicle Protection System	164	Vehicle Workshop		Weapons
+SW	Standoff Decoy System	164	Vehicle Workshop		Weapons
+SW	Penetrator Cannon	165	Vehicle Workshop		Weapons
+SW	Assault Defence System	164	Vehicle Workshop		Weapons
 SW	Veijari Wheeled Utility Vehicle	166	Vehicle		
 SW	Veijari Wheeled Utility Vehicle	166	Sword Worlds Confederation		Vehicle
-SW	Machinegun	167	Vehicle		Weapon
-SW	Autocannon	167	Vehicle		Weapon
-SW	Anti-Air Missile	167	Vehicle		Weapon
+SW	Machinegun	167	Vehicle Workshop		Weapons
+SW	Autocannon	167	Vehicle Workshop		Weapons
+SW	Anti-Air Missile	167	Vehicle Workshop		Weapons
 SW	PK-1065 Wheeled Armoured Personnel Carrier	167	Vehicle		
 SW	PK-1065 Wheeled Armoured Personnel Carrier	167	Sword Worlds Confederation		Vehicle
 SW	Panssaroitu Kuljetus	167	Vehicle		
@@ -198,11 +198,11 @@ SW	P-984 Armoured Personnel Carrier	169	Vehicle
 SW	P-984 Armoured Personnel Carrier	169	Sword Worlds Confederation		Vehicle
 SW	Patruljeholder	169	Vehicle		
 SW	Patruljeholder	169	Sword Worlds Confederation		Vehicle
-SW	Gauss Cannon	169	Vehicle		Weapon
-SW	Autocannon	169	Vehicle		Weapon
-SW	Machinegun	169	Vehicle		Weapon
-SW	Anti-Air Missile	169	Vehicle		Weapon
-SW	Anti-Missile System	169	Vehicle		Weapon
+SW	Gauss Cannon	169	Vehicle Workshop		Weapons
+SW	Autocannon	169	Vehicle Workshop		Weapons
+SW	Machinegun	169	Vehicle Workshop		Weapons
+SW	Anti-Air Missile	169	Vehicle Workshop		Weapons
+SW	Anti-Missile System	169	Vehicle Workshop		Weapons
 SW	ST-1085 Tank Hunter	173	Vehicle		
 SW	ST-1085 Tank Hunter	173	Sword Worlds Confederation		Vehicle
 SW	Säiliön Tappaja	173	Vehicle		
@@ -215,10 +215,10 @@ SW	LK-1001 Light Grav Tank	173	Vehicle
 SW	LK-1001 Light Grav Tank	173	Sword Worlds Confederation		Vehicle
 SW	Luftburna Kampfordon	173	Vehicle		
 SW	Luftburna Kampfordon	173	Sword Worlds Confederation		Vehicle
-SW	Penetrator Cannon	174	Vehicle		Weapon
-SW	Anti-Missile System	174	Vehicle		Weapon
-SW	Plasma Gun-C	175	Vehicle		Weapon
-SW	Anti-Missile System	175	Vehicle		Weapon
-SW	Gauss Cannon	176	Vehicle		Weapon
-SW	Laser Cannon	176	Vehicle		Weapon
-SW	Anti-Missile System	176	Vehicle		Weapon
+SW	Penetrator Cannon	174	Vehicle Workshop		Weapons
+SW	Anti-Missile System	174	Vehicle Workshop		Weapons
+SW	Plasma Gun-C	175	Vehicle Workshop		Weapons
+SW	Anti-Missile System	175	Vehicle Workshop		Weapons
+SW	Gauss Cannon	176	Vehicle Workshop		Weapons
+SW	Laser Cannon	176	Vehicle Workshop		Weapons
+SW	Anti-Missile System	176	Vehicle Workshop		Weapons

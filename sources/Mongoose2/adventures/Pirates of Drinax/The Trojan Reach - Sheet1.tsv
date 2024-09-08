@@ -88,7 +88,8 @@ TTR	Khta	63	Bestiary
 TTR	Stii	63	Bestiary		
 TTR	Travellers	64	Aslan		
 TTR	Territory (TER)	64	Aslan		Travellers
-TTR	Territory (TER)	64	Characteristic		
+TTR	Territory (TER)	64	Aslan		Characteristic
+TTR	Territory (TER)	64	Rules		Characteristic
 TTR	Right of Passage	67	Aslan		Travellers
 TTR	Inheritance	66	Aslan		Travellers
 TTR	Ancestral Territory	64	Aslan		Travellers

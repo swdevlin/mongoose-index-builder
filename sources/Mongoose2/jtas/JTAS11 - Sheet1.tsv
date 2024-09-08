@@ -62,14 +62,14 @@ JTAS11	Zéno Paradise	97	Adventure
 JTAS11	Karnika, Perite	97	System	No	
 JTAS11	Nkersti	104	Bestiary		
 JTAS11	Chesapeake, Splendour	104	System	No	
-JTAS11	Compact Excavator	106	Vehicle		Equipment
-JTAS11	Deep Drill	106	Vehicle		Equipment
-JTAS11	Dumper	107	Vehicle		Equipment
-JTAS11	Excavator	107	Vehicle		Equipment
-JTAS11	Lift	108	Vehicle		Equipment
-JTAS11	Multi-Combine	108	Vehicle		Equipment
-JTAS11	Pile Driver	109	Vehicle		Equipment
-JTAS11	Road Roller	109	Vehicle		Equipment
+JTAS11	Compact Excavator	106	Vehicle Workshop		Customization
+JTAS11	Deep Drill	106	Vehicle Workshop		Customization
+JTAS11	Dumper	107	Vehicle Workshop		Customization
+JTAS11	Excavator	107	Vehicle Workshop		Customization
+JTAS11	Lift	108	Vehicle Workshop		Customization
+JTAS11	Multi-Combine	108	Vehicle Workshop		Customization
+JTAS11	Pile Driver	109	Vehicle Workshop		Customization
+JTAS11	Road Roller	109	Vehicle Workshop		Customization
 JTAS11	Hyperion Lines	110	Corporation	No	
 JTAS11	Conestoga Freighter	110	Ship		
 JTAS11	Hauler Shuttle	116	Small craft		

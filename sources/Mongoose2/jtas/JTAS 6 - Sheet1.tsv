@@ -31,12 +31,12 @@ JTAS6	Javelin Light Gunboat	76	Ship
 JTAS6	Dart Interceptor	80	Small craft		
 JTAS6	Atlatl Boost System	76	High Guard	No	
 JTAS6	First Contact	84	Setting		
-JTAS6	Guided	90	Vehicle		Trait
-JTAS6	Blue Fantail 70mm FFGR	91	Vehicle		Weapon
-JTAS6	GLMM-128 Gun/Missile Launcher	92	Vehicle		Weapon
-JTAS6	AP-150 150mm Battlefield Missile	93	Vehicle		Weapon
-JTAS6	Actiune Puternica	93	Vehicle		Weapon
-JTAS6	Spearwall Orbital Defence Missile System	95	Vehicle		Weapon
+JTAS6	Guided	90	Vehicle Workshop		Trait
+JTAS6	Blue Fantail 70mm FFGR	91	Vehicle Workshop		Weapons
+JTAS6	GLMM-128 Gun/Missile Launcher	92	Vehicle Workshop		Weapons
+JTAS6	AP-150 150mm Battlefield Missile	93	Vehicle Workshop		Weapons
+JTAS6	Actiune Puternica	93	Vehicle Workshop		Weapons
+JTAS6	Spearwall Orbital Defence Missile System	95	Vehicle Workshop		Weapons
 JTAS6	Transportation, Planetside	97	Setting		
 JTAS6	Incarnate-Class Strik Destroyer	103	Ship		
 JTAS6	Mertactor, District 268	108	System		

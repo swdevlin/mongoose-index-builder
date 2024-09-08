@@ -31,11 +31,31 @@ JTAS13	Hkiyrerao Passage, The	54	Setting
 JTAS13	Tralyeaeawi	54	Aslan	No	Clan
 JTAS13	Mudushiir (Mudu) Nikoladze	58	Encounter		
 JTAS13	Fourth Frontier War Museum	61	Setting		
+JTAS13	Alternative	65	Skill		
 JTAS13	Alternative Skills	65	Rules		
-JTAS13	Skill, Melee (fencing)	66	Rules	No	
-JTAS13	Skill, Profession	66	Rules	No	
-JTAS13	Skill, Science	68	Rules	No	
-JTAS13	Skill, Tactics	69	Rules	No	
+JTAS13	Melee (fencing)	66	Skill	No	
+JTAS13	Profession	66	Skill	No	
+JTAS13	Academic	66	Skill		Profession
+JTAS13	Crewmember	66	Skill		Profession
+JTAS13	Military Enlisted	66	Skill		Profession
+JTAS13	Military Officer	66	Skill		Profession
+JTAS13	Naval Enlisted	66	Skill		Profession
+JTAS13	Naval Officer	66	Skill		Profession
+JTAS13	Noble Imperial	66	Skill		Profession
+JTAS13	Noble Zhodani	66	Skill		Profession
+JTAS13	Science	68	Skill	No	
+JTAS13	Science (life)	68	Skill		
+JTAS13	Science (physical)	68	Skill		
+JTAS13	Science (psionicology)	68	Skill		
+JTAS13	Science (robotics)	68	Skill		
+JTAS13	Science (social)	68	Skill		
+JTAS13	Science (space)	68	Skill		
+JTAS13	Tactics	69	Skill	No	
+JTAS13	Economic	69	Skill		Tactics
+JTAS13	Grand Strategy	69	Skill		Tactics
+JTAS13	Ground	69	Skill		Tactics
+JTAS13	Naval	69	Skill		Tactics
+JTAS13	Political	69	Skill		Tactics
 JTAS13	Ralonya	70	Bestiary		
 JTAS13	Art College	71	Career		Pre-Career
 JTAS13	Gap Years	72	Rules		
