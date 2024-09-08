@@ -15,6 +15,13 @@ SHOULD_BE_PLURAL = {
 	'Vehicle': 'Vehicles',
 }
 
+GROUP_CORRECTIONS = {
+	'Robot': 'Robots',
+	'Drone': 'Drones',
+	'Ship': 'Ships',
+	'Vehicle': 'Vehicles',
+}
+
 # Bulk correct entries with the incorrect type
 TYPE_CORRECTIONS = {
 	'small craft': 'Small Craft'
@@ -117,12 +124,16 @@ def parse_topics(source, topics):
 	df = df.replace({pd.NA: None, pd.NaT: None, float('nan'): None})
 	for index, row in df.iterrows():
 		for key in SHOULD_BE_PLURAL:
-			if row['Type'] == 'Key':
+			if row['Type'] == key:
 				row['Type'] = SHOULD_BE_PLURAL[key]
 
 		for key in TYPE_CORRECTIONS:
-			if row['Type'] == 'Key':
+			if row['Type'] == key:
 				row['Type'] = TYPE_CORRECTIONS[key]
+
+		for key in GROUP_CORRECTIONS:
+			if row.get('Group', None) == key:
+				row['Group'] = GROUP_CORRECTIONS[key]
 
 		subject = row['Topic']
 		group = row.get('Group', None)

@@ -1,56 +1,60 @@
 Document	Topic	Page	Type	Primary	Group
-SotR	Aoa’iw-Class Light Trader	72	Ship		
-SotR	Aositaoh-Class Cruiser	84	Ship		
-SotR	Eakhau-Class Trader	74	Ship		
-SotR	Ekawsiykua-Class Escort	82	Ship		
-SotR	Halaheike-Class Pocket Warship	90	Ship		
-SotR	Hkisyeleaa-Class Slaver	87	Ship		
-SotR	Hkiyrerao-Class Researcher	76	Ship		
-SotR	Hraye-Class Scout	62	Ship		
-SotR	Ihateisho-Class Scout	64	Ship		
-SotR	Iyeliy-Class Messenger	70	Ship		
-SotR	Khtukhao-Class Clan Transport	78	Ship		
-SotR	Kteiroa-Class Seeker	68	Ship		
-SotR	Ktiyhui-Class Courier	66	Ship		
-SotR	OwatarL-Class Tender	80	Ship		
-SotR	Sakhai-Class Assault Carrier	93	Ship		
-SotR	Aoa’iw-Class Light Trader	72	Aslan		Ship
-SotR	Aositaoh-Class Cruiser	84	Aslan		Ship
-SotR	Eakhau-Class Trader	74	Aslan		Ship
-SotR	Ekawsiykua-Class Escort	82	Aslan		Ship
-SotR	Halaheike-Class Pocket Warship	90	Aslan		Ship
-SotR	Hkisyeleaa-Class Slaver	87	Aslan		Ship
-SotR	Hkiyrerao-Class Researcher	76	Aslan		Ship
-SotR	Hraye-Class Scout	62	Aslan		Ship
-SotR	Ihateisho-Class Scout	64	Aslan		Ship
-SotR	Iyeliy-Class Messenger	70	Aslan		Ship
-SotR	Khtukhao-Class Clan Transport	78	Aslan		Ship
-SotR	Kteiroa-Class Seeker	68	Aslan		Ship
-SotR	Ktiyhui-Class Courier	66	Aslan		Ship
-SotR	OwatarL-Class Tender	80	Aslan		Ship
-SotR	Sakhai-Class Assault Carrier	93	Aslan		Ship
-SotR	Buccaneer-Class Blockade Runner	10	Ship		
-SotR	Corsair	26	Ship		
-SotR	Fast Trader	2	Ship		
-SotR	Fiery-Class Gunship	12	Ship		
-SotR	Galoof-Class Megafreighter	48	Ship		
-SotR	Herald-Class Fast Messenger	6	Ship		
-SotR	Indigo-Class Pirate Carrier	88	Ship		
-SotR	Magenta-Class Repair Ship	29	Ship		
-SotR	Patrol Tender	32	Ship		
-SotR	Planet-Class Heavy Cruiser	52	Ship		
-SotR	Queen Elizabeth-Class Liner	36	Ship		
-SotR	Ritchey-Class Escort	44	Ship		
-SotR	Star Ray-Class Interceptor	4	Ship		
-SotR	Subsidised Merchant Type RQ	18	Ship		
-SotR	The Ghost of the Reach	15	Ship		
-SotR	Ulfhednar-Class Escort Carrier	40	Ship		
-SotR	Vulture-Class Salvage Hauler	21	Ship		
-SotR	Watchdog-Class Fleet Picket	23	Ship		
+SotR	Fast Trader, Type A3	2	Ships		
+SotR	Star Ray-Class Interceptor	4	Ships		
+SotR	Herald-Class Fast Messenger	6	Ships		
+SotR	Indigo-Class Pirate Carrier	8	Ships		
+SotR	Buccaneer-Class Blockade Runner	10	Ships		
+SotR	Fiery-Class Gunship	12	Ships		
+SotR	The Ghost of the Reach	15	Ships		
 SotR	The Ghost of the Reach	15	Zhodani		Ship
-SotR	High Guard	58	Aslan		
+SotR	Subsidised Merchant, Type RQ	18	Ships		
+SotR	Vulture-Class Salvage Hauler	21	Ships		
+SotR	Watchdog-Class Fleet Picket	23	Ships		
+SotR	Corsair	26	Ships		
+SotR	Magenta-Class Repair Ship	29	Ships		
+SotR	Patrol Tender	32	Ships		
+SotR	Queen Elizabeth-Class Liner	36	Ships		
+SotR	Ulfhednar-Class Escort Carrier	40	Ships		
+SotR	Ritchey-Class Escort	44	Ships		
+SotR	Galoof-Class Megafreighter	48	Ships		
+SotR	Planet-Class Heavy Cruiser	53	Ships		
+SotR	Space Is Not a Territory	58	Aslan		
+SotR	Clan Hospitality	58	Aslan		
 SotR	Clan Presence	58	Aslan		
+SotR	Crews	59	Aslan		
 SotR	Crew Requirements	60	Aslan		
-SotR	Shrines	61	Aslan		
+SotR	Swapping Stories	59	Aslan		
+SotR	Decoration	59	Aslan		
 SotR	Control Systems	61	Aslan		
+SotR	Shrines	61	Aslan		
+SotR	Hraye-Class Scout	62	Ships		
+SotR	Hraye-Class Scout	62	Aslan		Ships
+SotR	Ihateisho-Class Scout	64	Ships		
+SotR	Ihateisho-Class Scout	64	Aslan		Ships
+SotR	Ktiyhui-Class Courier	66	Ships		
+SotR	Ktiyhui-Class Courier	66	Aslan		Ships
+SotR	Kteiroa-Class Seeker	68	Ships		
+SotR	Kteiroa-Class Seeker	68	Aslan		Ships
+SotR	Iyeliy-Class Messenger	70	Ships		
+SotR	Iyeliy-Class Messenger	70	Aslan		Ships
+SotR	Aoa’iw-Class Light Trader	72	Ships		
+SotR	Aoa’iw-Class Light Trader	72	Aslan		Ships
+SotR	Eakhau-Class Trader	74	Ships		
+SotR	Eakhau-Class Trader	74	Aslan		Ships
+SotR	Hkiyrerao-Class Researcher	76	Ships		
+SotR	Hkiyrerao-Class Researcher	76	Aslan		Ships
+SotR	Khtukhao-Class Clan Transport	78	Ships		
+SotR	Khtukhao-Class Clan Transport	78	Aslan		Ships
+SotR	Owatarl-Class Tender	80	Ships		
+SotR	Owatarl-Class Tender	80	Aslan		Ships
+SotR	Ekawsiykua-Class Escort	82	Ships		
+SotR	Ekawsiykua-Class Escort	82	Aslan		Ships
+SotR	Aositaoh-Class Cruiser	84	Ships		
+SotR	Aositaoh-Class Cruiser	84	Aslan		Ships
+SotR	Hkisyeleaa-Class Slaver	87	Ships		
+SotR	Hkisyeleaa-Class Slaver	87	Aslan		Ships
 SotR	Low Berths	88	High Guard	No	
+SotR	Halaheike-Class Pocket Warship	90	Ships		
+SotR	Halaheike-Class Pocket Warship	90	Aslan		Ships
+SotR	Sakhai-Class Assault Carrier	93	Ships		
+SotR	Sakhai-Class Assault Carrier	93	Aslan		Ships
