@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grand Index</title>
+    <!-- Link to FontAwesome for the GitHub icon -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1, h2 {
+            color: #e10600; /* Traveller red */
+        }
+        a {
+            color: white;
+            text-decoration: underline;
+        }
+        a:hover {
+            color: #e10600; /* Hover effect for links to match the header colour */
+        }
+        footer {
+            margin-top: 50px;
+            font-size: 0.8em;
+            color: grey;
+        }
+        .container {
+            display: flex;
+            flex-direction: column;
+            margin: 20px;
+        }
+        .content {
+            flex: 3;
+            margin-right: 20px;
+        }
+        .sidebar {
+            flex: 1;
+            background-color: #333;
+            padding: 20px;
+            border-radius: 10px;
+        }
+        .flex-container {
+            display: flex;
+            flex-direction: row;
+        }
+        /* Ensure responsiveness */
+        @media screen and (max-width: 768px) {
+            .flex-container {
+                flex-direction: column;
+            }
+        }
+        .github-link {
+            display: flex;
+            align-items: center;
+            margin-top: 20px;
+        }
+        .github-link i {
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Mongoose Traveller 2<sup>nd</sup> Edition Grand Index</h1>
+        <p>The Grand Index is an attempt at indexing all Mongoose Traveller 2<sup>nd</sup> edition books. The objective is to
+        help Referees and Travellers quickly find which books reference specific topics. The index does not attempt to
+        explain the rules of Traveller, merely point someone in the right direction.</p>
+
+        <div class="flex-container">
+            <!-- Main Content -->
+            <div class="content">
+                <h2>Indexed Books</h2>
+                <p>The PDFs of the books were used when creating the index. Page numbers are the page numbers in the physical
+                books, not the PDF page numbers.</p>
+                <p>The following books are currently included in the Grand Index:</p>
+                <ul>
+                    <li>Adventure Class Ships</li>
+                    <li>Behind the Claw</li>
+                    <li>Central Supply Catalogue</li>
+                    <li>The Calixcuel Incident</li>
+                    <li>The Cordon Conflict</li>
+                    <li>Core Rulebook</li>
+                    <li>Death Station</li>
+                    <li>Deepnight Endeavour</li>
+                    <li>Drinax Companion</li>
+                    <li>Friends in Dry Places</li>
+                    <li>Gods of Marduk</li>
+                    <li>High and Dry</li>
+                    <li>High Guard</li>
+                    <li>Journal of the Travellers’ Aid Society 1-14</li>
+                    <li>Liberty Port</li>
+                    <li>Lions of Thebus</li>
+                    <li>Marooned on Marduk</li>
+                    <li>Revolution on Acrid</li>
+                    <li>Robot Handbook</li>
+                    <li>Shadows of Sindal</li>
+                    <li>Ships of the Reach</li>
+                    <li>Skandersvik</li>
+                    <li>Small Craft Catalog</li>
+                    <li>Solomani Adventure 1 – Mysteries on Arcturus Station</li>
+                    <li>The Trojan Reach</li>
+                    <li>Stranded</li>
+                    <li>Sword Worlds</li>
+                    <li>Traveller Companion</li>
+                    <li>Update 2022 FAQ</li>
+                    <li>Vehicle Handbook</li>
+                </ul>
+                <p>Please note that the Traveller Grand Index is a living document as is updated as new books are indexed.
+                However, only books that I own are being indexed, and I don't own all Mongoose Traveller 2<sup>nd</sup> edition books. As I acquire more, the index will grow over time. Stay tuned for updates!</p>
+
+                <!-- GitHub Source Link -->
+                <div class="github-link">
+                    <i class="fab fa-github"></i>
+                    <a href="https://github.com/swdevlin/mongoose-index-builder" target="_blank">View source on GitHub</a>
+                </div>
+            </div>
+
+            <!-- Downloads Section -->
+            <div class="sidebar">
+                <h2>Downloads</h2>
+                <ul>
+                    <li><a href="files/TravellerGrandIndex.pdf" download>Download Traveller Grand Index (PDF)</a></li>
+                    <li><a href="files/TravellerGrandIndex.docx" download>Download Traveller Grand Index (DOCX)</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>Traveller is a registered trademark of Far Future Enterprises. Copyright © 1977-2024 Far Future Enterprises. Traveller is used under licence. The Traveller game in all forms is owned by Far Future Enterprises. The contents of this page are for non-commercial use and are not intended to infringe upon the rights of the owners of the Traveller property.</p>
+    </footer>
+
+</body>
+</html>
