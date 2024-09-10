@@ -13,6 +13,7 @@ SHOULD_BE_PLURAL = {
 	'Drone': 'Drones',
 	'Ship': 'Ships',
 	'Vehicle': 'Vehicles',
+	'Career': 'Careers',
 }
 
 GROUP_CORRECTIONS = {
