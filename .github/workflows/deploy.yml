@@ -21,7 +21,7 @@ jobs:
     - name: Setup SSH for deployment
       uses: webfactory/ssh-agent@v0.5.3
       with:
-        ssh-private-key: ${{ secrets.rfwkey }}
+        ssh-private-key: ${{ secrets.RFWKEY }}
 
     # Step 3: Copy files to the web server using SCP
     - name: Deploy files to web server
