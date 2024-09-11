@@ -4,7 +4,10 @@ import os
 import pandas as pd
 from docx import Document
 from docx.enum.text import WD_TAB_ALIGNMENT, WD_TAB_LEADER
+from docx.oxml.ns import qn
 from docx.shared import Pt, Inches, Cm
+
+INTRO_PAGES = 4
 
 LEFT_ALIGNMENT = 0
 
@@ -28,6 +31,26 @@ TYPE_CORRECTIONS = {
 	'small craft': 'Small Craft',
 	'Small craft': 'Small Craft',
 }
+
+
+def has_page_break(para):
+	for run in para.runs:
+		if 'w:br' in run._element.xml and 'w:type="page"' in run._element.xml:
+			return True
+	return False
+
+
+def delete_existing_entries(document):
+	page_count = 1
+	position_found = False
+	for para in document.paragraphs:
+		if position_found:
+			p = para._element
+			p.getparent().remove(p)
+		else:
+			if has_page_break(para):
+				page_count += 1
+				position_found = page_count >= INTRO_PAGES
 
 
 def add_type_paragraph(document, type_name):
@@ -85,12 +108,12 @@ def add_index_line(document, topic):
 
 
 def create_traveller_index(topics, filename):
-	document = Document()
-	section = document.sections[-1]
-	section.top_margin = Inches(0.5)
-	section.bottom_margin = Inches(0.5)
-	section.left_margin = Inches(0.5)
-	section.right_margin = Inches(0.5)
+	document = Document(filename)
+	delete_existing_entries(document)
+	section = document.add_section(0)
+	sectPr = section._sectPr
+	cols = sectPr.xpath("./w:cols")[0]
+	cols.set(qn('w:num'), '2')
 
 	last_type = None
 	for index, topic in enumerate(topics):
