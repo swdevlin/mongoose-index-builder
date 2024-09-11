@@ -26,5 +26,5 @@ jobs:
     # Step 3: Copy files to the web server using SCP
     - name: Deploy files to web server
       run: |
-        scp -r *.html rfw@radiofreewaba.net:/home/rfw/site/traveller
-        scp -r *.pdf *.docx rfw@radiofreewaba.net:/home/rfw/site/traveller/files
+        scp -r static/* ${{ secrets.DEPLY_USER }}@radiofreewaba.net:${{ secrets.DEPLOY_LOCATION }}
+        scp final/* ${{ secrets.DEPLY_USER }}@radiofreewaba.net:${{ secrets.DEPLOY_LOCATION }}/files
