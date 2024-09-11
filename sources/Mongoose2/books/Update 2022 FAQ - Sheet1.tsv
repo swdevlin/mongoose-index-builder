@@ -1,13 +1,13 @@
 Document	Topic	Page	Type	Primary	Group
-U2FAQ	Dilettante	1	Career		
-U2FAQ	Noble	1	Career		
+U2FAQ	Dilettante	1	Careers		
+U2FAQ	Noble	1	Careers		
 U2FAQ	Vargr	1	Sophont		
 U2FAQ	Vacc Suit	1	Central Supply		
 U2FAQ	Nibbon	1	Bestiary		
 U2FAQ	Flak Jacker	1	Armour		
-U2FAQ	Broadsword	1	Melee Weapon		
-U2FAQ	Cutlass	1	Melee Weapon		
-U2FAQ	Laser Pistol	1	Weapon		
+U2FAQ	Broadsword	1	Weapon		Melee
+U2FAQ	Cutlass	1	Weapon		Melee
+U2FAQ	Laser Pistol	1	Weapon		Energy Pistols
 U2FAQ	Combat Armour	1	Armour		
 U2FAQ	Battle Dress	1	Armour		
 U2FAQ	Hostile Environment Vacc Suit	1	Armour		

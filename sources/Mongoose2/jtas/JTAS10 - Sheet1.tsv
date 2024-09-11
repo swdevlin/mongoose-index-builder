@@ -14,8 +14,8 @@ JTAS10	Antareans	24	Setting		Criminal Organisation
 JTAS10	Aursisia Exèrciti	26	Setting		Criminal Organisation
 JTAS10	Colyere Hajesta daMae, Duchess	26	Person		
 JTAS10	Reputation	28	Rules		
-JTAS10	Polearm	33	Weapon		
-JTAS10	Heavy Polearm	33	Weapon		
+JTAS10	Polearm	33	Weapon		Melee
+JTAS10	Heavy Polearm	33	Weapon		Melee
 JTAS10	Advanced Blade Materials	34	Central Supply		
 JTAS10	Hypersteel	34	Central Supply		
 JTAS10	Thermal	34	Central Supply		
@@ -48,7 +48,7 @@ JTAS10	Notoriety	92	Rules
 JTAS10	Iris Values	97	Setting		
 JTAS10	Iris Values	104	Rules		
 JTAS10	Shot-Popping Kit	106	Central Supply		
-JTAS10	Modified Shotgun	106	Weapon		
+JTAS10	Modified Shotgun	106	Weapon		Slug Rifles
 JTAS10	Security Hacker	107	Central Supply		
 JTAS10	Iris Valve Power Pack	107	Central Supply		
 JTAS10	Iris Valve Crank	107	Central Supply		
@@ -56,6 +56,6 @@ JTAS10	Hotwiring Fine Tools	108	Central Supply
 JTAS10	Zhodani Fleet	109	Setting		
 JTAS10	Argon Gambit, The	111	Adventure		
 JTAS10	Janosz, Harlequin	111	System	No	
-JTAS10	Truncheon	126	Weapon		
+JTAS10	Truncheon	126	Weapon		Melee
 JTAS10	Flight School	127	Career		Pre-Career
 JTAS10	Medical School	128	Career		Pre-Career

@@ -6,14 +6,14 @@ JTAS2	Purification Globe	9	Central Supply
 JTAS2	Holographic Map	10	Central Supply		
 JTAS2	Interpreter	10	Central Supply		
 JTAS2	Psi-Mask	10	Central Supply		
-JTAS2	Exo-bionic Glove	11	Central Supply		
+JTAS2	Exo-bionic Glove	11	Weapon		Melee
 JTAS2	Gene-splicer	12	Central Supply		
 JTAS2	Chrysalis Armour	13	Armour		
 JTAS2	Rhino V Assault Shield	13	Armour		
-JTAS2	Woodpecker Autopistol	15	Weapon		
-JTAS2	Mercurial Staff	15	Weapon		
-JTAS2	Bio-Gloop Gun	17	Weapon		
-JTAS2	Nova Gun	17	Weapon		
+JTAS2	Woodpecker Autopistol	15	Weapon		Slug Pistols
+JTAS2	Mercurial Staff	15	Weapon		Melee
+JTAS2	Bio-Gloop Gun	17	Weapon		Slug Rifles
+JTAS2	Nova Gun	17	Weapon		Energy Rifles
 JTAS2	Battle Fleets of the Marches	18	Setting	No	
 JTAS2	Last Flight of the Themis	26	Adventure		
 JTAS2	Intelia, Tobia	26	System		

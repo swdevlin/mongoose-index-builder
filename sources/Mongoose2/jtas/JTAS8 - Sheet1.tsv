@@ -3,7 +3,7 @@ JTAS8	Caldos, Dpres	2	System
 JTAS8	Magda Madjiyb	3	Person		
 JTAS8	Sojourner Light Trader	13	Ship		
 JTAS8	Extravehicular Activity Suit	14	Armour		
-JTAS8	Mag Cannon	19	Weapon		
+JTAS8	Mag Cannon	19	Weapon		Heavy
 JTAS8	Vishnu Zarca	21	Encounter		
 JTAS8	Guerraedzahkhue ‘Ed’ Zhaerdeng	27	Patron		
 JTAS8	Stinger SZ-100 G/Bike	31	Vehicle		
@@ -23,10 +23,11 @@ JTAS8	Trexalon Technical Consortium	45	Corporation
 JTAS8	Wahroo	70	Bestiary		
 JTAS8	Pavabid, District 268	70	System	No	
 JTAS8	Omicron: The Mythical Weaponsmith	71	Person		
-JTAS8	AN-154	72	Weapon		
-JTAS8	Omicron Laser Carbine	72	Weapon		
-JTAS8	Omicron Support DMR	74	Weapon		
-JTAS8	Omicron Airburst Rifle	75	Weapon		
+JTAS8	AN-154	72	Weapon		Slug Rifles
+JTAS8	Omicron Laser Carbine	72	Weapon		Energy Rifles
+JTAS8	Omicron Laser Carbine	72	Weapon		Energy Pistols
+JTAS8	Omicron Support DMR	74	Weapon		Slug Rifles
+JTAS8	Omicron Airburst Rifle	75	Weapon		Slug Rifles
 JTAS8	Turrets	76	High Guard		
 JTAS8	Ynchaeir	80	Bestiary		
 JTAS8	Pink Diamond	81	Ship		

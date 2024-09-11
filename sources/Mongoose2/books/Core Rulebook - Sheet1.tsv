@@ -300,46 +300,46 @@ CRB	Climate Controlled	120	Central Supply		Structure Option
 CRB	Self-ASsembling	120	Central Supply		Structure Option
 CRB	Slef-Sealing	120	Central Supply		Structure Option
 CRB	Toolkits	120	Central Supply		
-CRB	Blade	125	Melee Weapon		
-CRB	Broadsword	125	Melee Weapon		
-CRB	Club	125	Melee Weapon		
-CRB	Cutlass	125	Melee Weapon		
-CRB	Dagger	125	Melee Weapon		
-CRB	Improvised	125	Melee Weapon		
-CRB	Rapier	125	Melee Weapon		
-CRB	Shield	125	Melee Weapon		
-CRB	Staff	125	Melee Weapon		
-CRB	Stunstick	125	Melee Weapon		
-CRB	Accelerator Rifle	127	Weapon		
-CRB	Advanced Combat Rifle	127	Weapon		
-CRB	Antique Pistol	127	Weapon		
-CRB	Antique Rifle	127	Weapon		
-CRB	Autopistol	127	Weapon		
-CRB	Autorifle	127	Weapon		
-CRB	Body Pistol	127	Weapon		
-CRB	Gauss Pistol	127	Weapon		
-CRB	Gauss Rifle	127	Weapon		
-CRB	Revolver	127	Weapon		
-CRB	Rifle	127	Weapon		
-CRB	Shotgun	127	Weapon		
-CRB	Snub Pistol	127	Weapon		
-CRB	Submachine Gun	127	Weapon		
-CRB	Laser Pistol	129	Weapon		
-CRB	Laser Carbine	129	Weapon		
-CRB	Laser Rifle	129	Weapon		
-CRB	Laser Sniper Rifle	129	Weapon		
-CRB	Plasma Rifle	129	Weapon		
-CRB	Stunner	129	Weapon		
-CRB	Aerosol	131	Grenade		
-CRB	Frag	131	Grenade		
-CRB	Smoke	131	Grenade		
-CRB	Stun	131	Grenade		
-CRB	FGHP	133	Heavy Weapon		
-CRB	Grenade Launcher	133	Heavy Weapon		
-CRB	Machinegun	133	Heavy Weapon		
-CRB	PGHP	133	Heavy Weapon		
-CRB	RAM Grenade Launcher	133	Heavy Weapon		
-CRB	Rocket Launcher	133	Heavy Weapon		
+CRB	Blade	125	Weapon		Melee
+CRB	Broadsword	125	Weapon		Melee
+CRB	Club	125	Weapon		Melee
+CRB	Cutlass	125	Weapon		Melee
+CRB	Dagger	125	Weapon		Melee
+CRB	Improvised	125	Weapon		Melee
+CRB	Rapier	125	Weapon		Melee
+CRB	Shield	125	Weapon		Melee
+CRB	Staff	125	Weapon		Melee
+CRB	Stunstick	125	Weapon		Melee
+CRB	Accelerator Rifle	127	Weapon		Slug Rifles
+CRB	Advanced Combat Rifle	127	Weapon		Slug Rifles
+CRB	Antique Pistol	127	Weapon		Slug Pistols
+CRB	Antique Rifle	127	Weapon		Slug Rifles
+CRB	Autopistol	127	Weapon		Slug Pistols
+CRB	Autorifle	127	Weapon		Slug Rifles
+CRB	Body Pistol	127	Weapon		Slug Pistols
+CRB	Gauss Pistol	127	Weapon		Slug Pistols
+CRB	Gauss Rifle	127	Weapon		Slug Rifles
+CRB	Revolver	127	Weapon		Slug Pistols
+CRB	Rifle	127	Weapon		Slug Rifles
+CRB	Shotgun	127	Weapon		Slug Rifles
+CRB	Snub Pistol	127	Weapon		Slug Pistols
+CRB	Submachine Gun	127	Weapon		Slug Rifles
+CRB	Laser Pistol	129	Weapon		Energy Pistols
+CRB	Laser Carbine	129	Weapon		Energy Rifles
+CRB	Laser Rifle	129	Weapon		Energy Rifles
+CRB	Laser Sniper Rifle	129	Weapon		Energy Rifles
+CRB	Plasma Rifle	129	Weapon		Energy Rifles
+CRB	Stunner	129	Weapon		Energy Pistols
+CRB	Aerosol	131	Weapon		Grenades
+CRB	Frag	131	Weapon		Grenades
+CRB	Smoke	131	Weapon		Grenades
+CRB	Stun	131	Weapon		Grenades
+CRB	FGHP	133	Weapon		Heavy
+CRB	Grenade Launcher	133	Weapon		Heavy
+CRB	Machinegun	133	Weapon		Heavy
+CRB	PGHP	133	Weapon		Heavy
+CRB	RAM Grenade Launcher	133	Weapon		Heavy
+CRB	Rocket Launcher	133	Weapon		Heavy
 CRB	Auxiliary Grenade Launcher	135	Weapon		Option
 CRB	Gyrostabiliser	135	Weapon		Option
 CRB	Intelligent Weapon	135	Weapon		Option

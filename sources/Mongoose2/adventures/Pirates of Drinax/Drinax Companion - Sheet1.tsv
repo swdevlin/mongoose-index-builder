@@ -121,10 +121,10 @@ DC	Offworld Construction Platform	178	Central Supply
 DC	Monitor Drone	179	Central Supply		
 DC	Sindalian Deathbot	180	Robots		
 DC	Sindalian Enforcement Robot	180	Robots		
-DC	Officer’s Sword	181	Melee Weapons		
-DC	Officer’s Revolver	182	Weapons		
-DC	Breaching Gun	182	Weapons		
-DC	Boarding Gun	183	Weapons		
+DC	Officer’s Sword	181	Weapon		Melee
+DC	Officer’s Revolver	182	Weapons		Slug Pistols
+DC	Breaching Gun	182	Weapons		Slug Rifles
+DC	Boarding Gun	183	Weapons		Slug Rifles
 DC	Field Refueling Rig	184	Central Supply		Base Components
 DC	Field Reactor	184	Central Supply		Base Components
 DC	Base Control Suite	184	Central Supply		Base Components

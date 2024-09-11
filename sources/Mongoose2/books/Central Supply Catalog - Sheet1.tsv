@@ -478,141 +478,141 @@ CSC	Very Dangerous	131	Weapon		Trait
 CSC	TL0 Weapons	131	Weapon		
 CSC	Improvised Weapons	132	Rules		
 CSC	Finely Made Weapons	132	Rules		
-CSC	Anti-Armour Flail	132	Melee Weapon		
-CSC	Club	132	Melee Weapon		
-CSC	Gravity Hammer	132	Melee Weapon		
-CSC	Mace	132	Melee Weapon		
-CSC	Sap	132	Melee Weapon		
-CSC	Sledgehammer	132	Melee Weapon		
-CSC	Staff	134	Melee Weapon		
-CSC	Static Maul	134	Melee Weapon		
-CSC	Stunstick	134	Melee Weapon		
-CSC	Arc-Field Weapon	134	Melee Weapon		
-CSC	Assault Pike	134	Melee Weapon		
-CSC	Battle Axe	134	Melee Weapon		
-CSC	Blade	134	Melee Weapon		
-CSC	Broadsword	134	Melee Weapon		
-CSC	Chaindrive Axe	134	Melee Weapon		
-CSC	Chaindrive Sword	134	Melee Weapon		
-CSC	Cutlass	134	Melee Weapon		
-CSC	Dagger	134	Melee Weapon		
-CSC	Great Axe	134	Melee Weapon		
-CSC	Hatchet	134	Melee Weapon		
-CSC	Lance	134	Melee Weapon		
-CSC	Long Blade	135	Melee Weapon		
-CSC	Monoblade	135	Melee Weapon		
-CSC	Monofilament Axe	135	Melee Weapon		
-CSC	Piston Spear	135	Melee Weapon		
-CSC	Psi Blade	137	Melee Weapon		
-CSC	Psi Dagger	137	Melee Weapon		
-CSC	Rapier	137	Melee Weapon		
-CSC	Spear	137	Melee Weapon		
-CSC	Static Axe	137	Melee Weapon		
-CSC	Static Blade	137	Melee Weapon		
-CSC	Stealth Dagger	137	Melee Weapon		
-CSC	Stone Axe	137	Melee Weapon		
-CSC	War Pick	137	Melee Weapon		
-CSC	Brass Knuckles	138	Melee Weapon		
-CSC	Claw Glove	138	Melee Weapon		
-CSC	Garrotte	138	Melee Weapon		
-CSC	Handspikes	138	Melee Weapon		
-CSC	Knuckleblasters	138	Melee Weapon		
-CSC	Monofilament Garrotte	139	Melee Weapon		
-CSC	Piston Fist	139	Melee Weapon		
-CSC	Stunfist	139	Melee Weapon		
-CSC	Boarding Shield	140	Melee Weapon		
-CSC	Buckler	140	Melee Weapon		
-CSC	Expandable Shield	140	Melee Weapon		
-CSC	Gravitic Shield	140	Melee Weapon		
-CSC	Large Shield	141	Melee Weapon		
-CSC	Riot Shield	141	Melee Weapon		
-CSC	Shield	141	Melee Weapon		
-CSC	Shock Whip	141	Melee Weapon		
-CSC	Whip	141	Melee Weapon		
+CSC	Anti-Armour Flail	132	Weapon		Melee
+CSC	Club	132	Weapon		Melee
+CSC	Gravity Hammer	132	Weapon		Melee
+CSC	Mace	132	Weapon		Melee
+CSC	Sap	132	Weapon		Melee
+CSC	Sledgehammer	132	Weapon		Melee
+CSC	Staff	134	Weapon		Melee
+CSC	Static Maul	134	Weapon		Melee
+CSC	Stunstick	134	Weapon		Melee
+CSC	Arc-Field Weapon	134	Weapon		Melee
+CSC	Assault Pike	134	Weapon		Melee
+CSC	Battle Axe	134	Weapon		Melee
+CSC	Blade	134	Weapon		Melee
+CSC	Broadsword	134	Weapon		Melee
+CSC	Chaindrive Axe	134	Weapon		Melee
+CSC	Chaindrive Sword	134	Weapon		Melee
+CSC	Cutlass	134	Weapon		Melee
+CSC	Dagger	134	Weapon		Melee
+CSC	Great Axe	134	Weapon		Melee
+CSC	Hatchet	134	Weapon		Melee
+CSC	Lance	134	Weapon		Melee
+CSC	Long Blade	135	Weapon		Melee
+CSC	Monoblade	135	Weapon		Melee
+CSC	Monofilament Axe	135	Weapon		Melee
+CSC	Piston Spear	135	Weapon		Melee
+CSC	Psi Blade	137	Weapon		Melee
+CSC	Psi Dagger	137	Weapon		Melee
+CSC	Rapier	137	Weapon		Melee
+CSC	Spear	137	Weapon		Melee
+CSC	Static Axe	137	Weapon		Melee
+CSC	Static Blade	137	Weapon		Melee
+CSC	Stealth Dagger	137	Weapon		Melee
+CSC	Stone Axe	137	Weapon		Melee
+CSC	War Pick	137	Weapon		Melee
+CSC	Brass Knuckles	138	Weapon		Melee
+CSC	Claw Glove	138	Weapon		Melee
+CSC	Garrotte	138	Weapon		Melee
+CSC	Handspikes	138	Weapon		Melee
+CSC	Knuckleblasters	138	Weapon		Melee
+CSC	Monofilament Garrotte	139	Weapon		Melee
+CSC	Piston Fist	139	Weapon		Melee
+CSC	Stunfist	139	Weapon		Melee
+CSC	Boarding Shield	140	Weapon		Melee
+CSC	Buckler	140	Weapon		Melee
+CSC	Expandable Shield	140	Weapon		Melee
+CSC	Gravitic Shield	140	Weapon		Melee
+CSC	Large Shield	141	Weapon		Melee
+CSC	Riot Shield	141	Weapon		Melee
+CSC	Shield	141	Weapon		Melee
+CSC	Shock Whip	141	Weapon		Melee
+CSC	Whip	141	Weapon		Melee
 CSC	Ammunition Mass	142	Rules		
 CSC	Ammunition Mass	142	Central Supply		
 CSC	Ammunition Mass	142	Weapon		
-CSC	Antique Pistol	142	Weapon		
-CSC	Assault Pistol	142	Weapon		
-CSC	Autopistol	142	Weapon		
-CSC	Body Pistol	142	Weapon		
-CSC	Cartridge Pistol	142	Weapon		
-CSC	Coach Pistol	142	Weapon		
-CSC	Duck’s Foot Pistol	142	Weapon		
-CSC	Flechette Pistol	142	Weapon		
-CSC	Gauss Pistol	144	Weapon		
-CSC	Heavy Revolver	144	Weapon		
-CSC	Magrail Pistol	144	Weapon		
-CSC	Revolver	144	Weapon		
-CSC	Shot Pistol	144	Weapon		
-CSC	Snub Pistol	144	Weapon		
-CSC	Universal Autopistol	144	Weapon		
-CSC	Zip Gun	144	Weapon		
-CSC	Accelerator Rifle	145	Weapon		
-CSC	Advanced Combat Rifle	145	Weapon		
-CSC	Air Rifle	146	Weapon		
-CSC	Antique Rifle	146	Weapon		
-CSC	Assault Rifle	146	Weapon		
-CSC	Assault Shotgun	146	Weapon		
-CSC	Autorifle	146	Weapon		
-CSC	Big Game Rifle	146	Weapon		
-CSC	Flechette Submachine Gun	146	Weapon		
-CSC	Gauss Assault Gun	146	Weapon		
-CSC	Gauss Rifle	146	Weapon		
-CSC	Gauss Sniper Rifle	146	Weapon		
-CSC	Gauss Submachinegun	146	Weapon		
-CSC	Heavy Advanced Combat Rifle	146	Weapon		
-CSC	Magrail Rifle	146	Weapon		
-CSC	Rifle	146	Weapon		
-CSC	Sawed-off Shotgun	147	Weapon		
-CSC	Shotgun	147	Weapon		
-CSC	Light Shotgun	147	Weapon		
-CSC	Sniper Rifle	147	Weapon		
-CSC	Snub Carbine	147	Weapon		
-CSC	Spear Gun	147	Weapon		
-CSC	Submachine Gun	147	Weapon		
-CSC	Gauntlet Laser	149	Weapon		
-CSC	Hand Flamer	149	Weapon		
-CSC	Laser Pistol	149	Weapon		
-CSC	Maser Pistol	149	Weapon		
-CSC	Matter Disintegrator	150	Weapon		
-CSC	Pepper Spray	150	Weapon		
-CSC	Personal Defence Laser	150	Weapon		
-CSC	Stunner	150	Weapon		
+CSC	Antique Pistol	142	Weapon		Slug Pistols
+CSC	Assault Pistol	142	Weapon		Slug Pistols
+CSC	Autopistol	142	Weapon		Slug Pistols
+CSC	Body Pistol	142	Weapon		Slug Pistols
+CSC	Cartridge Pistol	142	Weapon		Slug Pistols
+CSC	Coach Pistol	142	Weapon		Slug Pistols
+CSC	Duck’s Foot Pistol	142	Weapon		Slug Pistols
+CSC	Flechette Pistol	142	Weapon		Slug Pistols
+CSC	Gauss Pistol	144	Weapon		Slug Pistols
+CSC	Heavy Revolver	144	Weapon		Slug Pistols
+CSC	Magrail Pistol	144	Weapon		Slug Pistols
+CSC	Revolver	144	Weapon		Slug Pistols
+CSC	Shot Pistol	144	Weapon		Slug Pistols
+CSC	Snub Pistol	144	Weapon		Slug Pistols
+CSC	Universal Autopistol	144	Weapon		Slug Pistols
+CSC	Zip Gun	144	Weapon		Slug Pistols
+CSC	Accelerator Rifle	145	Weapon		Slug Rifles
+CSC	Advanced Combat Rifle	145	Weapon		Slug Rifles
+CSC	Air Rifle	146	Weapon		Slug Rifles
+CSC	Antique Rifle	146	Weapon		Slug Rifles
+CSC	Assault Rifle	146	Weapon		Slug Rifles
+CSC	Assault Shotgun	146	Weapon		Slug Rifles
+CSC	Autorifle	146	Weapon		Slug Rifles
+CSC	Big Game Rifle	146	Weapon		Slug Rifles
+CSC	Flechette Submachine Gun	146	Weapon		Slug Rifles
+CSC	Gauss Assault Gun	146	Weapon		Slug Rifles
+CSC	Gauss Rifle	146	Weapon		Slug Rifles
+CSC	Gauss Sniper Rifle	146	Weapon		Slug Rifles
+CSC	Gauss Submachinegun	146	Weapon		Slug Rifles
+CSC	Heavy Advanced Combat Rifle	146	Weapon		Slug Rifles
+CSC	Magrail Rifle	146	Weapon		Slug Rifles
+CSC	Rifle	146	Weapon		Slug Rifles
+CSC	Sawed-off Shotgun	147	Weapon		Slug Rifles
+CSC	Shotgun	147	Weapon		Slug Rifles
+CSC	Light Shotgun	147	Weapon		Slug Rifles
+CSC	Sniper Rifle	147	Weapon		Slug Rifles
+CSC	Snub Carbine	147	Weapon		Slug Rifles
+CSC	Spear Gun	147	Weapon		Slug Rifles
+CSC	Submachine Gun	147	Weapon		Slug Rifles
+CSC	Gauntlet Laser	149	Weapon		Energy Pistols
+CSC	Hand Flamer	149	Weapon		Energy Pistols
+CSC	Laser Pistol	149	Weapon		Energy Pistols
+CSC	Maser Pistol	149	Weapon		Energy Pistols
+CSC	Matter Disintegrator	150	Weapon		Energy Pistols
+CSC	Pepper Spray	150	Weapon		Energy Pistols
+CSC	Personal Defence Laser	150	Weapon		Energy Pistols
+CSC	Stunner	150	Weapon		Energy Pistols
 CSC	Energy Weapons	149	Weapon		
 CSC	Energy Weapons	149	Central Supply		
 CSC	Slug Throwers	142	Weapon		
 CSC	Slug Throwers	142	Central Supply		
-CSC	Cartridge Laser Carbine	151	Weapon		
-CSC	Cartridge Laser Rifle	151	Weapon		
-CSC	Cryo Rifle	151	Weapon		
-CSC	Flame Rifle	151	Weapon		
-CSC	Heavy Laser Rifle	151	Weapon		
-CSC	Ion Rifle	151	Weapon		
-CSC	Laser Carbine	151	Weapon		
-CSC	Laser Rifle	151	Weapon		
-CSC	Laser Sniper Rifle	151	Weapon		
-CSC	Maser Rifle	152	Weapon		
-CSC	Plasma Rifle	152	Weapon		
-CSC	Solar Beam Rifle	152	Weapon		
-CSC	Stagger Laser Rifle	152	Weapon		
-CSC	Stun Blaster (beam)	152	Weapon		
-CSC	Stun Blaster (blast)	152	Weapon		
-CSC	Stun Carbine	152	Weapon		
-CSC	Atlatl	154	Weapon		
-CSC	Compound Cam Bow	154	Weapon		
-CSC	Crossbow	154	Weapon		
-CSC	Dart	154	Weapon		
-CSC	Javelin	154	Weapon		
-CSC	Long Bow	154	Weapon		
-CSC	Repeating Crossbow	154	Weapon		
-CSC	Short Bow	154	Weapon		
-CSC	Bolas	155	Weapon		
-CSC	Boomerang	155	Weapon		
-CSC	Monofilament Bolas	155	Weapon		
-CSC	Monofilament Net	155	Weapon		
-CSC	Net	156	Weapon		
-CSC	Sling	156	Weapon		
+CSC	Cartridge Laser Carbine	151	Weapon		Energy Rifles
+CSC	Cartridge Laser Rifle	151	Weapon		Energy Rifles
+CSC	Cryo Rifle	151	Weapon		Energy Rifles
+CSC	Flame Rifle	151	Weapon		Energy Rifles
+CSC	Heavy Laser Rifle	151	Weapon		Energy Rifles
+CSC	Ion Rifle	151	Weapon		Energy Rifles
+CSC	Laser Carbine	151	Weapon		Energy Rifles
+CSC	Laser Rifle	151	Weapon		Energy Rifles
+CSC	Laser Sniper Rifle	151	Weapon		Energy Rifles
+CSC	Maser Rifle	152	Weapon		Energy Rifles
+CSC	Plasma Rifle	152	Weapon		Energy Rifles
+CSC	Solar Beam Rifle	152	Weapon		Energy Rifles
+CSC	Stagger Laser Rifle	152	Weapon		Energy Rifles
+CSC	Stun Blaster (beam)	152	Weapon		Energy Rifles
+CSC	Stun Blaster (blast)	152	Weapon		Energy Rifles
+CSC	Stun Carbine	152	Weapon		Energy Rifles
+CSC	Atlatl	154	Weapon		Archaic
+CSC	Compound Cam Bow	154	Weapon		Archaic
+CSC	Crossbow	154	Weapon		Archaic
+CSC	Dart	154	Weapon		Archaic
+CSC	Javelin	154	Weapon		Archaic
+CSC	Long Bow	154	Weapon		Archaic
+CSC	Repeating Crossbow	154	Weapon		Archaic
+CSC	Short Bow	154	Weapon		Archaic
+CSC	Bolas	155	Weapon		Archaic
+CSC	Boomerang	155	Weapon		Archaic
+CSC	Monofilament Bolas	155	Weapon		Archaic
+CSC	Monofilament Net	155	Weapon		Archaic
+CSC	Net	156	Weapon		Archaic
+CSC	Sling	156	Weapon		Archaic
 CSC	Grenades	157	Weapon		
 CSC	Aerosol	157	Weapon		Grenades
 CSC	Chemical	157	Weapon		Grenades
@@ -633,34 +633,34 @@ CSC	Neutrino Detonator	159	Weapon		Explosives
 CSC	Plastic Explosive	159	Weapon		Explosives
 CSC	Pocket Nuke	159	Weapon		Explosives
 CSC	TDX	159	Weapon		Explosives
-CSC	Anti-Material Rifle	160	Weapon		
-CSC	Assault Rocket Launcher	160	Weapon		
-CSC	Cartridge Portable Plasma Gun	160	Weapon		
-CSC	Cryojet	160	Weapon		
-CSC	Disposable Plasma Launcher	160	Weapon		
-CSC	Early Machinegun	160	Weapon		
-CSC	FGHP	160	Weapon		
-CSC	Flamethrower	160	Weapon		
-CSC	Grenade Launcher	160	Weapon		
-CSC	Light Assault Gun	161	Weapon		
-CSC	Light Gatling Laser	161	Weapon		
-CSC	Machinegun	161	Weapon		
-CSC	Plasma Jet	161	Weapon		
-CSC	RAM Grenade Launcher	161	Weapon		
-CSC	Rapid-Fire Machinegun	161	Weapon		
-CSC	Rocket Launcher	161	Weapon		
+CSC	Anti-Material Rifle	160	Weapon		Heavy
+CSC	Assault Rocket Launcher	160	Weapon		Heavy
+CSC	Cartridge Portable Plasma Gun	160	Weapon		Heavy
+CSC	Cryojet	160	Weapon		Heavy
+CSC	Disposable Plasma Launcher	160	Weapon		Heavy
+CSC	Early Machinegun	160	Weapon		Heavy
+CSC	FGHP	160	Weapon		Heavy
+CSC	Flamethrower	160	Weapon		Heavy
+CSC	Grenade Launcher	160	Weapon		Heavy
+CSC	Light Assault Gun	161	Weapon		Heavy
+CSC	Light Gatling Laser	161	Weapon		Heavy
+CSC	Machinegun	161	Weapon		Heavy
+CSC	Plasma Jet	161	Weapon		Heavy
+CSC	RAM Grenade Launcher	161	Weapon		Heavy
+CSC	Rapid-Fire Machinegun	161	Weapon		Heavy
+CSC	Rocket Launcher	161	Weapon		Heavy
 CSC	Forward Observers	164	Rules		
-CSC	Black Powder Mortar	164	Weapon		
-CSC	Bombardment Gun	164	Weapon		
-CSC	Demolition Gun	164	Weapon		
-CSC	Heavy Bombardment Gun	164	Weapon		
-CSC	Heavy Gun	164	Weapon		
-CSC	Infantry Mortar	164	Weapon		
-CSC	Light Howitzer	166	Weapon		
-CSC	Light Gun	166	Weapon		
-CSC	Mass Driver	166	Weapon		
-CSC	Siege Gun	166	Weapon		
-CSC	Support Mortar	166	Weapon		
+CSC	Black Powder Mortar	164	Weapon		Artillery Weapons
+CSC	Bombardment Gun	164	Weapon		Artillery Weapons
+CSC	Demolition Gun	164	Weapon		Artillery Weapons
+CSC	Heavy Bombardment Gun	164	Weapon		Artillery Weapons
+CSC	Heavy Gun	164	Weapon		Artillery Weapons
+CSC	Infantry Mortar	164	Weapon		Artillery Weapons
+CSC	Light Howitzer	166	Weapon		Artillery Weapons
+CSC	Light Gun	166	Weapon		Artillery Weapons
+CSC	Mass Driver	166	Weapon		Artillery Weapons
+CSC	Siege Gun	166	Weapon		Artillery Weapons
+CSC	Support Mortar	166	Weapon		Artillery Weapons
 CSC	Artillery Weapons	164	Weapon		
 CSC	Artillery Weapons	164	Rules		
 CSC	Aerospace Defence Laser	168	Vehicle Workshop		Weapons

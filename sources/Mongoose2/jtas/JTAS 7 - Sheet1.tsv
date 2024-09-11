@@ -7,9 +7,9 @@ JTAS7	Character Creation, Deepnight Revelation	17	Rules
 JTAS7	Izikai Nafir, Dr.	22	Encounter		
 JTAS7	Golden Dawn Yacht	25	Ship		
 JTAS7	Initial 24	31	Setting		
-JTAS7	Revcart Pistol	32	Weapon		
-JTAS7	Revcart Shotgun	32	Weapon		
-JTAS7	Short Semi-Carbine	32	Weapon		
+JTAS7	Revcart Pistol	32	Weapon		Slug Pistols
+JTAS7	Revcart Shotgun	32	Weapon		Slug Rifles
+JTAS7	Short Semi-Carbine	32	Weapon		Slug Rifles
 JTAS7	Compensator	32	Weapon		Modifier
 JTAS7	Standard Cases	33	Weapon		
 JTAS7	Executive Cases	35	Weapon		
@@ -42,8 +42,8 @@ JTAS7	Ongozzaen Arms	103	Setting
 JTAS7	Kozvurrouk Secret Service	105	Setting	No	
 JTAS7	Infiniti Arms	108	Setting		
 JTAS7	General Development Corporation	108	Megacorporation	No	
-JTAS7	Stunner	109	Weapon		
-JTAS7	Stazer	109	Weapon		
+JTAS7	Stunner	109	Weapon		Energy Pistols
+JTAS7	Stazer	109	Weapon		Energy Pistols
 JTAS7	Vald, Vald	110	System		
 JTAS7	Harlari	110	Bestiary		
 JTAS7	Iderati, Five Sisters	112	System	No	

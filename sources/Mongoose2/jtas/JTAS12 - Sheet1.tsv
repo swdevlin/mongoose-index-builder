@@ -59,9 +59,9 @@ JTAS12	Gorte-Class Battle Rider	78	Ship
 JTAS12	Gorte-Class Battle Tender	84	Ship		
 JTAS12	Hhkar	90	Sophont		
 JTAS12	Translator Pad, Hhkar	102	Central Supply		
-JTAS12	Hrrak!k Battle Axe	102	Weapon		
-JTAS12	Sraaa!k Gauss Rifle	103	Weapon		
-JTAS12	Sraaaprt Gauss Pistol	103	Weapon		
+JTAS12	Hrrak!k Battle Axe	102	Weapon		Melee
+JTAS12	Sraaa!k Gauss Rifle	103	Weapon		Slug Rifles
+JTAS12	Sraaaprt Gauss Pistol	103	Weapon		Slug Pistols
 JTAS12	Menderes Corporation	103	Corporation		
 JTAS12	Hhkar Sublight Drive Systems	104	High Guard		
 JTAS12	Adrift	108	Adventure		

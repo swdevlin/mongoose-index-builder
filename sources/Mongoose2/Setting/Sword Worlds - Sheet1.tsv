@@ -154,23 +154,23 @@ SW	Turunmaa-Class Fighter	116	Sword Worlds Confederation		Small Craft
 SW	Rauma-Class Utility Boat	118	Sword Worlds Confederation		Small Craft
 SW	Tjell-Class Shuttle	120	Sword Worlds Confederation		Small Craft
 SW	Draug-Class Torpedo Boat	122	Sword Worlds Confederation		Small Craft
-SW	Aluksen Ase	160	Weapon		
+SW	Aluksen Ase	160	Weapon		Slug Rifles
 SW	Aluksen Ase	160	Sword Worlds Confederation		Weapon
-SW	Holmgang Sword	160	Melee Weapon		
+SW	Holmgang Sword	160	Weapon		Melee
 SW	Holmgang Sword	160	Sword Worlds Confederation		Melee Weapon
-SW	Jaegergevar	161	Weapon		
+SW	Jaegergevar	161	Weapon		Slug Rifles
 SW	Jaegergevar	161	Sword Worlds Confederation		Weapon
-SW	Jaegerkarbin	161	Weapon		
+SW	Jaegerkarbin	161	Weapon		Slug Rifles
 SW	Jaegerkarbin	161	Sword Worlds Confederation		Weapon
-SW	Palvelupistooli	161	Weapon		
+SW	Palvelupistooli	161	Weapon		Slug Pistols
 SW	Palvelupistooli	161	Sword Worlds Confederation		Weapon
-SW	Seax	162	Weapon		
+SW	Seax	162	Weapon		Melee
 SW	Seax	162	Sword Worlds Confederation		Weapon
-SW	VM-11	162	Weapon		
+SW	VM-11	162	Weapon		Slug Rifles
 SW	VM-11	162	Sword Worlds Confederation		Weapon
-SW	Vaerktojsoks	163	Melee Weapon		
+SW	Vaerktojsoks	163	Weapon		Melee
 SW	Vaerktojsoks	163	Sword Worlds Confederation		Melee Weapon
-SW	VPF	163	Weapon		
+SW	VPF	163	Weapon		Slug Rifles
 SW	VPF	163	Sword Worlds Confederation		Weapon
 SW	Active Vehicle Protection System	164	Vehicle Workshop		Weapons
 SW	Passive Vehicle Protection System	164	Vehicle Workshop		Weapons

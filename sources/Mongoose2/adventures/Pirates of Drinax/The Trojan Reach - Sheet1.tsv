@@ -226,47 +226,47 @@ TTR	Soisu’soi	111	Weapon		Melee
 TTR	Assassin’s Blade	111	Weapon		Melee
 TTR	Assassin’s Blade	111	Aslan		Weapon
 TTR	Taleryu	111	Aslan		Weapon
-TTR	Taleryu	111	Weapon		
-TTR	Crescent Blade	111	Weapon		
+TTR	Taleryu	111	Weapon		Melee
+TTR	Crescent Blade	111	Weapon		Melee
 TTR	Crescent Blade	111	Aslan		Weapon
-TTR	Fierah	111	Weapon		
+TTR	Fierah	111	Weapon		Melee
+TTR	Fierah	111	Weapon		Archaic
 TTR	Fierah	111	Aslan		Weapon
-TTR	Hi’asoi	112	Weapon		
+TTR	Hi’asoi	112	Weapon		Melee
 TTR	Hi’asoi	112	Aslan		Weapon
-TTR	Monkey Knife	112	Weapon		
+TTR	Monkey Knife	112	Weapon		Melee
 TTR	Setting	112	Aslan		Weapon
 TTR	Weapons of Honour	111	Aslan		
-TTR	Melee	111	Weapon		
-TTR	Reaver’s Axe	112	Weapon		
+TTR	Reaver’s Axe	112	Weapon		Melee
 TTR	Reaver’s Axe	112	Aslan		Weapon
-TTR	Yuhaih	112	Weapon		
+TTR	Yuhaih	112	Weapon		Melee
 TTR	Yuhaih	112	Aslan		Weapon
-TTR	Spear-hook	112	Weapon		
+TTR	Spear-hook	112	Weapon		Melee
 TTR	Spear-hook	112	Aslan		Weapon
-TTR	Yurletya	112	Weapon		
+TTR	Yurletya	112	Weapon		Melee
 TTR	Yurletya	112	Aslan		Weapon
 TTR	Weapons of the Hunt	113	Aslan		
 TTR	Slug Throwers	113	Weapon		
 TTR	Yeheal Autorifle	113	Aslan		Weapon
-TTR	Yeheal Autorifle	113	Weapon		
+TTR	Yeheal Autorifle	113	Weapon		Slug Rifles
 TTR	Trakhtyaua	113	Aslan		Weapon
-TTR	Trakhtyaua	113	Weapon		
+TTR	Trakhtyaua	113	Weapon		Energy Pistols
 TTR	Triluealikhe	113	Aslan		Weapon
-TTR	Triluealikhe	113	Weapon		
+TTR	Triluealikhe	113	Weapon		Energy Rifles
 TTR	Trolitakheal	113	Aslan		Weapon
-TTR	Trolitakheal	113	Weapon		
+TTR	Trolitakheal	113	Weapon		Energy Rifles
 TTR	Heavy Weapon	114	Aslan		Weapon
-TTR	Heavy Weapon	114	Weapon		
+TTR	Heavy Weapon	114	Weapon		Heavy
 TTR	Gravity Spear	114	Aslan		Weapon
-TTR	Gravity Spear	114	Weapon		
+TTR	Gravity Spear	114	Weapon		Heavy
 TTR	Hlaulrakh	114	Aslan		Weapon
-TTR	Hlaulrakh	114	Weapon		
+TTR	Hlaulrakh	114	Weapon		Heavy
 TTR	Plasma Streamer	114	Aslan		Weapon
-TTR	Plasma Streamer	114	Weapon		
+TTR	Plasma Streamer	114	Weapon		Heavy
 TTR	Wye’oiheasarl	114	Aslan		Weapon
-TTR	Wye’oiheasarl	114	Weapon		
+TTR	Wye’oiheasarl	114	Weapon		Heavy
 TTR	Taoyuhrir Heavy Machinegun	114	Aslan		Weapon
-TTR	Taoyuhrir Heavy Machinegun	114	Weapon		
+TTR	Taoyuhrir Heavy Machinegun	114	Weapon		Heavy
 TTR	Clawbike	116	Vehicle		
 TTR	Clawbike	116	Aslan		Vehicle
 TTR	Crawler	117	Vehicle		

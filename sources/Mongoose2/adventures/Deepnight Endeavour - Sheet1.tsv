@@ -11,8 +11,8 @@ DE	Dakh Moralder	34	Person
 DE	Jarla Kleine	38	Person		
 DE	Andrea Ricardssen	40	Person		
 DE	Trennance Zedehlale	41	Person		
-DE	Snub Revolver	55	Weapon		
-DE	Snub Carbine	55	Weapon		
+DE	Snub Revolver	55	Weapon		Slug Pistols
+DE	Snub Carbine	55	Weapon		Slug Rifles
 DE	Bridge Faction	32	NPCs		
 DE	Engineering Faction	34	NPCs		
 DE	Mission Faction	37	NPCs		

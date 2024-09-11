@@ -12,19 +12,19 @@ JTAS9	Shimmerlight luxury sealed air/raft	20	Vehicle
 JTAS9	Duelling	22	Rules		
 JTAS9	Aasamlaga, Ot Zell	29	System		
 JTAS9	Rat Patrol	36	Adventure		
-JTAS9	Air Rifle	41	Weapon		
+JTAS9	Air Rifle	41	Weapon		Slug Rifles
 JTAS9	Auger	42	Bestiary		
 JTAS9	Quetzl	43	Bestiary		
 JTAS9	Stavraki & Satyros Free Mining Collective	44	Corporation		
 JTAS9	Telchine Mining Craft	44	Small craft		
 JTAS9	Rhea Ore Barge	47	Ship		
 JTAS9	Zadony-Tessen Survival Armaments Inc.	51	Corporation		
-JTAS9	ZT-18 Survnaut Pistol	51	Weapon		
-JTAS9	ZT-28 Survnaut Revolver	52	Weapon		
-JTAS9	ZT-28 Survnaut Rifle	52	Weapon		
-JTAS9	ZT-28 Survnaut Laser	52	Weapon		
-JTAS9	ZT-38 Survnaut Carbine	53	Weapon		
-JTAS9	ZT-Survnaut Hatchet	53	Weapon		
+JTAS9	ZT-18 Survnaut Pistol	51	Weapon		Slug Pistols
+JTAS9	ZT-28 Survnaut Revolver	52	Weapon		Slug Pistols
+JTAS9	ZT-28 Survnaut Rifle	52	Weapon		Slug Rifles
+JTAS9	ZT-28 Survnaut Laser	52	Weapon		Energy Pistols
+JTAS9	ZT-38 Survnaut Carbine	53	Weapon		Slug Rifles
+JTAS9	ZT-Survnaut Hatchet	53	Weapon		Slug Rifles
 JTAS9	Alkisatl	54	Encounter		
 JTAS9	Zhodani	54	Sophont	No	
 JTAS9	Ludriiepr	57	Person		
