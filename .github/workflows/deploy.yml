@@ -1,0 +1,30 @@
+name: Deploy to Web Server
+
+on:
+  push:
+    paths:
+      - '*.html'
+      - '*.pdf'
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Step 1: Checkout the repository
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    # Step 2: Set up SSH key
+    - name: Setup SSH for deployment
+      uses: webfactory/ssh-agent@v0.5.3
+      with:
+        ssh-private-key: ${{ secrets.RFWKEY }}
+
+    # Step 3: Copy files to the web server using SCP
+    - name: Deploy files to web server
+      run: |
+        scp -r static/* ${{ secrets.DEPLY_USER }}@radiofreewaba.net:${{ secrets.DEPLOY_LOCATION }}
+        scp final/* ${{ secrets.DEPLY_USER }}@radiofreewaba.net:${{ secrets.DEPLOY_LOCATION }}/files
