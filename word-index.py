@@ -25,7 +25,8 @@ GROUP_CORRECTIONS = {
 
 # Bulk correct entries with the incorrect type
 TYPE_CORRECTIONS = {
-	'small craft': 'Small Craft'
+	'small craft': 'Small Craft',
+	'Small craft': 'Small Craft',
 }
 
 
