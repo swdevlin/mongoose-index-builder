@@ -122,9 +122,9 @@ DC	Monitor Drone	179	Central Supply
 DC	Sindalian Deathbot	180	Robots		
 DC	Sindalian Enforcement Robot	180	Robots		
 DC	Officer’s Sword	181	Weapon		Melee
-DC	Officer’s Revolver	182	Weapons		Slug Pistols
-DC	Breaching Gun	182	Weapons		Slug Rifles
-DC	Boarding Gun	183	Weapons		Slug Rifles
+DC	Officer’s Revolver	182	Weapon		Slug Pistols
+DC	Breaching Gun	182	Weapon		Slug Rifles
+DC	Boarding Gun	183	Weapon		Slug Rifles
 DC	Field Refueling Rig	184	Central Supply		Base Components
 DC	Field Reactor	184	Central Supply		Base Components
 DC	Base Control Suite	184	Central Supply		Base Components
