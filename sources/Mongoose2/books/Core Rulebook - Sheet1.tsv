@@ -12,18 +12,18 @@ CRB	Contacts	19	Rules
 CRB	Allies	19	Rules		
 CRB	Rivals	19	Rules		
 CRB	Enemies	19	Rules		
-CRB	Agent	22	Career		
-CRB	Army	24	Career		
-CRB	Citizen	26	Career		
-CRB	Drifter	28	Career		
-CRB	Entertainer	30	Career		
-CRB	Marine	32	Career		
-CRB	Merchant	34	Career		
-CRB	Navy	36	Career		
-CRB	Noble	38	Career		
-CRB	Rogue	40	Career		
-CRB	Scholar	42	Career		
-CRB	Scout	44	Career		
+CRB	Agent	22	Career		3rd Imperium
+CRB	Army	24	Career		3rd Imperium
+CRB	Citizen	26	Career		3rd Imperium
+CRB	Drifter	28	Career		3rd Imperium
+CRB	Entertainer	30	Career		3rd Imperium
+CRB	Marine	32	Career		3rd Imperium
+CRB	Merchant	34	Career		3rd Imperium
+CRB	Navy	36	Career		3rd Imperium
+CRB	Noble	38	Career		3rd Imperium
+CRB	Rogue	40	Career		3rd Imperium
+CRB	Scholar	42	Career		3rd Imperium
+CRB	Scout	44	Career		3rd Imperium
 CRB	Life Events	46	Rules		
 CRB	Benefits	46	Rules		
 CRB	Ship Shares	48	Rules		
@@ -44,7 +44,7 @@ CRB	Medical Debt	52	Rules
 CRB	Aslan	53	Rules		
 CRB	Vargr	54	Rules		
 CRB	Training	55	Rules		
-CRB	Prisoner	56	Career		
+CRB	Prisoner	56	Career		3rd Imperium
 CRB	Task Checks	58	Rules		
 CRB	Task Difficulties	60	Rules		
 CRB	Boon	61	Rules		
@@ -540,7 +540,7 @@ CRB	Psionic Inhibitor	235	Rules		Drug
 CRB	Psionic Shield	235	Central Supply		
 CRB	Psionic Interface	235	Central Supply		
 CRB	Teleportation Suit	235	Central Supply		
-CRB	Psion	236	Career		
+CRB	Psion	236	Careers		3rd Imperium
 CRB	High Passage	238	Rules		
 CRB	Middle Passage	238	Rules		
 CRB	Low Passage	238	Rules		

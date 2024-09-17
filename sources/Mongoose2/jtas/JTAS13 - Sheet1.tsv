@@ -6,7 +6,9 @@ JTAS13	Casper Ponchito	6	Person
 JTAS13	Brock Landau	7	Person		
 JTAS13	Star Angel Ambulance Pinnace	8	Small Craft		
 JTAS13	Mewey	11	Sophont		
+JTAS13	Travellers	11	Sophont		Mewey
 JTAS13	Aiaokhtaoestiyh Kyoawaihoawea Yu	11	Corporation	No	
+JTAS13	Vaʻaukana	13	Setting		
 JTAS13	Fashion In the Imperium	19	Setting		
 JTAS13	Tunic and Toga, with Sandals	19	Central Supply		
 JTAS13	Ornamental Jewellery	20	Central Supply		
@@ -25,7 +27,8 @@ JTAS13	Assets	34	Rules
 JTAS13	Portfolio	35	Rules		
 JTAS13	Bank Account Savings	40	Rules		
 JTAS13	Hi-Ex Solutions	41	Setting		Bounty Hunter Agency
-JTAS13	Scrap Combat Robot	48	Robot		
+JTAS13	Mercenary	45	NPCs		
+JTAS13	Scrap Combat Robot	48	Robots		
 JTAS13	Starleaper Yacht	50	Ship		
 JTAS13	Hkiyrerao Passage, The	54	Setting		
 JTAS13	Tralyeaeawi	54	Aslan	No	Clan
@@ -33,7 +36,7 @@ JTAS13	Mudushiir (Mudu) Nikoladze	58	Encounter
 JTAS13	Fourth Frontier War Museum	61	Setting		
 JTAS13	Alternative	65	Skill		
 JTAS13	Alternative Skills	65	Rules		
-JTAS13	Melee (fencing)	66	Skill	No	
+JTAS13	Fencing	66	Skill	No	Melee
 JTAS13	Profession	66	Skill	No	
 JTAS13	Academic	66	Skill		Profession
 JTAS13	Crewmember	66	Skill		Profession
@@ -57,18 +60,18 @@ JTAS13	Ground	69	Skill		Tactics
 JTAS13	Naval	69	Skill		Tactics
 JTAS13	Political	69	Skill		Tactics
 JTAS13	Ralonya	70	Bestiary		
-JTAS13	Art College	71	Career		Pre-Career
+JTAS13	Art College	71	Careers		Pre-Career
 JTAS13	Gap Years	72	Rules		
-JTAS13	Pilot Controls, Customising 	73	Setting		
+JTAS13	Pilot Controls	73	Setting		
 JTAS13	Healthcare	75	Rules		
-JTAS13	Battle Dress: Bio-Sensor	82	Central Supply		
-JTAS13	Battle Dress: Coded Lock	82	Central Supply		
-JTAS13	Battle Dress: Halo Antenna	82	Central Supply		
-JTAS13	Battle Dress: Jammer Suite	82	Central Supply		
-JTAS13	Battle Dress: Lethal Response System	83	Central Supply		
-JTAS13	Battle Dress: Mule Harness	83	Central Supply		
-JTAS13	Battle Dress: Trace Beacon	83	Central Supply		
-JTAS13	Battle Dress: Warblades	83	Central Supply		
+JTAS13	Bio-Sensor	82	Central Supply		Battle Dress Modification
+JTAS13	Coded Lock	82	Central Supply		Battle Dress Modification
+JTAS13	Halo Antenna	82	Central Supply		Battle Dress Modification
+JTAS13	Jammer Suite	82	Central Supply		Battle Dress Modification
+JTAS13	Lethal Response System	83	Central Supply		Battle Dress Modification
+JTAS13	Mule Harness	83	Central Supply		Battle Dress Modification
+JTAS13	Trace Beacon	83	Central Supply		Battle Dress Modification
+JTAS13	Warblades	83	Central Supply		Battle Dress Modification
 JTAS13	Kamsii Solar Race, The	84	Adventure		
 JTAS13	Kamsii, Dingtra	84	System	No	
 JTAS13	Kamsii Business Corporations	84	Corporation		
@@ -82,8 +85,12 @@ JTAS13	Proscristinol	89	Central Supply
 JTAS13	Rescotil	89	Central Supply		
 JTAS13	Geblas Elderfi	97	Person		
 JTAS13	Darren Slack	97	Person		
+JTAS13	Hoodlum	98	NPCs		
+JTAS13	Security Enforcer	108	NPCs		
+JTAS13	Radical	112	NPCs		
 JTAS13	Kevlar Strom	112	Person		
-JTAS13	Carpets and Decking	116	Setting		
+JTAS13	Carpets and Decking	116	High Guard		
 JTAS13	Farm-Crawler	120	Vehicle		
 JTAS13	Viktorn	122	Bestiary		
 JTAS13	Fencing Illegal Goods	123	Rules		
+JTAS13	Fences	127	Rules		

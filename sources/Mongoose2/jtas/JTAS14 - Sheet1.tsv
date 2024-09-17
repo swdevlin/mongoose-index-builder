@@ -8,7 +8,7 @@ JTAS14	Personality Wafers	10	Setting
 JTAS14	Tour of the Free Trader	12	Setting		
 JTAS14	Luriani	15	Sophont	No	
 JTAS14	Gukhii-Class Fighter	17	Small craft		
-JTAS14	Arant-class Ketch	19	Ship		
+JTAS14	Arant-Class Ketch	19	Ship		
 JTAS14	Tracey-Class Longship	21	Ship		
 JTAS14	Chi-Ger	24	Bestiary		
 JTAS14	Mewey Empire	25	Polity		
@@ -30,8 +30,9 @@ JTAS14	Larshel	76	Bestiary
 JTAS14	Church of the Chosen Ones	77	Setting		Religion
 JTAS14	Church of the Chosen Ones	77	Vargr		Religion
 JTAS14	Culture	77	Vargr	No	
-JTAS14	Ancient Device	77	Ancients		
+JTAS14	Church of the Chosen Ones Holy Book	77	Ancients		Devices
 JTAS14	The Star Hammer	82	Encounter		
+JTAS14	The Star Hammer	82	Setting		Ship Encounters
 JTAS14	Shield-Class Far Trader	82	Ship		
 JTAS14	Patwah Luov	89	Setting		
 JTAS14	Bertman Grainge III	90	Setting		
@@ -54,9 +55,9 @@ JTAS14	Hofud Diet	118	Setting
 JTAS14	Dyrnwyn, Sword Worlds	118	System	No	
 JTAS14	Isochronal Aslanen Diet	119	Setting		
 JTAS14	Engrange, Darrian	119	System	No	
-JTAS14	Ship's Cart	121	Vehicle		
-JTAS14	Scooter	123	Vehicle		
-JTAS14	Ship's Bike	124	Vehicle		
-JTAS14	Grav Cart	125	Vehicle		
-JTAS14	Ship's Bot	127	Robot		
-JTAS14	Cargo Lifter	128	Robot		
+JTAS14	Ship's Cart	121	Vehicles		
+JTAS14	Scooter	123	Vehicles		
+JTAS14	Ship's Bike	124	Vehicles		
+JTAS14	Grav Cart	125	Vehicles		
+JTAS14	Ship's Bot	127	Robots		
+JTAS14	Cargo Lifter	128	Robots		

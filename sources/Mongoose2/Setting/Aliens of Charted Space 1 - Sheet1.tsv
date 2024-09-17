@@ -1,0 +1,583 @@
+Document	Topic	Page	Type	Primary	Group
+AoCS1	Physiology	4	Aslan		
+AoCS1	Lifespan	5	Aslan		
+AoCS1	Diet	5	Aslan		
+AoCS1	Society	5	Aslan		
+AoCS1	Family Structure	5	Aslan		
+AoCS1	Beliefs	6	Aslan		
+AoCS1	Duelling	6	Aslan		
+AoCS1	Honour	6	Aslan		
+AoCS1	Feuds	8	Aslan		
+AoCS1	Reaction	9	Aslan		
+AoCS1	Creating Aslan Worlds	10	Aslan		
+AoCS1	Military	10	Aslan		
+AoCS1	Language	10	Aslan		
+AoCS1	Trokh	11	Aslan		
+AoCS1	Mathematics	11	Aslan		
+AoCS1	Atekteia	13	Bestiary		
+AoCS1	Aua	13	Bestiary		
+AoCS1	Aua’Ka	13	Bestiary		
+AoCS1	Khekha	14	Bestiary		
+AoCS1	Khta	14	Bestiary		
+AoCS1	Stii	14	Bestiary		
+AoCS1	Travellers	15	Aslan		
+AoCS1	Gender	15	Aslan		Travellers
+AoCS1	Clan	15	Aslan		Travellers
+AoCS1	Territory (Ter)	15	Rules		Characteristic
+AoCS1	Territory (Ter)	15	Aslan		
+AoCS1	Deeds	17	Aslan		Travellers
+AoCS1	Family Inheritance	17	Aslan		Travellers
+AoCS1	Starting Age	17	Aslan		Travellers
+AoCS1	Akhuaeuhrekhyeh	18	Aslan		Travellers
+AoCS1	Rite Of Passage	18	Aslan		Travellers
+AoCS1	Skills	19	Aslan		
+AoCS1	Independence	21	Skills		Aslan
+AoCS1	Tolerance	21	Skills		Aslan
+AoCS1	Independence	21	Aslan		Skills
+AoCS1	Tolerance	21	Aslan		Skills
+AoCS1	Ceremonial	22	Aslan		Travellers
+AoCS1	Ceremonial	22	Careers		Aslan
+AoCS1	Envoy	24	Aslan		Travellers
+AoCS1	Envoy	24	Careers		Aslan
+AoCS1	Management	26	Aslan		Travellers
+AoCS1	Management	26	Careers		Aslan
+AoCS1	Military	28	Aslan		Travellers
+AoCS1	Military	28	Careers		Aslan
+AoCS1	Military Officer	30	Aslan		Travellers
+AoCS1	Military Officer	30	Careers		Aslan
+AoCS1	Scientist	32	Aslan		Travellers
+AoCS1	Scientist	32	Careers		Aslan
+AoCS1	Spacer	34	Aslan		Travellers
+AoCS1	Spacer	34	Careers		Aslan
+AoCS1	Space Officer	36	Aslan		Travellers
+AoCS1	Space Officer	36	Careers		Aslan
+AoCS1	Outcast	38	Aslan		Travellers
+AoCS1	Outcast	38	Careers		Aslan
+AoCS1	Outlaw	40	Aslan		Travellers
+AoCS1	Outlaw	40	Careers		Aslan
+AoCS1	Wanderer	42	Aslan		Travellers
+AoCS1	Wanderer	42	Careers		Aslan
+AoCS1	Mustering Out	44	Aslan		Travellers
+AoCS1	Life Events	45	Aslan		Travellers
+AoCS1	Brotherhood Of Stars	44	Aslan		Travellers
+AoCS1	Ceremonial Kinship	44	Aslan		Travellers
+AoCS1	Clan Shares	44	Aslan		Travellers
+AoCS1	Scientific Kinship	44	Aslan		Travellers
+AoCS1	Secret School	44	Aslan		Travellers
+AoCS1	Clan Events	45	Aslan		Travellers
+AoCS1	Aua-Leather	47	Armour		Aslan
+AoCS1	Battle Dress	47	Armour		Aslan
+AoCS1	Assassin’S Garb	48	Armour		Aslan
+AoCS1	Ceremonial Breastplate	48	Armour		Aslan
+AoCS1	Ceremonial Armour	49	Armour		Aslan
+AoCS1	Combat Flex	50	Armour		Aslan
+AoCS1	Combat Armour	50	Armour		Aslan
+AoCS1	Heavy Combat Armour	51	Armour		Aslan
+AoCS1	Vacc Suit	52	Armour		Aslan
+AoCS1	Combat Vacc Suit	52	Armour		Aslan
+AoCS1	Heavy Vacc Suit	53	Armour		Aslan
+AoCS1	Claw Port	54	Central Supply		Armour Modification
+AoCS1	Command Suite	54	Central Supply		Armour Modification
+AoCS1	Ornamentation	54	Central Supply		Armour Modification
+AoCS1	Tail Armour	55	Central Supply		Armour Modification
+AoCS1	Boundary Box	55	Central Supply		
+AoCS1	Clan Comm	55	Central Supply		
+AoCS1	Mousebot	56	Robots		
+AoCS1	Slave Machine	56	Robots		
+AoCS1	Technician	57	Robots		
+AoCS1	Bio-Adjustment Pills	57	Central Supply		
+AoCS1	Slashpatch	57	Central Supply		
+AoCS1	Claw Coating	58	Aslan		Augmentation
+AoCS1	Claw Edging	58	Aslan		Augmentation
+AoCS1	Claw Hardening	58	Aslan		Augmentation
+AoCS1	Claw Implant	59	Aslan		Augmentation
+AoCS1	Predator Suite	59	Aslan		Augmentation
+AoCS1	Prehensile Tail	59	Aslan		Augmentation
+AoCS1	Tail Implant	59	Aslan		Augmentation
+AoCS1	Claw Coating	58	Central Supply		Augmentation
+AoCS1	Claw Edging	58	Central Supply		Augmentation
+AoCS1	Claw Hardening	58	Central Supply		Augmentation
+AoCS1	Claw Implant	59	Central Supply		Augmentation
+AoCS1	Predator Suite	59	Central Supply		Augmentation
+AoCS1	Prehensile Tail	59	Central Supply		Augmentation
+AoCS1	Tail Implant	59	Central Supply		Augmentation
+AoCS1	Weapons Of Honour	60	Aslan		
+AoCS1	Assassin’S Blade	60	Weapon		Melee
+AoCS1	Assassin’S Blade	60	Aslan		Weapon
+AoCS1	Crescent Blade	60	Weapon		Melee
+AoCS1	Crescent Blade	60	Aslan		Weapon
+AoCS1	Fierah	60	Weapon		Archaic
+AoCS1	Fierah	60	Aslan		Weapon
+AoCS1	Taleryu	60	Weapon		Melee
+AoCS1	Taleryu	60	Aslan		Weapon
+AoCS1	Soisu’Soi	60	Weapon		Melee
+AoCS1	Soisu’Soi	60	Aslan		Weapon
+AoCS1	Monkey Knife	61	Weapon		Melee
+AoCS1	Monkey Knife	61	Aslan		Weapon
+AoCS1	Hi’Asoi	61	Weapon		Melee
+AoCS1	Hi’Asoi	61	Aslan		Weapon
+AoCS1	Reaver’S Axe	61	Weapon		Melee
+AoCS1	Reaver’S Axe	61	Aslan		Weapon
+AoCS1	Yuhaih	61	Weapon		Melee
+AoCS1	Yuhaih	61	Aslan		Weapon
+AoCS1	Spear-Hook	61	Weapon		Melee
+AoCS1	Spear-Hook	61	Aslan		Weapon
+AoCS1	Yurletya	61	Weapon		Melee
+AoCS1	Yurletya	61	Aslan		Weapon
+AoCS1	Weapons Of The Hunt	62	Aslan		
+AoCS1	Yeheal Autorifle	62	Aslan		Weapon
+AoCS1	Yeheal Autorifle	62	Weapon		Slug Rifles
+AoCS1	Gravity Spear	62	Weapon		Heavy
+AoCS1	Gravity Spear	62	Aslan		Weapon
+AoCS1	Hlaulrakh	62	Weapon		Heavy
+AoCS1	Hlaulrakh	62	Aslan		Weapon
+AoCS1	Plasma Streamer	63	Weapon		Heavy
+AoCS1	Plasma Streamer	63	Aslan		Weapon
+AoCS1	Wye’Oiheasarl	63	Weapon		Heavy
+AoCS1	Wye’Oiheasarl	63	Aslan		Weapon
+AoCS1	Taoyuhrir Heavy Machinegun	63	Weapon		Heavy
+AoCS1	Taoyuhrir Heavy Machinegun	63	Aslan		Weapon
+AoCS1	Clawbike	64	Vehicles		Aslan
+AoCS1	Clawbike	64	Aslan		Vehicles
+AoCS1	Crawler	65	Vehicles		Aslan
+AoCS1	Crawler	65	Aslan		Vehicles
+AoCS1	Khtachwel Assault Grav Tank	66	Vehicles		Aslan
+AoCS1	Khtachwel Assault Grav Tank	66	Aslan		Vehicles
+AoCS1	Grav Barge	67	Vehicles		Aslan
+AoCS1	Grav Barge	67	Aslan		Vehicles
+AoCS1	High Guard	68	Aslan		
+AoCS1	Clan Presence	68	Aslan		
+AoCS1	Crews	68	Aslan		High Guard
+AoCS1	Control Systems	69	Aslan		High Guard
+AoCS1	Shrines	69	Aslan		High Guard
+AoCS1	Hraye-Class Scout	70	Ships		
+AoCS1	Hraye-Class Scout	70	Aslan		Ships
+AoCS1	Ihateisho-Class Scout	72	Ships		
+AoCS1	Ihateisho-Class Scout	72	Aslan		Ships
+AoCS1	Eakhau-Class Trader	74	Ships		
+AoCS1	Eakhau-Class Trader	74	Aslan		Ships
+AoCS1	Khtukhao-Class Clan Transport	76	Ships		
+AoCS1	Khtukhao-Class Clan Transport	76	Aslan		Ships
+AoCS1	Ktiyhui-Class Courier	80	Ships		
+AoCS1	Ktiyhui-Class Courier	80	Aslan		Ships
+AoCS1	Iyeliy-Class Messenger	82	Ships		
+AoCS1	Iyeliy-Class Messenger	82	Aslan		Ships
+AoCS1	Aositaoh-Class Cruiser	84	Ships		
+AoCS1	Aositaoh-Class Cruiser	84	Aslan		Ships
+AoCS1	Ekawsiykua-Class Escort	88	Ships		
+AoCS1	Ekawsiykua-Class Escort	88	Aslan		Ships
+AoCS1	Owatarl-Class Tender	90	Ships		
+AoCS1	Owatarl-Class Tender	90	Aslan		Ships
+AoCS1	Kteiroa-Class Seeker	92	Ships		
+AoCS1	Kteiroa-Class Seeker	92	Aslan		Ships
+AoCS1	Hkiyrerao-Class Researcher	94	Ships		
+AoCS1	Hkiyrerao-Class Researcher	94	Aslan		Ships
+AoCS1	Sakhai-Class Assault Carrier	96	Ships		
+AoCS1	Sakhai-Class Assault Carrier	96	Aslan		Ships
+AoCS1	Hkisyeleaa-Class Slaver	100	Ships		
+AoCS1	Hkisyeleaa-Class Slaver	100	Aslan		Ships
+AoCS1	Low Berths	101	High Guard		
+AoCS1	Aoa’Iw-Class Light Trader	102	Ships		
+AoCS1	Aoa’Iw-Class Light Trader	102	Aslan		Ships
+AoCS1	Halaheike-Class Pocket Warship	104	Ships		
+AoCS1	Halaheike-Class Pocket Warship	104	Aslan		Ships
+AoCS1	Overview	106	K'Kree		
+AoCS1	Physiology	107	K'Kree		
+AoCS1	Society	108	K'Kree		
+AoCS1	Groupings	109	K'Kree		
+AoCS1	Social Values	110	K'Kree		
+AoCS1	Phychological Traits	110	K'Kree		
+AoCS1	Daily Life	111	K'Kree		
+AoCS1	Language	112	K'Kree		
+AoCS1	Two Thousand Worlds	112	K'Kree		
+AoCS1	Two Thousand Worlds	112	Polity		
+AoCS1	Military	113	K'Kree		
+AoCS1	Ground Forces	115	K'Kree		
+AoCS1	K'Kree Charge	115	K'Kree		
+AoCS1	Naval Organisation	118	K'Kree		
+AoCS1	Naval Formations	118	K'Kree		
+AoCS1	History	119	K'Kree		
+AoCS1	Unification Of Kirur	120	K'Kree		
+AoCS1	Lords Of Thunder	123	K'Kree		
+AoCS1	Travellers	124	K'Kree		
+AoCS1	Patriarchy	124	K'Kree		Travellers
+AoCS1	Social Standing (Soc)	124	K'Kree		Travellers
+AoCS1	Servant-Of-Rankholder	125	K'Kree		Travellers
+AoCS1	Kinsman-Of-Rankholder	125	K'Kree		Travellers
+AoCS1	Rankholder	125	K'Kree		Travellers
+AoCS1	Traits	125	K'Kree		Travellers
+AoCS1	Loneliness	126	K'Kree		Travellers
+AoCS1	Non-K’Kree	126	K'Kree		Travellers
+AoCS1	Specialist Area	127	K'Kree		Travellers
+AoCS1	Background Skills	128	K'Kree		Travellers
+AoCS1	Terms	128	K'Kree		Travellers
+AoCS1	Household Development	128	K'Kree		Travellers
+AoCS1	Career Progress	128	K'Kree		Travellers
+AoCS1	K'Kree	130	Careers		K'Kree
+AoCS1	K'Kree	130	K'Kree		Travellers
+AoCS1	Servant	132	Careers		K'Kree
+AoCS1	Servant	132	K'Kree		Travellers
+AoCS1	Merchant	134	Careers		K'Kree
+AoCS1	Merchant	134	K'Kree		Travellers
+AoCS1	Noble	134	Careers		K'Kree
+AoCS1	Noble	134	K'Kree		Travellers
+AoCS1	Life Events	136	K'Kree		Travellers
+AoCS1	Benefits	136	K'Kree		Travellers
+AoCS1	Family	136	K'Kree		Travellers
+AoCS1	Warrior Panoply	140	K'Kree		Armour
+AoCS1	Vacc Suit	141	K'Kree		Central Supply
+AoCS1	Combat Armour	141	K'Kree		Armour
+AoCS1	Lance	142	K'Kree		Weapon
+AoCS1	Lance	142	Weapon		Melee
+AoCS1	Shield	142	K'Kree		Weapon
+AoCS1	Shield	142	Weapon		Melee
+AoCS1	Hand-Blade	142	K'Kree		Weapon
+AoCS1	Hand-Blade	142	Weapon		Melee
+AoCS1	Ceremonial Hand-Blade	142	K'Kree		Weapon
+AoCS1	Ceremonial Hand-Blade	142	Weapon		Melee
+AoCS1	Lance-Of-Length	143	K'Kree		Weapon
+AoCS1	Lance-Of-Length	143	Weapons		Energy Rifles
+AoCS1	Short-Hand	143	K'Kree		Weapon
+AoCS1	Short-Hand	143	Weapons		Energy Pistols
+AoCS1	Hand-Of-Length	143	K'Kree		Weapon
+AoCS1	Hand-Of-Length	143	Weapons		Energy Rifles
+AoCS1	Weapon-Of-Length	144	K'Kree		Weapon
+AoCS1	Weapon-Of-Length	144	Weapons		Energy Rifles
+AoCS1	Weapon-Of-Destruction	144	K'Kree		Weapon
+AoCS1	Weapon-Of-Destruction	144	Weapons		Energy Rifles
+AoCS1	Weapon Carriers	144	K'Kree		
+AoCS1	Interface	145	K'Kree		Weapon Carriers
+AoCS1	Command Unit	145	K'Kree		Weapon Carriers
+AoCS1	Friend-Of-The-Lowly	145	K'Kree		Robot
+AoCS1	Friend-Of-The-Lowly	145	Robots		K'Kree
+AoCS1	Distant Lance	146	K'Kree		Robot
+AoCS1	Distant Lance	146	Robots		K'Kree
+AoCS1	Opener-Of-The-Way	146	K'Kree		Robot
+AoCS1	Opener-Of-The-Way	146	Robots		K'Kree
+AoCS1	Guardian-Of-Glory	146	K'Kree		Robot
+AoCS1	Guardian-Of-Glory	146	Robots		K'Kree
+AoCS1	Breaker-Of-Lines	147	K'Kree		Robot
+AoCS1	Breaker-Of-Lines	147	Robots		K'Kree
+AoCS1	Slayer-Of-Shields	147	K'Kree		Robot
+AoCS1	Slayer-Of-Shields	147	Robots		K'Kree
+AoCS1	Vehicles	148	K'Kree		
+AoCS1	Crew And Passengers	148	K'Kree		
+AoCS1	Personal Grav Skimmer	149	K'Kree		Vehicles
+AoCS1	Lead Grav Skimmer	150	K'Kree		Vehicles
+AoCS1	Family Transport Vehicle	151	K'Kree		Vehicles
+AoCS1	Mobile Fighting Platforms	152	K'Kree		
+AoCS1	Mobile Fighting Platform	153	K'Kree		Vehicles
+AoCS1	High Guard	154	K'Kree		
+AoCS1	Enclosures	154	K'Kree		High Guard
+AoCS1	Shipboard Park	155	K'Kree		High Guard
+AoCS1	Robotic Craft	155	K'Kree		High Guard
+AoCS1	Electromagneticenvironment Protection Suite	156	K'Kree		High Guard
+AoCS1	Operation Packages	157	K'Kree		High Guard
+AoCS1	Remote Operations Station	157	K'Kree		High Guard
+AoCS1	Bearer-Of-Cargoes Shuttle	158	Ships		
+AoCS1	Bearer-Of-Cargoes Shuttle	158	K'Kree		Ships
+AoCS1	Bearer-Of-Families Orbital Shuttle	160	Ships		
+AoCS1	Bearer-Of-Families Orbital Shuttle	160	K'Kree		Ships
+AoCS1	Trader Of The Outer Steppe Merchant	162	Ships		
+AoCS1	Trader Of The Outer Steppe Merchant	162	K'Kree		Ships
+AoCS1	Quickening Thunder Robotic Fighter	164	Small Craft		
+AoCS1	Quickening Thunder Robotic Fighter	164	K'Kree		Small Craft
+AoCS1	Faithful Shield Robotic Escort Fighter	166	Small Craft		
+AoCS1	Faithful Shield Robotic Escort Fighter	166	K'Kree		Small Craft
+AoCS1	K'Kree In Traveller	168	Setting		
+AoCS1	K'Kree In Traveller	168	K'Kree		
+AoCS1	Vargr	169	Sophont		
+AoCS1	Physiology	169	Vargr		
+AoCS1	Lifespan	171	Vargr		
+AoCS1	Diet	171	Vargr		
+AoCS1	Subspecies	171	Vargr		
+AoCS1	Urzaeng	171	Vargr		Subspecies
+AoCS1	Kokasha	172	Vargr		Subspecies
+AoCS1	Akumgeda	172	Vargr		Subspecies
+AoCS1	Nakagun	172	Vargr		Subspecies
+AoCS1	Roth Thokken	172	Vargr		Subspecies
+AoCS1	Society	172	Vargr		
+AoCS1	Genetic Instinct	172	Vargr		
+AoCS1	Packs	172	Vargr		
+AoCS1	Charisma & Loyalty	172	Vargr		
+AoCS1	Racial Pride	173	Vargr		
+AoCS1	Family	173	Vargr		
+AoCS1	Beliefs	174	Vargr		
+AoCS1	Church of the Chosen Ones	174	Vargr		Religions
+AoCS1	Church of the Chosen Ones	174	Setting		Religions
+AoCS1	Infighting	174	Vargr		
+AoCS1	Dress	174	Vargr		
+AoCS1	Art	175	Vargr		
+AoCS1	Architecture	175	Vargr		
+AoCS1	Tattoos	175	Vargr		
+AoCS1	Markings	175	Vargr		
+AoCS1	Emissaries	176	Vargr		
+AoCS1	Business	176	Vargr		
+AoCS1	Economy	177	Vargr		
+AoCS1	Military	177	Vargr		
+AoCS1	Corsair Bands	177	Vargr		
+AoCS1	Language	178	Vargr		
+AoCS1	Naming	178	Vargr		
+AoCS1	In The Imperium	178	Vargr		
+AoCS1	Vargr In The Imperium	178	Setting		
+AoCS1	Non-Verbal Communication	178	Vargr		
+AoCS1	Travellers	179	Vargr		
+AoCS1	Charisma (Cha)	179	Vargr		Travellers
+AoCS1	Charisma (Cha)	179	Rules		Characteristic
+AoCS1	Starting Age	179	Vargr		Travellers
+AoCS1	Titles	179	Vargr		Travellers
+AoCS1	Career Summary	180	Vargr		Travellers
+AoCS1	Qualifications	181	Vargr		Travellers
+AoCS1	Skills	181	Vargr		Travellers
+AoCS1	Psionics	181	Vargr		Travellers
+AoCS1	Draft	181	Vargr		Travellers
+AoCS1	Army	182	Vargr		Careers
+AoCS1	Army	182	Careers		Vargr
+AoCS1	Citizen	184	Vargr		Careers
+AoCS1	Citizen	184	Careers		Vargr
+AoCS1	Corsair	186	Vargr		Careers
+AoCS1	Corsair	186	Careers		Vargr
+AoCS1	Emissary	188	Vargr		Careers
+AoCS1	Emissary	188	Careers		Vargr
+AoCS1	Law Enforcement	190	Vargr		Careers
+AoCS1	Law Enforcement	190	Careers		Vargr
+AoCS1	Loner	192	Vargr		Careers
+AoCS1	Loner	192	Careers		Vargr
+AoCS1	Marines	194	Vargr		Careers
+AoCS1	Marines	194	Careers		Vargr
+AoCS1	Merchant	196	Vargr		Careers
+AoCS1	Merchant	196	Careers		Vargr
+AoCS1	Navy	198	Vargr		Careers
+AoCS1	Navy	198	Careers		Vargr
+AoCS1	Psion	200	Vargr		Careers
+AoCS1	Psion	200	Careers		Vargr
+AoCS1	Scientist	202	Vargr		Careers
+AoCS1	Scientist	202	Careers		Vargr
+AoCS1	Life Events	204	Vargr		Travellers
+AoCS1	Pack Events	205	Vargr		Travellers
+AoCS1	Mustering Out	205	Vargr		Travellers
+AoCS1	Charisma (Cha)	206	Vargr		Travellers
+AoCS1	Charisma (Cha)	206	Rules		Characteristic
+AoCS1	Central Supply	207	Vargr		
+AoCS1	Purchasing Equipment	207	Rules		Vargr
+AoCS1	Purchasing Equipment	207	Vargr		
+AoCS1	Armour	208	Vargr		
+AoCS1	Standard Jacket	208	Vargr		Armour
+AoCS1	Standard Coverall	208	Vargr		Armour
+AoCS1	Light Armoured Jacket	208	Vargr		Armour
+AoCS1	Light Armoured Coverall	208	Vargr		Armour
+AoCS1	Armoured Jacket	208	Vargr		Armour
+AoCS1	Armoured Coverall	208	Vargr		Armour
+AoCS1	Heavy Jacket	208	Vargr		Armour
+AoCS1	Heavy Coverall	208	Vargr		Armour
+AoCS1	Fireproof	208	Vargr		Armour Modification
+AoCS1	Reflec	208	Vargr		Armour Modification
+AoCS1	Base Garments	208	Vargr		Armour
+AoCS1	Torso Armour	208	Vargr		Armour
+AoCS1	Shoulder Guards	208	Vargr		Armour
+AoCS1	Heavy Shoulder Guards	209	Vargr		Armour
+AoCS1	Breastplate	209	Vargr		Armour
+AoCS1	Vest	209	Vargr		Armour
+AoCS1	Heavy Vest	209	Vargr		Armour
+AoCS1	Fireproof Cape	209	Vargr		Armour
+AoCS1	Limb Armour	209	Vargr		Armour
+AoCS1	Bracers	209	Vargr		Armour
+AoCS1	Heavy Bracers	209	Vargr		Armour
+AoCS1	Arm Guards	209	Vargr		Armour
+AoCS1	Arm Shield	209	Vargr		Armour
+AoCS1	Fighting Boot	209	Vargr		Armour
+AoCS1	Charging Boot	210	Vargr		Armour
+AoCS1	Stomping Boot	210	Vargr		Armour
+AoCS1	Armour Sets	210	Vargr		Armour
+AoCS1	Fighter Set (Kforzhazuk)	210	Vargr		Armour
+AoCS1	Fighter Set (Kforzgong)	210	Vargr		Armour
+AoCS1	Leader-Fighter Set (Vhezkforz)	210	Vargr		Armour
+AoCS1	Warrior Set (Zuurku-Azuk)	210	Vargr		Armour
+AoCS1	Warrior Set (Zurrku-Ekdho)	210	Vargr		Armour
+AoCS1	Warrior Set (Zurrku-Oengga)	210	Vargr		Armour
+AoCS1	Warrior-Leader Set (Vhezk-Zurrku)	210	Vargr		Armour
+AoCS1	Assault Set (Kungedz-Udhvarr)	210	Vargr		Armour
+AoCS1	Assault Set (Kungedz-Dhagu)	210	Vargr		Armour
+AoCS1	Heavy Assault Set (Kungedz-Verz)	210	Vargr		Armour
+AoCS1	Vacc Suit	212	Vargr		Armour
+AoCS1	Combat Vacc Suit	212	Vargr		Armour
+AoCS1	Combat Armour	213	Vargr		Armour
+AoCS1	Battle Dress	213	Vargr		Armour
+AoCS1	Audio Filter	214	Vargr		Armour Modification
+AoCS1	Audio Filter	214	Armour		Modification
+AoCS1	Blade Enhancements	214	Vargr		Armour Modification
+AoCS1	Blade Enhancements	214	Armour		Modification
+AoCS1	Retractable Blades	214	Vargr		Armour Modification
+AoCS1	Retractable Blades	214	Armour		Modification
+AoCS1	Augments	214	Vargr		
+AoCS1	Aural Filter	214	Vargr		Augments
+AoCS1	Tail Enhancement	214	Vargr		Augments
+AoCS1	Urzaeng Modification	214	Vargr		Augments
+AoCS1	Taskbot	215	Vargr		Robot
+AoCS1	Taskbot	215	Robots		Vargr
+AoCS1	Advisor Robot	215	Vargr		Robot
+AoCS1	Advisor Robot	215	Robots		Vargr
+AoCS1	Claw Fist	216	Vargr		Weapon
+AoCS1	Claw Fist	216	Weapon		Melee
+AoCS1	Sonic Pistol	216	Vargr		Weapon
+AoCS1	Sonic Pistol	216	Weapon		Energy Pistols
+AoCS1	Sonic (-X)	216	Weapon		Trait
+AoCS1	Sonic Rifle	217	Vargr		Weapon
+AoCS1	Sonic Rifle	217	Weapon		Energy Rifles
+AoCS1	Sonic Grenade	217	Vargr		Weapon
+AoCS1	Sonic Grenade	217	Weapon		Grenades
+AoCS1	Gravitic Racer	218	Vargr		Vehicles
+AoCS1	Gravitic Racer	218	Vehicles		Vargr
+AoCS1	Gravitic Speeder	219	Vargr		Vehicles
+AoCS1	Gravitic Speeder	219	Vehicles		Vargr
+AoCS1	Wulfenite G/Carrier	220	Vargr		Vehicles
+AoCS1	Wulfenite G/Carrier	220	Vehicles		Vargr
+AoCS1	Clawtip Plasma Tank	221	Vargr		Vehicles
+AoCS1	Clawtip Plasma Tank	221	Vehicles		Vargr
+AoCS1	Loper Ground Carrier	222	Vargr		Vehicles
+AoCS1	Loper Ground Carrier	222	Vehicles		Vargr
+AoCS1	High Guard	223	Vargr		
+AoCS1	Corsair Encounters	223	Random Tables		
+AoCS1	Encounter Modifiers	223	Vargr		High Guard
+AoCS1	Crews	223	Vargr		High Guard
+AoCS1	Aakum Heavy Fighter	224	Vargr		Small Craft
+AoCS1	Aakum Heavy Fighter	224	Small Craft		
+AoCS1	Aetin Scout	226	Vargr		Ships
+AoCS1	Aetin Scout	226	Ships		
+AoCS1	Koerae Trader	228	Vargr		Ships
+AoCS1	Koerae Trader	228	Ships		
+AoCS1	Avouz Courier	230	Vargr		Ships
+AoCS1	Avouz Courier	230	Ships		
+AoCS1	Rradhi Seeker	232	Vargr		Ships
+AoCS1	Rradhi Seeker	232	Ships		
+AoCS1	Akalvo Yacht	234	Vargr		Ships
+AoCS1	Akalvo Yacht	234	Ships		
+AoCS1	Ruguelka Corsair	236	Vargr		Ships
+AoCS1	Ruguelka Corsair	236	Ships		
+AoCS1	Aerounkhu Packet	238	Vargr		Ships
+AoCS1	Aerounkhu Packet	238	Ships		
+AoCS1	Leklun Corvette	240	Vargr		Ships
+AoCS1	Leklun Corvette	240	Ships		
+AoCS1	Zhodani	242	Sophont		
+AoCS1	Birth Of The Zhodani	242	Zhodani		
+AoCS1	Physiology	243	Zhodani		
+AoCS1	Society	243	Zhodani		
+AoCS1	Spiritualism	244	Zhodani		
+AoCS1	Philosophy	244	Zhodani		
+AoCS1	Customs	244	Zhodani		
+AoCS1	Proles	245	Zhodani		
+AoCS1	Intendants	245	Zhodani		
+AoCS1	Nobles	246	Zhodani		
+AoCS1	Law Enforcement	246	Zhodani		
+AoCS1	Justice	246	Zhodani		
+AoCS1	Re-Education	247	Zhodani		
+AoCS1	Art	248	Zhodani		
+AoCS1	Dress	248	Zhodani		
+AoCS1	Military	248	Zhodani		
+AoCS1	Robotics	248	Zhodani		
+AoCS1	Naval Organisation	249	Zhodani		
+AoCS1	Army Organisation	249	Zhodani		
+AoCS1	Guard Organisation	249	Zhodani		
+AoCS1	Security	252	Zhodani		
+AoCS1	Intelligence	252	Zhodani		
+AoCS1	Travellers	253	Zhodani		
+AoCS1	Starting Age	253	Zhodani		Travellers
+AoCS1	Social Classification	253	Zhodani		Travellers
+AoCS1	Noble Titles	253	Zhodani		Travellers
+AoCS1	Psionic Training	253	Zhodani		Travellers
+AoCS1	Psionic Games	254	Zhodani		Travellers
+AoCS1	Careers	254	Zhodani		Travellers
+AoCS1	Draft	254	Zhodani		Travellers
+AoCS1	Commission And Advancement	254	Zhodani		Travellers
+AoCS1	Career Summary	255	Zhodani		Travellers
+AoCS1	Agent	256	Zhodani		Travellers
+AoCS1	Agent	256	Careers		Zhodani
+AoCS1	Army	258	Zhodani		Travellers
+AoCS1	Army	258	Careers		Zhodani
+AoCS1	Entertainer	260	Zhodani		Travellers
+AoCS1	Entertainer	260	Careers		Zhodani
+AoCS1	Government	262	Zhodani		Travellers
+AoCS1	Government	262	Careers		Zhodani
+AoCS1	Guard	264	Zhodani		Travellers
+AoCS1	Guard	264	Careers		Zhodani
+AoCS1	Merchant	266	Zhodani		Travellers
+AoCS1	Merchant	266	Careers		Zhodani
+AoCS1	Navy	268	Zhodani		Travellers
+AoCS1	Navy	268	Careers		Zhodani
+AoCS1	Prole	270	Zhodani		Travellers
+AoCS1	Prole	270	Careers		Zhodani
+AoCS1	Scholar	272	Zhodani		Travellers
+AoCS1	Scholar	272	Careers		Zhodani
+AoCS1	Life Events	274	Zhodani		Travellers
+AoCS1	Re-Education Events	274	Zhodani		Travellers
+AoCS1	Mustering Out	275	Zhodani		Travellers
+AoCS1	Pensions	275	Zhodani		Travellers
+AoCS1	Aging Crisis	275	Zhodani		Travellers
+AoCS1	Psionics	276	Zhodani		
+AoCS1	Zhodani Psionic Talent	276	Zhodani		
+AoCS1	Awareness Of Others	276	Zhodani		Zhodani Psionic Talent
+AoCS1	Blocking	276	Zhodani		Zhodani Psionic Talent
+AoCS1	Control	276	Zhodani		Zhodani Psionic Talent
+AoCS1	Empathic Healing	276	Zhodani		Zhodani Psionic Talent
+AoCS1	Interact	276	Zhodani		Zhodani Psionic Talent
+AoCS1	Interrogate	276	Zhodani		Zhodani Psionic Talent
+AoCS1	Mimic	277	Zhodani		Zhodani Psionic Talent
+AoCS1	Psychic Transfer	277	Zhodani		Zhodani Psionic Talent
+AoCS1	Teleprojection	277	Zhodani		Zhodani Psionic Talent
+AoCS1	Central Supply	278	Zhodani		
+AoCS1	Psi-Sensitive Switch	278	Zhodani		Psionic Modification
+AoCS1	Psi-Sensitive Switch	278	Central Supply		Psionic Modification
+AoCS1	Psionic Interface	278	Zhodani		Psionic Modification
+AoCS1	Psionic Interface	278	Central Supply		Psionic Modification
+AoCS1	Symbiosis Shielding	278	Zhodani		Psionic Modification
+AoCS1	Symbiosis Shielding	278	Central Supply		Psionic Modification
+AoCS1	Armour	278	Zhodani		
+AoCS1	Teleportation Suit	279	Zhodani		Armour
+AoCS1	Teleportation Suit	279	Armour		Zhodani
+AoCS1	Officer Combat Armour	279	Zhodani		Armour
+AoCS1	Officer Combat Armour	279	Armour		Zhodani
+AoCS1	Guards Combat Armour	280	Zhodani		Armour
+AoCS1	Guards Combat Armour	280	Armour		Zhodani
+AoCS1	Noble Combat Armour	280	Zhodani		Armour
+AoCS1	Noble Combat Armour	280	Armour		Zhodani
+AoCS1	Guards Battle Dress	281	Zhodani		Armour
+AoCS1	Guards Battle Dress	281	Armour		Zhodani
+AoCS1	Medical Supplies	281	Zhodani		
+AoCS1	Augments	281	Zhodani		
+AoCS1	Robots	282	Zhodani		
+AoCS1	Trashbot	282	Zhodani		Robots
+AoCS1	Trashbot	282	Robots		Zhodani
+AoCS1	Maintenance Bot	282	Zhodani		Robots
+AoCS1	Maintenance Bot	282	Robots		Zhodani
+AoCS1	Light Warbot	283	Zhodani		Robots
+AoCS1	Light Warbot	283	Robots		Zhodani
+AoCS1	Medium Warbot	284	Zhodani		Robots
+AoCS1	Medium Warbot	284	Robots		Zhodani
+AoCS1	Heavy Warbot	284	Zhodani		Robots
+AoCS1	Heavy Warbot	284	Robots		Zhodani
+AoCS1	Utility Grav Sled	285	Zhodani		Vehicles
+AoCS1	Utility Grav Sled	285	Vehicles		
+AoCS1	Imperious G-Carrier	286	Zhodani		Vehicles
+AoCS1	Imperious G-Carrier	286	Vehicles		
+AoCS1	Unity Grav Afv	287	Zhodani		Vehicles
+AoCS1	Unity Grav Afv	287	Vehicles		
+AoCS1	Insight Scout Sl	288	Zhodani		Vehicles
+AoCS1	Insight Scout Sl	288	Vehicles		
+AoCS1	Princely Lord Attack Speeder	289	Zhodani		Vehicles
+AoCS1	Princely Lord Attack Speeder	289	Vehicles		
+AoCS1	Sidereal Defence Laser	290	Vehicle Workshop		Weapons
+AoCS1	Silent Grasp Attack Speeder	290	Zhodani		Vehicles
+AoCS1	Silent Grasp Attack Speeder	290	Vehicles		
+AoCS1	Qiknavra Grav Tank	291	Zhodani		Vehicles
+AoCS1	Qiknavra Grav Tank	291	Vehicles		
+AoCS1	High Guard	292	Zhodani		
+AoCS1	Ninz-Class Scout	294	Zhodani		Ships
+AoCS1	Ninz-Class Scout	294	Ships		
+AoCS1	Yetsasl-Class Courier	296	Zhodani		Ships
+AoCS1	Yetsasl-Class Courier	296	Ships		
+AoCS1	Zdebr-Class Trader	298	Zhodani		Ships
+AoCS1	Zdebr-Class Trader	298	Ships		
+AoCS1	Shianjo-Class Liner	300	Zhodani		Ships
+AoCS1	Shianjo-Class Liner	300	Ships		
+AoCS1	Dazhia-Class Council Corvette	302	Zhodani		Ships
+AoCS1	Dazhia-Class Council Corvette	302	Ships		

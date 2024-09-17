@@ -346,12 +346,11 @@ RH	Flying Gun (large)	132	Robots
 RH	Flying Sword	133	Robots		
 RH	Grav Mule	133	Robots		
 RH	Grav Pioneer	134	Robots		
-RH	Grav Pioneer	134	Drone		
 RH	Keshean Gaa	135	Robots		
 RH	Security Robot	136	Robots		
 RH	Naasirka Model 899	137	Robots		
 RH	Peacekeeper Riot Control Robot	138	Robots		
-RH	Security Drone	139	Drone		
+RH	Security Drone	139	Robots		
 RH	Shadow Security Robot	139	Robots		
 RH	Sindalian Deathbot	140	Robots		
 RH	Sindalian Enforcement Robot	141	Robots		
@@ -463,19 +462,19 @@ RH	Medium Warbot	206	Zhodani		Robots
 RH	Medium Warbot	206	Robots		Zhodani
 RH	Heavy Warbot	207	Zhodani		Robots
 RH	Heavy Warbot	207	Robots		Zhodani
-RH	Courier Drone	208	Drone		
-RH	Mining Drone	209	Drone		
-RH	Offworld Construction Drone	210	Drone		
-RH	Probe Drone	211	Drone		
-RH	Probe Drone, Advanced	211	Drone		
+RH	Courier Drone	208	Robots		
+RH	Mining Drone	209	Robots		
+RH	Offworld Construction Drone	210	Robots		
+RH	Probe Drone	211	Robots		
+RH	Probe Drone, Advanced	211	Robots		
 RH	Repair Drones	212	Rules		
-RH	Repair Drones	212	Drone		
-RH	Repair Drone, Medium	212	Drone		
-RH	Repair Drone, Small	213	Drone		
-RH	Repair Drone, Extra-Small	213	Drone		
-RH	Repair Drone, Large	214	Drone		
-RH	Repair Drone, Extra-Large	215	Drone		
-RH	SkySpotter	216	Drone		
+RH	Repair Drones	212	Robots		
+RH	Repair Drone, Medium	212	Robots		
+RH	Repair Drone, Small	213	Robots		
+RH	Repair Drone, Extra-Small	213	Robots		
+RH	Repair Drone, Large	214	Robots		
+RH	Repair Drone, Extra-Large	215	Robots		
+RH	SkySpotter	216	Robots		
 RH	Microbots	217	Rules		
 RH	Microbots	217	Robots		
 RH	Exterminator	217	Robots		
