@@ -11,25 +11,26 @@ INTRO_PAGES = 4
 
 LEFT_ALIGNMENT = 0
 
-SHOULD_BE_PLURAL = {
-	'Robot': 'Robots',
-	'Drone': 'Drones',
-	'Ship': 'Ships',
-	'Vehicle': 'Vehicles',
-	'Career': 'Careers',
-}
-
 GROUP_CORRECTIONS = {
 	'Robot': 'Robots',
 	'Drone': 'Drones',
 	'Ship': 'Ships',
 	'Vehicle': 'Vehicles',
+	'Armour': 'Personal Protection',
 }
 
 # Bulk correct entries with the incorrect type
 TYPE_CORRECTIONS = {
+	'Robot': 'Robots',
+	'Drone': 'Drones',
+	'Ship': 'Ships',
+	'Vehicle': 'Vehicles',
+	'Career': 'Careers',
 	'small craft': 'Small Craft',
 	'Small craft': 'Small Craft',
+	'Armour': 'Personal Protection',
+	'Skill': 'Skills',
+	'Sophant': 'Sophants',
 }
 
 
@@ -83,7 +84,10 @@ def add_index_line(document, topic):
 
 	subject = topic['topic']
 	subject_text = paragraph.add_run(subject)
-	subject_text.font.size = Pt(10)
+	if len(subject) > 35:
+		subject_text.font.size = Pt(9)
+	else:
+		subject_text.font.size = Pt(10)
 
 	if len(topic['entries']) > 0:
 		paragraph.paragraph_format.tab_stops.add_tab_stop(
@@ -148,10 +152,6 @@ def parse_topics(source, topics):
 	df = pd.read_csv(source, delimiter='\t')
 	df = df.replace({pd.NA: None, pd.NaT: None, float('nan'): None})
 	for index, row in df.iterrows():
-		for key in SHOULD_BE_PLURAL:
-			if row['Type'] == key:
-				row['Type'] = SHOULD_BE_PLURAL[key]
-
 		for key in TYPE_CORRECTIONS:
 			if row['Type'] == key:
 				row['Type'] = TYPE_CORRECTIONS[key]
