@@ -38,7 +38,15 @@ You can access the **Grand Index** directly at [https://radiofreewaba.net/travel
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to indexing more books, feel free to fork this repository, add the new data, and submit a pull request.
+Contributions are welcome! If you'd like to contribute to indexing more books, feel free to fork this repository, add 
+the new data, and submit a pull request.
+
+### Building Source Files
+
+For any of the main sophonts, ships, weapons, robots, and vehicles should be included in both the main category and the
+category for the sophont. 
+
+Rules for creating Travellers for sophonts are nested under the Travellers group.
 
 ### Steps to Contribute:
 
@@ -55,4 +63,11 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**Traveller** is a registered trademark of Far Future Enterprises. This project is non-commercial and for personal use only.
+The Traveller game in all forms is owned by Mongoose Publishing. Copyright 1977 - 2024 Mongoose Publishing.
+Traveller is a registered trademark of Mongoose Publishing. Mongoose Publishing permits web sites and fanzines
+for this game, provided it contains this notice, that Mongoose Publishing is notified, and subject to a
+withdrawal of permission on 90 days notice. The contents of this site are for personal, non-commercial use
+only. Any use of Mongoose Publishing’s copyrighted material or trademarks anywhere on this web site and its
+files should not be viewed as a challenge to those copyrights or trademarks. In addition, any
+program/articles/file on this site cannot be republished or distributed without the consent of the author
+who contributed it.
