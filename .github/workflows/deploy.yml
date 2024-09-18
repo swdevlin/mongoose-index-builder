@@ -23,7 +23,8 @@ jobs:
         mkdir -p ~/.ssh
         echo "${{ secrets.RFWKEY }}" > ~/.ssh/id_rsa
         chmod 600 ~/.ssh/id_rsa
-        ssh-keyscan radiofreewaba.net >> ~/.ssh/known_hosts
+        ssh-keyscan -p 22 radiofreewaba.net >> ~/.ssh/known_hosts
+        sudo apt-get install sshpass
 
     # Step 3: Copy files to the web server using SCP
     - name: Deploy files to web server
