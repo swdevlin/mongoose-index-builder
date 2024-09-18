@@ -19,13 +19,11 @@ jobs:
 
     - name: set up ssh
       run: |
+        env
+        mkdir -p ~/.ssh
+        echo "${{ secrets.RFWKEY }}" > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
         ssh-keyscan radiofreewaba.net >> ~/.ssh/known_hosts
-
-    # Step 2: Set up SSH key
-    - name: Setup SSH for deployment
-      uses: webfactory/ssh-agent@v0.5.3
-      with:
-        ssh-private-key: ${{ secrets.RFWKEY }}
 
     # Step 3: Copy files to the web server using SCP
     - name: Deploy files to web server
