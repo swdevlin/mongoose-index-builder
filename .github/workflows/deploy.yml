@@ -24,7 +24,7 @@ jobs:
         port: 22
         key: ${{ secrets.RFWKEY }}
         source: "static/*"
-        target: ${{ secrets.DEPLOY_LOCATION }}
+        target: ${{ secrets.DEPLOY_LOCATION }}/
 
     - name: copy generated files
       uses: appleboy/scp-action@v0.1.7
@@ -34,5 +34,5 @@ jobs:
         port: 22
         key: ${{ secrets.RFWKEY }}
         source: "final/*.pdf,final/TravellerGrandIndex.docx"
-        target: ${{ secrets.DEPLOY_LOCATION }}/files
+        target: ${{ secrets.DEPLOY_LOCATION }}/files/
 
