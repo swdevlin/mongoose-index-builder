@@ -22,7 +22,7 @@ TTR	Rachando	24	Person
 TTR	Sal Dance	24	Person		
 TTR	Cleon Hardy	24	Person		
 TTR	Chieftan Gaix	24	Person		
-TTR	General Development Company	25	Megacorporation		
+TTR	General Development Company	25	Setting		Megacorporation
 TTR	Admiral Darokyn	25	Person		
 TTR	Peytr Vallis	25	Person		
 TTR	The Ghost	25	Person		
@@ -43,13 +43,13 @@ TTR	Gender	37	Aslan
 TTR	Social Structure	39	Aslan		
 TTR	Kusyu, Kilrai’	41	System		
 TTR	Creating Aslan Worlds	42	Aslan		
-TTR	Tlasayerlahel	45	Megacorporation		Aslan
+TTR	Tlasayerlahel	45	Setting		Megacorporation
 TTR	Tlasayerlahel	45	Aslan		Megacorporation
-TTR	Reastirlao	45	Megacorporation		Aslan
+TTR	Reastirlao	45	Setting		Megacorporation
 TTR	Reastirlao	45	Aslan		Megacorporation
-TTR	Iyalil	45	Megacorporation		Aslan
+TTR	Iyalil	45	Setting		Megacorporation
 TTR	Iyalil	45	Aslan		Megacorporation
-TTR	Khtularoihowa	45	Megacorporation		Aslan
+TTR	Khtularoihowa	45	Setting		Megacorporation
 TTR	Khtularoihowa	45	Aslan		Megacorporation
 TTR	Language	48	Aslan		
 TTR	Aslan Language	48	Setting		
@@ -209,18 +209,18 @@ TTR	Slashpatch	108	Aslan		Central Supply
 TTR	Field Medical Kit	108	Central Supply		
 TTR	Field Medical Kit	108	Aslan		Central Supply
 TTR	Claw Coating	109	Central Supply		Augmentation
-TTR	Claw Coating	109	Aslan		Personal Augmentation
+TTR	Claw Coating	109	Aslan		Augmentation
 TTR	Claw Edging	109	Central Supply		Augmentation
-TTR	Claw Edging	109	Aslan		Personal Augmentation
+TTR	Claw Edging	109	Aslan		Augmentation
 TTR	Claw Hardening	109	Central Supply		Augmentation
-TTR	Claw Hardening	109	Aslan		Personal Augmentation
+TTR	Claw Hardening	109	Aslan		Augmentation
 TTR	Claw Implant	110	Central Supply		Augmentation
 TTR	Predator Suite	110	Central Supply		Augmentation
-TTR	Predator Suite	110	Aslan		Personal Augmentation
+TTR	Predator Suite	110	Aslan		Augmentation
 TTR	Prehensile Tail	110	Central Supply		Augmentation
-TTR	Prehensile Tail	110	Aslan		Personal Augmentation
+TTR	Prehensile Tail	110	Aslan		Augmentation
 TTR	Tail Implant	110	Central Supply		Augmentation
-TTR	Tail Implant	110	Aslan		Personal Augmentation
+TTR	Tail Implant	110	Aslan		Augmentation
 TTR	Soisu’soi	111	Aslan		Weapon
 TTR	Soisu’soi	111	Weapon		Melee
 TTR	Assassin’s Blade	111	Weapon		Melee

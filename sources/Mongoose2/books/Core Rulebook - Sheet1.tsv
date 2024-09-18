@@ -411,13 +411,13 @@ CRB	Sensors	160	High Guard
 CRB	Encounters	155	High Guard		
 CRB	Range Bands	160	High Guard		
 CRB	Ship Computers	161	High Guard		
-CRB	Manoeuvre	161	High Guard		Ship Software
-CRB	Intellect	161	High Guard		Ship Software
-CRB	Jump Control	161	High Guard		Ship Software
-CRB	Evade	161	High Guard		Ship Software
-CRB	Fire Control	161	High Guard		Ship Software
-CRB	Auto-Repair	161	High Guard		Ship Software
-CRB	Library	161	High Guard		Ship Software
+CRB	Manoeuvre	161	High Guard		Software
+CRB	Intellect	161	High Guard		Software
+CRB	Jump Control	161	High Guard		Software
+CRB	Evade	161	High Guard		Software
+CRB	Fire Control	161	High Guard		Software
+CRB	Auto-Repair	161	High Guard		Software
+CRB	Library	161	High Guard		Software
 CRB	Security	161	High Guard		
 CRB	Travel Times	163	High Guard		
 CRB	Combat	164	High Guard		

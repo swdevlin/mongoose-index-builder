@@ -340,13 +340,13 @@ HG	Slow Boat	141	Small craft
 HG	Pinnace	142	Small craft		
 HG	Slow Pinnace	143	Small craft		
 HG	Modular Cutter	144	Small craft		
-HG	Vehicle Cradle Module	145	High Guard		Module
-HG	Personnel Transport Module	145	High Guard		Module
-HG	Cargo Transport Module	145	High Guard		Module
-HG	Fuel Skimmer Module	146	High Guard		Module
-HG	Assault Boat Module	146	High Guard		Module
-HG	Fighter Frame Module	146	High Guard		Module
-HG	Pressurised Shelter Module	147	High Guard		Module
+HG	Vehicle Cradle	145	High Guard		Module
+HG	Personnel Transport	145	High Guard		Module
+HG	Cargo Transport	145	High Guard		Module
+HG	Fuel Skimmer	146	High Guard		Module
+HG	Assault Boat	146	High Guard		Module
+HG	Fighter Frame	146	High Guard		Module
+HG	Pressurised Shelter	147	High Guard		Module
 HG	Gunship Module	147	High Guard		Module
 HG	Heavy Fighter	148	Small craft		
 HG	Troop Transport	150	Small craft		

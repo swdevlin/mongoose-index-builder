@@ -3,25 +3,87 @@ AoCS2	Solomani	4	Sophont
 AoCS2	Overview	4	Solomani		
 AoCS2	History	7	Solomani		
 AoCS2	Rule of Man	15	Setting		
-AoCS2	Solomani Confederation	25	Setting		
+AoCS2	Solomani Confederation	25	Polity		
 AoCS2	Solomani Confederation	25	Solomani		
 AoCS2	Phoenix Project	34	Setting		
 AoCS2	Phoenix Project	34	Solomani		
 AoCS2	Solomani Confederation	36	Polity		
 AoCS2	Solomani Confederation	36	Solomani		
+AoCS2	Sectors	36	Solomani		
 AoCS2	Government Types	40	Solomani		
 AoCS2	Society	47	Solomani		
+AoCS2	Races in the Confederation	50	Solomani		
+AoCS2	Symbology	56	Solomani		
+AoCS2	Fashion	54	Solomani		
 AoCS2	Goverment	59	Solomani		
 AoCS2	Solomani Party	59	Solomani		
 AoCS2	Solomani Party	59	Setting		
+AoCS2	Solomani Interstellar Development Corps	62	Solomani		
+AoCS2	Holidays	67	Solomani		
+AoCS2	Armed Forces	69	Solomani		
+AoCS2	Exploration	75	Solomani		
+AoCS2	Survey	75	Solomani		
+AoCS2	Solomani Security (SolSec)	82	Solomani		
+AoCS2	Commerce	88	Solomani		
+AoCS2	Transstar	89	Solomani		Megacorporation
+AoCS2	Transstar	89	Setting		Megacorporation
+AoCS2	Law	88	Solomani		
+AoCS2	Economics	88	Solomani		
+AoCS2	Terra, Sol	92	System		
+AoCS2	Worlds	92	Solomani		
+AoCS2	Home, Aldebaran	94	System		
+AoCS2	Jingleswelt, Staai	95	System		
+AoCS2	Elation,Taurea	97	System		
+AoCS2	High Guard	98	Solomani		
+AoCS2	Torpedo Grapple	100	High Guard		
+AoCS2	Torpedo Grapple, Firmpoint	101	High Guard		
+AoCS2	Torpedo Grapple, Hardpoint	101	High Guard		
+AoCS2	Missile Container/Launcher	101	High Guard		
+AoCS2	Combination Missile/Torpedo Launcher	101	High Guard		Turret
+AoCS2	Heavy Missile	101	High Guard		Weapon
+AoCS2	UB-25 SMALL UTILITY BOAT	102	Solomani		Small Craft
+AoCS2	UB-25 SMALL UTILITY BOAT	102	Small Craft		
+AoCS2	UB-75 LARGE UTILITY BOAT	104	Solomani		Small Craft
+AoCS2	UB-75 LARGE UTILITY BOAT	104	Small Craft		
+AoCS2	USC-3A SMALL PACKET BOAT	106	Solomani		Ships
+AoCS2	USC-3A SMALL PACKET BOAT	106	Ships		
+AoCS2	THALASSA SMALL TRANSPORT	108	Solomani		Ships
+AoCS2	THALASSA SMALL TRANSPORT	108	Ships		
+AoCS2	SAXBY SYSTEM DEFENCE BOAT	112	Solomani		Ships
+AoCS2	SAXBY SYSTEM DEFENCE BOAT	112	Ships		
+AoCS2	Central Supply	116	Solomani		
+AoCS2	Currency	116	Solomani		
+AoCS2	Officer’s Revolver	117	Solomani		Weapons
+AoCS2	Officer’s Revolver	117	Weapons		Slug Pistol
+AoCS2	Officer’s Sword	117	Solomani		Weapons
+AoCS2	Officer’s Sword	117	Weapons		Melee
+AoCS2	Navy Combat Shotgun	118	Solomani		Weapons
+AoCS2	Navy Combat Shotgun	118	Weapons		Slug Rifle
+AoCS2	GAUSS PERSONAL DEFENCE WEAPON (GPDW)	119	Solomani		Weapons
+AoCS2	GAUSS PERSONAL DEFENCE WEAPON (GPDW)	119	Weapons		Slug Pistol
+AoCS2	GAUSS CLOSE-COMBAT WEAPON (GCCW)	119	Solomani		Weapons
+AoCS2	GAUSS CLOSE-COMBAT WEAPON (GCCW)	119	Weapons		Slug Rifle
+AoCS2	Robots	120	Solomani		
+AoCS2	Ammobot	120	Solomani		Robots
+AoCS2	Ammobot	120	Robots		Solomani
+AoCS2	Mortarbot	121	Solomani		Robots
+AoCS2	Mortarbot	121	Robots		Solomani
+AoCS2	Companion Animals	122	Solomani		Central Supply
+AoCS2	Three-barrel Mortar	121	Weapons		Heavy
+AoCS2	Playing a Solomani	123	Setting		
 AoCS2	Travellers	123	Solomani		
 AoCS2	Draft	128	Solomani		Travellers
 AoCS2	Career Summary Table	129	Solomani		Travellers
 AoCS2	Party	130	Solomani		Travellers
 AoCS2	Navy	132	Solomani		Travellers
 AoCS2	Solsec	134	Solomani		Travellers
+AoCS2	Party	130	Careers		Solomani
+AoCS2	Navy	132	Careers		Solomani
+AoCS2	Solsec	134	Careers		Solomani
 AoCS2	Life Events	136	Solomani		Travellers
 AoCS2	Mustering Out	136	Solomani		Travellers
+AoCS2	Solomani Contacts, Allies, Rivals, and Enemies	137	Rules		Random Table
+AoCS2	Terran Adventurers' Society	136	Setting		
 AoCS2	Overview	138	Droyne		
 AoCS2	Droyne	138	Sophont		
 AoCS2	History	140	Droyne		
@@ -188,7 +250,7 @@ AoCS2	Hiver Ballistic Jacket	254	Armour		Hivers
 AoCS2	Hiver Ballistic Helmet	254	Armour		Hivers
 AoCS2	Travellers	255	Hivers		
 AoCS2	Resolve (RES)	255	Hivers		Travellers
-AoCS2	Resolve (RES)	255	Characteristics		Hivers
+AoCS2	Resolve (RES)	255	Rules		Characteristic
 AoCS2	Deficiency Diseases	255	Hivers		Travellers
 AoCS2	Traits	255	Hivers		Travellers
 AoCS2	Hiver Physiology	255	Hivers		Travellers
