@@ -7,6 +7,8 @@ from docx.enum.text import WD_TAB_ALIGNMENT, WD_TAB_LEADER
 from docx.oxml.ns import qn
 from docx.shared import Pt, Inches, Cm
 
+from webindex import generate_web_index
+
 INTRO_PAGES = 4
 
 LEFT_ALIGNMENT = 0
@@ -183,6 +185,104 @@ def parse_topics(source, topics):
 			add_topic(key, row, topics)
 
 
+# def generate_web_index(topics, output_file):
+# 	with open(output_file, 'wt', encoding='utf-8') as f:
+# 		f.write("""
+# 			<!DOCTYPE html>
+# 			<html lang="en">
+# 			<head>
+# 				<meta charset="UTF-8">
+# 				<meta name="viewport" content="width=device-width, initial-scale=1.0">
+# 				<link rel="preconnect" href="https://fonts.googleapis.com">
+# 				<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+# 				<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&family=Roboto:ital,wght@0,400&display=swap" rel="stylesheet">
+# 				<title>Traveller Index</title>
+# 				<style>
+# 					body {
+# 						font-family: "Roboto", sans-serif;
+# 						font-weight: 400;
+# 						background-color: black;
+# 						color: white;
+# 						font-size: 9pt;
+# 					}
+# 					h1, h2 {
+# 						color: #e10600; /* Traveller red */
+# 						font-family: "Orbitron", sans-serif;
+#             font-optical-sizing: auto;
+#             font-weight: 600;
+#             font-style: normal;
+# 					}
+# 					h3 {
+# 						color: white;
+# 					}
+# 					a {
+# 						text-decoration: none;
+# 						color: #e10600;
+# 					}
+# 					a:hover {
+# 						text-decoration: underline;
+# 					}
+# 					.toc {
+# 						margin-bottom: 20px;
+# 					}
+# 					.toc a {
+# 						display: block;
+# 						margin-bottom: 5px;
+# 					}
+# 					.group {
+# 						margin-bottom: 30px;
+# 					}
+# 					.entry {
+# 						margin-left: 20px;
+# 					}
+# 					.book-pages {
+# 						font-size: 0.9em;
+# 						color: #aaa;
+# 					}
+# 				</style>
+# 			</head>
+# 			<body>
+# 				<h1>Mongoose Traveller 2<sup>nd</sup> Edition Grand Index</h1>
+# 				<div class="toc">
+# 				<h2>Table of Contents</h2>
+# 		""")
+#
+# 		groups = set(topic['type'] for topic in topics)
+# 		for group in sorted(groups):
+# 			f.write(f'<a href="#{group}">{group}</a>\n')
+#
+# 		f.write('</div>')
+#
+# 		# Write each group and its entries in table format
+# 		last_type = None
+# 		for topic in topics:
+# 			if topic['type'] != last_type:
+# 				if last_type:
+# 					f.write('<table>\n')
+# 				f.write(f'<h2 id="{topic["type"]}">{topic["type"]}</h2>\n')
+# 				f.write('<table>\n')
+# 				last_type = topic['type']
+#
+# 			# Write entry and corresponding book/page references in two columns
+# 			f.write('<tr>\n')
+# 			f.write(f'<td class="entry-name">{topic["topic"]}</td>\n')
+# 			f.write('<td class="book-pages">\n')
+#
+# 			# Write book and page references on the same line
+# 			books = []
+# 			for book, entries in sorted(topic['entries'].items()):
+# 				pages = ', '.join(str(entry['page']) for entry in entries)
+# 				books.append(f'{book}: {pages}')
+# 			f.write(', '.join(books))
+# 			f.write('</td>\n')
+# 			f.write('</tr>\n')
+#
+# 		f.write("""
+# 				</body>
+# 				</html>
+# 				""")
+
+
 def main():
 	parser = argparse.ArgumentParser(description="Mongoose Traveller Index Generator")
 	parser.add_argument('-f', '--file', nargs='+', help='File to process', required=False, default=[])
@@ -206,6 +306,7 @@ def main():
 	for key in sorted(topics.keys()):
 		sorted_topics.append(topics[key])
 	create_traveller_index(sorted_topics, args.output)
+	generate_web_index(sorted_topics, 'static/webindex.html')
 
 
 if __name__ == "__main__":
