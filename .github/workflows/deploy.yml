@@ -13,21 +13,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    # Step 1: Checkout the repository
     - name: Checkout repository
       uses: actions/checkout@v3
-
-    - name: set up ssh
-      run: |
-        env
-        mkdir -p ~/.ssh
-        echo "${{ secrets.RFWKEY }}" > ~/.ssh/id_rsa
-        chmod 600 ~/.ssh/id_rsa
-        ssh-keyscan -p 22 radiofreewaba.net >> ~/.ssh/known_hosts
-        sudo apt-get install sshpass
-
-    # Step 3: Copy files to the web server using SCP
-    - name: Deploy files to web server
-      run: |
-        scp -r static/* ${{ secrets.DEPLY_USER }}@radiofreewaba.net:${{ secrets.DEPLOY_LOCATION }}
-        scp final/* ${{ secrets.DEPLY_USER }}@radiofreewaba.net:${{ secrets.DEPLOY_LOCATION }}/files
+      
+    - name: copy file via ssh key
+      uses: appleboy/scp-action@v0.1.7
+      with:
+        host: radiofreewaba.net
+        username: ${{ secrets.DEPLOY_USER }}
+        port: 22
+        key: ${{ secrets.RFWKEY }}
+        source: "static/*"
+        target: ${{ secrets.DEPLOY_LOCATION }}
+ 
