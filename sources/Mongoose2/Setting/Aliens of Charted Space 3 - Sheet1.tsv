@@ -348,9 +348,9 @@ AoCS3	Sonic (-X)	180	Weapon		Trait
 AoCS3	Battering Ram	181	Dolphin		Weapons
 AoCS3	Battering Ram	181	Weapon		Melee
 AoCS3	Sonic Amplifier	181	Dolphin		Weapons
-AoCS3	Sonic Amplifier	181	Weapon		Energy Pistol
+AoCS3	Sonic Amplifier	181	Weapon		Energy Pistols
 AoCS3	Sonic Booster	181	Dolphin		Weapons
-AoCS3	Sonic Booster	181	Weapon		Energy Pistol
+AoCS3	Sonic Booster	181	Weapon		Energy Pistols
 AoCS3	Vehicles	182	Dolphin		
 AoCS3	Grav Sled	182	Dolphin		Vehicles
 AoCS3	Grav Sled	182	Vehicles		Dolphin
