@@ -3,7 +3,7 @@ name: Deploy to Web Server
 on:
   push:
     paths:
-      - 'sources/*.html'
+      - 'static/*.html'
       - 'final/*.pdf'
     branches:
       - main
