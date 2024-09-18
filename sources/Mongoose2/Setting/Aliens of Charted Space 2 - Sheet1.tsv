@@ -54,22 +54,22 @@ AoCS2	SAXBY SYSTEM DEFENCE BOAT	112	Ships
 AoCS2	Central Supply	116	Solomani		
 AoCS2	Currency	116	Solomani		
 AoCS2	Officer’s Revolver	117	Solomani		Weapons
-AoCS2	Officer’s Revolver	117	Weapons		Slug Pistol
+AoCS2	Officer’s Revolver	117	Weapon		Slug Pistol
 AoCS2	Officer’s Sword	117	Solomani		Weapons
-AoCS2	Officer’s Sword	117	Weapons		Melee
+AoCS2	Officer’s Sword	117	Weapon		Melee
 AoCS2	Navy Combat Shotgun	118	Solomani		Weapons
-AoCS2	Navy Combat Shotgun	118	Weapons		Slug Rifle
+AoCS2	Navy Combat Shotgun	118	Weapon		Slug Rifle
 AoCS2	GAUSS PERSONAL DEFENCE WEAPON (GPDW)	119	Solomani		Weapons
-AoCS2	GAUSS PERSONAL DEFENCE WEAPON (GPDW)	119	Weapons		Slug Pistol
+AoCS2	GAUSS PERSONAL DEFENCE WEAPON (GPDW)	119	Weapon		Slug Pistol
 AoCS2	GAUSS CLOSE-COMBAT WEAPON (GCCW)	119	Solomani		Weapons
-AoCS2	GAUSS CLOSE-COMBAT WEAPON (GCCW)	119	Weapons		Slug Rifle
+AoCS2	GAUSS CLOSE-COMBAT WEAPON (GCCW)	119	Weapon		Slug Rifle
 AoCS2	Robots	120	Solomani		
 AoCS2	Ammobot	120	Solomani		Robots
 AoCS2	Ammobot	120	Robots		Solomani
 AoCS2	Mortarbot	121	Solomani		Robots
 AoCS2	Mortarbot	121	Robots		Solomani
 AoCS2	Companion Animals	122	Solomani		Central Supply
-AoCS2	Three-barrel Mortar	121	Weapons		Heavy
+AoCS2	Three-barrel Mortar	121	Weapon		Heavy
 AoCS2	Playing a Solomani	123	Setting		
 AoCS2	Travellers	123	Solomani		
 AoCS2	Draft	128	Solomani		Travellers
@@ -235,13 +235,13 @@ AoCS2	Medical Package	250	Hivers		Central Supply
 AoCS2	Navigation Package	251	Hivers		Central Supply
 AoCS2	Electronics (Intrusion) Package	251	Hivers		Central Supply
 AoCS2	Hiver Gauss Pistol	252	Hivers		Weapons
-AoCS2	Hiver Gauss Pistol	252	Weapons		Slug Pistol
+AoCS2	Hiver Gauss Pistol	252	Weapon		Slug Pistol
 AoCS2	Hiver Gauss PDW	252	Hivers		Weapons
-AoCS2	Hiver Gauss PDW	252	Weapons		Slug Pistol
+AoCS2	Hiver Gauss PDW	252	Weapon		Slug Pistol
 AoCS2	Hiver Gauss Sniper Rifle	253	Hivers		Weapons
-AoCS2	Hiver Gauss Sniper Rifle	253	Weapons		Slug Rifles
+AoCS2	Hiver Gauss Sniper Rifle	253	Weapon		Slug Rifles
 AoCS2	Hiver Gauss Support Weapon	253	Hivers		Weapons
-AoCS2	Hiver Gauss Support Weapon	253	Weapons		Slug Rifles
+AoCS2	Hiver Gauss Support Weapon	253	Weapon		Slug Rifles
 AoCS2	Hiver Ballistic Vest	254	Hivers		Armour
 AoCS2	Hiver Ballistic Jacket	254	Hivers		Armour
 AoCS2	Hiver Ballistic Helmet	254	Hivers		Armour
