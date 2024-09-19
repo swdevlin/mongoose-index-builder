@@ -1,4 +1,4 @@
-name: Deploy to Web Server
+name: Deploy docs
 
 on:
   push:
