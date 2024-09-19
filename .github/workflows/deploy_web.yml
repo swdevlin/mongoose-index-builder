@@ -1,0 +1,27 @@
+name: Deploy to Web Server
+
+on:
+  push:
+    paths:
+      - 'static/*.html'
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: copy static files
+      uses: appleboy/scp-action@v0.1.7
+      with:
+        host: radiofreewaba.net
+        username: ${{ secrets.DEPLOY_USER }}
+        port: 22
+        key: ${{ secrets.RFWKEY }}
+        source: "static/*"
+        target: ${{ secrets.DEPLOY_LOCATION }}
+        strip_components: 1
