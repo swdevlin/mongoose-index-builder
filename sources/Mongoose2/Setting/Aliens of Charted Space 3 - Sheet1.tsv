@@ -328,21 +328,21 @@ AoCS3	Personal Services Bot	177	Dolphin		Robots
 AoCS3	Personal Services Bot	177	Robots		Dolphin
 AoCS3	Sea Shepherd	178	Dolphin		Robots
 AoCS3	Sea Shepherd	178	Robots		Dolphin
-AoCS3	Personal Augmentation	179	Dolphin		
-AoCS3	Deep Dive Augmentation	179	Central Supply		Augment
-AoCS3	Oxygen Reserve	179	Central Supply		Augment
-AoCS3	Prosthetic Arms	179	Central Supply		Augment
-AoCS3	Prosthetic Flukes	179	Central Supply		Augment
-AoCS3	Sonar Enhancement	179	Central Supply		Augment
-AoCS3	Swift Fluke Augmentation	179	Central Supply		Augment
-AoCS3	Waldo	180	Central Supply		Augment
-AoCS3	Deep Dive Augmentation	179	Dolphin		Personal Augmentation
-AoCS3	Oxygen Reserve	179	Dolphin		Personal Augmentation
-AoCS3	Prosthetic Arms	179	Dolphin		Personal Augmentation
-AoCS3	Prosthetic Flukes	179	Dolphin		Personal Augmentation
-AoCS3	Sonar Enhancement	179	Dolphin		Personal Augmentation
-AoCS3	Swift Fluke Augmentation	179	Dolphin		Personal Augmentation
-AoCS3	Waldo	180	Dolphin		Personal Augmentation
+AoCS3	Augmentations	179	Dolphin		
+AoCS3	Deep Dive Augmentation	179	Central Supply		Augmentations
+AoCS3	Oxygen Reserve	179	Central Supply		Augmentations
+AoCS3	Prosthetic Arms	179	Central Supply		Augmentations
+AoCS3	Prosthetic Flukes	179	Central Supply		Augmentations
+AoCS3	Sonar Enhancement	179	Central Supply		Augmentations
+AoCS3	Swift Fluke Augmentation	179	Central Supply		Augmentations
+AoCS3	Waldo	180	Central Supply		Augmentations
+AoCS3	Deep Dive Augmentation	179	Dolphin		Augmentations
+AoCS3	Oxygen Reserve	179	Dolphin		Augmentations
+AoCS3	Prosthetic Arms	179	Dolphin		Augmentations
+AoCS3	Prosthetic Flukes	179	Dolphin		Augmentations
+AoCS3	Sonar Enhancement	179	Dolphin		Augmentations
+AoCS3	Swift Fluke Augmentation	179	Dolphin		Augmentations
+AoCS3	Waldo	180	Dolphin		Augmentations
 AoCS3	Underwater Combat	180	Rules		
 AoCS3	Sonic (-X)	180	Weapon		Trait
 AoCS3	Battering Ram	181	Dolphin		Weapons

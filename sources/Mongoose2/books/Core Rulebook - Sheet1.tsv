@@ -229,14 +229,14 @@ CRB	Medikit	104	Armour		Option
 CRB	Self-Sealing	104	Armour		Option
 CRB	Smart Fabric	104	Armour		Option
 CRB	Thruster Pack	104	Armour		Option
-CRB	Cognative	107	Central Supply		Augment
-CRB	Physical Characteristic	106	Central Supply		Augment
-CRB	Endurance	107	Central Supply		Augment
-CRB	Enhanced Vision	106	Central Supply		Augment
-CRB	Neural Comm	107	Central Supply		Augment
-CRB	Skill	107	Central Supply		Augment
-CRB	Subdermal Armour	107	Central Supply		Augment
-CRB	Wafer Jack	106	Central Supply		Augment
+CRB	Cognative	107	Central Supply		Augmentations
+CRB	Physical Characteristic	106	Central Supply		Augmentations
+CRB	Endurance	107	Central Supply		Augmentations
+CRB	Enhanced Vision	106	Central Supply		Augmentations
+CRB	Neural Comm	107	Central Supply		Augmentations
+CRB	Skill	107	Central Supply		Augmentations
+CRB	Subdermal Armour	107	Central Supply		Augmentations
+CRB	Wafer Jack	106	Central Supply		Augmentations
 CRB	Augmentations	106	Central Supply		
 CRB	Communications	109	Central Supply		
 CRB	Bug	109	Central Supply		
