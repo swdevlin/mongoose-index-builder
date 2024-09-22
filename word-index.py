@@ -38,6 +38,8 @@ TYPE_CORRECTIONS = {
 	'small craft': 'Small Craft',
 	'Small craft': 'Small Craft',
 	'Vehicle': 'Vehicles',
+	'Adventure': 'Adventures',
+	'Skill': 'Skills',
 }
 
 
