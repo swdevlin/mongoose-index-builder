@@ -212,6 +212,7 @@ VH	Stateroom	60	Vehicle Workshop		Customisation
 VH	Wet Bar	60	Vehicle Workshop		Customisation
 VH	Power Plant	60	Vehicle Workshop		
 VH	Biotech	61	Vehicle Workshop		
+VH	Bio-Tech Trait	61	Vehicle Workshop		
 VH	Ectothermic	61	Vehicle Workshop		Bio-Tech Trait
 VH	Endothermic	62	Vehicle Workshop		Bio-Tech Trait
 VH	Invertebrate	62	Vehicle Workshop		Bio-Tech Trait
@@ -253,30 +254,10 @@ VH	Humphead Armoured Personnel Carrier	86	Vehicles
 VH	Hydrofoil	87	Vehicles		
 VH	Impala Scout Helicopter	88	Vehicles		
 VH	Parthian Wheeled Scout	89	Vehicles		
-VH	Heavy Machinegun	88	Vehicle Workshop		Weapons
-VH	Medium Autocannon	89	Vehicle Workshop		Weapons
-VH	Machinegun	89	Vehicle Workshop		Weapons
-VH	Heavy Machinegun	84	Vehicle Workshop		Weapons
-VH	Light Autocannon	83	Vehicle Workshop		Weapons
-VH	Heavy Autocannon	80	Vehicle Workshop		Weapons
-VH	Machinegun	80	Vehicle Workshop		Weapons
-VH	Light Autocannon	78	Vehicle Workshop		Weapons
-VH	Heavy Machinegun	78	Vehicle Workshop		Weapons
-VH	Early Machinegun	77	Vehicle Workshop		Weapons
-VH	Black Powder Cannon	75	Vehicle Workshop		Weapons
-VH	Black Powder Cannon	73	Vehicle Workshop		Weapons
-VH	Bolt Thrower	72	Vehicle Workshop		Weapons
-VH	Black Powder Cannon	70	Vehicle Workshop		Weapons
 VH	Power Boat	90	Vehicles		
 VH	Termite Excavating Tunneller	91	Vehicles		
 VH	Achilles-Class Frigate	92	Vehicles		
-VH	Heavy Laser Cannon	92	Vehicle Workshop		Weapons
-VH	Long Range Anti-Air Missile	92	Vehicle Workshop		Weapons
-VH	Torpedo	92	Vehicle Workshop		Weapons
-VH	Minigun	92	Vehicle Workshop		Weapons
 VH	ACV-3 Martinique IFV	93	Vehicles		
-VH	Light Autocannon	93	Vehicle Workshop		Weapons
-VH	Anti-Tank Missile	93	Vehicle Workshop		Weapons
 VH	Aigle Aerial Scout/Attack UAV	94	Vehicles		
 VH	Air/Raft	95	Vehicles		
 VH	Armoured Van	96	Vehicles		
@@ -285,97 +266,49 @@ VH	Concordia II Hypersonic Airliner	98	Vehicles
 VH	Deep Sea Submersible	99	Vehicles		
 VH	Dirt Bike	100	Vehicles		
 VH	Dirtside Armoured Personnel Carrier	101	Vehicles		
-VH	Light Autocannon	101	Vehicle Workshop		Weapons
 VH	Dragonflyer Gravcopter	102	Vehicles		
-VH	Light Autocannon	102	Vehicle Workshop		Weapons
 VH	Fury Helicopter Gunship	103	Vehicles		
-VH	Rotary Autocannon	103	Vehicle Workshop		Weapons
-VH	Anti-Tank Missile	103	Vehicle Workshop		Weapons
 VH	G/Racer	104	Vehicles		
 VH	Ground Car	105	Vehicles		
 VH	Gun Transport	106	Vehicles		
-VH	Heavy Laser Cannon	106	Vehicle Workshop		Weapons
-VH	Minigun	106	Vehicle Workshop		Weapons
 VH	Legionary Battle Tank	107	Vehicles		
-VH	Heavy Cannon	107	Vehicle Workshop		Weapons
-VH	Light Autocannon	107	Vehicle Workshop		Weapons
-VH	Minigun	107	Vehicle Workshop		Weapons
 VH	Paladin Laser Grav Tank	108	Vehicles		
-VH	Heavy Laser Cannon	108	Vehicle Workshop		Weapons
-VH	Rotary Autocannon	108	Vehicle Workshop		Weapons
-VH	Rapid-Fire Machinegun	108	Vehicle Workshop		Weapons
 VH	Research Ship	109	Vehicles		
 VH	Skystrike G/Fighter	110	Vehicles		
-VH	Light Laser Cannon	110	Vehicle Workshop		Weapons
 VH	Socrates Field Car	111	Vehicles		
-VH	Medium Autocannon	111	Vehicle Workshop		Weapons
 VH	Thunder Hover Tank	112	Vehicles		
-VH	Heavy Cannon	112	Vehicle Workshop		Weapons
-VH	Heavy Machinegun	112	Vehicle Workshop		Weapons
 VH	Tracked Exploration Vehicle	113	Vehicles		
 VH	Violator Strategic Bomber	114	Vehicles		
-VH	Light Autocannon	114	Vehicle Workshop		Weapons
-VH	Heavy Bomb	114	Vehicle Workshop		Weapons
 VH	All-Terrain Vehicle (ATV)	115	Vehicles		
 VH	Architeuthis Biotech Airship	116	Vehicles		
 VH	Armoured Fighting Vehicle (AFV)	117	Vehicles		
-VH	Light Autocannon	117	Vehicle Workshop		Weapons
 VH	Arthur Mining Robot	118	Vehicles		
 VH	Assault Cycle	119	Vehicles		
-VH	Laser Rifle	119	Vehicle Workshop		Weapons
 VH	Avante Jet Fighter	120	Vehicles		
-VH	Gatling Laser	120	Vehicle Workshop		Weapons
 VH	Birdseye Reconnaissance Aircraft	121	Vehicles		
 VH	Brutus Heavy Cargo Truck	122	Vehicles		
 VH	Bulette	123	Vehicles		
 VH	Chameleon Scout Walker	124	Vehicles		
-VH	PGMP	124	Vehicle Workshop		Weapons
-VH	Laser	124	Vehicle Workshop		Weapons
 VH	Crusader Self-Propelled Gun	125	Vehicles		
-VH	Mass Driver	125	Vehicle Workshop		Weapons
 VH	G/Bike	126	Vehicles		
 VH	G/Runner City Car	127	Vehicles		
 VH	Grav Floater	128	Vehicles		
 VH	Gunskiff	129	Vehicles		
-VH	Laser Cannon	129	Vehicle Workshop		Weapons
 VH	Heaven70 Gunship Drone	130	Vehicles		
-VH	Light Autocannon	130	Vehicle Workshop		Weapons
 VH	HEV-12	131	Vehicles		
-VH	Light Autocannon	131	Vehicle Workshop		Weapons
 VH	Liberator G/Carrier	132	Vehicles		
-VH	Heavy Autocannon	132	Vehicle Workshop		Weapons
-VH	Heavy Machinegun	132	Vehicle Workshop		Weapons
-VH	Tac Launcher (Armour-Piercing)	132	Vehicle Workshop		Weapons
 VH	Lynx Fast Assault Tank	133	Vehicles		
-VH	Heavy Gauss Cannon	133	Vehicle Workshop		Weapons
 VH	M-90 Urban Assault Vehicle	134	Vehicles		
-VH	Light Autocannon	134	Vehicle Workshop		Weapons
-VH	Water Cannon	134	Vehicle Workshop		Weapons
-VH	RAM Grenade Launcher (Stun)	134	Vehicle Workshop		Weapons
 VH	Pegasus Personal Ornithopter	135	Vehicles		
 VH	Tempest Supercar	136	Vehicles		
 VH	Abel Thermospheric Reconnaissance Drone	137	Vehicles		
 VH	Borderguard Ground Attack Drone	138	Vehicles		
-VH	Gatling Laser	138	Vehicle Workshop		Weapons
 VH	Firehammer G/Fighter	139	Vehicles		
-VH	Fusion Gun-Z	139	Vehicle Workshop		Weapons
-VH	Advanced Laser	139	Vehicle Workshop		Weapons
 VH	Grinder Subterranean Assault Capsule	140	Vehicles		
 VH	Hydra Heavy Support Walker	141	Vehicles		
-VH	Advanced Laser	141	Vehicle Workshop		Weapons
-VH	Plasma Missile Rack	141	Vehicle Workshop		Weapons
 VH	Manticore Fighting Walker	142	Vehicles		
-VH	Fusion Gun-X	142	Vehicle Workshop		Weapons
-VH	Heavy Gauss Cannon	142	Vehicle Workshop		Weapons
 VH	Newpoint Grav APC	143	Vehicles		
-VH	Gauss Cannon	143	Vehicle Workshop		Weapons
 VH	Predator Ambush-Hunter Tank	144	Vehicles		
-VH	Heavy Gauss Cannon	144	Vehicle Workshop		Weapons
-VH	Gauss Cannon	144	Vehicle Workshop		Weapons
 VH	Rakatama G/Carrier	145	Vehicles		
-VH	Fusion Gun-X	145	Vehicle Workshop		Weapons
 VH	Walkure Fighting Grav Assault Vehicle	146	Vehicles		
-VH	Heavy Gauss Cannon	146	Vehicle Workshop		Weapons
-VH	Tac Launcher	146	Vehicle Workshop		Weapons
 VH	Zircon Nuclear Gun Drone	147	Vehicles		
-VH	Medium Autocannon	147	Vehicle Workshop		Weapons

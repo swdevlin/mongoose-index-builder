@@ -180,101 +180,101 @@ AoCS2	Benefits	206	Droyne		Travellers
 AoCS2	Using Coyns	206	Droyne		
 AoCS2	Determining Caste	207	Droyne		Travellers
 AoCS2	Droyne as Travellers	208	Setting		
-AoCS2	Overiew	211	Hivers		
-AoCS2	Hivers	211	Sophonts		
-AoCS2	Physiology	211	Hivers		
-AoCS2	Reproduction	212	Hivers		
-AoCS2	Psychology	212	Hivers		
-AoCS2	Manipulation	212	Hivers		
-AoCS2	Psionics	212	Hivers		
-AoCS2	Comunications	213	Hivers		
-AoCS2	Tool Use	213	Hivers		
-AoCS2	Food	214	Hivers		
-AoCS2	Medicine	214	Hivers		
-AoCS2	History	215	Hivers		
+AoCS2	Overiew	211	Hiver		
+AoCS2	Hiver	211	Sophonts		
+AoCS2	Physiology	211	Hiver		
+AoCS2	Reproduction	212	Hiver		
+AoCS2	Psychology	212	Hiver		
+AoCS2	Manipulation	212	Hiver		
+AoCS2	Psionics	212	Hiver		
+AoCS2	Comunications	213	Hiver		
+AoCS2	Tool Use	213	Hiver		
+AoCS2	Food	214	Hiver		
+AoCS2	Medicine	214	Hiver		
+AoCS2	History	215	Hiver		
 AoCS2	Hive Federation	215	Polity	No	
-AoCS2	Races of the Hive Federation	219	Hivers		
+AoCS2	Races of the Hive Federation	219	Hiver		
 AoCS2	Gurvin	219	Sophonts	No	
 AoCS2	Ithklur	219	Sophonts	No	
 AoCS2	Za’tachk	219	Sophonts	No	
-AoCS2	Society	220	Hivers		
-AoCS2	Military	222	Hivers		
-AoCS2	Navy	222	Hivers		
-AoCS2	Commerce	224	Hivers		
-AoCS2	Exploration	224	Hivers		
+AoCS2	Society	220	Hiver		
+AoCS2	Military	222	Hiver		
+AoCS2	Navy	222	Hiver		
+AoCS2	Commerce	224	Hiver		
+AoCS2	Exploration	224	Hiver		
 AoCS2	Hive Federation	225	Polity		
-AoCS2	Hive Federation	225	Hivers		
+AoCS2	Hive Federation	225	Hiver		
 AoCS2	Guaran, Hive	230	System		
 AoCS2	Glea, Liana	231	System		
 AoCS2	Tiring Antes, Flux	233	System		
 AoCS2	Uouu, Amnega	234	System		
-AoCS2	High Guard	235	Hivers		
-AoCS2	Command Centres	235	Hivers		
-AoCS2	Ship Automation	235	Hivers		
-AoCS2	Automation Packages	237	Hivers		
-AoCS2	Full Automation	237	Hivers		Automation Packages
-AoCS2	Critical Systems Automation	237	Hivers		Automation Packages
-AoCS2	General Systems Automation	237	Hivers		Automation Packages
-AoCS2	Automated Piloting	237	Hivers		Automation Packages
-AoCS2	Automated Piloting and Astrogation	237	Hivers		Automation Packages
-AoCS2	Automated Power Plant Operation	237	Hivers		Automation Packages
-AoCS2	Automated Manoeuvre Drive Operation	237	Hivers		Automation Packages
-AoCS2	Automated Jump Drive Operation	237	Hivers		Automation Packages
-AoCS2	Integrated Engineering Automation	238	Hivers		Automation Packages
-AoCS2	Automated Weapon	238	Hivers		Automation Packages
-AoCS2	Automated Mission	238	Hivers		Automation Packages
-AoCS2	WHIMSY PERSONAL TRANSPORT	240	Hivers		Starships
-AoCS2	WHIMSY PERSONAL TRANSPORT	240	Starships		
-AoCS2	PRACTICALITY GENERAL- PURPOSE STARSHIP	242	Hivers		Starships
-AoCS2	PRACTICALITY GENERAL- PURPOSE STARSHIP	242	Starships		
-AoCS2	CREDIBILITY MAJOR STARSHIP	246	Hivers		Starships
-AoCS2	CREDIBILITY MAJOR STARSHIP	246	Starships		
-AoCS2	Central Supply	250	Hivers		
-AoCS2	Voder	250	Hivers		Central Supply
-AoCS2	Medical Package	250	Hivers		Central Supply
-AoCS2	Navigation Package	251	Hivers		Central Supply
-AoCS2	Electronics (Intrusion) Package	251	Hivers		Central Supply
-AoCS2	Hiver Gauss Pistol	252	Hivers		Weapons
+AoCS2	High Guard	235	Hiver		
+AoCS2	Command Centres	235	Hiver		
+AoCS2	Ship Automation	235	Hiver		
+AoCS2	Automation Packages	237	Hiver		
+AoCS2	Full Automation	237	Hiver		Automation Packages
+AoCS2	Critical Systems Automation	237	Hiver		Automation Packages
+AoCS2	General Systems Automation	237	Hiver		Automation Packages
+AoCS2	Automated Piloting	237	Hiver		Automation Packages
+AoCS2	Automated Piloting and Astrogation	237	Hiver		Automation Packages
+AoCS2	Automated Power Plant Operation	237	Hiver		Automation Packages
+AoCS2	Automated Manoeuvre Drive Operation	237	Hiver		Automation Packages
+AoCS2	Automated Jump Drive Operation	237	Hiver		Automation Packages
+AoCS2	Integrated Engineering Automation	238	Hiver		Automation Packages
+AoCS2	Automated Weapon	238	Hiver		Automation Packages
+AoCS2	Automated Mission	238	Hiver		Automation Packages
+AoCS2	Whimsy Personal Transport	240	Hiver		Ships
+AoCS2	Whimsy Personal Transport	240	Ships		
+AoCS2	Practicality General-Purpose Starship	242	Hiver		Ships
+AoCS2	Practicality General-Purpose Starship	242	Ships		
+AoCS2	Credibility Major Starship	246	Hiver		Ships
+AoCS2	Credibility Major Starship	246	Ships		
+AoCS2	Central Supply	250	Hiver		
+AoCS2	Voder	250	Hiver		Central Supply
+AoCS2	Medical Package	250	Hiver		Central Supply
+AoCS2	Navigation Package	251	Hiver		Central Supply
+AoCS2	Electronics (Intrusion) Package	251	Hiver		Central Supply
+AoCS2	Hiver Gauss Pistol	252	Hiver		Weapons
 AoCS2	Hiver Gauss Pistol	252	Weapon		Slug Pistol
-AoCS2	Hiver Gauss PDW	252	Hivers		Weapons
+AoCS2	Hiver Gauss PDW	252	Hiver		Weapons
 AoCS2	Hiver Gauss PDW	252	Weapon		Slug Pistol
-AoCS2	Hiver Gauss Sniper Rifle	253	Hivers		Weapons
+AoCS2	Hiver Gauss Sniper Rifle	253	Hiver		Weapons
 AoCS2	Hiver Gauss Sniper Rifle	253	Weapon		Slug Rifles
-AoCS2	Hiver Gauss Support Weapon	253	Hivers		Weapons
+AoCS2	Hiver Gauss Support Weapon	253	Hiver		Weapons
 AoCS2	Hiver Gauss Support Weapon	253	Weapon		Slug Rifles
-AoCS2	Hiver Ballistic Vest	254	Hivers		Armour
-AoCS2	Hiver Ballistic Jacket	254	Hivers		Armour
-AoCS2	Hiver Ballistic Helmet	254	Hivers		Armour
-AoCS2	Hiver Ballistic Vest	254	Armour		Hivers
-AoCS2	Hiver Ballistic Jacket	254	Armour		Hivers
-AoCS2	Hiver Ballistic Helmet	254	Armour		Hivers
-AoCS2	Travellers	255	Hivers		
-AoCS2	Resolve (RES)	255	Hivers		Travellers
+AoCS2	Hiver Ballistic Vest	254	Hiver		Armour
+AoCS2	Hiver Ballistic Jacket	254	Hiver		Armour
+AoCS2	Hiver Ballistic Helmet	254	Hiver		Armour
+AoCS2	Hiver Ballistic Vest	254	Armour		Hiver
+AoCS2	Hiver Ballistic Jacket	254	Armour		Hiver
+AoCS2	Hiver Ballistic Helmet	254	Armour		Hiver
+AoCS2	Travellers	255	Hiver		
+AoCS2	Resolve (RES)	255	Hiver		Travellers
 AoCS2	Resolve (RES)	255	Rules		Characteristic
-AoCS2	Deficiency Diseases	255	Hivers		Travellers
-AoCS2	Traits	255	Hivers		Travellers
-AoCS2	Hiver Physiology	255	Hivers		Travellers
-AoCS2	Physical Coward	255	Hivers		Travellers
-AoCS2	Sense of Smell/No Sense of Smell	255	Hivers		Travellers
-AoCS2	Stability	255	Hivers		Travellers
-AoCS2	Nests	257	Hivers		Travellers
-AoCS2	Key Concepts	257	Hivers		Travellers
-AoCS2	Background Skills	257	Hivers		Travellers
-AoCS2	Basic Training	257	Hivers		Travellers
-AoCS2	Advancement	259	Hivers		Travellers
-AoCS2	Qualification	259	Hivers		Travellers
-AoCS2	Mustering Out	259	Hivers		Travellers
-AoCS2	Mishaps	260	Hivers		Travellers
-AoCS2	Benefits	260	Hivers		Travellers
-AoCS2	Life Events	261	Hivers		Travellers
-AoCS2	Injuries	261	Hivers		Travellers
-AoCS2	Aging	261	Hivers		Travellers
-AoCS2	Academic	262	Hivers		Travellers
-AoCS2	Academic	262	Careers		Hivers
-AoCS2	Generalist	264	Hivers		Travellers
-AoCS2	Generalist	264	Careers		Hivers
-AoCS2	Manipulator	266	Hivers		Travellers
-AoCS2	Manipulator	266	Careers		Hivers
-AoCS2	Merchant	268	Hivers		Travellers
-AoCS2	Merchant	268	Careers		Hivers
+AoCS2	Deficiency Diseases	255	Hiver		Travellers
+AoCS2	Traits	255	Hiver		Travellers
+AoCS2	Hiver Physiology	255	Hiver		Travellers
+AoCS2	Physical Coward	255	Hiver		Travellers
+AoCS2	Sense of Smell/No Sense of Smell	255	Hiver		Travellers
+AoCS2	Stability	255	Hiver		Travellers
+AoCS2	Nests	257	Hiver		Travellers
+AoCS2	Key Concepts	257	Hiver		Travellers
+AoCS2	Background Skills	257	Hiver		Travellers
+AoCS2	Basic Training	257	Hiver		Travellers
+AoCS2	Advancement	259	Hiver		Travellers
+AoCS2	Qualification	259	Hiver		Travellers
+AoCS2	Mustering Out	259	Hiver		Travellers
+AoCS2	Mishaps	260	Hiver		Travellers
+AoCS2	Benefits	260	Hiver		Travellers
+AoCS2	Life Events	261	Hiver		Travellers
+AoCS2	Injuries	261	Hiver		Travellers
+AoCS2	Aging	261	Hiver		Travellers
+AoCS2	Academic	262	Hiver		Travellers
+AoCS2	Academic	262	Careers		Hiver
+AoCS2	Generalist	264	Hiver		Travellers
+AoCS2	Generalist	264	Careers		Hiver
+AoCS2	Manipulator	266	Hiver		Travellers
+AoCS2	Manipulator	266	Careers		Hiver
+AoCS2	Merchant	268	Hiver		Travellers
+AoCS2	Merchant	268	Careers		Hiver
 AoCS2	Hivers as Travellers	270	Setting		

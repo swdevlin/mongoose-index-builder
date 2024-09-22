@@ -177,8 +177,8 @@ AoCS1	Sakhai-Class Assault Carrier	96	Aslan		Ships
 AoCS1	Hkisyeleaa-Class Slaver	100	Ships		
 AoCS1	Hkisyeleaa-Class Slaver	100	Aslan		Ships
 AoCS1	Low Berths	101	High Guard		
-AoCS1	Aoa’Iw-Class Light Trader	102	Ships		
-AoCS1	Aoa’Iw-Class Light Trader	102	Aslan		Ships
+AoCS1	Aoa’iw-Class Light Trader	102	Ships		
+AoCS1	Aoa’iw-Class Light Trader	102	Aslan		Ships
 AoCS1	Halaheike-Class Pocket Warship	104	Ships		
 AoCS1	Halaheike-Class Pocket Warship	104	Aslan		Ships
 AoCS1	Overview	106	K'Kree		
@@ -322,8 +322,8 @@ AoCS1	In The Imperium	178	Vargr
 AoCS1	Vargr In The Imperium	178	Setting		
 AoCS1	Non-Verbal Communication	178	Vargr		
 AoCS1	Travellers	179	Vargr		
-AoCS1	Charisma (Cha)	179	Vargr		Travellers
-AoCS1	Charisma (Cha)	179	Rules		Characteristic
+AoCS1	Charisma (CHA)	179	Vargr		Travellers
+AoCS1	Charisma (CHA)	179	Rules		Characteristic
 AoCS1	Starting Age	179	Vargr		Travellers
 AoCS1	Titles	179	Vargr		Travellers
 AoCS1	Career Summary	180	Vargr		Travellers
@@ -409,10 +409,13 @@ AoCS1	Blade Enhancements	214	Vargr		Armour Modification
 AoCS1	Blade Enhancements	214	Armour		Modification
 AoCS1	Retractable Blades	214	Vargr		Armour Modification
 AoCS1	Retractable Blades	214	Armour		Modification
-AoCS1	Augments	214	Vargr		
-AoCS1	Aural Filter	214	Vargr		Augments
-AoCS1	Tail Enhancement	214	Vargr		Augments
-AoCS1	Urzaeng Modification	214	Vargr		Augments
+AoCS1	Augmentations	214	Vargr		
+AoCS1	Aural Filter	214	Vargr		Augmentations
+AoCS1	Tail Enhancement	214	Vargr		Augmentations
+AoCS1	Urzaeng Modification	214	Vargr		Augmentations
+AoCS1	Aural Filter	214	Rules		Augmentations
+AoCS1	Tail Enhancement	214	Rules		Augmentations
+AoCS1	Urzaeng Modification	214	Rules		Augmentations
 AoCS1	Taskbot	215	Vargr		Robot
 AoCS1	Taskbot	215	Robots		Vargr
 AoCS1	Advisor Robot	215	Vargr		Robot

@@ -1,5 +1,5 @@
 Document	Topic	Page	Type	Primary	Group
-AoCS3	Darrian	4	Sophont		
+AoCS3	Darrian	4	Sophonts		
 AoCS3	Overview	4	Darrian		
 AoCS3	Physiology	4	Darrian		
 AoCS3	Lifespan	5	Darrian		
@@ -46,6 +46,7 @@ AoCS3	Zhodani	29	Darrian
 AoCS3	Third Imperium	29	Darrian		
 AoCS3	Star Trigger	31	Darrian		
 AoCS3	Timeline	33	Darrian		
+AoCS3	Travellers	36	Sophonts		Darrian
 AoCS3	Travellers	36	Darrian		
 AoCS3	Traits	36	Darrian		Travellers
 AoCS3	Starting Age	36	Darrian		Travellers
@@ -292,6 +293,7 @@ AoCS3	Military	166	Dolphin
 AoCS3	Language	166	Dolphin		
 AoCS3	Naming	166	Dolphin		
 AoCS3	Non-verbal Communication	167	Dolphin		
+AoCS3	Travellers	168	Sophonts		Dolphin
 AoCS3	Travellers	168	Dolphin		
 AoCS3	Characteristics	168	Dolphin		Travellers
 AoCS3	Traits	168	Dolphin		Travellers
@@ -432,9 +434,9 @@ AoCS3	Sonic Screamer	226	Orca		Weapon
 AoCS3	Sonic Screamer	226	Weapon		Energy RIfle
 AoCS3	Vehicle Weapon Harness	227	Central Supply		
 AoCS3	Vehicle Weapon Harness	227	Orca		Central Supply
-AoCS3	Mini-torpedo Battery	227	Vehicle Workshop		Weapon
+AoCS3	Mini-torpedo Battery	227	Vehicle Workshop		Weapons
 AoCS3	Mini-torpedo Battery	227	Orca		
-AoCS3	Screamer Cannon	227	Vehicle Workshop		Weapon
+AoCS3	Screamer Cannon	227	Vehicle Workshop		Weapons
 AoCS3	Screamer Cannon	227	Orca		
 AoCS3	Bwap	228	Sophonts		
 AoCS3	Overview	228	Bwap		

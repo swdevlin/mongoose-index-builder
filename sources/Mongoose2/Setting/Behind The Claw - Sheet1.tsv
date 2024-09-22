@@ -23,7 +23,8 @@ BtC	Travellers	30	Zhodani
 BtC	Rasatt, Cronor	28	System		
 BtC	Jewell, Spinward Marches	32	Setting		
 BtC	Foelen, Jewell	34	System		
-BtC	Travellers	35	Sophont		Dolphin
+BtC	Dolphin	35	Sophonts	No	
+BtC	Travellers	35	Sophonts		Dolphin
 BtC	Travellers	35	Sophont		Chokari
 BtC	Travel Suit	36	Armour		Dolphin
 BtC	Type D Battle Dress	36	Armour		Dolphin
@@ -86,7 +87,8 @@ BtC	Vanejen, Rhylanor	76	System
 BtC	Chirper	79	Bestiary		
 BtC	Darrian, Spinward Marches	80	Setting		
 BtC	Maghiz	83	Setting		
-BtC	Travellers	82	Sophont	No	Darrian
+BtC	Darrian	82	Sophonts	No	
+BtC	Travellers	82	Sophonts	No	Darrian
 BtC	Darrian, Darrian	82	System		
 BtC	Gagh-Class Tramp Trader	84	Ship		
 BtC	Gagh-Class Tramp Trader	84	Darrian		Ship
@@ -296,7 +298,6 @@ BtC	Gabrael, Million	236	System
 BtC	Ling-Stanard Products (LSP)	236	Setting		
 BtC	Ikhaba, Million	236	System		
 BtC	Talon, Million	237	System		
-BtC	Vargr	237	Setting		
 BtC	Souggvuez	237	Setting		
 BtC	Talon, Million	237	System		
 BtC	Sabine, Deneb	238	Setting		

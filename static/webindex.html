@@ -9,6 +9,9 @@
 				<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&family=Roboto:ital,wght@0,400&display=swap" rel="stylesheet">
 				<title>Traveller Index</title>
 				<style>
+					.traveller-red {
+						color: #e10600; /* Traveller red */
+					}
 					body {
 						font-family: "Roboto", sans-serif;
 						font-weight: 400;
@@ -53,61 +56,197 @@
 						font-size: 0.9em;
 						color: #aaa;
 					}
+					.flex-container {
+						display: flex;
+						flex-direction: row;
+					}
+					dt {
+						color: #e10600; /* Traveller red */
+						font-family: "Orbitron", sans-serif;
+						font-optical-sizing: auto;
+						font-weight: 400;
+						font-style: normal;
+					}
+					dd {
+						margin-left: 12px;
+						margin-bottom: 8px;
+					}
+					.left-column {
+						margin-right: 18px;
+					}
+					.w50 {
+						width: 50%;
+					}
 				</style>
 			</head>
 			<body>
 				<h1>Mongoose Traveller 2<sup>nd</sup> Edition Grand Index</h1>
-				<div class="toc">
-				<h2>Table of Contents</h2>
-		<a href="#Adventure">Adventure</a>
-<a href="#Ancients">Ancients</a>
-<a href="#Aslan">Aslan</a>
-<a href="#Bestiary">Bestiary</a>
-<a href="#Bwap">Bwap</a>
-<a href="#Careers">Careers</a>
-<a href="#Central Supply">Central Supply</a>
-<a href="#Corporation">Corporation</a>
-<a href="#Darrian">Darrian</a>
-<a href="#Dolphin">Dolphin</a>
-<a href="#Drones">Drones</a>
-<a href="#Droyne">Droyne</a>
-<a href="#Encounter">Encounter</a>
-<a href="#Geonee">Geonee</a>
-<a href="#High Guard">High Guard</a>
-<a href="#Hiver">Hiver</a>
-<a href="#Hivers">Hivers</a>
-<a href="#K'Kree">K'Kree</a>
-<a href="#Megacorporation">Megacorporation</a>
-<a href="#NPCs">NPCs</a>
-<a href="#Orca">Orca</a>
-<a href="#Patron">Patron</a>
-<a href="#Personal Protection">Personal Protection</a>
-<a href="#Polity">Polity</a>
-<a href="#Psionics">Psionics</a>
-<a href="#Random Tables">Random Tables</a>
-<a href="#Region">Region</a>
-<a href="#Robotics">Robotics</a>
-<a href="#Robots">Robots</a>
-<a href="#Rules">Rules</a>
-<a href="#Setting">Setting</a>
-<a href="#Ships">Ships</a>
-<a href="#Skills">Skills</a>
-<a href="#Small Craft">Small Craft</a>
-<a href="#Solomani">Solomani</a>
-<a href="#Sophont">Sophont</a>
-<a href="#Sophonts">Sophonts</a>
-<a href="#Spacestation">Spacestation</a>
-<a href="#Starport">Starport</a>
-<a href="#Starships">Starships</a>
-<a href="#Sword Worlds Confederation">Sword Worlds Confederation</a>
-<a href="#System">System</a>
-<a href="#Turret">Turret</a>
-<a href="#Vargr">Vargr</a>
-<a href="#Vehicle Workshop">Vehicle Workshop</a>
-<a href="#Vehicles">Vehicles</a>
-<a href="#Weapon">Weapon</a>
-<a href="#Zhodani">Zhodani</a>
-</div><h2 id="Adventure">Adventure</h2>
+				<h2>Books</h2>
+				<p>The following books are included in the index:</p>
+				<div style="display: flex; justify-content: space-between;">
+					<div style="width: 45%;">
+						<table style="width: 100%;">
+							<tr><td>Adventure Class Ships</td><td>ACS</td></tr>
+							<tr><td>Aliens of Charted Space 1-3</td><td>AoCS1-3</td></tr>
+							<tr><td>Behind the Claw</td><td>BtC</td></tr>
+							<tr><td>Central Supply Catalogue</td><td>CSC</td></tr>
+							<tr><td>Core Rulebook</td><td>CRB</td></tr>
+							<tr><td>Death Station</td><td>DS</td></tr>
+							<tr><td>Deepnight Endeavour</td><td>DE</td></tr>
+							<tr><td>Drinax Companion</td><td>DC</td></tr>
+							<tr><td>Friends in Dry Places</td><td>FiDP</td></tr>
+							<tr><td>Gods of Marduk</td><td>GoM</td></tr>
+							<tr><td>High and Dry</td><td>HaD</td></tr>
+							<tr><td>High Guard</td><td>HG</td></tr>
+							<tr><td>Journal of the Travellers’ Aid Society 1-14</td><td>JTAS1-14</td></tr>
+							<tr><td>Liberty Port</td><td>LP</td></tr>
+							<tr><td>Lions of Thebus</td><td>LoT</td></tr>
+							<tr><td>Marooned on Marduk</td><td>MoM</td></tr>
+						</table>
+					</div>
+					<div style="width: 45%;">
+						<table style="width: 100%;">
+							<tr><td>Robot Handbook</td><td>RH</td></tr>
+							<tr><td>Shadows of Sindal</td><td>SoS</td></tr>
+							<tr><td>Ships of the Reach</td><td>SotR</td></tr>
+							<tr><td>Small Craft Catalog</td><td>SCC</td></tr>
+							<tr><td>Solomani Adventure 1 – Mysteries on Arcturus Station</td><td>MoAS</td></tr>
+							<tr><td>Revolution on Acrid</td><td>RoA</td></tr>
+							<tr><td>Skandersvik</td><td>Sk</td></tr>
+							<tr><td>Stranded</td><td>St</td></tr>
+							<tr><td>Sword Worlds</td><td>SW</td></tr>
+							<tr><td>The Calixcuel Incident</td><td>TCI</td></tr>
+							<tr><td>The Cordon Conflict</td><td>TCC</td></tr>
+							<tr><td>The Pirates of Drinax</td><td>TPoD</td></tr>
+							<tr><td>The Trojan Reach</td><td>TRR</td></tr>
+							<tr><td>Traveller Companion</td><td>TC</td></tr>
+							<tr><td>Update 2022 FAQ</td><td>U2FAQ</td></tr>
+							<tr><td>Vehicle Handbook</td><td>VH</td></tr>
+						</table>
+					</div>
+				</div>
+				<h2>Categories</h2>
+				<p>Entries in the Grand Index are group by categories. The categories are:</p>
+				<div class="flex-container">
+					<div class="left-column w50">
+						<dl>
+							<dt><a href="#Adventures">Adventures</a></dt>
+							<dd>This category includes all pre-written adventures, including campaigns such as Pirates of Drinax.</dd>
+						
+							<dt><a href="#Ancients">Ancients</a></dt>
+							<dd>This category includes entries pertaining to the ancients, including a list of systems reported to have ancient sites.</dd>
+						
+							<dt><a href="#Aslan">Aslan</a></dt>
+							<dd>This category includes entries pertaining to the Aslan. This includes references to the Hierate as well as The Glorious Empire.</dd>
+						
+							<dt><a href="#Bestiary">Bestiary</a></dt>
+							<dd>Includes all animal entries.</dd>
+						
+							<dt><a href="#Bwap">Bwap</a></dt>
+							<dd>This category includes entries pertaining to the Bwaps.</dd>
+						
+							<dt><a href="#Careers">Careers</a></dt>
+							<dd>This category lists the various careers and pre-careers available to characters during the Traveller creation process.</dd>
+						
+							<dt><a href="#CentralSupply">Central Supply</a></dt>
+							<dd>This category includes all non-weapon and non-armour equipment that players can acquire.</dd>
+						
+							<dt><a href="#Darrian">Darrian</a></dt>
+							<dd>This category includes entries pertaining to the Darrians.</dd>
+						
+							<dt><a href="#Dolphin">Dolphin</a></dt>
+							<dd>This category includes entries pertaining to the Dolphins.</dd>
+						
+							<dt><a href="#Drone">Drone</a></dt>
+							<dd>This category lists sample drones. Rules for creating drones are contained in the Robots section.</dd>
+						
+							<dt><a href="#Droyne">Droyne</a></dt>
+							<dd>This category includes entries pertaining to the Droyne.</dd>
+						
+							<dt><a href="#Encounter">Encounter</a></dt>
+							<dd>This category includes random encounters or scenario-specific encounters from the Journal of the Travellers' Aid Society (JTAS).</dd>
+						
+							<dt><a href="#Geonee">Geonee</a></dt>
+							<dd>This category includes entries pertaining to the Geonee.</dd>
+						
+							<dt><a href="#HighGuard">High Guard</a></dt>
+							<dd>This category includes entries for shipbuilding rules, equipment, and other starship-related topics.</dd>
+						
+							<dt><a href="#KKree">K’Kree</a></dt>
+							<dd>This category includes entries pertaining to the K’Kree.</dd>
+						
+							<dt><a href="#Orca">Orca</a></dt>
+							<dd>This category includes entries pertaining to the Orcas.</dd>
+						
+							<dt><a href="#NPCs">NPCs</a></dt>
+							<dd>This category includes skill and characteristic blocks for generic non-player characters (NPCs).</dd>
+						
+							<dt><a href="#Patron">Patron</a></dt>
+							<dd>Entries in this category detail potential patrons from the JTAS, who may offer missions, employment, or other opportunities to Traveller characters.</dd>
+						
+							<dt><a href="#PersonalProtection">Personal Protection</a></dt>
+							<dd>This category covers all types of protective gear and armour.</dd>						
+						</dl>
+					</div>
+					<div class="w50">
+						<dl>				
+							<dt><a href="#Polity">Polity</a></dt>
+							<dd>This category includes political entities and governing bodies that are not given a full write-up.</dd>
+						
+							<dt><a href="#Psionics">Psionics</a></dt>
+							<dd>This category includes entries related to psionics, including powers, training, institutions.</dd>
+						
+							<dt><a href="#Robotics">Robotics</a></dt>
+							<dd>This category covers robot construction and rules.</dd>
+						
+							<dt><a href="#Robots">Robots</a></dt>
+							<dd>This category lists the published robots.</dd>
+						
+							<dt><a href="#Rules">Rules</a></dt>
+							<dd>This category includes entries that affect gameplay, typically involving skill checks, dice modifiers (DMs), or specific rules for various situations.</dd>
+						
+							<dt><a href="#Setting">Setting</a></dt>
+							<dd>This category includes entries that provide flavour or background information.</dd>
+						
+							<dt><a href="#Ships">Ships</a></dt>
+							<dd>This category includes ship types with full description and stat blocks; ship mentions are not included. Rules for ship construction are found in the High Guard category.</dd>
+						
+							<dt><a href="#Skill">Skill</a></dt>
+							<dd>This category covers character skills.</dd>
+						
+							<dt><a href="#SmallCraft">Small Craft</a></dt>
+							<dd>This category includes space craft under 100 tons with full description and stat blocks; entries that simply mention the craft are not included. Rules for small craft construction are found in the High Guard category.</dd>
+						
+							<dt><a href="#Solomani">Solomani</a></dt>
+							<dd>This category includes entries pertaining to the Solomani.</dd>
+						
+							<dt><a href="#Sophont">Sophont</a></dt>
+							<dd>This category lists the sophonts that are not one of the major six.</dd>
+						
+							<dt><a href="#SwordWorldsConfederacy">Sword Worlds Confederacy</a></dt>
+							<dd>This category includes entries about the Sword Worlds Confederacy.</dd>
+						
+							<dt><a href="#System">System</a></dt>
+							<dd>This category includes entries discussing a star system.</dd>
+						
+							<dt><a href="#Vargr">Vargr</a></dt>
+							<dd>This category includes entries pertaining to the Vargr.</dd>
+						
+							<dt><a href="#VehicleWorkshop">Vehicle Workshop</a></dt>
+							<dd>This category covers vehicle construction and rules.</dd>
+						
+							<dt><a href="#Vehicles">Vehicles</a></dt>
+							<dd>This category includes vehicles with full description and stat blocks; vehicle mentions are not included. Rules for vehicle construction are covered in Vehicle Workshop.</dd>
+						
+							<dt><a href="#Weapon">Weapon</a></dt>
+							<dd>This category includes descriptions of personal weapons and their modifications, as well as ammo and weapon traits.</dd>
+						
+							<dt><a href="#Zhodani">Zhodani</a></dt>
+							<dd>This category includes entries pertaining to the Zhodani.</dd>
+						</dl>
+					</div>
+				</div> 
+		<h2 id="Adventures">Adventures</h2>
 <table>
 <tr>
 <td class="entry-name">Adrift</td>
@@ -118,6 +257,11 @@ JTAS12: 108
 <td class="entry-name">Argon Gambit, The</td>
 <td class="book-pages">
 JTAS10: 111
+</td>
+</tr><tr>
+<td class="entry-name">Blood of the Star Dragon</td>
+<td class="book-pages">
+TPoD: 222
 </td>
 </tr><tr>
 <td class="entry-name">Button, Button</td>
@@ -175,6 +319,11 @@ JTAS1: 65
 JTAS12: 57
 </td>
 </tr><tr>
+<td class="entry-name">Finale</td>
+<td class="book-pages">
+TPoD: 244
+</td>
+</tr><tr>
 <td class="entry-name">First Prize</td>
 <td class="book-pages">
 DC: 90
@@ -200,9 +349,19 @@ DC: 101
 HaD: 1
 </td>
 </tr><tr>
+<td class="entry-name">Honour Among Thieves</td>
+<td class="book-pages">
+TPoD: 25
+</td>
+</tr><tr>
 <td class="entry-name">Icebox Found at the Exe Cutoff</td>
 <td class="book-pages">
 JTAS9: 70
+</td>
+</tr><tr>
+<td class="entry-name">Ihatei!</td>
+<td class="book-pages">
+TPoD: 77
 </td>
 </tr><tr>
 <td class="entry-name">In Search of Sindal</td>
@@ -315,9 +474,24 @@ TCI: 1
 DC: 125, TCC: 1
 </td>
 </tr><tr>
+<td class="entry-name">The Demon's Eye</td>
+<td class="book-pages">
+TPoD: 98
+</td>
+</tr><tr>
+<td class="entry-name">The Game of Sun and Shadow</td>
+<td class="book-pages">
+TPoD: 145
+</td>
+</tr><tr>
 <td class="entry-name">The Lost Village</td>
 <td class="book-pages">
 JTAS5: 41
+</td>
+</tr><tr>
+<td class="entry-name">The Pirates of Drinax</td>
+<td class="book-pages">
+TPoD: 2
 </td>
 </tr><tr>
 <td class="entry-name">The Plague of Sindal</td>
@@ -325,9 +499,29 @@ JTAS5: 41
 SoS: 40
 </td>
 </tr><tr>
+<td class="entry-name">The Prodigal Outcast</td>
+<td class="book-pages">
+TPoD: 196
+</td>
+</tr><tr>
 <td class="entry-name">The Ship in the Lake</td>
 <td class="book-pages">
 JTAS1: 33
+</td>
+</tr><tr>
+<td class="entry-name">The Treasure of SIndal</td>
+<td class="book-pages">
+TPoD: 120
+</td>
+</tr><tr>
+<td class="entry-name">The Vorito Gambit</td>
+<td class="book-pages">
+TPoD: 171
+</td>
+</tr><tr>
+<td class="entry-name">Treasure Ship</td>
+<td class="book-pages">
+TPoD: 51
 </td>
 </tr><tr>
 <td class="entry-name">Zéno Paradise</td>
@@ -1091,7 +1285,13 @@ ACS: 136
 <tr>
 <td class="entry-name indented">Aoa’Iw-Class Light Trader</td>
 <td class="book-pages">
-AoCS1: 102, SotR: 72
+SotR: 72
+</td>
+</tr>
+<tr>
+<td class="entry-name indented">Aoa’iw-Class Light Trader</td>
+<td class="book-pages">
+AoCS1: 102
 </td>
 </tr>
 <tr>
@@ -1965,6 +2165,11 @@ CRB: 86
 JTAS4: 120
 </td>
 </tr><tr>
+<td class="entry-name">Fungal Vole</td>
+<td class="book-pages">
+TPoD: 227
+</td>
+</tr><tr>
 <td class="entry-name">Garhawk</td>
 <td class="book-pages">
 JTAS3: 84
@@ -2043,6 +2248,11 @@ JTAS4: 122
 <td class="entry-name">Horx</td>
 <td class="book-pages">
 SoS: 23
+</td>
+</tr><tr>
+<td class="entry-name">Hunter Chamax</td>
+<td class="book-pages">
+TPoD: 34
 </td>
 </tr><tr>
 <td class="entry-name">Ice Crawler</td>
@@ -3319,7 +3529,7 @@ AoCS3: 122
 AoCS3: 124
 </td>
 </tr><tr>
-<td class="entry-name">Hivers</td>
+<td class="entry-name">Hiver</td>
 <td class="book-pages">
 
 </td>
@@ -9125,6 +9335,11 @@ CRB: 149
 HG: 51
 </td>
 </tr><tr>
+<td class="entry-name">Called Shots</td>
+<td class="book-pages">
+TPoD: 17
+</td>
+</tr><tr>
 <td class="entry-name">Capsule</td>
 <td class="book-pages">
 
@@ -10678,6 +10893,11 @@ HG: 66
 HG: 130
 </td>
 </tr><tr>
+<td class="entry-name">Revised Fuel Operation Times</td>
+<td class="book-pages">
+SCC: 4
+</td>
+</tr><tr>
 <td class="entry-name">Running Costs</td>
 <td class="book-pages">
 CRB: 153
@@ -11625,32 +11845,6 @@ HG: 60
 <h2 id="Hiver">Hiver</h2>
 <table>
 <tr>
-<td class="entry-name">Robots</td>
-<td class="book-pages">
-
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Gardener Servant</td>
-<td class="book-pages">
-RH: 191
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Hazardous Environment Scout</td>
-<td class="book-pages">
-RH: 192
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Marine Boarding Droid</td>
-<td class="book-pages">
-RH: 193
-</td>
-</tr><table>
-<h2 id="Hivers">Hivers</h2>
-<table>
-<tr>
 <td class="entry-name">Automation Packages</td>
 <td class="book-pages">
 AoCS2: 237
@@ -11864,37 +12058,60 @@ AoCS2: 219
 AoCS2: 212
 </td>
 </tr><tr>
-<td class="entry-name">Ship Automation</td>
-<td class="book-pages">
-AoCS2: 235
-</td>
-</tr><tr>
-<td class="entry-name">Society</td>
-<td class="book-pages">
-AoCS2: 220
-</td>
-</tr><tr>
-<td class="entry-name">Starships</td>
+<td class="entry-name">Robots</td>
 <td class="book-pages">
 
 </td>
 </tr>
 <tr>
-<td class="entry-name indented">CREDIBILITY MAJOR STARSHIP</td>
+<td class="entry-name indented">Gardener Servant</td>
+<td class="book-pages">
+RH: 191
+</td>
+</tr>
+<tr>
+<td class="entry-name indented">Hazardous Environment Scout</td>
+<td class="book-pages">
+RH: 192
+</td>
+</tr>
+<tr>
+<td class="entry-name indented">Marine Boarding Droid</td>
+<td class="book-pages">
+RH: 193
+</td>
+</tr><tr>
+<td class="entry-name">Ship Automation</td>
+<td class="book-pages">
+AoCS2: 235
+</td>
+</tr><tr>
+<td class="entry-name">Ships</td>
+<td class="book-pages">
+
+</td>
+</tr>
+<tr>
+<td class="entry-name indented">Credibility Major Starship</td>
 <td class="book-pages">
 AoCS2: 246
 </td>
 </tr>
 <tr>
-<td class="entry-name indented">PRACTICALITY GENERAL- PURPOSE STARSHIP</td>
+<td class="entry-name indented">Practicality General-Purpose Starship</td>
 <td class="book-pages">
 AoCS2: 242
 </td>
 </tr>
 <tr>
-<td class="entry-name indented">WHIMSY PERSONAL TRANSPORT</td>
+<td class="entry-name indented">Whimsy Personal Transport</td>
 <td class="book-pages">
 AoCS2: 240
+</td>
+</tr><tr>
+<td class="entry-name">Society</td>
+<td class="book-pages">
+AoCS2: 220
 </td>
 </tr><tr>
 <td class="entry-name">Tool Use</td>
@@ -12618,14 +12835,44 @@ JTAS1: 65, 36, JTAS12: 108, JTAS8: 104
 <h2 id="NPCs">NPCs</h2>
 <table>
 <tr>
+<td class="entry-name">Alley Kat</td>
+<td class="book-pages">
+TPoD: 43
+</td>
+</tr><tr>
+<td class="entry-name">Aslan Assassins</td>
+<td class="book-pages">
+TPoD: 82
+</td>
+</tr><tr>
+<td class="entry-name">Assassin, Aslan</td>
+<td class="book-pages">
+TPoD: 227
+</td>
+</tr><tr>
+<td class="entry-name">Assassin, Human</td>
+<td class="book-pages">
+TPoD: 227
+</td>
+</tr><tr>
+<td class="entry-name">Big Brusier</td>
+<td class="book-pages">
+TPoD: 43
+</td>
+</tr><tr>
 <td class="entry-name">Blacksand Widow</td>
 <td class="book-pages">
-DC: 43
+DC: 43, TPoD: 39
 </td>
 </tr><tr>
 <td class="entry-name">Bodyguard</td>
 <td class="book-pages">
 DC: 128, TCC: 5
+</td>
+</tr><tr>
+<td class="entry-name">Bodyguards</td>
+<td class="book-pages">
+TPoD: 168
 </td>
 </tr><tr>
 <td class="entry-name">Brawlers</td>
@@ -12636,6 +12883,21 @@ Sk: 97
 <td class="entry-name">Bridge Faction</td>
 <td class="book-pages">
 DE: 32
+</td>
+</tr><tr>
+<td class="entry-name">Crew, Tozjabr</td>
+<td class="book-pages">
+TPoD: 243
+</td>
+</tr><tr>
+<td class="entry-name">Crewmen</td>
+<td class="book-pages">
+TPoD: 175
+</td>
+</tr><tr>
+<td class="entry-name">Cursed</td>
+<td class="book-pages">
+TPoD: 107
 </td>
 </tr><tr>
 <td class="entry-name">Deck Hand</td>
@@ -12658,9 +12920,34 @@ DC: 139, LoT: 7
 SoS: 35
 </td>
 </tr><tr>
+<td class="entry-name">Flame Knight</td>
+<td class="book-pages">
+TPoD: 116
+</td>
+</tr><tr>
+<td class="entry-name">GeDeCo Elite Guards</td>
+<td class="book-pages">
+TPoD: 190
+</td>
+</tr><tr>
+<td class="entry-name">GedeCo Assassin</td>
+<td class="book-pages">
+TPoD: 180
+</td>
+</tr><tr>
+<td class="entry-name">Gunman In A Trenchcoat</td>
+<td class="book-pages">
+TPoD: 43
+</td>
+</tr><tr>
 <td class="entry-name">Hapless Scouts</td>
 <td class="book-pages">
 Sk: 98
+</td>
+</tr><tr>
+<td class="entry-name">Hawk Warrior</td>
+<td class="book-pages">
+TPoD: 238
 </td>
 </tr><tr>
 <td class="entry-name">Hoodlum</td>
@@ -12678,9 +12965,24 @@ DC: 140, LoT: 8
 DC: 107, GoM: 8
 </td>
 </tr><tr>
+<td class="entry-name">Mack The Knife</td>
+<td class="book-pages">
+TPoD: 43
+</td>
+</tr><tr>
 <td class="entry-name">Male Aslan</td>
 <td class="book-pages">
 DC: 139, LoT: 7
+</td>
+</tr><tr>
+<td class="entry-name">Marines, Zhodani</td>
+<td class="book-pages">
+TPoD: 243
+</td>
+</tr><tr>
+<td class="entry-name">Mercenaries</td>
+<td class="book-pages">
+TPoD: 238
 </td>
 </tr><tr>
 <td class="entry-name">Mercenary</td>
@@ -12691,6 +12993,11 @@ JTAS13: 45
 <td class="entry-name">Militia</td>
 <td class="book-pages">
 DC: 129, TCC: 7
+</td>
+</tr><tr>
+<td class="entry-name">Miria's Crew</td>
+<td class="book-pages">
+TPoD: 48
 </td>
 </tr><tr>
 <td class="entry-name">Mission Faction</td>
@@ -12723,6 +13030,16 @@ JTAS13: 112
 Sk: 97
 </td>
 </tr><tr>
+<td class="entry-name">Redthane’s Crew</td>
+<td class="book-pages">
+TPoD: 50
+</td>
+</tr><tr>
+<td class="entry-name">Redthane’s Marines</td>
+<td class="book-pages">
+TPoD: 50
+</td>
+</tr><tr>
 <td class="entry-name">Remnants</td>
 <td class="book-pages">
 SoS: 35
@@ -12751,6 +13068,11 @@ DE: 39
 <td class="entry-name">Survivor</td>
 <td class="book-pages">
 DE: 39
+</td>
+</tr><tr>
+<td class="entry-name">Vespexers</td>
+<td class="book-pages">
+TPoD: 227
 </td>
 </tr><table>
 <h2 id="Orca">Orca</h2>
@@ -13652,7 +13974,7 @@ TTR: 102
 JTAS7: 49
 </td>
 </tr><tr>
-<td class="entry-name">Hivers</td>
+<td class="entry-name">Hiver</td>
 <td class="book-pages">
 
 </td>
@@ -16213,7 +16535,7 @@ RH: 152
 </tr><tr>
 <td class="entry-name">Combat Drone</td>
 <td class="book-pages">
-RH: 129
+RH: 129, TPoD: 191
 </td>
 </tr><tr>
 <td class="entry-name">Combat Vehicle Brain, Advanced</td>
@@ -17585,6 +17907,11 @@ TTR: 6
 CRB: 53
 </td>
 </tr><tr>
+<td class="entry-name">Aslan Negotiation Adjustments</td>
+<td class="book-pages">
+TPoD: 276
+</td>
+</tr><tr>
 <td class="entry-name">Asset Value (AV)</td>
 <td class="book-pages">
 DC: 3
@@ -17593,6 +17920,29 @@ DC: 3
 <td class="entry-name">Assets</td>
 <td class="book-pages">
 JTAS13: 34
+</td>
+</tr><tr>
+<td class="entry-name">Augmentations</td>
+<td class="book-pages">
+
+</td>
+</tr>
+<tr>
+<td class="entry-name indented">Aural Filter</td>
+<td class="book-pages">
+AoCS1: 214
+</td>
+</tr>
+<tr>
+<td class="entry-name indented">Tail Enhancement</td>
+<td class="book-pages">
+AoCS1: 214
+</td>
+</tr>
+<tr>
+<td class="entry-name indented">Urzaeng Modification</td>
+<td class="book-pages">
+AoCS1: 214
 </td>
 </tr><tr>
 <td class="entry-name">Availability</td>
@@ -17666,9 +18016,15 @@ JTAS7: 17
 </td>
 </tr>
 <tr>
+<td class="entry-name indented">Charisma (CHA)</td>
+<td class="book-pages">
+AoCS1: 179
+</td>
+</tr>
+<tr>
 <td class="entry-name indented">Charisma (Cha)</td>
 <td class="book-pages">
-AoCS1: 179, 206
+AoCS1: 206
 </td>
 </tr>
 <tr>
@@ -17687,6 +18043,12 @@ TC: 41
 <td class="entry-name indented">Luck (LCK)</td>
 <td class="book-pages">
 TC: 5
+</td>
+</tr>
+<tr>
+<td class="entry-name indented">Morale (MOR)</td>
+<td class="book-pages">
+TPoD: 12
 </td>
 </tr>
 <tr>
@@ -17769,6 +18131,11 @@ CSC: 66
 <td class="entry-name">Connection Rule</td>
 <td class="book-pages">
 CRB: 19
+</td>
+</tr><tr>
+<td class="entry-name">Conquest DMs</td>
+<td class="book-pages">
+TPoD: 96
 </td>
 </tr><tr>
 <td class="entry-name">Contacts</td>
@@ -18121,6 +18488,11 @@ DS: 8
 JTAS7: 118
 </td>
 </tr><tr>
+<td class="entry-name">Imperial Negotiation Adjustments</td>
+<td class="book-pages">
+TPoD: 275
+</td>
+</tr><tr>
 <td class="entry-name">Improvised Weapons</td>
 <td class="book-pages">
 CSC: 132
@@ -18435,6 +18807,16 @@ DC: 68
 <td class="entry-name">Piracy Response Indicator (PRI)</td>
 <td class="book-pages">
 DC: 3
+</td>
+</tr><tr>
+<td class="entry-name">Pirate Hunters</td>
+<td class="book-pages">
+TPoD: 21
+</td>
+</tr><tr>
+<td class="entry-name">Pirate Looting Times</td>
+<td class="book-pages">
+TPoD: 22
 </td>
 </tr><tr>
 <td class="entry-name">Planetary Mineral Surveys</td>
@@ -18760,6 +19142,18 @@ CRB: 92
 </td>
 </tr>
 <tr>
+<td class="entry-name indented">Crewman Names</td>
+<td class="book-pages">
+TPoD: 11
+</td>
+</tr>
+<tr>
+<td class="entry-name indented">Crewman Quirks</td>
+<td class="book-pages">
+TPoD: 11
+</td>
+</tr>
+<tr>
 <td class="entry-name indented">Cultural Differences</td>
 <td class="book-pages">
 CRB: 254
@@ -18769,6 +19163,18 @@ CRB: 254
 <td class="entry-name indented">Factions</td>
 <td class="book-pages">
 CRB: 254
+</td>
+</tr>
+<tr>
+<td class="entry-name indented">Ihatei Encounters</td>
+<td class="book-pages">
+TPoD: 87
+</td>
+</tr>
+<tr>
+<td class="entry-name indented">Martin II Rumours and Lies</td>
+<td class="book-pages">
+TPoD: 55
 </td>
 </tr>
 <tr>
@@ -18793,6 +19199,30 @@ CRB: 240
 <td class="entry-name indented">Patrons</td>
 <td class="book-pages">
 CRB: 93
+</td>
+</tr>
+<tr>
+<td class="entry-name indented">Prey Complications</td>
+<td class="book-pages">
+TPoD: 20
+</td>
+</tr>
+<tr>
+<td class="entry-name indented">Prey Encounter</td>
+<td class="book-pages">
+TPoD: 14
+</td>
+</tr>
+<tr>
+<td class="entry-name indented">Prey Quirks</td>
+<td class="book-pages">
+TPoD: 19
+</td>
+</tr>
+<tr>
+<td class="entry-name indented">Rumours of the Reach</td>
+<td class="book-pages">
+TPoD: 6
 </td>
 </tr>
 <tr>
@@ -18844,6 +19274,11 @@ CRB: 75
 <td class="entry-name">Recovering PSI</td>
 <td class="book-pages">
 CRB: 228
+</td>
+</tr><tr>
+<td class="entry-name">Recruitment Roll</td>
+<td class="book-pages">
+TPoD: 249
 </td>
 </tr><tr>
 <td class="entry-name">Reduced Damage</td>
@@ -19106,6 +19541,11 @@ DC: 3
 TC: 43
 </td>
 </tr><tr>
+<td class="entry-name">Small Craft Benefits</td>
+<td class="book-pages">
+SCC: 3
+</td>
+</tr><tr>
 <td class="entry-name">Smuggling</td>
 <td class="book-pages">
 CRB: 243, JTAS14: 95
@@ -19134,6 +19574,16 @@ CRB: 136
 <td class="entry-name">Standard of Living</td>
 <td class="book-pages">
 CRB: 98
+</td>
+</tr><tr>
+<td class="entry-name">Standing</td>
+<td class="book-pages">
+TPoD: 12
+</td>
+</tr><tr>
+<td class="entry-name">Starport Relationship</td>
+<td class="book-pages">
+TPoD: 9
 </td>
 </tr><tr>
 <td class="entry-name">Starship Mishaps</td>
@@ -19258,7 +19708,7 @@ CRB: 260
 </tr><tr>
 <td class="entry-name">Travel Times</td>
 <td class="book-pages">
-U2FAQ: 2
+TPoD: 16, U2FAQ: 2
 </td>
 </tr><tr>
 <td class="entry-name">Traveller Creation</td>
@@ -19274,6 +19724,11 @@ JTAS3: 99
 <td class="entry-name">Underwater Combat</td>
 <td class="book-pages">
 AoCS3: 180
+</td>
+</tr><tr>
+<td class="entry-name">Using Small Craft</td>
+<td class="book-pages">
+SCC: 3
 </td>
 </tr><tr>
 <td class="entry-name">Vacuum</td>
@@ -19471,6 +19926,11 @@ BtC: 165
 Sk: 58
 </td>
 </tr><tr>
+<td class="entry-name">Ammun Ko</td>
+<td class="book-pages">
+TPoD: 185
+</td>
+</tr><tr>
 <td class="entry-name">Anastasia Bruglio</td>
 <td class="book-pages">
 JTAS9: 81
@@ -19626,6 +20086,11 @@ DC: 48
 BtC: 254
 </td>
 </tr><tr>
+<td class="entry-name">Aual</td>
+<td class="book-pages">
+TPoD: 211
+</td>
+</tr><tr>
 <td class="entry-name">Aursisia Exèrciti</td>
 <td class="book-pages">
 JTAS10: 26
@@ -19639,6 +20104,11 @@ RH: 243
 <td class="entry-name">Azale Chop</td>
 <td class="book-pages">
 JTAS14: 71
+</td>
+</tr><tr>
+<td class="entry-name">Balamira Greenfell</td>
+<td class="book-pages">
+TPoD: 133
 </td>
 </tr><tr>
 <td class="entry-name">Baron Fero</td>
@@ -19733,7 +20203,7 @@ DC: 42
 </tr><tr>
 <td class="entry-name">Blacksand City</td>
 <td class="book-pages">
-TTR: 162
+TPoD: 39, TTR: 162
 </td>
 </tr><tr>
 <td class="entry-name">Blank Slate</td>
@@ -19767,6 +20237,11 @@ HaD: 4, Sk: 55
 JTAS2: 77
 </td>
 </tr><tr>
+<td class="entry-name">Brell</td>
+<td class="book-pages">
+TPoD: 148
+</td>
+</tr><tr>
 <td class="entry-name">Brock Landau</td>
 <td class="book-pages">
 JTAS13: 7
@@ -19780,6 +20255,11 @@ JTAS2: 82
 <td class="entry-name">Bruglio</td>
 <td class="book-pages">
 JTAS9: 81
+</td>
+</tr><tr>
+<td class="entry-name">Brule</td>
+<td class="book-pages">
+TPoD: 186
 </td>
 </tr><tr>
 <td class="entry-name">Bulhai Freeport</td>
@@ -19847,6 +20327,11 @@ JTAS13: 6
 JTAS1: 47
 </td>
 </tr><tr>
+<td class="entry-name">Chbradlklodgiepr Dlmshar</td>
+<td class="book-pages">
+TPoD: 242
+</td>
+</tr><tr>
 <td class="entry-name">Cheg</td>
 <td class="book-pages">
 JTAS14: 91
@@ -19885,6 +20370,16 @@ AoCS1: 174, JTAS14: 77
 <td class="entry-name">Church of the Stellar Divinity</td>
 <td class="book-pages">
 JTAS8: 44
+</td>
+</tr><tr>
+<td class="entry-name">Clan Agent, Battle-Ready</td>
+<td class="book-pages">
+TPoD: 208
+</td>
+</tr><tr>
+<td class="entry-name">Clan Agent, Investigative</td>
+<td class="book-pages">
+TPoD: 208
 </td>
 </tr><tr>
 <td class="entry-name">Cleon Hardy</td>
@@ -20078,6 +20573,11 @@ JTAS9: 98
 RH: 239
 </td>
 </tr><tr>
+<td class="entry-name">Dai Kinnear</td>
+<td class="book-pages">
+TPoD: 140
+</td>
+</tr><tr>
 <td class="entry-name">Dakh Moralder</td>
 <td class="book-pages">
 DE: 34
@@ -20096,6 +20596,16 @@ DC: 59
 <td class="entry-name">Dania Jereua, Professor</td>
 <td class="book-pages">
 JTAS10: 58
+</td>
+</tr><tr>
+<td class="entry-name">Daniel Vlaw</td>
+<td class="book-pages">
+TPoD: 31
+</td>
+</tr><tr>
+<td class="entry-name">Darokyn</td>
+<td class="book-pages">
+TPoD: 45
 </td>
 </tr><tr>
 <td class="entry-name">Darren Slack</td>
@@ -20200,6 +20710,11 @@ JTAS1: 47
 TTR: 154
 </td>
 </tr><tr>
+<td class="entry-name">Dreek</td>
+<td class="book-pages">
+TPoD: 115
+</td>
+</tr><tr>
 <td class="entry-name">Dress</td>
 <td class="book-pages">
 AoCS3: 163
@@ -20208,6 +20723,11 @@ AoCS3: 163
 <td class="entry-name">Drinax Chain</td>
 <td class="book-pages">
 SoS: 8
+</td>
+</tr><tr>
+<td class="entry-name">Drinax Patrons and Opportunities</td>
+<td class="book-pages">
+TPoD: 263
 </td>
 </tr><tr>
 <td class="entry-name">Droyne as Travellers</td>
@@ -20250,6 +20770,16 @@ TTR: 127
 JTAS2: 83
 </td>
 </tr><tr>
+<td class="entry-name">EHALRA</td>
+<td class="book-pages">
+TPoD: 257
+</td>
+</tr><tr>
+<td class="entry-name">Easteakh</td>
+<td class="book-pages">
+TPoD: 202
+</td>
+</tr><tr>
 <td class="entry-name">Eccentric Worlds</td>
 <td class="book-pages">
 JTAS2: 82
@@ -20268,6 +20798,11 @@ TTR: 137
 <td class="entry-name">Ehrlik Vindirsson</td>
 <td class="book-pages">
 Sk: 69
+</td>
+</tr><tr>
+<td class="entry-name">Eihei The Clever</td>
+<td class="book-pages">
+TPoD: 90
 </td>
 </tr><tr>
 <td class="entry-name">Ekilati Onati</td>
@@ -20310,6 +20845,11 @@ DC: 145, LP: 5
 BtC: 166
 </td>
 </tr><tr>
+<td class="entry-name">Eridani</td>
+<td class="book-pages">
+TPoD: 167
+</td>
+</tr><tr>
 <td class="entry-name">Esrianka Erling</td>
 <td class="book-pages">
 JTAS12: 12
@@ -20345,6 +20885,16 @@ TC: 121
 JTAS5: 99
 </td>
 </tr><tr>
+<td class="entry-name">Fae Borshune</td>
+<td class="book-pages">
+TPoD: 185
+</td>
+</tr><tr>
+<td class="entry-name">Faihlokh</td>
+<td class="book-pages">
+TPoD: 139
+</td>
+</tr><tr>
 <td class="entry-name">Fashion In the Imperium</td>
 <td class="book-pages">
 JTAS13: 19
@@ -20353,6 +20903,11 @@ JTAS13: 19
 <td class="entry-name">Fasten Your Seat Belt</td>
 <td class="book-pages">
 JTAS5: 47
+</td>
+</tr><tr>
+<td class="entry-name">Ferrik Redthane</td>
+<td class="book-pages">
+TPoD: 49
 </td>
 </tr><tr>
 <td class="entry-name">First Contact</td>
@@ -20415,6 +20970,11 @@ DC: 142, LP: 2
 TC: 135
 </td>
 </tr><tr>
+<td class="entry-name">Fria Belsen</td>
+<td class="book-pages">
+TPoD: 175
+</td>
+</tr><tr>
 <td class="entry-name">Ftahalr</td>
 <td class="book-pages">
 JTAS13: 28
@@ -20438,6 +20998,16 @@ DC: 102, GoM: 2
 <td class="entry-name">Fusor</td>
 <td class="book-pages">
 JTAS12: 36
+</td>
+</tr><tr>
+<td class="entry-name">Fyohierl</td>
+<td class="book-pages">
+TPoD: 212
+</td>
+</tr><tr>
+<td class="entry-name">Fyukh</td>
+<td class="book-pages">
+TPoD: 94
 </td>
 </tr><tr>
 <td class="entry-name">GSbAG</td>
@@ -20488,6 +21058,11 @@ JTAS13: 97
 <td class="entry-name">General Development Company</td>
 <td class="book-pages">
 TTR: 25, 130
+</td>
+</tr><tr>
+<td class="entry-name">General Development Company (GeDeCo)</td>
+<td class="book-pages">
+TPoD: 53, 172
 </td>
 </tr><tr>
 <td class="entry-name">General Development Corporation</td>
@@ -20630,6 +21205,11 @@ DC: 163
 DS: 26
 </td>
 </tr><tr>
+<td class="entry-name">Harrick, Prince</td>
+<td class="book-pages">
+TPoD: 240
+</td>
+</tr><tr>
 <td class="entry-name">Hazard Worlds</td>
 <td class="book-pages">
 TC: 121
@@ -20643,6 +21223,11 @@ Sk: 47
 <td class="entry-name">Henrik Riordonson</td>
 <td class="book-pages">
 JTAS9: 81
+</td>
+</tr><tr>
+<td class="entry-name">Henshaw</td>
+<td class="book-pages">
+TPoD: 74
 </td>
 </tr><tr>
 <td class="entry-name">Hero</td>
@@ -20695,6 +21280,11 @@ JTAS13: 54
 JTAS14: 118
 </td>
 </tr><tr>
+<td class="entry-name">Hokmah</td>
+<td class="book-pages">
+TPoD: 144
+</td>
+</tr><tr>
 <td class="entry-name">Holbrook Erring</td>
 <td class="book-pages">
 JTAS9: 80
@@ -20717,7 +21307,7 @@ TC: 122
 </tr><tr>
 <td class="entry-name">Hroal Irontooth</td>
 <td class="book-pages">
-TTR: 25
+TPoD: 45, TTR: 25
 </td>
 </tr><tr>
 <td class="entry-name">Humbolt Research Directorate</td>
@@ -20735,6 +21325,11 @@ BtC: 158
 JTAS10: 53
 </td>
 </tr><tr>
+<td class="entry-name">Hwehalokharl</td>
+<td class="book-pages">
+TPoD: 202
+</td>
+</tr><tr>
 <td class="entry-name">Ikurdagur</td>
 <td class="book-pages">
 DC: 166
@@ -20743,6 +21338,11 @@ DC: 166
 <td class="entry-name">Immigration in the Imperium</td>
 <td class="book-pages">
 JTAS7: 118
+</td>
+</tr><tr>
+<td class="entry-name">Immortal Protector</td>
+<td class="book-pages">
+TPoD: 105
 </td>
 </tr><tr>
 <td class="entry-name">Imperial Consul Thao Poluc</td>
@@ -20830,9 +21430,19 @@ JTAS1: 47
 TTR: 45
 </td>
 </tr><tr>
+<td class="entry-name">Iykhi Too-Eager</td>
+<td class="book-pages">
+TPoD: 91
+</td>
+</tr><tr>
 <td class="entry-name">JCV Arym Essden</td>
 <td class="book-pages">
 DC: 171
+</td>
+</tr><tr>
+<td class="entry-name">Jali Astor</td>
+<td class="book-pages">
+TPoD: 104
 </td>
 </tr><tr>
 <td class="entry-name">Jamison Clintock</td>
@@ -20878,6 +21488,11 @@ JTAS10: 5
 <td class="entry-name">Jewell, Spinward Marches</td>
 <td class="book-pages">
 BtC: 32
+</td>
+</tr><tr>
+<td class="entry-name">Jim</td>
+<td class="book-pages">
+TPoD: 187
 </td>
 </tr><tr>
 <td class="entry-name">Jo-Job the Fuel Rat</td>
@@ -20965,6 +21580,11 @@ TC: 153
 AoCS1: 168
 </td>
 </tr><tr>
+<td class="entry-name">Kaja Lenat</td>
+<td class="book-pages">
+TPoD: 147
+</td>
+</tr><tr>
 <td class="entry-name">Kamlar, Deneb</td>
 <td class="book-pages">
 BtC: 282
@@ -20975,9 +21595,19 @@ BtC: 282
 MoM: 29
 </td>
 </tr><tr>
+<td class="entry-name">Kasiyl</td>
+<td class="book-pages">
+TPoD: 80, 197
+</td>
+</tr><tr>
 <td class="entry-name">Kaslyl of the Ahroay'</td>
 <td class="book-pages">
 TTR: 24
+</td>
+</tr><tr>
+<td class="entry-name">Keeper Malos</td>
+<td class="book-pages">
+TPoD: 28
 </td>
 </tr><tr>
 <td class="entry-name">Kerrelblossom</td>
@@ -21020,6 +21650,16 @@ JTAS8: 104
 JTAS8: 106
 </td>
 </tr><tr>
+<td class="entry-name">Krond</td>
+<td class="book-pages">
+TPoD: 149
+</td>
+</tr><tr>
+<td class="entry-name">Krrsh the Vargr</td>
+<td class="book-pages">
+TPoD: 35
+</td>
+</tr><tr>
 <td class="entry-name">Kurt Ahvass</td>
 <td class="book-pages">
 Sk: 15
@@ -21040,6 +21680,11 @@ DC: 157
 TTR: 24
 </td>
 </tr><tr>
+<td class="entry-name">Lady Telwax</td>
+<td class="book-pages">
+TPoD: 234
+</td>
+</tr><tr>
 <td class="entry-name">Lady Yemar</td>
 <td class="book-pages">
 DC: 48, TTR: 161
@@ -21048,6 +21693,11 @@ DC: 48, TTR: 161
 <td class="entry-name">Lamas, Deneb</td>
 <td class="book-pages">
 BtC: 221
+</td>
+</tr><tr>
+<td class="entry-name">Lando Nierr</td>
+<td class="book-pages">
+TPoD: 186
 </td>
 </tr><tr>
 <td class="entry-name">Lanth, Spinward Marches</td>
@@ -21063,6 +21713,16 @@ Sk: 15
 <td class="entry-name">Legacy of Ghormount</td>
 <td class="book-pages">
 SoS: 32
+</td>
+</tr><tr>
+<td class="entry-name">Lemuel Vinus</td>
+<td class="book-pages">
+TPoD: 104
+</td>
+</tr><tr>
+<td class="entry-name">Lemuel Volin</td>
+<td class="book-pages">
+TPoD: 111
 </td>
 </tr><tr>
 <td class="entry-name">Letter of Marque</td>
@@ -21103,6 +21763,11 @@ BtC: 236
 <td class="entry-name">Living and Working Underwater</td>
 <td class="book-pages">
 TCI: 3
+</td>
+</tr><tr>
+<td class="entry-name">Lokharl</td>
+<td class="book-pages">
+TPoD: 214
 </td>
 </tr><tr>
 <td class="entry-name">Lord Afle Urelad</td>
@@ -21218,6 +21883,11 @@ JTAS1: 48
 <td class="entry-name">Margaret II</td>
 <td class="book-pages">
 JTAS1: 48
+</td>
+</tr><tr>
+<td class="entry-name">Mari Jagad</td>
+<td class="book-pages">
+TPoD: 70
 </td>
 </tr><tr>
 <td class="entry-name">Maris Enar</td>
@@ -21366,6 +22036,11 @@ JTAS8: 106
 BtC: 132
 </td>
 </tr><tr>
+<td class="entry-name">Miria Silverhand</td>
+<td class="book-pages">
+TPoD: 47
+</td>
+</tr><tr>
 <td class="entry-name">Missile Robots</td>
 <td class="book-pages">
 RH: 249
@@ -21486,6 +22161,11 @@ MoM: 6
 TTR: 161
 </td>
 </tr><tr>
+<td class="entry-name">Ogleby</td>
+<td class="book-pages">
+TPoD: 149
+</td>
+</tr><tr>
 <td class="entry-name">Olav</td>
 <td class="book-pages">
 JTAS1: 46
@@ -21499,6 +22179,11 @@ BtC: 144
 <td class="entry-name">Olav hault-Plankwell, Grand Admiral</td>
 <td class="book-pages">
 BtC: 77
+</td>
+</tr><tr>
+<td class="entry-name">Old Elyo</td>
+<td class="book-pages">
+TPoD: 93
 </td>
 </tr><tr>
 <td class="entry-name">Omicron: The Mythical Weaponsmith</td>
@@ -21519,6 +22204,11 @@ JTAS2: 85
 <td class="entry-name">Order of the Thirteenth Expedition</td>
 <td class="book-pages">
 JTAS11: 80
+</td>
+</tr><tr>
+<td class="entry-name">Osha</td>
+<td class="book-pages">
+TPoD: 71
 </td>
 </tr><tr>
 <td class="entry-name">Outrim Void</td>
@@ -21596,6 +22286,16 @@ TTR: 187
 JTAS14: 10
 </td>
 </tr><tr>
+<td class="entry-name">Petyr Vallis</td>
+<td class="book-pages">
+TPoD: 46, 144
+</td>
+</tr><tr>
+<td class="entry-name">Petyr Vallis’ Company</td>
+<td class="book-pages">
+TPoD: 143
+</td>
+</tr><tr>
 <td class="entry-name">Peytr Vallis</td>
 <td class="book-pages">
 TTR: 25
@@ -21614,6 +22314,11 @@ MoM: 28
 <td class="entry-name">Pilot Controls</td>
 <td class="book-pages">
 JTAS13: 73
+</td>
+</tr><tr>
+<td class="entry-name">Pink Diamond</td>
+<td class="book-pages">
+JTAS8: 81
 </td>
 </tr><tr>
 <td class="entry-name">Piracy on the Spinward Main</td>
@@ -21692,6 +22397,16 @@ TTR: 23
 BtC: 145
 </td>
 </tr><tr>
+<td class="entry-name">Proactive Recycling Corporation</td>
+<td class="book-pages">
+TPoD: 141
+</td>
+</tr><tr>
+<td class="entry-name">Provost Falx</td>
+<td class="book-pages">
+TPoD: 31
+</td>
+</tr><tr>
 <td class="entry-name">Psi-Topple</td>
 <td class="book-pages">
 JTAS12: 36
@@ -21762,6 +22477,16 @@ JTAS1: 47
 TTR: 191
 </td>
 </tr><tr>
+<td class="entry-name">Rannib</td>
+<td class="book-pages">
+TPoD: 131
+</td>
+</tr><tr>
+<td class="entry-name">Rao, Princess</td>
+<td class="book-pages">
+TPoD: 241
+</td>
+</tr><tr>
 <td class="entry-name">Reach CopperCorp</td>
 <td class="book-pages">
 DC: 220
@@ -21815,12 +22540,6 @@ BtC: 126, 271
 </td>
 </tr>
 <tr>
-<td class="entry-name indented">Church of the Chosen Ones</td>
-<td class="book-pages">
-JTAS14: 77
-</td>
-</tr>
-<tr>
 <td class="entry-name indented">Church of the Stellar Divinity</td>
 <td class="book-pages">
 JTAS8: 44
@@ -21857,7 +22576,7 @@ AoCS3: 163
 <tr>
 <td class="entry-name indented">Church of the Chosen Ones</td>
 <td class="book-pages">
-AoCS1: 174
+AoCS1: 174, JTAS14: 77
 </td>
 </tr>
 <tr>
@@ -21915,6 +22634,11 @@ BtC: 114, 166
 <td class="entry-name">Retrofitting</td>
 <td class="book-pages">
 BtC: 181
+</td>
+</tr><tr>
+<td class="entry-name">Rhoda Voidborn</td>
+<td class="book-pages">
+TPoD: 148
 </td>
 </tr><tr>
 <td class="entry-name">Rhylanor, Spinward Marches</td>
@@ -22013,6 +22737,11 @@ BtC: 238
 SW: 67
 </td>
 </tr><tr>
+<td class="entry-name">Sahri</td>
+<td class="book-pages">
+TPoD: 203
+</td>
+</tr><tr>
 <td class="entry-name">Sal Dance</td>
 <td class="book-pages">
 TTR: 24
@@ -22021,6 +22750,11 @@ TTR: 24
 <td class="entry-name">Salvage Rights</td>
 <td class="book-pages">
 JTAS5: 64
+</td>
+</tr><tr>
+<td class="entry-name">Salvesdes</td>
+<td class="book-pages">
+TPoD: 73
 </td>
 </tr><tr>
 <td class="entry-name">Sarge</td>
@@ -22167,6 +22901,12 @@ DC: 155
 <td class="entry-name indented">Pelzentin Della</td>
 <td class="book-pages">
 DC: 160
+</td>
+</tr>
+<tr>
+<td class="entry-name indented">Pink Diamond</td>
+<td class="book-pages">
+JTAS8: 81
 </td>
 </tr>
 <tr>
@@ -22389,6 +23129,11 @@ JTAS7: 71
 BtC: 158
 </td>
 </tr><tr>
+<td class="entry-name">Steyland</td>
+<td class="book-pages">
+TPoD: 147
+</td>
+</tr><tr>
 <td class="entry-name">Storm Knight Order</td>
 <td class="book-pages">
 JTAS11: 80
@@ -22465,9 +23210,24 @@ BtC: 65
 JTAS9: 81
 </td>
 </tr><tr>
+<td class="entry-name">Teaw</td>
+<td class="book-pages">
+TPoD: 94
+</td>
+</tr><tr>
 <td class="entry-name">Tech Levels</td>
 <td class="book-pages">
 CRB: 6
+</td>
+</tr><tr>
+<td class="entry-name">Teeahta</td>
+<td class="book-pages">
+TPoD: 203
+</td>
+</tr><tr>
+<td class="entry-name">Teirlas</td>
+<td class="book-pages">
+TPoD: 201
 </td>
 </tr><tr>
 <td class="entry-name">Terran Adventurers' Society</td>
@@ -22483,6 +23243,11 @@ TTR: 137
 <td class="entry-name">The Baraccai Technum</td>
 <td class="book-pages">
 TTR: 143
+</td>
+</tr><tr>
+<td class="entry-name">The Barnacle</td>
+<td class="book-pages">
+TPoD: 134
 </td>
 </tr><tr>
 <td class="entry-name">The Bastion Movement</td>
@@ -22585,6 +23350,11 @@ TTR: 131
 TTR: 164
 </td>
 </tr><tr>
+<td class="entry-name">Toiho The Brave</td>
+<td class="book-pages">
+TPoD: 92
+</td>
+</tr><tr>
 <td class="entry-name">Tomutova I</td>
 <td class="book-pages">
 JTAS1: 48
@@ -22598,6 +23368,11 @@ JTAS1: 48
 <td class="entry-name">Torpol Cluster</td>
 <td class="book-pages">
 DC: 19
+</td>
+</tr><tr>
+<td class="entry-name">Torsa</td>
+<td class="book-pages">
+TPoD: 69
 </td>
 </tr><tr>
 <td class="entry-name">Tour of the Free Trader</td>
@@ -22670,6 +23445,11 @@ BtC: 7, CRB: 47
 TC: 156
 </td>
 </tr><tr>
+<td class="entry-name">Treaty of Fist</td>
+<td class="book-pages">
+TPoD: 61
+</td>
+</tr><tr>
 <td class="entry-name">Trennance Zedehlale</td>
 <td class="book-pages">
 DE: 41
@@ -22725,6 +23505,11 @@ TC: 120
 DC: 165
 </td>
 </tr><tr>
+<td class="entry-name">Uhto</td>
+<td class="book-pages">
+TPoD: 204
+</td>
+</tr><tr>
 <td class="entry-name">Underwater</td>
 <td class="book-pages">
 TC: 70
@@ -22760,11 +23545,6 @@ RH: 175
 TC: 67
 </td>
 </tr><tr>
-<td class="entry-name">Vargr</td>
-<td class="book-pages">
-BtC: 237
-</td>
-</tr><tr>
 <td class="entry-name">Vargr Corsairs</td>
 <td class="book-pages">
 JTAS1: 70
@@ -22778,6 +23558,11 @@ AoCS1: 178
 <td class="entry-name">Vast Heavens, Deneb</td>
 <td class="book-pages">
 BtC: 282
+</td>
+</tr><tr>
+<td class="entry-name">Vaughan</td>
+<td class="book-pages">
+TPoD: 72
 </td>
 </tr><tr>
 <td class="entry-name">Vaʻaukana</td>
@@ -22855,6 +23640,11 @@ JTAS5: 29
 BtC: 228
 </td>
 </tr><tr>
+<td class="entry-name">Yang</td>
+<td class="book-pages">
+TPoD: 142
+</td>
+</tr><tr>
 <td class="entry-name">Ya’soisthea</td>
 <td class="book-pages">
 TTR: 122
@@ -22873,6 +23663,11 @@ TTR: 150
 <td class="entry-name">Yirsh Poy Syndicate</td>
 <td class="book-pages">
 JTAS10: 20
+</td>
+</tr><tr>
+<td class="entry-name">Yutal Mirobar haut-Belzoni</td>
+<td class="book-pages">
+TPoD: 121
 </td>
 </tr><tr>
 <td class="entry-name">Zander Druniman, Marquis</td>
@@ -22898,21 +23693,6 @@ BtC: 114, 166
 <td class="entry-name">Zhakirov</td>
 <td class="book-pages">
 JTAS1: 48
-</td>
-</tr><tr>
-<td class="entry-name">Zhodani Fleet</td>
-<td class="book-pages">
-JTAS10: 109
-</td>
-</tr><tr>
-<td class="entry-name">Zhodani Military Organization</td>
-<td class="book-pages">
-JTAS3: 112
-</td>
-</tr><tr>
-<td class="entry-name">Zhodani Philosophies</td>
-<td class="book-pages">
-JTAS2: 54
 </td>
 </tr><tr>
 <td class="entry-name">Zirunkariish</td>
@@ -22988,7 +23768,7 @@ ACS: 108
 JTAS6: 124
 </td>
 </tr><tr>
-<td class="entry-name">Antiama Class Fleet Carrier</td>
+<td class="entry-name">Antiama-Class Fleet Carrier</td>
 <td class="book-pages">
 HG: 270
 </td>
@@ -23000,7 +23780,12 @@ ACS: 32
 </tr><tr>
 <td class="entry-name">Aoa’Iw-Class Light Trader</td>
 <td class="book-pages">
-AoCS1: 102, SotR: 72
+SotR: 72
+</td>
+</tr><tr>
+<td class="entry-name">Aoa’iw-Class Light Trader</td>
+<td class="book-pages">
+AoCS1: 102
 </td>
 </tr><tr>
 <td class="entry-name">Aositaoh-Class Cruiser</td>
@@ -23008,7 +23793,7 @@ AoCS1: 102, SotR: 72
 AoCS1: 84, SotR: 84
 </td>
 </tr><tr>
-<td class="entry-name">Arakdine Class Strike Cruiser</td>
+<td class="entry-name">Arakdine-Class Strike Cruiser</td>
 <td class="book-pages">
 HG: 251
 </td>
@@ -23023,17 +23808,12 @@ JTAS14: 19
 ACS: 22
 </td>
 </tr><tr>
-<td class="entry-name">Armoured Cruiser</td>
-<td class="book-pages">
-HG: 242
-</td>
-</tr><tr>
 <td class="entry-name">Assault Gunship</td>
 <td class="book-pages">
 ACS: 104
 </td>
 </tr><tr>
-<td class="entry-name">Atlantic Class Heavy Cruiser</td>
+<td class="entry-name">Atlantic-Class Heavy Cruiser</td>
 <td class="book-pages">
 HG: 262
 </td>
@@ -23043,7 +23823,7 @@ HG: 262
 AoCS1: 230
 </td>
 </tr><tr>
-<td class="entry-name">Azhanti High-Lightning Class Frontier Cruiser</td>
+<td class="entry-name">Azhanti High-Lightning-Class Frontier Cruiser</td>
 <td class="book-pages">
 HG: 258
 </td>
@@ -23051,11 +23831,6 @@ HG: 258
 <td class="entry-name">Balleyn Frontier Transport</td>
 <td class="book-pages">
 DC: 196
-</td>
-</tr><tr>
-<td class="entry-name">Battle Rider</td>
-<td class="book-pages">
-HG: 255
 </td>
 </tr><tr>
 <td class="entry-name">Bearer-Of-Cargoes Shuttle</td>
@@ -23118,11 +23893,6 @@ SW: 150
 DS: 10
 </td>
 </tr><tr>
-<td class="entry-name">Cargo Carrier</td>
-<td class="book-pages">
-HG: 223
-</td>
-</tr><tr>
 <td class="entry-name">Cargo Lighter</td>
 <td class="book-pages">
 BtC: 168
@@ -23133,7 +23903,7 @@ BtC: 168
 DC: 194
 </td>
 </tr><tr>
-<td class="entry-name">Chrysanthemum Class Destroyer Escort</td>
+<td class="entry-name">Chrysanthemum-Class Destroyer Escort</td>
 <td class="book-pages">
 HG: 207
 </td>
@@ -23141,11 +23911,6 @@ HG: 207
 <td class="entry-name">Close Escort</td>
 <td class="book-pages">
 HG: 181
-</td>
-</tr><tr>
-<td class="entry-name">Colonial Cruiser</td>
-<td class="book-pages">
-HG: 214
 </td>
 </tr><tr>
 <td class="entry-name">Conestoga Freighter</td>
@@ -23161,6 +23926,11 @@ HG: 195, SotR: 26
 <td class="entry-name">Coveter Armoured Merchant</td>
 <td class="book-pages">
 ACS: 42
+</td>
+</tr><tr>
+<td class="entry-name">Credibility Major Starship</td>
+<td class="book-pages">
+AoCS2: 246
 </td>
 </tr><tr>
 <td class="entry-name">Custom Safari Ship</td>
@@ -23218,27 +23988,17 @@ SW: 154
 ACS: 122
 </td>
 </tr><tr>
-<td class="entry-name">Destroyer</td>
-<td class="book-pages">
-HG: 227
-</td>
-</tr><tr>
-<td class="entry-name">Destroyer Escort</td>
-<td class="book-pages">
-HG: 207, 211
-</td>
-</tr><tr>
 <td class="entry-name">Donosev Class Survey Scout</td>
 <td class="book-pages">
-HG: 191, U2FAQ: 3
+U2FAQ: 3
 </td>
 </tr><tr>
-<td class="entry-name">Donosev Survey Scout</td>
+<td class="entry-name">Donosev-Class Survey Scout</td>
 <td class="book-pages">
-CRB: 212
+CRB: 212, HG: 191
 </td>
 </tr><tr>
-<td class="entry-name">Dragon Class System Defence Boat</td>
+<td class="entry-name">Dragon-Class System Defence Boat</td>
 <td class="book-pages">
 HG: 193
 </td>
@@ -23246,11 +24006,6 @@ HG: 193
 <td class="entry-name">Draken-Class Light Strike Boat</td>
 <td class="book-pages">
 SW: 124
-</td>
-</tr><tr>
-<td class="entry-name">Dreadnought</td>
-<td class="book-pages">
-HG: 276, 280, 284
 </td>
 </tr><tr>
 <td class="entry-name">Dreamsong Laboratory Ship</td>
@@ -23293,7 +24048,7 @@ AoCS1: 88, SotR: 82
 JTAS11: 54
 </td>
 </tr><tr>
-<td class="entry-name">Empress Marava Far Trader</td>
+<td class="entry-name">Empress Marava-Class Far Trader</td>
 <td class="book-pages">
 HG: 167
 </td>
@@ -23343,7 +24098,7 @@ ACS: 16
 ACS: 12
 </td>
 </tr><tr>
-<td class="entry-name">Far Trader</td>
+<td class="entry-name">Far Trader, Type A2</td>
 <td class="book-pages">
 CRB: 196, HG: 169
 </td>
@@ -23363,7 +24118,7 @@ ACS: 34
 SotR: 2
 </td>
 </tr><tr>
-<td class="entry-name">Fer-De-Lance Destroyer Escort</td>
+<td class="entry-name">Fer-De-Lance-Class Destroyer Escort</td>
 <td class="book-pages">
 HG: 211
 </td>
@@ -23373,19 +24128,9 @@ HG: 211
 SotR: 12
 </td>
 </tr><tr>
-<td class="entry-name">Fleet Carrier</td>
-<td class="book-pages">
-HG: 270
-</td>
-</tr><tr>
 <td class="entry-name">Fleet Courier</td>
 <td class="book-pages">
 HG: 183
-</td>
-</tr><tr>
-<td class="entry-name">Fleet Escort</td>
-<td class="book-pages">
-HG: 231
 </td>
 </tr><tr>
 <td class="entry-name">Free Smuggler, Type AC</td>
@@ -23395,17 +24140,12 @@ ACS: 24
 </tr><tr>
 <td class="entry-name">Free Trader</td>
 <td class="book-pages">
-CRB: 194, HG: 171, U2FAQ: 3
+U2FAQ: 3
 </td>
 </tr><tr>
-<td class="entry-name">Freighter</td>
+<td class="entry-name">Free Trader, Type A</td>
 <td class="book-pages">
-HG: 274
-</td>
-</tr><tr>
-<td class="entry-name">Frontier Cruiser</td>
-<td class="book-pages">
-HG: 258
+CRB: 194, HG: 171
 </td>
 </tr><tr>
 <td class="entry-name">Frontiersman, Type SX</td>
@@ -23438,7 +24178,7 @@ AoCS3: 78
 BtC: 84
 </td>
 </tr><tr>
-<td class="entry-name">Galika Megula Class Freighter</td>
+<td class="entry-name">Galika Megula-Class Freighter</td>
 <td class="book-pages">
 HG: 274
 </td>
@@ -23453,17 +24193,17 @@ SotR: 48
 JTAS5: 59
 </td>
 </tr><tr>
-<td class="entry-name">Gazelle Class Close Escort</td>
-<td class="book-pages">
-HG: 181
-</td>
-</tr><tr>
 <td class="entry-name">Gazelle Close Escort</td>
 <td class="book-pages">
-CRB: 204, JTAS4: 86
+JTAS4: 86
 </td>
 </tr><tr>
-<td class="entry-name">Ghalalk Class Armoured Cruiser</td>
+<td class="entry-name">Gazelle-Class Close Escort</td>
+<td class="book-pages">
+CRB: 204, HG: 181
+</td>
+</tr><tr>
+<td class="entry-name">Ghalalk-Class Armoured Cruiser</td>
 <td class="book-pages">
 HG: 242
 </td>
@@ -23503,7 +24243,7 @@ BtC: 192
 JTAS9: 14
 </td>
 </tr><tr>
-<td class="entry-name">Hadrian Class Battle Rider</td>
+<td class="entry-name">Hadrian-Class Battle Rider</td>
 <td class="book-pages">
 HG: 255
 </td>
@@ -23521,11 +24261,6 @@ DC: 49
 <td class="entry-name">Havmanden-Class Long Range Trader</td>
 <td class="book-pages">
 SW: 140
-</td>
-</tr><tr>
-<td class="entry-name">Heavy Cruiser</td>
-<td class="book-pages">
-HG: 262
 </td>
 </tr><tr>
 <td class="entry-name">Herald-Class Fast Messenger</td>
@@ -23571,6 +24306,11 @@ BtC: 120
 <td class="entry-name">Illern-Class Orbital Defence Platform</td>
 <td class="book-pages">
 SW: 129
+</td>
+</tr><tr>
+<td class="entry-name">Imperial Treasure Ship</td>
+<td class="book-pages">
+TPoD: 63
 </td>
 </tr><tr>
 <td class="entry-name">Incarnate-Class Strik Destroyer</td>
@@ -23628,7 +24368,7 @@ ACS: 154
 AoCS1: 76, SotR: 78
 </td>
 </tr><tr>
-<td class="entry-name">Kinunir Class Colonial Cruiser</td>
+<td class="entry-name">Kinunir-Class Colonial Cruiser</td>
 <td class="book-pages">
 HG: 214
 </td>
@@ -23638,7 +24378,7 @@ HG: 214
 AoCS1: 228
 </td>
 </tr><tr>
-<td class="entry-name">Kokirrak Class Dreadnought</td>
+<td class="entry-name">Kokirrak-Class Dreadnought</td>
 <td class="book-pages">
 HG: 276
 </td>
@@ -23680,7 +24420,12 @@ JTAS3: 125
 </tr><tr>
 <td class="entry-name">Laboratory Ship</td>
 <td class="book-pages">
-CRB: 206, HG: 185
+HG: 185
+</td>
+</tr><tr>
+<td class="entry-name">Laboratory Ship, Type L</td>
+<td class="book-pages">
+CRB: 206
 </td>
 </tr><tr>
 <td class="entry-name">Laboratory Trader, Astrogon</td>
@@ -23733,19 +24478,9 @@ AoCS3: 84
 AoCS1: 240
 </td>
 </tr><tr>
-<td class="entry-name">Leviathan Class Merchant Cruiser</td>
+<td class="entry-name">Leviathan-Class Merchant Cruiser</td>
 <td class="book-pages">
 HG: 217
-</td>
-</tr><tr>
-<td class="entry-name">Light Carrier</td>
-<td class="book-pages">
-HG: 235
-</td>
-</tr><tr>
-<td class="entry-name">Light Cruiser</td>
-<td class="book-pages">
-HG: 238
 </td>
 </tr><tr>
 <td class="entry-name">Light Reconnaissance Ship</td>
@@ -23773,7 +24508,7 @@ ACS: 38
 ACS: 72
 </td>
 </tr><tr>
-<td class="entry-name">MK Mora Class Cargo Carrier</td>
+<td class="entry-name">MK Mora-Class Cargo Carrier</td>
 <td class="book-pages">
 HG: 223
 </td>
@@ -23815,12 +24550,12 @@ ACS: 112
 </tr><tr>
 <td class="entry-name">Mercenary Cruiser</td>
 <td class="book-pages">
-CRB: 216, HG: 201
+HG: 201
 </td>
 </tr><tr>
-<td class="entry-name">Merchant Cruiser</td>
+<td class="entry-name">Mercenary Cruiser, Type C</td>
 <td class="book-pages">
-HG: 217
+CRB: 216
 </td>
 </tr><tr>
 <td class="entry-name">Merchant Cruiser Skander</td>
@@ -23838,7 +24573,7 @@ ACS: 21
 ACS: 30
 </td>
 </tr><tr>
-<td class="entry-name">Midu Agashaam Class Destroyer</td>
+<td class="entry-name">Midu Agashaam-Class Destroyer</td>
 <td class="book-pages">
 HG: 227
 </td>
@@ -23878,7 +24613,7 @@ SW: 146
 AoCS1: 90, SotR: 80
 </td>
 </tr><tr>
-<td class="entry-name">P.F. Sloan Class Fleet Escort</td>
+<td class="entry-name">P.F. Sloan-Class Fleet Escort</td>
 <td class="book-pages">
 HG: 231
 </td>
@@ -23900,7 +24635,12 @@ ACS: 57
 </tr><tr>
 <td class="entry-name">Patrol Corvette</td>
 <td class="book-pages">
-CRB: 208, HG: 187
+HG: 187
+</td>
+</tr><tr>
+<td class="entry-name">Patrol Corvette, Type T</td>
+<td class="book-pages">
+CRB: 208
 </td>
 </tr><tr>
 <td class="entry-name">Patrol Tender</td>
@@ -23928,11 +24668,6 @@ AoCS3: 278
 AoCS3: 88
 </td>
 </tr><tr>
-<td class="entry-name">Pink Diamond</td>
-<td class="book-pages">
-JTAS8: 81
-</td>
-</tr><tr>
 <td class="entry-name">Pirate Carrier</td>
 <td class="book-pages">
 ACS: 102
@@ -23948,9 +24683,14 @@ SotR: 53
 HG: 247
 </td>
 </tr><tr>
-<td class="entry-name">Plankwell Class Dreadnought</td>
+<td class="entry-name">Plankwell-Class Dreadnought</td>
 <td class="book-pages">
 HG: 280
+</td>
+</tr><tr>
+<td class="entry-name">Practicality General-Purpose Starship</td>
+<td class="book-pages">
+AoCS2: 242
 </td>
 </tr><tr>
 <td class="entry-name">Prison Ferry</td>
@@ -24028,7 +24768,7 @@ AoCS1: 236
 AoCS2: 112
 </td>
 </tr><tr>
-<td class="entry-name">Safari Ship</td>
+<td class="entry-name">Safari Ship, Type K</td>
 <td class="book-pages">
 CRB: 198, HG: 173
 </td>
@@ -24058,22 +24798,17 @@ SW: 137
 ACS: 142
 </td>
 </tr><tr>
-<td class="entry-name">Scout</td>
+<td class="entry-name">Scout/Courier, Type S</td>
 <td class="book-pages">
-HG: 165
+CRB: 190
 </td>
 </tr><tr>
-<td class="entry-name">Scout/Courier</td>
-<td class="book-pages">
-CRB: 190, HG: 160
-</td>
-</tr><tr>
-<td class="entry-name">Seeker Mining Ship</td>
+<td class="entry-name">Seeker Mining Ship, Type J</td>
 <td class="book-pages">
 CRB: 192, HG: 162
 </td>
 </tr><tr>
-<td class="entry-name">Serpent Class Scout</td>
+<td class="entry-name">Serpent-Class Scout</td>
 <td class="book-pages">
 HG: 165
 </td>
@@ -24108,7 +24843,7 @@ BtC: 116
 AoCS2: 170
 </td>
 </tr><tr>
-<td class="entry-name">Skimkish Class Light Carrier</td>
+<td class="entry-name">Skimkish-Class Light Carrier</td>
 <td class="book-pages">
 HG: 235
 </td>
@@ -24193,16 +24928,6 @@ JTAS11: 118
 JTAS6: 2
 </td>
 </tr><tr>
-<td class="entry-name">Strike Carrier</td>
-<td class="book-pages">
-HG: 266
-</td>
-</tr><tr>
-<td class="entry-name">Strike Cruiser</td>
-<td class="book-pages">
-HG: 251
-</td>
-</tr><tr>
 <td class="entry-name">Strike Scout, Type SP</td>
 <td class="book-pages">
 ACS: 98
@@ -24210,12 +24935,17 @@ ACS: 98
 </tr><tr>
 <td class="entry-name">Subsidised Liner</td>
 <td class="book-pages">
-CRB: 214, HG: 199
+HG: 199
 </td>
 </tr><tr>
-<td class="entry-name">Subsidised Merchant</td>
+<td class="entry-name">Subsidised Liner, Type M</td>
 <td class="book-pages">
-CRB: 210
+CRB: 214
+</td>
+</tr><tr>
+<td class="entry-name">Subsidised Merchant, Type R</td>
+<td class="book-pages">
+CRB: 210, HG: 189
 </td>
 </tr><tr>
 <td class="entry-name">Subsidised Merchant, Type RQ</td>
@@ -24223,17 +24953,12 @@ CRB: 210
 SotR: 18
 </td>
 </tr><tr>
-<td class="entry-name">Subsidised Merchat</td>
-<td class="book-pages">
-HG: 189
-</td>
-</tr><tr>
 <td class="entry-name">Subsidised Ships</td>
 <td class="book-pages">
 ACS: 4
 </td>
 </tr><tr>
-<td class="entry-name">Sulieman Class Scout/Courier</td>
+<td class="entry-name">Sulieman-Class Scout/Courier, Type S</td>
 <td class="book-pages">
 HG: 160
 </td>
@@ -24250,7 +24975,7 @@ ACS: 146
 </tr><tr>
 <td class="entry-name">Survey Scout</td>
 <td class="book-pages">
-HG: 191, U2FAQ: 3
+U2FAQ: 3
 </td>
 </tr><tr>
 <td class="entry-name">Sword of Oberon</td>
@@ -24313,7 +25038,7 @@ JTAS11: 124
 BtC: 280
 </td>
 </tr><tr>
-<td class="entry-name">Tigress Class Dreadnought</td>
+<td class="entry-name">Tigress-Class Dreadnought</td>
 <td class="book-pages">
 HG: 284
 </td>
@@ -24363,7 +25088,7 @@ AoCS2: 106
 SotR: 40
 </td>
 </tr><tr>
-<td class="entry-name">Valiant Class Light Cruiser</td>
+<td class="entry-name">Valiant-Class Light Cruiser</td>
 <td class="book-pages">
 HG: 238
 </td>
@@ -24413,7 +25138,12 @@ JTAS2: 105
 SotR: 23
 </td>
 </tr><tr>
-<td class="entry-name">Wind Class Strike Carrier</td>
+<td class="entry-name">Whimsy Personal Transport</td>
+<td class="book-pages">
+AoCS2: 240
+</td>
+</tr><tr>
+<td class="entry-name">Wind-Class Strike Carrier</td>
 <td class="book-pages">
 HG: 266
 </td>
@@ -24423,14 +25153,9 @@ HG: 266
 HG: 204
 </td>
 </tr><tr>
-<td class="entry-name">Yacht</td>
+<td class="entry-name">Yacht, Type Y</td>
 <td class="book-pages">
-HG: 179
-</td>
-</tr><tr>
-<td class="entry-name">Yacht Type Y</td>
-<td class="book-pages">
-CRB: 202
+CRB: 202, HG: 179
 </td>
 </tr><tr>
 <td class="entry-name">Yehng Rapid Response Rescue Vessel</td>
@@ -25545,11 +26270,6 @@ SCC: 36
 DS: 19, SCC: 38
 </td>
 </tr><tr>
-<td class="entry-name">Revised Fuel Operation Times</td>
-<td class="book-pages">
-SCC: 4
-</td>
-</tr><tr>
 <td class="entry-name">Runabout</td>
 <td class="book-pages">
 SCC: 72
@@ -25603,11 +26323,6 @@ CRB: 224, HG: 143
 <td class="entry-name">Slow Pinnace, Minnow</td>
 <td class="book-pages">
 JTAS7: 93
-</td>
-</tr><tr>
-<td class="entry-name">Small Craft Benefits</td>
-<td class="book-pages">
-SCC: 3
 </td>
 </tr><tr>
 <td class="entry-name">Smuggler’s Pinnace</td>
@@ -25708,11 +26423,6 @@ AoCS2: 104
 <td class="entry-name">Ultralight Fighter</td>
 <td class="book-pages">
 HG: 136
-</td>
-</tr><tr>
-<td class="entry-name">Using Small Craft</td>
-<td class="book-pages">
-SCC: 3
 </td>
 </tr><tr>
 <td class="entry-name">Utility Pod</td>
@@ -26095,28 +26805,6 @@ BtC: 167
 BtC: 167
 </td>
 </tr><tr>
-<td class="entry-name">Darrian</td>
-<td class="book-pages">
-AoCS3: 4
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Travellers</td>
-<td class="book-pages">
-BtC: 82
-</td>
-</tr><tr>
-<td class="entry-name">Dolphin</td>
-<td class="book-pages">
-
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Travellers</td>
-<td class="book-pages">
-BtC: 35
-</td>
-</tr><tr>
 <td class="entry-name">Droyne</td>
 <td class="book-pages">
 AoCS2: 138, BtC: 252, JTAS11: 95, 94
@@ -26393,7 +27081,7 @@ TTR: 197
 </tr><tr>
 <td class="entry-name">Zhodani</td>
 <td class="book-pages">
-AoCS1: 242, JTAS2: 54, 70, JTAS3: 112, JTAS6: 56, JTAS9: 54
+AoCS1: 242, JTAS2: 70, JTAS6: 56, JTAS9: 54
 </td>
 </tr><table>
 <h2 id="Sophonts">Sophonts</h2>
@@ -26404,9 +27092,26 @@ AoCS1: 242, JTAS2: 54, 70, JTAS3: 112, JTAS6: 56, JTAS9: 54
 AoCS3: 228
 </td>
 </tr><tr>
+<td class="entry-name">Darrian</td>
+<td class="book-pages">
+AoCS3: 4, BtC: 82
+</td>
+</tr>
+<tr>
+<td class="entry-name indented">Travellers</td>
+<td class="book-pages">
+AoCS3: 36, BtC: 82
+</td>
+</tr><tr>
 <td class="entry-name">Dolphin</td>
 <td class="book-pages">
-AoCS3: 155
+AoCS3: 155, BtC: 35
+</td>
+</tr>
+<tr>
+<td class="entry-name indented">Travellers</td>
+<td class="book-pages">
+AoCS3: 168, BtC: 35
 </td>
 </tr><tr>
 <td class="entry-name">Geonee</td>
@@ -26419,7 +27124,7 @@ AoCS3: 92
 AoCS2: 219
 </td>
 </tr><tr>
-<td class="entry-name">Hivers</td>
+<td class="entry-name">Hiver</td>
 <td class="book-pages">
 AoCS2: 211
 </td>
@@ -26495,24 +27200,6 @@ JTAS4: 49
 <td class="entry-name">Wainwright Starport</td>
 <td class="book-pages">
 MoAS: 8
-</td>
-</tr><table>
-<h2 id="Starships">Starships</h2>
-<table>
-<tr>
-<td class="entry-name">CREDIBILITY MAJOR STARSHIP</td>
-<td class="book-pages">
-AoCS2: 246
-</td>
-</tr><tr>
-<td class="entry-name">PRACTICALITY GENERAL- PURPOSE STARSHIP</td>
-<td class="book-pages">
-AoCS2: 242
-</td>
-</tr><tr>
-<td class="entry-name">WHIMSY PERSONAL TRANSPORT</td>
-<td class="book-pages">
-AoCS2: 240
 </td>
 </tr><table>
 <h2 id="Sword Worlds Confederation">Sword Worlds Confederation</h2>
@@ -26613,54 +27300,6 @@ SW: 24
 <td class="entry-name">Fleets</td>
 <td class="book-pages">
 SW: 33
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Biter</td>
-<td class="book-pages">
-SW: 34
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Dyrnwyn</td>
-<td class="book-pages">
-SW: 34
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Gram</td>
-<td class="book-pages">
-SW: 34
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Joyeuse</td>
-<td class="book-pages">
-SW: 34
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Narsil</td>
-<td class="book-pages">
-SW: 34
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Sacnoth</td>
-<td class="book-pages">
-SW: 34
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Sting</td>
-<td class="book-pages">
-SW: 34
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Tizon</td>
-<td class="book-pages">
-SW: 34
 </td>
 </tr><tr>
 <td class="entry-name">Government</td>
@@ -26843,12 +27482,6 @@ SW: 55
 </td>
 </tr>
 <tr>
-<td class="entry-name indented">Sacnoth Arm</td>
-<td class="book-pages">
-SW: 67
-</td>
-</tr>
-<tr>
 <td class="entry-name indented">Trailing Worlds</td>
 <td class="book-pages">
 SW: 74
@@ -27028,107 +27661,6 @@ SW: 17
 <td class="entry-name">Soldat</td>
 <td class="book-pages">
 SW: 18
-</td>
-</tr><tr>
-<td class="entry-name">System</td>
-<td class="book-pages">
-
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Anduril, Sword Worlds</td>
-<td class="book-pages">
-SW: 69
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Beater, Sword Worlds</td>
-<td class="book-pages">
-SW: 65
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Biter, Sword Worlds</td>
-<td class="book-pages">
-SW: 79
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Colada, Sword Worlds</td>
-<td class="book-pages">
-SW: 58
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Durendal, Sword Worlds</td>
-<td class="book-pages">
-SW: 76
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Dyrnwyn, Sword Worlds</td>
-<td class="book-pages">
-SW: 75
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Excalibur, Sword Worlds</td>
-<td class="book-pages">
-SW: 71
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Gram, Sword Worlds</td>
-<td class="book-pages">
-SW: 62
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Hofud, Sword Worlds</td>
-<td class="book-pages">
-SW: 77
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Joyeuse, Sword Worlds</td>
-<td class="book-pages">
-SW: 60
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Narsil, Sword Worlds</td>
-<td class="book-pages">
-SW: 68
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Orcrist, Sword Worlds</td>
-<td class="book-pages">
-SW: 70
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Sacnoth, Sword Worlds</td>
-<td class="book-pages">
-SW: 72
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Sting, Sword Worlds</td>
-<td class="book-pages">
-SW: 78
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Tizon, Sword Worlds</td>
-<td class="book-pages">
-SW: 56
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Tyrfing, Sword Worlds</td>
-<td class="book-pages">
-SW: 64
 </td>
 </tr><tr>
 <td class="entry-name">Tactical Formations</td>
@@ -27726,17 +28258,12 @@ JTAS4: 22
 </tr><tr>
 <td class="entry-name">Cordan, The Borderland</td>
 <td class="book-pages">
-DC: 125, TCC: 2
+DC: 125, TCC: 2, TTR: 188
 </td>
 </tr><tr>
 <td class="entry-name">Cordillon, Sindal</td>
 <td class="book-pages">
 JTAS3: 2
-</td>
-</tr><tr>
-<td class="entry-name">Cordon, The Borderland</td>
-<td class="book-pages">
-TTR: 188
 </td>
 </tr><tr>
 <td class="entry-name">Corella, Corella </td>
@@ -28351,12 +28878,7 @@ AoCS2: 163
 </tr><tr>
 <td class="entry-name">Kteiroa, Tlaiowaha</td>
 <td class="book-pages">
-DC: 118, TTR: 182
-</td>
-</tr><tr>
-<td class="entry-name">Kteiroa, Tlaiowaha </td>
-<td class="book-pages">
-FiDP: 2
+DC: 118, FiDP: 2, TTR: 182
 </td>
 </tr><tr>
 <td class="entry-name">Kubishush, Inar</td>
@@ -29174,6 +29696,24 @@ BtC: 249, 249
 BtC: 64
 </td>
 </tr><table>
+<h2 id="Systems">Systems</h2>
+<table>
+<tr>
+<td class="entry-name">Dolberg, Sindal</td>
+<td class="book-pages">
+TPoD: 71
+</td>
+</tr><tr>
+<td class="entry-name">Kteiroa, Tlaiowaha</td>
+<td class="book-pages">
+TPoD: 83
+</td>
+</tr><tr>
+<td class="entry-name">Stohyus, Ranib</td>
+<td class="book-pages">
+TPoD: 218
+</td>
+</tr><table>
 <h2 id="Turret">Turret</h2>
 <table>
 <tr>
@@ -29240,7 +29780,7 @@ AoCS1: 214
 AoCS1: 175
 </td>
 </tr><tr>
-<td class="entry-name">Augments</td>
+<td class="entry-name">Augmentations</td>
 <td class="book-pages">
 AoCS1: 214
 </td>
@@ -29715,17 +30255,6 @@ AoCS1: 207
 AoCS1: 173
 </td>
 </tr><tr>
-<td class="entry-name">Religion</td>
-<td class="book-pages">
-
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Church of the Chosen Ones</td>
-<td class="book-pages">
-JTAS14: 77
-</td>
-</tr><tr>
 <td class="entry-name">Religions</td>
 <td class="book-pages">
 
@@ -29734,7 +30263,7 @@ JTAS14: 77
 <tr>
 <td class="entry-name indented">Church of the Chosen Ones</td>
 <td class="book-pages">
-AoCS1: 174
+AoCS1: 174, JTAS14: 77
 </td>
 </tr><tr>
 <td class="entry-name">Robots</td>
@@ -29911,9 +30440,15 @@ AoCS1: 180
 </td>
 </tr>
 <tr>
+<td class="entry-name indented">Charisma (CHA)</td>
+<td class="book-pages">
+AoCS1: 179
+</td>
+</tr>
+<tr>
 <td class="entry-name indented">Charisma (Cha)</td>
 <td class="book-pages">
-AoCS1: 179, 206
+AoCS1: 206
 </td>
 </tr>
 <tr>
@@ -30070,7 +30605,7 @@ VH: 34
 </tr><tr>
 <td class="entry-name">Bio-Tech Trait</td>
 <td class="book-pages">
-
+VH: 61
 </td>
 </tr>
 <tr>
@@ -30546,6 +31081,12 @@ VH: 51
 </td>
 </tr>
 <tr>
+<td class="entry-name indented">Compact Excavator</td>
+<td class="book-pages">
+JTAS11: 106
+</td>
+</tr>
+<tr>
 <td class="entry-name indented">Computers</td>
 <td class="book-pages">
 VH: 52
@@ -30588,9 +31129,21 @@ VH: 50
 </td>
 </tr>
 <tr>
+<td class="entry-name indented">Deep Drill</td>
+<td class="book-pages">
+JTAS11: 106
+</td>
+</tr>
+<tr>
 <td class="entry-name indented">Digger Blade</td>
 <td class="book-pages">
 VH: 57
+</td>
+</tr>
+<tr>
+<td class="entry-name indented">Dumper</td>
+<td class="book-pages">
+JTAS11: 107
 </td>
 </tr>
 <tr>
@@ -30627,6 +31180,12 @@ VH: 51
 <td class="entry-name indented">Entertainment System</td>
 <td class="book-pages">
 CRB: 143, VH: 57
+</td>
+</tr>
+<tr>
+<td class="entry-name indented">Excavator</td>
+<td class="book-pages">
+JTAS11: 107
 </td>
 </tr>
 <tr>
@@ -30762,6 +31321,12 @@ VH: 56
 </td>
 </tr>
 <tr>
+<td class="entry-name indented">Lift</td>
+<td class="book-pages">
+JTAS11: 108
+</td>
+</tr>
+<tr>
 <td class="entry-name indented">Low Berth</td>
 <td class="book-pages">
 VH: 59
@@ -30777,6 +31342,12 @@ VH: 59
 <td class="entry-name indented">Meson Communicator</td>
 <td class="book-pages">
 VH: 51
+</td>
+</tr>
+<tr>
+<td class="entry-name indented">Multi-Combine</td>
+<td class="book-pages">
+JTAS11: 108
 </td>
 </tr>
 <tr>
@@ -30810,6 +31381,12 @@ VH: 59
 </td>
 </tr>
 <tr>
+<td class="entry-name indented">Pile Driver</td>
+<td class="book-pages">
+JTAS11: 109
+</td>
+</tr>
+<tr>
 <td class="entry-name indented">Prismatic Aerosol Discharger</td>
 <td class="book-pages">
 VH: 50
@@ -30837,6 +31414,12 @@ VH: 60
 <td class="entry-name indented">Rescue Ladder</td>
 <td class="book-pages">
 JTAS5: 77
+</td>
+</tr>
+<tr>
+<td class="entry-name indented">Road Roller</td>
+<td class="book-pages">
+JTAS11: 109
 </td>
 </tr>
 <tr>
@@ -30927,59 +31510,6 @@ CRB: 143
 <td class="entry-name indented">Wet Bar</td>
 <td class="book-pages">
 VH: 60
-</td>
-</tr><tr>
-<td class="entry-name">Customization</td>
-<td class="book-pages">
-
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Compact Excavator</td>
-<td class="book-pages">
-JTAS11: 106
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Deep Drill</td>
-<td class="book-pages">
-JTAS11: 106
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Dumper</td>
-<td class="book-pages">
-JTAS11: 107
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Excavator</td>
-<td class="book-pages">
-JTAS11: 107
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Lift</td>
-<td class="book-pages">
-JTAS11: 108
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Multi-Combine</td>
-<td class="book-pages">
-JTAS11: 108
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Pile Driver</td>
-<td class="book-pages">
-JTAS11: 109
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Road Roller</td>
-<td class="book-pages">
-JTAS11: 109
 </td>
 </tr><tr>
 <td class="entry-name">Design</td>
@@ -31209,23 +31739,6 @@ VH: 3
 RH: 27
 </td>
 </tr><tr>
-<td class="entry-name">Weapon</td>
-<td class="book-pages">
-
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Mini-torpedo Battery</td>
-<td class="book-pages">
-AoCS3: 227
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Screamer Cannon</td>
-<td class="book-pages">
-AoCS3: 227
-</td>
-</tr><tr>
 <td class="entry-name">Weapon Mounts</td>
 <td class="book-pages">
 VH: 37
@@ -31326,12 +31839,6 @@ SW: 164
 </td>
 </tr>
 <tr>
-<td class="entry-name indented">Advanced Laser</td>
-<td class="book-pages">
-VH: 139, 141
-</td>
-</tr>
-<tr>
 <td class="entry-name indented">Aerospace Defence Laser</td>
 <td class="book-pages">
 CSC: 168
@@ -31352,7 +31859,7 @@ SW: 169, 174, 175, 176
 <tr>
 <td class="entry-name indented">Anti-Tank Missile</td>
 <td class="book-pages">
-CSC: 172, VH: 39, 93, 103
+CSC: 172, VH: 39
 </td>
 </tr>
 <tr>
@@ -31370,7 +31877,7 @@ SW: 167, 169
 <tr>
 <td class="entry-name indented">Black Powder Cannon</td>
 <td class="book-pages">
-CSC: 168, VH: 75, 73, 70
+CSC: 168
 </td>
 </tr>
 <tr>
@@ -31382,7 +31889,7 @@ JTAS6: 91
 <tr>
 <td class="entry-name indented">Bolt Thrower</td>
 <td class="book-pages">
-CSC: 172, VH: 39, 72
+CSC: 172, VH: 39
 </td>
 </tr>
 <tr>
@@ -31424,7 +31931,7 @@ JTAS2: 113
 <tr>
 <td class="entry-name indented">Early Machinegun</td>
 <td class="book-pages">
-VH: 40, 77
+VH: 40
 </td>
 </tr>
 <tr>
@@ -31446,18 +31953,6 @@ CRB: 148, CSC: 168, VH: 40
 </td>
 </tr>
 <tr>
-<td class="entry-name indented">Fusion Gun-X</td>
-<td class="book-pages">
-VH: 142, 145
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Fusion Gun-Z</td>
-<td class="book-pages">
-VH: 139
-</td>
-</tr>
-<tr>
 <td class="entry-name indented">GLMM-128 Gun/Missile Launcher</td>
 <td class="book-pages">
 JTAS6: 92
@@ -31466,13 +31961,13 @@ JTAS6: 92
 <tr>
 <td class="entry-name indented">Gatling Laser</td>
 <td class="book-pages">
-CSC: 169, VH: 120, 138
+CSC: 169
 </td>
 </tr>
 <tr>
 <td class="entry-name indented">Gauss Cannon</td>
 <td class="book-pages">
-CSC: 169, SW: 169, 176, VH: 41, 143, 144
+CSC: 169, SW: 169, 176, VH: 41
 </td>
 </tr>
 <tr>
@@ -31496,25 +31991,13 @@ JTAS2: 53
 <tr>
 <td class="entry-name indented">Heavy Autocannon</td>
 <td class="book-pages">
-CSC: 168, VH: 80, 132
+CSC: 168
 </td>
 </tr>
 <tr>
 <td class="entry-name indented">Heavy Bomb</td>
 <td class="book-pages">
-VH: 41, 114
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Heavy Cannon</td>
-<td class="book-pages">
-VH: 107, 112
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Heavy Gauss Cannon</td>
-<td class="book-pages">
-VH: 133, 142, 144, 146
+VH: 41
 </td>
 </tr>
 <tr>
@@ -31524,15 +32007,9 @@ AoCS3: 136
 </td>
 </tr>
 <tr>
-<td class="entry-name indented">Heavy Laser Cannon</td>
-<td class="book-pages">
-VH: 92, 106, 108
-</td>
-</tr>
-<tr>
 <td class="entry-name indented">Heavy Machinegun</td>
 <td class="book-pages">
-CRB: 142, CSC: 169, VH: 88, 84, 78, 112, 132
+CRB: 142, CSC: 169
 </td>
 </tr>
 <tr>
@@ -31554,21 +32031,9 @@ CSC: 169
 </td>
 </tr>
 <tr>
-<td class="entry-name indented">Laser</td>
-<td class="book-pages">
-VH: 124
-</td>
-</tr>
-<tr>
 <td class="entry-name indented">Laser Cannon</td>
 <td class="book-pages">
-CRB: 142, CSC: 169, SW: 176, VH: 129
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Laser Rifle</td>
-<td class="book-pages">
-VH: 119
+CRB: 142, CSC: 169, SW: 176
 </td>
 </tr>
 <tr>
@@ -31580,25 +32045,25 @@ VH: 42
 <tr>
 <td class="entry-name indented">Light Autocannon</td>
 <td class="book-pages">
-CRB: 142, CSC: 168, VH: 42, 83, 78, 93, 101, 102, 107, 114, 117, 130, 131, 134
+CRB: 142, CSC: 168, VH: 42
 </td>
 </tr>
 <tr>
 <td class="entry-name indented">Light Laser Cannon</td>
 <td class="book-pages">
-VH: 42, 110
+VH: 42
 </td>
 </tr>
 <tr>
 <td class="entry-name indented">Long Range Anti-Air Missile</td>
 <td class="book-pages">
-VH: 42, 92
+VH: 42
 </td>
 </tr>
 <tr>
 <td class="entry-name indented">Machinegun</td>
 <td class="book-pages">
-SW: 167, 169, VH: 89, 80
+SW: 167, 169
 </td>
 </tr>
 <tr>
@@ -31608,15 +32073,9 @@ JTAS2: 113
 </td>
 </tr>
 <tr>
-<td class="entry-name indented">Mass Driver</td>
-<td class="book-pages">
-VH: 125
-</td>
-</tr>
-<tr>
 <td class="entry-name indented">Medium Autocannon</td>
 <td class="book-pages">
-CSC: 168, VH: 89, 111, 147
+CSC: 168
 </td>
 </tr>
 <tr>
@@ -31632,21 +32091,15 @@ CSC: 169
 </td>
 </tr>
 <tr>
-<td class="entry-name indented">Minigun</td>
+<td class="entry-name indented">Mini-torpedo Battery</td>
 <td class="book-pages">
-VH: 92, 106, 107
+AoCS3: 227
 </td>
 </tr>
 <tr>
 <td class="entry-name indented">Orbital Defence Cannon</td>
 <td class="book-pages">
 CSC: 170
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">PGMP</td>
-<td class="book-pages">
-VH: 124
 </td>
 </tr>
 <tr>
@@ -31682,25 +32135,13 @@ SW: 175
 <tr>
 <td class="entry-name indented">Plasma Missile Rack</td>
 <td class="book-pages">
-CSC: 172, VH: 43, 141
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">RAM Grenade Launcher (Stun)</td>
-<td class="book-pages">
-VH: 134
+CSC: 172, VH: 43
 </td>
 </tr>
 <tr>
 <td class="entry-name indented">Rail Gun</td>
 <td class="book-pages">
 CSC: 170
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Rapid-Fire Machinegun</td>
-<td class="book-pages">
-VH: 108
 </td>
 </tr>
 <tr>
@@ -31712,7 +32153,13 @@ CSC: 173
 <tr>
 <td class="entry-name indented">Rotary Autocannon</td>
 <td class="book-pages">
-CSC: 170, 173, VH: 43, 103, 108
+CSC: 170, 173, VH: 43
+</td>
+</tr>
+<tr>
+<td class="entry-name indented">Screamer Cannon</td>
+<td class="book-pages">
+AoCS3: 227
 </td>
 </tr>
 <tr>
@@ -31736,19 +32183,13 @@ SW: 164
 <tr>
 <td class="entry-name indented">Tac Launcher</td>
 <td class="book-pages">
-CSC: 173, VH: 146
-</td>
-</tr>
-<tr>
-<td class="entry-name indented">Tac Launcher (Armour-Piercing)</td>
-<td class="book-pages">
-VH: 132
+CSC: 173
 </td>
 </tr>
 <tr>
 <td class="entry-name indented">Torpedo</td>
 <td class="book-pages">
-CSC: 173, VH: 43, 92
+CSC: 173, VH: 43
 </td>
 </tr>
 <tr>
@@ -31766,7 +32207,7 @@ CSC: 170
 <tr>
 <td class="entry-name indented">Water Cannon</td>
 <td class="book-pages">
-CSC: 173, VH: 43, 134
+CSC: 173, VH: 43
 </td>
 </tr><table>
 <h2 id="Vehicles">Vehicles</h2>
@@ -32008,7 +32449,7 @@ BtC: 109
 </tr><tr>
 <td class="entry-name">Deep Sea Submersible</td>
 <td class="book-pages">
-VH: 99
+TPoD: 134, VH: 99
 </td>
 </tr><tr>
 <td class="entry-name">Dirigible</td>
@@ -35152,6 +35593,11 @@ AoCS1: 244
 AoCS1: 248
 </td>
 </tr><tr>
+<td class="entry-name">Fleet</td>
+<td class="book-pages">
+JTAS10: 109
+</td>
+</tr><tr>
 <td class="entry-name">Guard Organisation</td>
 <td class="book-pages">
 AoCS1: 249
@@ -35190,6 +35636,11 @@ AoCS1: 281
 <td class="entry-name">Military</td>
 <td class="book-pages">
 AoCS1: 248
+</td>
+</tr><tr>
+<td class="entry-name">Military Organization</td>
+<td class="book-pages">
+JTAS3: 112
 </td>
 </tr><tr>
 <td class="entry-name">Naval Organisation</td>
@@ -35235,6 +35686,11 @@ AoCS1: 279
 <td class="entry-name indented">Teleportation Suit</td>
 <td class="book-pages">
 AoCS1: 279
+</td>
+</tr><tr>
+<td class="entry-name">Philosophies</td>
+<td class="book-pages">
+JTAS2: 54
 </td>
 </tr><tr>
 <td class="entry-name">Philosophy</td>
@@ -35635,6 +36091,23 @@ AoCS1: 277
 AoCS1: 277
 </td>
 </tr>
+					<footer>
+						<p>
+							This work is produced in accordance to Mongoose Publishing's <a
+							href="https://cdn.shopify.com/s/files/1/0609/6139/0839/files/Traveller_Fair_Use_Policy_2024.pdf?v=1725357857">Fair
+							Use Policy</a>.
+						</p>
+						<p>
+							The Traveller game in all forms is owned by Mongoose Publishing. Copyright 1977 - 2024 Mongoose Publishing.
+							Traveller is a registered trademark of Mongoose Publishing. Mongoose Publishing permits web sites and fanzines
+							for this game, provided it contains this notice, that Mongoose Publishing is notified, and subject to a
+							withdrawal of permission on 90 days notice. The contents of this site are for personal, non-commercial use
+							only. Any use of Mongoose Publishing’s copyrighted material or trademarks anywhere on this web site and its
+							files should not be viewed as a challenge to those copyrights or trademarks. In addition, any
+							program/articles/file on this site cannot be republished or distributed without the consent of the author
+							who contributed it.
+						</p>
+					</footer>
 				</body>
-				</html>
+			</html>
 				

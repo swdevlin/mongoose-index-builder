@@ -55,8 +55,7 @@ JTAS3	Comspotter	109	Central Supply
 JTAS3	Electronic Mapping Rocket	109	Central Supply		
 JTAS3	EMP Pulser	110	Central Supply		
 JTAS3	Stickams	111	Central Supply		
-JTAS3	Zhodani Military Organization	112	Setting	No	
-JTAS3	Zhodani	112	Sophont	No	
+JTAS3	Military Organization	112	Zhodani	No	
 JTAS3	'Port Porter' Transport Vehicle	121	Vehicle		
 JTAS3	Port Protector' Light Security Vehicle	123	Vehicle		
 JTAS3	LSP-JCSDB Model 12	125	Ship		

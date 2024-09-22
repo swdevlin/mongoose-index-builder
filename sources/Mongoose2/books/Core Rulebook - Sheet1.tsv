@@ -475,20 +475,20 @@ CRB	Workshop	187	High Guard		Spacecraft Equipment
 CRB	Outdated Ships	188	High Guard		
 CRB	Spacecraft Quirks	188	High Guard		
 CRB	Older Ships	188	High Guard		
-CRB	Scout/Courier	190	Ship		
-CRB	Seeker Mining Ship	192	Ship		
-CRB	Free Trader	194	Ship		
-CRB	Far Trader	196	Ship		
-CRB	Safari Ship	198	Ship		
+CRB	Scout/Courier, Type S	190	Ship		
+CRB	Seeker Mining Ship, Type J	192	Ship		
+CRB	Free Trader, Type A	194	Ship		
+CRB	Far Trader, Type A2	196	Ship		
+CRB	Safari Ship, Type K	198	Ship		
 CRB	System Defence Boat	200	Ship		
-CRB	Yacht Type Y	202	Ship		
-CRB	Gazelle Close Escort	204	Ship		
-CRB	Laboratory Ship	206	Ship		
-CRB	Patrol Corvette	208	Ship		
-CRB	Subsidised Merchant	210	Ship		
-CRB	Donosev Survey Scout	212	Ship		
-CRB	Subsidised Liner	214	Ship		
-CRB	Mercenary Cruiser	216	Ship		
+CRB	Yacht, Type Y	202	Ship		
+CRB	Gazelle-Class Close Escort	204	Ship		
+CRB	Laboratory Ship, Type L	206	Ship		
+CRB	Patrol Corvette, Type T	208	Ship		
+CRB	Subsidised Merchant, Type R	210	Ship		
+CRB	Donosev-Class Survey Scout	212	Ship		
+CRB	Subsidised Liner, Type M	214	Ship		
+CRB	Mercenary Cruiser, Type C	216	Ship		
 CRB	Light Fighter	218	Small craft		
 CRB	Gig	219	Small craft		
 CRB	Launch	220	Small craft		

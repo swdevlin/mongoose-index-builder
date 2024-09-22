@@ -354,71 +354,48 @@ HG	Torpedo Boat	152	Small craft
 HG	Shuttle	154	Small craft		
 HG	Passenger Shuttle	156	Small craft		
 HG	Express Boat	158	Ship		
-HG	Sulieman Class Scout/Courier	160	Ship		
-HG	Scout/Courier	160	Ship		
-HG	Seeker Mining Ship	162	Ship		
+HG	Sulieman-Class Scout/Courier, Type S	160	Ship		
+HG	Seeker Mining Ship, Type J	162	Ship		
 HG	Prospecting Buggy	164	Vehicle		
-HG	Serpent Class Scout	165	Ship		
-HG	Scout	165	Ship		
-HG	Empress Marava Far Trader	167	Ship		
-HG	Far Trader	169	Ship		
-HG	Free Trader	171	Ship		
-HG	Safari Ship	173	Ship		
+HG	Serpent-Class Scout	165	Ship		
+HG	Empress Marava-Class Far Trader	167	Ship		
+HG	Far Trader, Type A2	169	Ship		
+HG	Free Trader, Type A	171	Ship		
+HG	Safari Ship, Type K	173	Ship		
 HG	System Defence Boat	175	Ship		
 HG	Jump Shuttle	177	Ship		
-HG	Yacht	179	Ship		
-HG	Gazelle Class Close Escort	181	Ship		
+HG	Yacht, Type Y	179	Ship		
+HG	Gazelle-Class Close Escort	181	Ship		
 HG	Close Escort	181	Ship		
 HG	Fleet Courier	183	Ship		
 HG	Laboratory Ship	185	Ship		
 HG	Patrol Corvette	187	Ship		
-HG	Subsidised Merchat	189	Ship		
-HG	Survey Scout	191	Ship		
-HG	Dragon Class System Defence Boat	193	Ship		
+HG	Subsidised Merchant, Type R	189	Ship		
+HG	Donosev-Class Survey Scout	191	Ship		
+HG	Dragon-Class System Defence Boat	193	Ship		
 HG	Nishemani Corsair	195	Ship		
 HG	Corsair	195	Ship		
 HG	Subsidised Liner	199	Ship		
 HG	Mercenary Cruiser	201	Ship		
 HG	X-Boat Tender	204	Ship		
-HG	Destroyer Escort	207	Ship		
-HG	Chrysanthemum Class Destroyer Escort	207	Ship		
-HG	Destroyer Escort	211	Ship		
-HG	Fer-De-Lance Destroyer Escort	211	Ship		
-HG	Colonial Cruiser	214	Ship		
-HG	Kinunir Class Colonial Cruiser	214	Ship		
-HG	Merchant Cruiser	217	Ship		
-HG	Leviathan Class Merchant Cruiser	217	Ship		
-HG	Cargo Carrier	223	Ship		
-HG	MK Mora Class Cargo Carrier	223	Ship		
-HG	Destroyer	227	Ship		
-HG	Midu Agashaam Class Destroyer	227	Ship		
-HG	Fleet Escort	231	Ship		
-HG	P.F. Sloan Class Fleet Escort	231	Ship		
-HG	Light Carrier	235	Ship		
-HG	Skimkish Class Light Carrier	235	Ship		
-HG	Light Cruiser	238	Ship		
-HG	Valiant Class Light Cruiser	238	Ship		
-HG	Armoured Cruiser	242	Ship		
-HG	Ghalalk Class Armoured Cruiser	242	Ship		
+HG	Chrysanthemum-Class Destroyer Escort	207	Ship		
+HG	Fer-De-Lance-Class Destroyer Escort	211	Ship		
+HG	Kinunir-Class Colonial Cruiser	214	Ship		
+HG	Leviathan-Class Merchant Cruiser	217	Ship		
+HG	MK Mora-Class Cargo Carrier	223	Ship		
+HG	Midu Agashaam-Class Destroyer	227	Ship		
+HG	P.F. Sloan-Class Fleet Escort	231	Ship		
+HG	Skimkish-Class Light Carrier	235	Ship		
+HG	Valiant-Class Light Cruiser	238	Ship		
+HG	Ghalalk-Class Armoured Cruiser	242	Ship		
 HG	Planetoid Monitor	247	Ship		
-HG	Strike Cruiser	251	Ship		
-HG	Arakdine Class Strike Cruiser	251	Ship		
-HG	Battle Rider	255	Ship		
-HG	Hadrian Class Battle Rider	255	Ship		
-HG	Frontier Cruiser	258	Ship		
-HG	Azhanti High-Lightning Class Frontier Cruiser	258	Ship		
-HG	Heavy Cruiser	262	Ship		
-HG	Atlantic Class Heavy Cruiser	262	Ship		
-HG	Strike Carrier	266	Ship		
-HG	Wind Class Strike Carrier	266	Ship		
-HG	Fleet Carrier	270	Ship		
-HG	Antiama Class Fleet Carrier	270	Ship		
-HG	Freighter	274	Ship		
-HG	Galika Megula Class Freighter	274	Ship		
-HG	Dreadnought	276	Ship		
-HG	Kokirrak Class Dreadnought	276	Ship		
-HG	Dreadnought	280	Ship		
-HG	Plankwell Class Dreadnought	280	Ship		
-HG	Dreadnought	284	Ship		
-HG	Tigress Class Dreadnought	284	Ship		
-HG	Donosev Class Survey Scout	191	Ship		
+HG	Arakdine-Class Strike Cruiser	251	Ship		
+HG	Hadrian-Class Battle Rider	255	Ship		
+HG	Azhanti High-Lightning-Class Frontier Cruiser	258	Ship		
+HG	Atlantic-Class Heavy Cruiser	262	Ship		
+HG	Wind-Class Strike Carrier	266	Ship		
+HG	Antiama-Class Fleet Carrier	270	Ship		
+HG	Galika Megula-Class Freighter	274	Ship		
+HG	Kokirrak-Class Dreadnought	276	Ship		
+HG	Plankwell-Class Dreadnought	280	Ship		
+HG	Tigress-Class Dreadnought	284	Ship		

@@ -35,14 +35,6 @@ SW	Scientific Corp	31	Sword Worlds Confederation
 SW	Mercantile Service	32	Sword Worlds Confederation		
 SW	Navy	33	Sword Worlds Confederation		
 SW	Fleets	33	Sword Worlds Confederation		
-SW	Tizon	34	Sword Worlds Confederation		Fleets
-SW	Joyeuse	34	Sword Worlds Confederation		Fleets
-SW	Gram	34	Sword Worlds Confederation		Fleets
-SW	Sacnoth	34	Sword Worlds Confederation		Fleets
-SW	Narsil	34	Sword Worlds Confederation		Fleets
-SW	Dyrnwyn	34	Sword Worlds Confederation		Fleets
-SW	Sting	34	Sword Worlds Confederation		Fleets
-SW	Biter	34	Sword Worlds Confederation		Fleets
 SW	Command Area	34	Sword Worlds Confederation		
 SW	Hrunting	35	Sword Worlds Confederation		Command Area
 SW	Mjolnir	35	Sword Worlds Confederation		Command Area
@@ -71,44 +63,27 @@ SW	General Officrt Ranks	54	Sword Worlds Confederation		Military Ranks
 SW	Gram Arm	55	Setting		
 SW	Gram Arm	55	Sword Worlds Confederation		Region
 SW	Tizon, Sword Worlds	56	System		
-SW	Tizon, Sword Worlds	56	Sword Worlds Confederation		System
 SW	Colada, Sword Worlds	58	System		
-SW	Colada, Sword Worlds	58	Sword Worlds Confederation		System
 SW	Joyeuse, Sword Worlds	60	System		
-SW	Joyeuse, Sword Worlds	60	Sword Worlds Confederation		System
 SW	Gram, Sword Worlds	62	System		
-SW	Gram, Sword Worlds	62	Sword Worlds Confederation		System
 SW	Tyrfing, Sword Worlds	64	System		
-SW	Tyrfing, Sword Worlds	64	Sword Worlds Confederation		System
 SW	Beater, Sword Worlds	65	System		
-SW	Beater, Sword Worlds	65	Sword Worlds Confederation		System
 SW	Sacnoth Arm	67	Setting		
-SW	Sacnoth Arm	67	Sword Worlds Confederation		Region
 SW	Narsil, Sword Worlds	68	System		
-SW	Narsil, Sword Worlds	68	Sword Worlds Confederation		System
 SW	Anduril, Sword Worlds	69	System		
-SW	Anduril, Sword Worlds	69	Sword Worlds Confederation		System
 SW	Orcrist, Sword Worlds	70	System		
-SW	Orcrist, Sword Worlds	70	Sword Worlds Confederation		System
 SW	Excalibur, Sword Worlds	71	System		
-SW	Excalibur, Sword Worlds	71	Sword Worlds Confederation		System
 SW	Sacnoth, Sword Worlds	72	System		
-SW	Sacnoth, Sword Worlds	72	Sword Worlds Confederation		System
 SW	Trailing Worlds	74	Sword Worlds Confederation		Region
 SW	Trailing Worlds	74	Setting		
 SW	Dyrnwyn, Sword Worlds	75	System		
-SW	Dyrnwyn, Sword Worlds	75	Sword Worlds Confederation		System
 SW	Durendal, Sword Worlds	76	System		
-SW	Durendal, Sword Worlds	76	Sword Worlds Confederation		System
 SW	Hofud, Sword Worlds	77	System		
-SW	Hofud, Sword Worlds	77	Sword Worlds Confederation		System
 SW	Sting, Sword Worlds	78	System		
-SW	Sting, Sword Worlds	78	Sword Worlds Confederation		System
 SW	Biter, Sword Worlds	79	System		
-SW	Biter, Sword Worlds	79	Sword Worlds Confederation		System
 SW	Travellers	99	Sword Worlds Confederation		
 SW	Patrol	101	Sword Worlds Confederation		Career
-SW	Patrol	101	Career		Sword Worlds Confederation
+SW	Patrol	101	Careers		Sword Worlds Confederation
 SW	Projectile Ground Defence Weapons	106	Rules		
 SW	Planetary Defence Cannon	106	Vehicle Workshop		Weapons
 SW	Integrated Munition System	108	High Guard		
