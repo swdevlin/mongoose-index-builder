@@ -1,178 +1,206 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Traveller Grand Index</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&family=Roboto:ital,wght@0,400&display=swap" rel="stylesheet">
-    <!-- Link to FontAwesome for the GitHub icon -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    <style>
-        body {
-            background-color: black;
-            color: white;
-            font-family: "Roboto", sans-serif;
-            font-weight: 400;
-            font-style: normal;
-            margin: 0;
-            padding: 0;
-        }
-        h1, h2 {
-            color: #e10600; /* Traveller red */
-            font-family: "Orbitron", sans-serif;
-            font-optical-sizing: auto;
-            font-weight: 600;
-            font-style: normal;
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Traveller Grand Index</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&family=Roboto:ital,wght@0,400&display=swap"
+				rel="stylesheet">
+	<!-- Link to FontAwesome for the GitHub icon -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+	<style>
+		body {
+			background-color: black;
+			color: white;
+			font-family: "Roboto", sans-serif;
+			font-weight: 400;
+			font-style: normal;
+			margin: 0;
+			padding: 0;
+		}
 
-        }
-        a {
-            color: white;
-            text-decoration: underline;
-        }
-        a:hover {
-            color: #e10600; /* Hover effect for links to match the header colour */
-        }
-        footer {
-            margin-top: 50px;
-            font-size: 0.8em;
-            color: grey;
-            margin-right: 20px;
-            margin-left: 20px;
-        }
-        .container {
-            display: flex;
-            flex-direction: column;
-            margin: 20px;
-        }
-        .content {
-            flex: 3;
-            margin-right: 20px;
-        }
-        .sidebar {
-            flex: 1;
-            background-color: #333;
-            padding: 20px;
-            border-radius: 10px;
-        }
-        .flex-container {
-            display: flex;
-            flex-direction: row;
-        }
-        /* Ensure responsiveness */
-        @media screen and (max-width: 768px) {
-            .flex-container {
-                flex-direction: column;
-            }
-        }
-        .github-link {
-            display: flex;
-            align-items: center;
-            margin-top: 60px;
-            font-size: 0.8em;
-        }
-        .github-link i {
-            margin-right: 10px;
-        }
-    </style>
+		h1, h2 {
+			color: #e10600; /* Traveller red */
+			font-family: "Orbitron", sans-serif;
+			font-optical-sizing: auto;
+			font-weight: 600;
+			font-style: normal;
+
+		}
+
+		a {
+			color: white;
+			text-decoration: underline;
+		}
+
+		a:hover {
+			color: #e10600; /* Hover effect for links to match the header colour */
+		}
+
+		footer {
+			margin-top: 50px;
+			font-size: 0.8em;
+			color: grey;
+			margin-right: 20px;
+			margin-left: 20px;
+		}
+
+		.container {
+			display: flex;
+			flex-direction: column;
+			margin: 20px;
+		}
+
+		.content {
+			flex: 3;
+			margin-right: 20px;
+		}
+
+		.sidebar {
+			flex: 1;
+			background-color: #333;
+			padding: 20px;
+			border-radius: 10px;
+		}
+
+		.flex-container {
+			display: flex;
+			flex-direction: row;
+		}
+
+		/* Ensure responsiveness */
+		@media screen and (max-width: 768px) {
+			.flex-container {
+				flex-direction: column;
+			}
+		}
+
+		.github-link {
+			display: flex;
+			align-items: center;
+			margin-top: 60px;
+			font-size: 0.8em;
+		}
+
+		.github-link i {
+			margin-right: 10px;
+		}
+	</style>
 </head>
 <body>
 
-    <div class="container">
-        <h1>Mongoose Traveller 2<sup>nd</sup> Edition Grand Index</h1>
-        <p>The Grand Index is an attempt at indexing all Mongoose Traveller 2<sup>nd</sup> edition books. The objective is to
-        help Referees and Travellers quickly find which books reference specific topics. The index does not attempt to
-        explain the rules of Traveller, merely point someone in the right direction.</p>
+<div class="container">
+	<h1>Mongoose Traveller 2<sup>nd</sup> Edition Grand Index</h1>
+	<p>The Grand Index is an attempt at indexing all Mongoose Traveller 2<sup>nd</sup> edition books. The objective is to
+		help Referees and Travellers quickly find which books reference specific topics. The index does not attempt to
+		explain the rules of Traveller, merely point someone in the right direction.</p>
 
-        <div class="flex-container">
-            <!-- Main Content -->
-            <div class="content">
-                <h2>Indexed Books</h2>
-                <p>The PDFs of the books were used when creating the index. Page numbers are the page numbers in the physical
-                books, not the PDF page numbers.</p>
-                <p>The following books are currently included in the Grand Index:</p>
-                <div class="flex-container">
-                    <div>
-                        <ul>
-                            <li>Adventure Class Ships</li>
-                            <li>Aliens of Charted Space 1-3</li>
-                            <li>Behind the Claw</li>
-                            <li>Central Supply Catalogue</li>
-                            <li>The Calixcuel Incident</li>
-                            <li>The Cordon Conflict</li>
-                            <li>Core Rulebook</li>
-                            <li>Death Station</li>
-                            <li>Deepnight Endeavour</li>
-                            <li>Drinax Companion</li>
-                            <li>Friends in Dry Places</li>
-                            <li>Gods of Marduk</li>
-                            <li>High and Dry</li>
-                            <li>High Guard</li>
-                            <li>Journal of the Travellers’ Aid Society 1-14</li>
-                            <li>Liberty Port</li>
-                        </ul>
-                    </div>
-                    <div>
-                        <ul>
-                            <li>Lions of Thebus</li>
-                            <li>Marooned on Marduk</li>
-                            <li>Revolution on Acrid</li>
-                            <li>Robot Handbook</li>
-                            <li>Shadows of Sindal</li>
-                            <li>Ships of the Reach</li>
-                            <li>Skandersvik</li>
-                            <li>Small Craft Catalog</li>
-                            <li>Solomani Adventure 1 – Mysteries on Arcturus Station</li>
-                            <li>The Trojan Reach</li>
-                            <li>Stranded</li>
-                            <li>Sword Worlds</li>
-                            <li>Traveller Companion</li>
-                            <li>Update 2022 FAQ</li>
-                            <li>Vehicle Handbook</li>
-                        </ul>
-                    </div>
-                </div>
-                <p>Please note that the Traveller Grand Index is a living document as is updated as new books are indexed.
-                However, only books that I own are being indexed, and I don't own all Mongoose Traveller 2<sup>nd</sup> edition books. The index will continue to grow as I acquire more books.</p>
+	<div class="flex-container">
+		<!-- Main Content -->
+		<div class="content">
+			<h2>Indexed Books</h2>
+			<p>The PDFs of the books were used when creating the index. Page numbers are the page numbers in the physical
+				books, not the PDF page numbers.</p>
+			<p>The following books are currently included in the Grand Index:</p>
+			<div class="flex-container">
+				<div>
+					<ul>
+						<li>Adventure Class Ships</li>
+						<li>Aliens of Charted Space 1-3</li>
+						<li>Behind the Claw</li>
+						<li>Central Supply Catalogue</li>
+						<li>The Calixcuel Incident</li>
+						<li>The Cordon Conflict</li>
+						<li>Core Rulebook</li>
+						<li>Death Station</li>
+						<li>Deepnight Endeavour</li>
+						<li>Drinax Companion</li>
+						<li>Friends in Dry Places</li>
+						<li>Gods of Marduk</li>
+						<li>High and Dry</li>
+						<li>High Guard</li>
+						<li>Journal of the Travellers’ Aid Society 1-14</li>
+						<li>Liberty Port</li>
+					</ul>
+				</div>
+				<div>
+					<ul>
+						<li>Lions of Thebus</li>
+						<li>Marooned on Marduk</li>
+						<li>Revolution on Acrid</li>
+						<li>Robot Handbook</li>
+						<li>Shadows of Sindal</li>
+						<li>Ships of the Reach</li>
+						<li>Skandersvik</li>
+						<li>Small Craft Catalog</li>
+						<li>Solomani Adventure 1 – Mysteries on Arcturus Station</li>
+						<li>The Trojan Reach</li>
+						<li>Stranded</li>
+						<li>Sword Worlds</li>
+						<li>Traveller Companion</li>
+						<li>Update 2022 FAQ</li>
+						<li>Vehicle Handbook</li>
+					</ul>
+				</div>
+			</div>
+			<p>Please note that the Traveller Grand Index is a living document as is updated as new books are indexed.
+				However, only books that I own are being indexed, and I don't own all Mongoose Traveller 2<sup>nd</sup> edition
+				books. The index will continue to grow as I acquire more books.</p>
 
-                <h2>Other Indexes</h2>
-                <p><a href="https://forum.mongoosepublishing.com/members/baditude.394843/">baditude</a> on the <a href="https://forum.mongoosepublishing.com/">Mongoose forum</a> <a href="https://forum.mongoosepublishing.com/threads/mongoose-traveller-master-index-for-all-released-books.124806/">posted an index</a> of the Mongoose books.</p>
-                <p><a href="https://www.reddit.com/user/GabrielGABFonseca/">GabrielGABFonseca</a> posted a <a href="https://docs.google.com/document/d/1Ln4dZ2Ni4RtMG9auKHRWhkbO1qWV7tP1VUR5F7Ik_sU/edit">Mongoose Traveller Timeline</a> on <a href="https://www.reddit.com/r/traveller/comments/182eh8o/a_traveller_timeline_for_mg2t/">reddit</a>.</p>
-                <p>Gabriel "GAB" Fonseca poasted a compilation of the <a href="https://docs.google.com/document/d/1towbBJdTRkJ3bBc3xbF5a6pdj0Y6lY8uAMP9aPUywGo/edit">Sophonts of Charted Space</a> on <a href="https://discord.com/channels/327908432101244948/521750967214014504/1145891917175980043/">Discord</a>.</p>
+			<h2>Other Indexes</h2>
+			<p><a href="https://forum.mongoosepublishing.com/members/baditude.394843/">baditude</a> on the <a
+				href="https://forum.mongoosepublishing.com/">Mongoose forum</a> <a
+				href="https://forum.mongoosepublishing.com/threads/mongoose-traveller-master-index-for-all-released-books.124806/">posted
+				an index</a> of the Mongoose books.</p>
+			<p><a href="https://www.reddit.com/user/GabrielGABFonseca/">GabrielGABFonseca</a> posted a <a
+				href="https://docs.google.com/document/d/1Ln4dZ2Ni4RtMG9auKHRWhkbO1qWV7tP1VUR5F7Ik_sU/edit">Mongoose Traveller
+				Timeline</a> on <a href="https://www.reddit.com/r/traveller/comments/182eh8o/a_traveller_timeline_for_mg2t/">reddit</a>.
+			</p>
+			<p>Gabriel "GAB" Fonseca poasted a compilation of the <a
+				href="https://docs.google.com/document/d/1towbBJdTRkJ3bBc3xbF5a6pdj0Y6lY8uAMP9aPUywGo/edit">Sophonts of Charted
+				Space</a> on <a href="https://discord.com/channels/327908432101244948/521750967214014504/1145891917175980043/">Discord</a>.
+			</p>
+			<p>The only copy I could find of <a href="https://wiki.travellerrpg.com/Donald_McKinney">Donald McKinney's</a> <a
+				href="https://wiki.travellerrpg.com/Traveller_Integrated_Timeline">Traveller Integrated Timeline</a> was in the
+				wayback machine. You can download a copy of the file <a href="files/Traveller_Integrated_Timeline.pdf">here</a>.
+			</p>
 
-                <div class="github-link">
-                    <i class="fab fa-github"></i>
-                    <a href="https://github.com/swdevlin/mongoose-index-builder" target="_blank">View source on GitHub</a>
-                </div>
-            </div>
+			<div class="github-link">
+				<i class="fab fa-github"></i>
+				<a href="https://github.com/swdevlin/mongoose-index-builder" target="_blank">View source on GitHub</a>
+			</div>
+		</div>
 
-            <div class="sidebar">
-                <h2>Downloads</h2>
-                <ul>
-                    <li><a href="files/TravellerGrandIndex.pdf" download>Download Traveller Grand Index (PDF)</a></li>
-                    <li><a href="files/TravellerGrandIndex.docx" download>Download Traveller Grand Index (DOCX)</a></li>
-                </ul>
-                <h2>View Online</h2>
-                <p>The Grand Index can be viewed <a href="webindex.html">on-line</a>.</p>
-            </div>
-        </div>
-    </div>
+		<div class="sidebar">
+			<h2>Downloads</h2>
+			<ul>
+				<li><a href="files/TravellerGrandIndex.pdf" download>Download Traveller Grand Index (PDF)</a></li>
+				<li><a href="files/TravellerGrandIndex.docx" download>Download Traveller Grand Index (DOCX)</a></li>
+			</ul>
+			<h2>View Online</h2>
+			<p>The Grand Index can be viewed <a href="webindex.html">on-line</a>.</p>
+		</div>
+	</div>
+</div>
 
-    <footer>
-        <p>
-            This work is produced in accordance to Mongoose Publishing's <a href="https://cdn.shopify.com/s/files/1/0609/6139/0839/files/Traveller_Fair_Use_Policy_2024.pdf?v=1725357857">Fair Use Policy</a>.
-        </p>
-        <p>
-            The Traveller game in all forms is owned by Mongoose Publishing. Copyright 1977 - 2024 Mongoose Publishing.
-            Traveller is a registered trademark of Mongoose Publishing. Mongoose Publishing permits web sites and fanzines
-            for this game, provided it contains this notice, that Mongoose Publishing is notified, and subject to a
-            withdrawal of permission on 90 days notice. The contents of this site are for personal, non-commercial use
-            only. Any use of Mongoose Publishing’s copyrighted material or trademarks anywhere on this web site and its
-            files should not be viewed as a challenge to those copyrights or trademarks. In addition, any
-            program/articles/file on this site cannot be republished or distributed without the consent of the author
-            who contributed it.
-        </p>
-    </footer>
+<footer>
+	<p>
+		This work is produced in accordance to Mongoose Publishing's <a
+		href="https://cdn.shopify.com/s/files/1/0609/6139/0839/files/Traveller_Fair_Use_Policy_2024.pdf?v=1725357857">Fair
+		Use Policy</a>.
+	</p>
+	<p>
+		The Traveller game in all forms is owned by Mongoose Publishing. Copyright 1977 - 2024 Mongoose Publishing.
+		Traveller is a registered trademark of Mongoose Publishing. Mongoose Publishing permits web sites and fanzines
+		for this game, provided it contains this notice, that Mongoose Publishing is notified, and subject to a
+		withdrawal of permission on 90 days notice. The contents of this site are for personal, non-commercial use
+		only. Any use of Mongoose Publishing’s copyrighted material or trademarks anywhere on this web site and its
+		files should not be viewed as a challenge to those copyrights or trademarks. In addition, any
+		program/articles/file on this site cannot be republished or distributed without the consent of the author
+		who contributed it.
+	</p>
+</footer>
 </body>
 </html>
