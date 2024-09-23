@@ -115,6 +115,8 @@ def generate_web_index(topics, output_file):
 							<tr><td>Adventure Class Ships</td><td>ACS</td></tr>
 							<tr><td>Aliens of Charted Space 1-3</td><td>AoCS1-3</td></tr>
 							<tr><td>Behind the Claw</td><td>BtC</td></tr>
+							<tr><td>Bu and Embla's Guide</td><td>BaEG</td></tr>
+							<tr><td>Bu and Embla Visit Vrirhlanz</td><td>BaEVV</td></tr>
 							<tr><td>Central Supply Catalogue</td><td>CSC</td></tr>
 							<tr><td>Core Rulebook</td><td>CRB</td></tr>
 							<tr><td>Death Station</td><td>DS</td></tr>
@@ -127,11 +129,11 @@ def generate_web_index(topics, output_file):
 							<tr><td>Journal of the Travellers’ Aid Society 1-14</td><td>JTAS1-14</td></tr>
 							<tr><td>Liberty Port</td><td>LP</td></tr>
 							<tr><td>Lions of Thebus</td><td>LoT</td></tr>
-							<tr><td>Marooned on Marduk</td><td>MoM</td></tr>
 						</table>
 					</div>
 					<div style="width: 45%;">
 						<table style="width: 100%;">
+							<tr><td>Marooned on Marduk</td><td>MoM</td></tr>
 							<tr><td>Robot Handbook</td><td>RH</td></tr>
 							<tr><td>Shadows of Sindal</td><td>SoS</td></tr>
 							<tr><td>Ships of the Reach</td><td>SotR</td></tr>
