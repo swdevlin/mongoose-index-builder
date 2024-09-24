@@ -41,16 +41,16 @@ AoCS2	Torpedo Grapple, Hardpoint	101	High Guard
 AoCS2	Missile Container/Launcher	101	High Guard		
 AoCS2	Combination Missile/Torpedo Launcher	101	High Guard		Turret
 AoCS2	Heavy Missile	101	High Guard		Weapon
-AoCS2	UB-25 SMALL UTILITY BOAT	102	Solomani		Small Craft
-AoCS2	UB-25 SMALL UTILITY BOAT	102	Small Craft		
-AoCS2	UB-75 LARGE UTILITY BOAT	104	Solomani		Small Craft
-AoCS2	UB-75 LARGE UTILITY BOAT	104	Small Craft		
-AoCS2	USC-3A SMALL PACKET BOAT	106	Solomani		Ships
-AoCS2	USC-3A SMALL PACKET BOAT	106	Ships		
-AoCS2	THALASSA SMALL TRANSPORT	108	Solomani		Ships
-AoCS2	THALASSA SMALL TRANSPORT	108	Ships		
-AoCS2	SAXBY SYSTEM DEFENCE BOAT	112	Solomani		Ships
-AoCS2	SAXBY SYSTEM DEFENCE BOAT	112	Ships		
+AoCS2	Ub-25 Small Utility Boat	102	Solomani		Small Craft
+AoCS2	Ub-25 Small Utility Boat	102	Small Craft		
+AoCS2	Ub-75 Large Utility Boat	104	Solomani		Small Craft
+AoCS2	Ub-75 Large Utility Boat	104	Small Craft		
+AoCS2	Usc-3a Small Packet Boat	106	Solomani		Ships
+AoCS2	Usc-3a Small Packet Boat	106	Ships		
+AoCS2	Thalassa Small Transport	108	Solomani		Ships
+AoCS2	Thalassa Small Transport	108	Ships		
+AoCS2	Saxby System Defence Boat	112	Solomani		Ships
+AoCS2	Saxby System Defence Boat	112	Ships		
 AoCS2	Central Supply	116	Solomani		
 AoCS2	Currency	116	Solomani		
 AoCS2	Officer’s Revolver	117	Solomani		Weapons
@@ -59,10 +59,10 @@ AoCS2	Officer’s Sword	117	Solomani		Weapons
 AoCS2	Officer’s Sword	117	Weapon		Melee
 AoCS2	Navy Combat Shotgun	118	Solomani		Weapons
 AoCS2	Navy Combat Shotgun	118	Weapon		Slug Rifle
-AoCS2	GAUSS PERSONAL DEFENCE WEAPON (GPDW)	119	Solomani		Weapons
-AoCS2	GAUSS PERSONAL DEFENCE WEAPON (GPDW)	119	Weapon		Slug Pistol
-AoCS2	GAUSS CLOSE-COMBAT WEAPON (GCCW)	119	Solomani		Weapons
-AoCS2	GAUSS CLOSE-COMBAT WEAPON (GCCW)	119	Weapon		Slug Rifle
+AoCS2	Gauss Personal Defence Weapon (GPDW)	119	Solomani		Weapons
+AoCS2	Gauss Personal Defence Weapon (GPDW)	119	Weapon		Slug Pistol
+AoCS2	Gauss Close-Combat Weapon (GCCW)	119	Solomani		Weapons
+AoCS2	Gauss Close-Combat Weapon (GCCW)	119	Weapon		Slug Rifle
 AoCS2	Robots	120	Solomani		
 AoCS2	Ammobot	120	Solomani		Robots
 AoCS2	Ammobot	120	Robots		Solomani
