@@ -1,0 +1,194 @@
+{%- macro render_entry(entry, indented) -%}<tr>
+<td class="entry-name{% if indented %} indented{% endif %}">{{ entry.topic }}</td>
+<td class="book-pages">{{ entry.references }}</td>
+</tr>{%- endmacro -%}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&family=Roboto:ital,wght@0,400&display=swap"
+				rel="stylesheet">
+	<title>Traveller Index</title>
+	<style>
+		.traveller-red {
+			color: #e10600; /* Traveller red */
+		}
+
+		body {
+			font-family: "Roboto", sans-serif;
+			font-weight: 400;
+			background-color: black;
+			color: white;
+			font-size: 10pt;
+		}
+
+		h1, h2, h3 {
+			color: #e10600; /* Traveller red */
+			font-family: "Orbitron", sans-serif;
+			font-optical-sizing: auto;
+			font-weight: 600;
+			font-style: normal;
+		}
+
+		a {
+			text-decoration: none;
+			color: #e10600;
+		}
+
+		a:hover {
+			text-decoration: underline;
+		}
+
+		.toc {
+			margin-bottom: 20px;
+		}
+
+		.toc a {
+			display: block;
+			margin-bottom: 5px;
+		}
+
+		.group {
+			margin-bottom: 30px;
+		}
+
+		.entry {
+			margin-left: 20px;
+		}
+
+		.indented {
+			padding-left: 18px;
+		}
+
+		.book-pages {
+			font-size: 0.9em;
+			padding-left: 5em;
+			color: #aaa;
+		}
+
+		.flex-container {
+			display: flex;
+			flex-direction: row;
+		}
+
+		dt {
+			color: #e10600; /* Traveller red */
+			font-family: "Orbitron", sans-serif;
+			font-optical-sizing: auto;
+			font-weight: 400;
+			font-style: normal;
+		}
+
+		dd {
+			margin-left: 12px;
+			margin-bottom: 8px;
+		}
+
+		.left-column {
+			margin-right: 18px;
+		}
+
+		.w50 {
+			width: 50%;
+		}
+	</style>
+</head>
+<body>
+<h1>Mongoose Traveller 2<sup>nd</sup> Edition Grand Index</h1>
+<h2>Books</h2>
+<p>The following books are included in the index:</p>
+<div style="display: flex; justify-content: space-between;">
+	<div style="width: 45%;">
+		<h3>Core Books</h3>
+		<table style="width: 100%;">
+			{%- for book in books['Core Books'] -%}
+			<tr>
+				<td>{{ book.title }}</td>
+				<td>{{ book.abbreviation }}</td>
+			</tr>
+			{%- endfor -%}
+		</table>
+		<h3>Charted Space</h3>
+		<table style="width: 100%;">
+			{%- for book in books['Charted Space'] -%}
+			<tr>
+				<td>{{ book.title }}</td>
+				<td>{{ book.abbreviation }}</td>
+			</tr>
+			{%- endfor -%}
+		</table>
+		<h3>Journal of the Travellers' Aid Society</h3>
+		<table style="width: 100%;">
+			{%- for book in books["Journal of the Travellers' Aid Society"] -%}
+			<tr>
+				<td>{{ book.title }}</td>
+				<td>{{ book.abbreviation }}</td>
+			</tr>
+			{%- endfor -%}
+		</table>
+	</div>
+	<div style="width: 45%;">
+		<h3>Adventures</h3>
+		<table style="width: 100%;">
+			{%- for book in books['Adventures'] -%}
+			<tr>
+				<td>{{ book.title }}</td>
+				<td>{{ book.abbreviation }}</td>
+			</tr>
+			{%- endfor -%}
+		</table>
+		</table>
+	</div>
+</div>
+
+<h2>Categories</h2>
+<p>Entries in the Grand Index are grouped by categories. The categories are:</p>
+<div class="flex-container">
+	<div class="left-column w50">
+		<dl>
+			{%- for key in keys[:half_categories] -%}
+			<dt><a href="#{{ topics[key].id }}">{{ key }}</a></dt>
+			<dd>{{ topics[key].description }}</dd>
+			{%- endfor -%}
+		</dl>
+	</div>
+	<div class="w50">
+		<dl>
+			{%- for key in keys[half_categories:] -%}
+			<dt><a href="#{{ topics[key].id }}">{{ key }}</a></dt>
+			<dd>{{ topics[key].description }}</dd>
+			{%- endfor -%}
+		</dl>
+	</div>
+</div>
+{%- for key in keys -%}
+<h2 id="{{ topics[key].id }}">{{ key }}</h2>
+<table>
+	{%- for entry in source_topics if entry.type == key -%}
+	{{ render_entry(entry, False) }}
+	{%- for child in entry.children -%}
+	{{ render_entry(entry.children[child], True) }}
+	{%- endfor -%}
+	{%- endfor -%}
+</table>
+{%- endfor -%}
+	<footer>
+		<p>This work is produced in accordance to Mongoose Publishing's <a
+			href="https://cdn.shopify.com/s/files/1/0609/6139/0839/files/Traveller_Fair_Use_Policy_2024.pdf?v=1725357857">Fair
+			Use Policy</a>.</p>
+		<p>
+			The Traveller game in all forms is owned by Mongoose Publishing. Copyright 1977 - 2024 Mongoose Publishing.
+			Traveller is a registered trademark of Mongoose Publishing. Mongoose Publishing permits web sites and fanzines
+			for this game, provided it contains this notice, that Mongoose Publishing is notified, and subject to a
+			withdrawal of permission on 90 days notice. The contents of this site are for personal, non-commercial use
+			only. Any use of Mongoose Publishing’s copyrighted material or trademarks anywhere on this web site and its
+			files should not be viewed as a challenge to those copyrights or trademarks. In addition, any
+			program/articles/file on this site cannot be republished or distributed without the consent of the author
+			who contributed it.
+		</p>
+	</footer>
+</body>
+</html>

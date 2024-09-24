@@ -7,6 +7,8 @@ from docx.enum.text import WD_TAB_ALIGNMENT, WD_TAB_LEADER
 from docx.oxml.ns import qn
 from docx.shared import Pt, Inches, Cm
 
+from books import books
+from topics import topics
 from webindex import generate_web_index
 
 INTRO_PAGES = 4
@@ -196,26 +198,29 @@ def main():
 	parser = argparse.ArgumentParser(description="Mongoose Traveller Index Generator")
 	parser.add_argument('-f', '--file', nargs='+', help='File to process', required=False, default=[])
 	parser.add_argument('-d', '--dir', nargs='+', help='Directory to process', required=False, default=[])
-	parser.add_argument('-o', '--output', help='Output Word document', required=True)
+	parser.add_argument('-w', '--word', help='Output Word document')
+	parser.add_argument('--html', help='HTML document')
 
 	args = parser.parse_args()
 
-	topics = {}
+	source_topics = {}
 	for file in args.file:
-		parse_topics(file, topics)
+		parse_topics(file, source_topics)
 
 	for directory in args.dir:
 		for root, _, filenames in os.walk(directory):
 			for filename in filenames:
 				if filename.endswith('.tsv'):
 					full_path = os.path.join(root, filename)
-					parse_topics(full_path, topics)
+					parse_topics(full_path, source_topics)
 
 	sorted_topics = []
-	for key in sorted(topics.keys()):
-		sorted_topics.append(topics[key])
-	create_traveller_index(sorted_topics, args.output)
-	generate_web_index(sorted_topics, 'static/webindex.html')
+	for key in sorted(source_topics.keys()):
+		sorted_topics.append(source_topics[key])
+	if args.word:
+		create_traveller_index(sorted_topics, args.word)
+	if args.html:
+		generate_web_index(topics, books, sorted_topics, args.html)
 
 
 if __name__ == "__main__":
