@@ -16,7 +16,8 @@ books = {
         {"title": "Bu and Embla's Guide", "abbreviation": "BaEG"},
         {"title": "Bu and Embla Visit Vrirhlanz", "abbreviation": "BaEVV"},
         {"title": "Ships of the Reach", "abbreviation": "SotR"},
-        {"title": "Sword Worlds", "abbreviation": "SW"}
+        {"title": "Sword Worlds", "abbreviation": "SW"},
+        {"title": "The Third Imperium", "abbreviation": "TTI"},
     ],
     "Journal of the Travellers' Aid Society": [
         {"title": "Journal of the Travellers’ Aid Society 1-14", "abbreviation": "JTAS1-14"}
