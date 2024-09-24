@@ -1,6 +1,7 @@
-{%- macro render_entry(entry, indented) -%}<tr>
-<td class="entry-name{% if indented %} indented{% endif %}">{{ entry.topic }}</td>
-<td class="book-pages">{{ entry.references }}</td>
+{%- macro render_entry(entry, indented) -%}
+<tr>
+	<td class="entry-name{% if indented %} indented{% endif %}">{{ entry.topic }}</td>
+	<td class="book-pages">{{ entry.references }}</td>
 </tr>{%- endmacro -%}
 <!DOCTYPE html>
 <html lang="en">
@@ -11,6 +12,7 @@
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&family=Roboto:ital,wght@0,400&display=swap"
 				rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 	<title>Traveller Index</title>
 	<style>
 		.traveller-red {
@@ -94,87 +96,156 @@
 		.w50 {
 			width: 50%;
 		}
+
+		header {
+			position: fixed;
+			top: 0;
+			left: 0;
+			right: 0;
+			background-color: #333;
+			padding: 10px;
+			color: white;
+			align-items: center;
+			display: flex;
+			justify-content: space-between;
+		}
+
+		input[type="text"] {
+			padding: 5px;
+			font-size: 14px;
+			width: 300px;
+			margin-right: 10px;
+		}
+
+		button {
+			background-color: #555;
+			color: white;
+			border: none;
+			padding: 6px 12px;
+			cursor: pointer;
+			margin-right: 10px;
+			font-size: 16px;
+		}
+
+		button:hover {
+			background-color: #444;
+		}
+
+		.highlight {
+			background-color: #8b0200;
+		}
+
+		.content {
+			margin-top: 80px; /* To avoid content overlap with fixed header */
+		}
+
+		label {
+			padding-right: 1em;
+		}
+
+		.header-title {
+			font-family: "Orbitron", sans-serif;
+			font-size: 18px;
+			font-weight: 600;
+			color: #e10600; /* Traveller red */
+		}
 	</style>
 </head>
 <body>
-<h1>Mongoose Traveller 2<sup>nd</sup> Edition Grand Index</h1>
-<h2>Books</h2>
-<p>The following books are included in the index:</p>
-<div style="display: flex; justify-content: space-between;">
-	<div style="width: 45%;">
-		<h3>Core Books</h3>
-		<table style="width: 100%;">
-			{%- for book in books['Core Books'] -%}
-			<tr>
-				<td>{{ book.title }}</td>
-				<td>{{ book.abbreviation }}</td>
-			</tr>
-			{%- endfor -%}
-		</table>
-		<h3>Charted Space</h3>
-		<table style="width: 100%;">
-			{%- for book in books['Charted Space'] -%}
-			<tr>
-				<td>{{ book.title }}</td>
-				<td>{{ book.abbreviation }}</td>
-			</tr>
-			{%- endfor -%}
-		</table>
-		<h3>Journal of the Travellers' Aid Society</h3>
-		<table style="width: 100%;">
-			{%- for book in books["Journal of the Travellers' Aid Society"] -%}
-			<tr>
-				<td>{{ book.title }}</td>
-				<td>{{ book.abbreviation }}</td>
-			</tr>
-			{%- endfor -%}
-		</table>
+<header>
+	<div class="header-title">Mongoose Traveller 2<sup>nd</sup> Edition Grand Index</div>
+	<div>
+		<label for="search">Search: </label>
+		<input type="text" id="search" placeholder="Type to search...">
+		<button id="prev"><i class="fas fa-arrow-left"></i></button>
+		<button id="next"><i class="fas fa-arrow-right"></i></button>
 	</div>
-	<div style="width: 45%;">
-		<h3>Adventures</h3>
-		<table style="width: 100%;">
-			{%- for book in books['Adventures'] -%}
-			<tr>
-				<td>{{ book.title }}</td>
-				<td>{{ book.abbreviation }}</td>
-			</tr>
-			{%- endfor -%}
-		</table>
-		</table>
+</header>
+<div class="content">
+	<div id="book-section">
+		<h2>Books</h2>
+		<p>The following books are included in the index:</p>
+		<div style="display: flex; justify-content: space-between;">
+			<div style="width: 45%;">
+				<h3>Core Books</h3>
+				<table style="width: 100%;">
+					{%- for book in books['Core Books'] -%}
+					<tr>
+						<td>{{ book.title }}</td>
+						<td>{{ book.abbreviation }}</td>
+					</tr>
+					{%- endfor -%}
+				</table>
+				<h3>Charted Space</h3>
+				<table style="width: 100%;">
+					{%- for book in books['Charted Space'] -%}
+					<tr>
+						<td>{{ book.title }}</td>
+						<td>{{ book.abbreviation }}</td>
+					</tr>
+					{%- endfor -%}
+				</table>
+				<h3>Journal of the Travellers' Aid Society</h3>
+				<table style="width: 100%;">
+					{%- for book in books["Journal of the Travellers' Aid Society"] -%}
+					<tr>
+						<td>{{ book.title }}</td>
+						<td>{{ book.abbreviation }}</td>
+					</tr>
+					{%- endfor -%}
+				</table>
+			</div>
+			<div style="width: 45%;">
+				<h3>Adventures</h3>
+				<table style="width: 100%;">
+					{%- for book in books['Adventures'] -%}
+					<tr>
+						<td>{{ book.title }}</td>
+						<td>{{ book.abbreviation }}</td>
+					</tr>
+					{%- endfor -%}
+				</table>
+				</table>
+			</div>
+		</div>
 	</div>
-</div>
 
-<h2>Categories</h2>
-<p>Entries in the Grand Index are grouped by categories. The categories are:</p>
-<div class="flex-container">
-	<div class="left-column w50">
-		<dl>
-			{%- for key in keys[:half_categories] -%}
-			<dt><a href="#{{ topics[key].id }}">{{ key }}</a></dt>
-			<dd>{{ topics[key].description }}</dd>
-			{%- endfor -%}
-		</dl>
+	<div id="categories-section">
+		<h2>Categories</h2>
+		<p>Entries in the Grand Index are grouped by categories. The categories are:</p>
+		<div class="flex-container">
+			<div class="left-column w50">
+				<dl>
+					{%- for key in keys[:half_categories] -%}
+					<dt><a href="#{{ topics[key].id }}">{{ key }}</a></dt>
+					<dd>{{ topics[key].description }}</dd>
+					{%- endfor -%}
+				</dl>
+			</div>
+			<div class="w50">
+				<dl>
+					{%- for key in keys[half_categories:] -%}
+					<dt><a href="#{{ topics[key].id }}">{{ key }}</a></dt>
+					<dd>{{ topics[key].description }}</dd>
+					{%- endfor -%}
+				</dl>
+			</div>
+		</div>
 	</div>
-	<div class="w50">
-		<dl>
-			{%- for key in keys[half_categories:] -%}
-			<dt><a href="#{{ topics[key].id }}">{{ key }}</a></dt>
-			<dd>{{ topics[key].description }}</dd>
+
+	<div id="entries-section">
+		{%- for key in keys -%}
+		<h2 class="category-header" id="{{ topics[key].id }}">{{ key }}</h2>
+		<table>
+			{%- for entry in source_topics if entry.type == key -%}
+			{{ render_entry(entry, False) }}
+			{%- for child in entry.children -%}
+			{{ render_entry(entry.children[child], True) }}
 			{%- endfor -%}
-		</dl>
+			{%- endfor -%}
+		</table>
+		{%- endfor -%}
 	</div>
-</div>
-{%- for key in keys -%}
-<h2 id="{{ topics[key].id }}">{{ key }}</h2>
-<table>
-	{%- for entry in source_topics if entry.type == key -%}
-	{{ render_entry(entry, False) }}
-	{%- for child in entry.children -%}
-	{{ render_entry(entry.children[child], True) }}
-	{%- endfor -%}
-	{%- endfor -%}
-</table>
-{%- endfor -%}
 	<footer>
 		<p>This work is produced in accordance to Mongoose Publishing's <a
 			href="https://cdn.shopify.com/s/files/1/0609/6139/0839/files/Traveller_Fair_Use_Policy_2024.pdf?v=1725357857">Fair
@@ -190,5 +261,92 @@
 			who contributed it.
 		</p>
 	</footer>
+</div>
+<script>
+	let currentIndex = -1;
+	let matches = [];
+
+	const clearHighlights = () => {
+		const highlights = document.querySelectorAll('.highlight');
+		highlights.forEach(function (highlight) {
+			const parent = highlight.parentNode;
+			parent.replaceChild(document.createTextNode(highlight.textContent), highlight);
+			parent.normalize();
+		});
+	};
+
+	const findMatches = (searchText) => {
+		clearHighlights();
+		matches = [];
+		if (!searchText)
+			return;
+
+		const content = document.querySelector('.content');
+		const elements = content.querySelectorAll('.entry-name');
+
+		elements.forEach(function (element) {
+			const text = element.textContent.toLowerCase();
+			const regex = new RegExp(searchText, 'gi');
+			let result;
+			while ((result = regex.exec(text)) !== null) {
+				const start = result.index;
+				const end = start + searchText.length;
+				const beforeMatch = element.textContent.slice(0, start);
+				const match = element.textContent.slice(start, end);
+				const afterMatch = element.textContent.slice(end);
+
+				element.innerHTML = `${beforeMatch}<span class="highlight">${match}</span>${afterMatch}`;
+				matches.push(element.querySelector('.highlight'));
+			}
+		});
+
+		if (matches.length > 0) {
+			currentIndex = 0;
+			scrollToMatch();
+		} else {
+			currentIndex = -1;
+		}
+	}
+
+	const scrollToMatch = () => {
+		if (currentIndex !== -1 && matches.length > 0) {
+			const currentMatch = matches[currentIndex];
+			currentMatch.scrollIntoView({behavior: 'smooth', block: 'center'});
+		}
+	};
+
+	document.getElementById('search').addEventListener('input', function () {
+		const searchText = this.value.toLowerCase();
+		findMatches(searchText);
+	});
+
+	const nextMatch = () => {
+		if (matches.length > 0) {
+			currentIndex = (currentIndex + 1) % matches.length;
+			scrollToMatch();
+		}
+	};
+
+	const previousMatch = () => {
+		if (matches.length > 0) {
+			currentIndex = (currentIndex - 1 + matches.length) % matches.length;
+			scrollToMatch();
+		}
+	};
+
+	document.getElementById('next').addEventListener('click', nextMatch);
+
+	document.getElementById('prev').addEventListener('click', previousMatch);
+
+	document.getElementById('search').addEventListener('keydown', function (e) {
+    if (e.key === 'ArrowDown') {
+        e.preventDefault();
+        nextMatch();
+    } else if (e.key === 'ArrowUp') {
+        e.preventDefault();
+        previousMatch();
+    }
+	});
+</script>
 </body>
 </html>
