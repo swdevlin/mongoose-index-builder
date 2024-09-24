@@ -115,8 +115,8 @@ topics = {
         "id": "Sophont",
         "description": "This category lists the sophonts that are not one of the major six."
     },
-    "Sword Worlds Confederacy": {
-        "id": "SwordWorldsConfederacy",
+    "Sword Worlds Confederation": {
+        "id": "SwordWorldsConfederation",
         "description": "This category includes entries about the Sword Worlds Confederacy."
     },
     "Systems": {
