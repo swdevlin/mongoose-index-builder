@@ -51,9 +51,9 @@ topics = {
         "id": "HighGuard",
         "description": "This category includes entries for shipbuilding rules, equipment, and other starship-related topics."
     },
-    "K’kree": {
+    "K'kree": {
         "id": "Kkree",
-        "description": "This category includes entries pertaining to the K’kree."
+        "description": "This category includes entries pertaining to the K'kree."
     },
     "Orca": {
         "id": "Orca",
