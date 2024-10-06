@@ -3,7 +3,7 @@ RH	Shudusham Concords	3	Setting
 RH	History of Robots	2	Setting		
 RH	Naasirka	4	Setting		
 RH	Makhidkarun	4	Setting		
-RH	Ling Standard Products (LSP)	4	Setting		
+RH	Ling-Standard Products (LSP)	4	Setting		
 RH	Brain	5	Robotics		
 RH	Robot Design	5	Robotics		
 RH	Alarm	7	Robotics		Trait
@@ -84,7 +84,7 @@ RH	Robotic Drone Controller	44	Robotics		Option
 RH	Satellite Uplink	45	Robotics		Option
 RH	Swarm Controller	45	Robotics		Option
 RH	Tightbeam Communicator	46	Robotics		Option
-RH	Transceivers	46	Robotics		Option
+RH	Transceiver	46	Robotics		Option
 RH	Medical Chamber	46	Robotics		Option
 RH	Cryoberth	47	Robotics		Medical Chamber Option
 RH	Low berth	47	Robotics		Medical Chamber Option
@@ -135,7 +135,7 @@ RH	Stylist Toolkit	60	Robotics		Option
 RH	Fire Control System	60	Robotics		Option
 RH	Weapon Mount	61	Robotics		Option
 RH	Weapon Mount Autoloader	61	Robotics		Option
-RH	Vehicle Handbook	62	Robotics		
+RH	Vehicle Space to Slots	62	Robotics		
 RH	Options and Armour	62	Robotics		
 RH	Brain	65	Robotics		
 RH	Primitive	65	Robotics		Brain Type
@@ -189,7 +189,6 @@ RH	Construction	83	Robotics		Nanorobot
 RH	Pharmaceutical	84	Robotics		Nanorobot
 RH	Physical Enhancement	84	Robotics		Nanorobot
 RH	Mental Enhancement	84	Robotics		Nanorobot
-RH	Mental Enhancement	84	Robotics		Nanorobot
 RH	Aging Rate Reduction	84	Robotics		Nanorobot
 RH	Environmental	85	Robotics		Nanorobot
 RH	Development	85	Robotics		Nanorobot
@@ -211,7 +210,6 @@ RH	Ear	91	Robotics		Cybernetics
 RH	Eye	91	Robotics		Cybernetics
 RH	Nose	91	Robotics		Cybernetics
 RH	Tongue	91	Robotics		Cybernetics
-RH	Neural Implant	92	Robotics		Cybernetics
 RH	Neural Comm	92	Robotics		Cybernetics
 RH	Neural Link	92	Robotics		Cybernetics
 RH	Neural Implants	92	Robotics		Cybernetics
@@ -286,10 +284,10 @@ RH	Electromagnetic Stunners	106	Robotics
 RH	Sonic-based Stunners	106	Robotics	No	
 RH	Hacking	107	Robotics		
 RH	Hacking Robots	107	Rules		
-RH	Anti-Robot Weapon	108	Central Supply		
-RH	Stun Rifle	108	Central Supply		
-RH	Stun Shotgun	108	Central Supply		
-RH	Pulse Carbine	108	Central Supply		
+RH	Anti-Robot Weapons	108	Weapons		
+RH	Stun Rifle	108	Weapons		Energy Rifles
+RH	Stun Shotgun	108	Weapons		Energy Rifles
+RH	Pulse Carbine	108	Weapons		Energy Rifles
 RH	Maintenance	108	Robotics		
 RH	Critical Hits	108	Robotics		
 RH	Hacking Flowchart	109	Robotics		
@@ -401,7 +399,7 @@ RH	Utility Robots	175	Robots
 RH	Utility Robots	175	Setting		
 RH	AG300 Agricultural Worker	175	Robots		
 RH	Bulk Delivery Servitor (BDS)	176	Robots		
-RH	Spinward Specialties	176	Setting		Robot Manufacturers
+RH	Spinward Specialties	176	Setting		
 RH	Courier, Basic	177	Robots		
 RH	Courier, Advanced	178	Robots		
 RH	Domestic Servant	179	Robots		
@@ -419,49 +417,49 @@ RH	Smart Probe Bot	186	Robots
 RH	Toolsack Workbot	187	Robots		
 RH	Type C Cargo Loader	188	Robots		
 RH	Arerl	189	Aslan		Robots
-RH	Arerl	189	Robots		Aslan
+RH	Arerl	189	Robots		
 RH	Hikare’	190	Aslan		Robots
-RH	Hikare’	190	Robots		Aslan
+RH	Hikare’	190	Robots		
 RH	Khyeseir	190	Aslan		Robots
-RH	Khyeseir	190	Robots		Aslan
+RH	Khyeseir	190	Robots		
 RH	Gardener Servant	191	Hiver		Robots
-RH	Gardener Servant	191	Robots		Hiver
+RH	Gardener Servant	191	Robots		
 RH	Hazardous Environment Scout	192	Hiver		Robots
-RH	Hazardous Environment Scout	192	Robots		Hiver
+RH	Hazardous Environment Scout	192	Robots		
 RH	Marine Boarding Droid	193	Hiver		Robots
-RH	Marine Boarding Droid	193	Robots		Hiver
-RH	Friend of the Lowly	194	K'Kree		Robots
-RH	Friend of the Lowly	194	Robots		K'Kree
+RH	Marine Boarding Droid	193	Robots		
+RH	Friend-of-the-Lowly	194	K'Kree		Robots
+RH	Friend-of-the-Lowly	194	Robots		
 RH	Distant Lance	195	K'Kree		Robots
-RH	Distant Lance	195	Robots		K'Kree
+RH	Distant Lance	195	Robots		
 RH	Opener-of-the-Way	195	K'Kree		Robots
-RH	Opener-of-the-Way	195	Robots		K'Kree
+RH	Opener-of-the-Way	195	Robots		
 RH	Guardian-of-Glory	196	K'Kree		Robots
-RH	Guardian-of-Glory	196	Robots		K'Kree
+RH	Guardian-of-Glory	196	Robots		
 RH	Breaker-of-Lines	196	K'Kree		Robots
-RH	Breaker-of-Lines	196	Robots		K'Kree
+RH	Breaker-of-Lines	196	Robots		
 RH	Slayer-of-Shields	197	K'Kree		Robots
-RH	Slayer-of-Shields	197	Robots		K'Kree
+RH	Slayer-of-Shields	197	Robots		
 RH	Ammobot	198	Solomani		Robots
-RH	Ammobot	198	Robots		Solomani
+RH	Ammobot	198	Robots		
 RH	Mortarbot	199	Solomani		Robots
-RH	Mortarbot	199	Robots		Solomani
+RH	Mortarbot	199	Robots		
 RH	ROvER	200	Solomani		Robots
-RH	ROvER	200	Robots		Solomani
+RH	ROvER	200	Robots		
 RH	Advisor Robot	201	Vargr		Robots
-RH	Advisor Robot	201	Robots		Vargr
+RH	Advisor Robot	201	Robots		
 RH	Taskbot	202	Vargr		Robots
-RH	Taskbot	202	Robots		Vargr
+RH	Taskbot	202	Robots		
 RH	Trashbot	203	Zhodani		Robots
-RH	Trashbot	203	Robots		Zhodani
+RH	Trashbot	203	Robots		
 RH	Maintenance Bot	204	Zhodani		Robots
-RH	Maintenance Bot	204	Robots		Zhodani
+RH	Maintenance Bot	204	Robots		
 RH	Light Warbot	205	Zhodani		Robots
-RH	Light Warbot	205	Robots		Zhodani
+RH	Light Warbot	205	Robots		
 RH	Medium Warbot	206	Zhodani		Robots
-RH	Medium Warbot	206	Robots		Zhodani
+RH	Medium Warbot	206	Robots		
 RH	Heavy Warbot	207	Zhodani		Robots
-RH	Heavy Warbot	207	Robots		Zhodani
+RH	Heavy Warbot	207	Robots		
 RH	Courier Drone	208	Robots		
 RH	Mining Drone	209	Robots		
 RH	Offworld Construction Drone	210	Robots		

@@ -71,7 +71,7 @@ TGE	Oihu, Goertel	80	Systems
 TGE	Yero'ilra, Goertel	81	Systems		
 TGE	Syoakh, Goertel	81	Systems		
 TGE	Yetrai	82	Aslan		Clan
-TGE	Eahaw Cluster	85	Aslan		
+TGE	Eahaw Cluster	85	Setting		
 TGE	Eahaw, Nora'a	85	Systems		
 TGE	Yaeawaokh, Nora'a	85	Systems		
 TGE	Woilreawau, Nora'a	88	Systems		
@@ -82,13 +82,13 @@ TGE	Earlyu, Silraaihe	89	Systems
 TGE	Erasaso, Goertel	89	Systems		
 TGE	Ouiyloi, Silraaihe	89	Systems		
 TGE	Rileakh, Silraaihe	89	Systems		
-TGE	Ouiyloi Man Brute	90	Bestiary		
+TGE	Ouiyloi Man-Brute	90	Bestiary		
 TGE	Ehrafou, Goertel	90	Systems		
 TGE	Eoiw, Silraaihe	90	Systems		
 TGE	Eilaeah, Goertel	91	Systems		
 TGE	Goertel, Goertel	91	Systems		
 TGE	Hrahraiu, Goertel	91	Systems		
-TGE	Church of Nom	91	Setting		Religion
+TGE	Church of Nom	91	Setting		
 TGE	Hliyh, Goertel	91	Systems		
 TGE	Eagle of Nom	92	Ships		
 TGE	Hteakya, Goertel	94	Systems		
@@ -152,7 +152,7 @@ TGE	Taleryu	142	Weapon		Melee
 TGE	Hlakhaihte	142	Aslan		Weapon
 TGE	Hlakhaihte	142	Weapon		Slug Pistols
 TGE	Slave Quarters	143	High Guard		
-TGE	Ion Missiles	143	High Guard		Weapons
+TGE	Ion Missiles	143	High Guard		
 TGE	Elar Kha’yaheh-Class Multi-Purpose Fighter	144	Ships		
 TGE	Elar Kha’yaheh-Class Multi-Purpose Fighter	144	Aslan		Ships
 TGE	Su’ikh-Class Interceptor	146	Ships		

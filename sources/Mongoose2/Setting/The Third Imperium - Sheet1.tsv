@@ -33,8 +33,8 @@ TTI	Project Shortbow	38	Setting
 TTI	Imperial Interstellar Scout Service	38	Setting		
 TTI	Mercenary Forces	40	Setting		
 TTI	Deep Dive	41	Adventures		Mercenary Contracts
-TTI	Zirgamsa Ruaka Corporation (ZRC)	41	Setting		Corporations
-TTI	Achenaar Antilles	41	Setting		Corporations
+TTI	Zirgamsa Ruaka Corporation (ZRC)	41	Setting		
+TTI	Achenaar Antilles Line	41	Setting		
 TTI	Arvlaa Gam, Saregon	41	Systems		
 TTI	Intelligence Services	42	Setting		
 TTI	Imperial Naval Intelligence	43	Setting		
@@ -43,7 +43,7 @@ TTI	INI Field Agent	43	Careers		3rd Imperium
 TTI	INI Minder, Lt. Nimath Tence	44	Patron		
 TTI	Imperial Nobility	45	Setting		
 TTI	Noble Ranks	46	Setting		
-TTI	Social Standing (SOC)	46	Rules		Characteristics
+TTI	Social Standing (SOC)	46	Rules		Characteristic
 TTI	Strephon Aella Alkhalikoi, Emperor	51	Setting		
 TTI	Imperial Family	51	Setting		
 TTI	Iolanthe Alkhalikoi, Empress	52	Setting		
@@ -53,19 +53,19 @@ TTI	Imperial Warrants	54	Setting
 TTI	Imperial Stationery	54	Central Supply		
 TTI	Corporations	55	Setting		
 TTI	Intell-Class Megacorporate Courier	56	Ships		
-TTI	Delgado Trading, LIC	58	Setting	No	Corporations
-TTI	General Products, LIC	58	Setting	No	Corporations
-TTI	Gesellschaft feur Sternschiffbau AG (GSbAG)	58	Setting	No	Corporations
-TTI	Hortalez et Cie, LIC	58	Setting	No	Corporations
-TTI	Ling Standard Products (LSP)	58	Setting	No	Corporations
-TTI	Instellarms, LIC	58	Setting	No	Corporations
-TTI	Makhidkarun	58	Setting	No	Corporations
-TTI	Naasirka	58	Setting	No	Corporations
-TTI	Schunamann un Sohn, LIC (SuSAG)	58	Setting	No	Corporations
-TTI	Sharurshid	58	Setting	No	Corporations
-TTI	Sternmetal Horizons, LIC	58	Setting	No	Corporations
-TTI	Tukera Lines, LIC	58	Setting	No	Corporations
-TTI	Zirunkariish	58	Setting	No	Corporations
+TTI	Delgado Trading, LIC	58	Setting	No	
+TTI	General Products, LIC	58	Setting	No	
+TTI	Gesellschaft feur Sternschiffbau AG (GSbAG)	58	Setting	No	
+TTI	Hortalez et Cie, LIC	58	Setting	No	
+TTI	Ling-Standard Products (LSP)	58	Setting	No	
+TTI	Instellarms, LIC	58	Setting	No	
+TTI	Makhidkarun	58	Setting	No	
+TTI	Naasirka	58	Setting	No	
+TTI	Schunamann und Sohn AG (SuSAG)	58	Setting	No	
+TTI	Sharurshid	58	Setting	No	
+TTI	Sternmetal Horizons	58	Setting	No	
+TTI	Tukera Lines	58	Setting	No	
+TTI	Zirunkariish	58	Setting	No	
 TTI	History of the Third Imperium	59	Setting		
 TTI	Sylean Federation	62	Setting		
 TTI	Interstellar Confederacy	64	Setting		
@@ -81,14 +81,14 @@ TTI	Vargr Campaigns	81	Setting
 TTI	Right of Assassination	82	Setting		
 TTI	Porfirian Age	83	Setting		
 TTI	Peace of Ftahalr	84	Setting		
-TTI	ILELISH REVOLT	86	Setting		
+TTI	Ilelish Revolt	86	Setting		
 TTI	Second Frontier War	89	Setting		
 TTI	Civil War	90	Setting		
 TTI	First Frontier War	89	Setting		
 TTI	Emperor Timeline	91	Setting		
 TTI	Arbellatra Alkhalikoi, Grand Admiral	92	Setting		
 TTI	Empress Marava	93	Setting		
-TTI	Bilitig und Dottir	93	Setting		Corporations
+TTI	Bilitig und Dottir	93	Setting		
 TTI	Solomani Movement	95	Solomani		
 TTI	Rise of the Solomani Confederation	95	Solomani		
 TTI	Psionic Suppressions	96	Setting		
@@ -117,35 +117,35 @@ TTI	Dagalu Kiinlarsuush Rikhummi, Duke 	115	Setting
 TTI	Shugilii Shimiirkhuki	115	Setting		
 TTI	Akussanja, Perite	118	Systems		
 TTI	Gakxaal, Perite	119	Systems		
-TTI	Schunamann un Sohn, LIC (SuSAG)	119	Setting		Corporations
+TTI	Schunamann und Sohn AG (SuSAG)	119	Setting		
 TTI	Shazeku, Perite	119	Setting		
-TTI	Bamshimbakkada	119	Setting		Religions
+TTI	Bamshimbakkada	119	Setting		
 TTI	Annililik Run	120	Setting		
 TTI	Empress Porfiria-Class Corporate-Sponsored Far Trader	122	Ships		
 TTI	Ameros, Core	124	Setting		
 TTI	Khizuun, Ameros	124	Systems		
 TTI	Ameros, Ameros	124	Systems		
-TTI	Hortalez et Cie, LIC	124	Setting		Corporations
+TTI	Hortalez et Cie, LIC	124	Setting		
 TTI	Lagaashin, Ameros	127	Systems		
 TTI	Kovil’s Ox	128	Bestiary		
 TTI	Unnagilu, Ameros	128	Systems		
-TTI	Delgado Trading, LIC	128	Setting		Corporations
+TTI	Delgado Trading, LIC	128	Setting		
 TTI	IISS EVA Suit	129	Personal Protection		
 TTI	Shinkan, Core	130	Setting		
-TTI	Achenaar Antilles	130	Setting		Corporations
+TTI	Achenaar Antilles Line	130	Setting		
 TTI	Ninua, Shinkan	130	Systems		
 TTI	Aarza Kand, Shinkan	133	Systems		
-TTI	Ekilati Onati	133	Setting		Criminal Organisation
+TTI	Ekilati Onati	133	Setting		
 TTI	Dim, Shinkan	134	Systems		
 TTI	Dim Highport Cargo Robot	135	Robots		
 TTI	Maeghen, Shinkan	135	Systems		
 TTI	Minos, Shinkan	136	Systems		
 TTI	Sanches, Core	137	Setting		
 TTI	Arla Un, Sanches	140	Systems		
-TTI	Arla Un Mining Consortium	140	Setting		Corporations
+TTI	Arla Un Mining Consortium	140	Setting		
 TTI	Bright-Side Crawler	141	Vehicles		
 TTI	Dudin, Sanches	142	Systems		
-TTI	Makhidkarun	142	Setting		Corporations
+TTI	Makhidkarun	142	Setting		
 TTI	Sanches, Sanches	142	Systems		
 TTI	Mekee, Core	144	Setting		
 TTI	Coppelia, Mekee	144	Systems		
@@ -176,16 +176,16 @@ TTI	Khiinra Ash, Kaskii	169	Systems
 TTI	Bhu’oovaakaylaa	169	Bestiary		
 TTI	Bhu’oovaakaylaa	169	Sophonts		
 TTI	Markasher, Kaskii	170	Systems		
-TTI	Conglomerate	170	Setting		Corporations
+TTI	Conglomerate	170	Setting		
 TTI	Travellers	171	Sophonts		Sylean
 TTI	Bunkeria, Core	172	Setting		
-TTI	Achenaar Antilles Line	175	Setting		Corporations
+TTI	Achenaar Antilles Line	175	Setting		
 TTI	F’rnow, Bunkeria	175	Systems		
 TTI	Hellhole, Bunkeria	175	Systems		
 TTI	Irlu, Bunkeria	175	Systems		
 TTI	Marsus, Bunkeria	175	Systems		
 TTI	Office of Mercenary Affairs (OMA)	175	Setting		
-TTI	Instellarms	176	Setting		Corporations
+TTI	Instellarms, LIC	176	Setting		
 TTI	Raynier Grgic, Major	176	Setting		
 TTI	Lalandra, Bunkeria	177	Systems		
 TTI	Ramscoop	177	High Guard		
@@ -193,11 +193,11 @@ TTI	Cemplas, Core	178	Setting
 TTI	Celetron, Cemplas	178	Systems		
 TTI	Biirke, Cemplas	179	Systems		
 TTI	Ehok-ta, Cemplas	181	Systems		
-TTI	Ne-ka-otabi	181	Setting		Corporations
+TTI	Ne-ka-otabi	181	Setting		
 TTI	Heraldia, Cemplas	181	Systems		
 TTI	Khusgurlu, Cemplas	182	Systems		
 TTI	Aulonn Jhourdan-Valestin	182	Setting		
-TTI	Church of the Chosen Few	182	Setting		Religions
+TTI	Church of the Chosen Few	182	Setting		
 TTI	Velpare, Cemplas	183	Systems		
 TTI	Ye-lu, Cemplas	184	Systems		
 TTI	Regal Voyager	185	Setting		
@@ -218,7 +218,7 @@ TTI	Cadion, Core	198	Setting
 TTI	Brygella, Cadion	198	Systems		
 TTI	Kysizi, Cadion	201	Systems		
 TTI	Lia, Cadion	202	Systems		
-TTI	Corwin Corporation	202	Setting		Corporations
+TTI	Corwin Corporation	202	Setting		
 TTI	Night, Cadion	202	Systems		
 TTI	Oo-ne-beto-pon-tee	202	Sophonts		
 TTI	Travellers	204	Sophonts		Oo-ne-beto-pon-tee
@@ -226,18 +226,18 @@ TTI	Reference, Cadion	205	Systems
 TTI	University of Aadkhien	205	Setting		
 TTI	Alpha	205	Setting		Research Stations
 TTI	Second Reference	206	Setting		
-TTI	Azhanti High Lightning-class ARGUSHIIGI ADMEGULASHA BILANIDIN	208	Ships		
+TTI	Azhanti High Lightning-class Argushiigi Admegulasha Bilanidin	208	Ships		
 TTI	Ch'narr, Core	212	Setting		
-TTI	Colyere Hajesta daMae, Duchess of Aursis	212	Setting		
+TTI	Colyere Hajesta daMae, Duchess	212	Setting		
 TTI	Aursis, Ch'narr	212	Systems		
 TTI	Diam Kani, Ch'narr	216	Systems		
 TTI	Gidekis, Ch'narr	217	Systems		
 TTI	Rolfo Menderis, Count of Gidekis	217	Setting		
 TTI	Hiilev, Ch'narr	218	Systems		
 TTI	Hiidamo	218	Sophonts		
-TTI	Alakavala Corporation	218	Setting		Corporations
+TTI	Alakavala Corporation	218	Setting		
 TTI	Geonee	218	Sophonts	No	
-TTI	Dimanaam Shipyards	219	Setting		Corporations
+TTI	Dimanaam Shipyards	219	Setting		
 TTI	Voroshilef-Class Battleship	219	Ships		
 TTI	Dunea, Core	222	Setting		
 TTI	Keshi, Dunea	222	Systems		
@@ -248,13 +248,13 @@ TTI	Uundizi, Dunea	227	Systems
 TTI	Zimmel, Dunea	227	Systems		
 TTI	Salo Merchant Lines	228	Setting		
 TTI	Saregon, Core	229	Setting		
-TTI	Tukera Lines	229	Setting		Corporations
-TTI	Achenaar Antilles	229	Setting		Corporations
+TTI	Tukera Lines, LIC	229	Setting		
+TTI	Achenaar Antilles Line	229	Setting		
 TTI	Starburst of Extreme Heroism-Class Light Cruiser	230	Ships		
 TTI	Dinenruum, Saregon	236	Systems		
 TTI	Delta	236	Setting		Research Stations
 TTI	Igla, Saregon	236	Systems		
-TTI	Church of Preservation	236	Setting		Religions
+TTI	Church of Preservation	236	Setting		
 TTI	Saregon, Saregon	237	Systems		
 TTI	Anarque of Saregon	237	Setting		
 TTI	Shimaraak, Saregon	237	Systems		

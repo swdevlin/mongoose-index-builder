@@ -7,7 +7,6 @@ TTR	Drinaxi Harrier-Class Commerce Raider	8	Ship
 TTR	Kingdom of Drinax	14	Polity		
 TTR	Letter of Marque	18	Setting		
 TTR	Floating Palace	18	Setting		
-TTR	Floating Palace	18	Starport		
 TTR	Vespexer	21	Setting		
 TTR	Asim, Tlaiowaha	22	System		
 TTR	King Oleb	22	Person		
@@ -24,7 +23,7 @@ TTR	Cleon Hardy	24	Person
 TTR	Chieftan Gaix	24	Person		
 TTR	General Development Company	25	Setting		Megacorporation
 TTR	Admiral Darokyn	25	Person		
-TTR	Peytr Vallis	25	Person		
+TTR	Petyr Vallis	25	Person		
 TTR	The Ghost	25	Person		
 TTR	Hroal Irontooth	25	Person		
 TTR	The Dread Pirate Ashan	25	Person		
@@ -90,7 +89,7 @@ TTR	Travellers	64	Aslan
 TTR	Territory (TER)	64	Aslan		Travellers
 TTR	Territory (TER)	64	Aslan		Characteristic
 TTR	Territory (TER)	64	Rules		Characteristic
-TTR	Right of Passage	67	Aslan		Travellers
+TTR	Rite of Passage	67	Aslan		Travellers
 TTR	Inheritance	66	Aslan		Travellers
 TTR	Ancestral Territory	64	Aslan		Travellers
 TTR	Deeds	66	Aslan		Travellers
@@ -407,7 +406,7 @@ TTR	Colony Six, Goertel	176	System
 TTR	Goertel, Goertel	176	System		
 TTR	Church of Nom	176	Setting		
 TTR	Syoakh, Goertel	177	System		
-TTR	Glorius Empire	177	Polity		
+TTR	Glorious Empire	177	Polity		
 TTR	Tryaoke, Goertel	177	System		
 TTR	Tlaiowaha, Trojan Reach	179	Setting		
 TTR	Tlaiowaha	179	Aslan	No	Clan
@@ -432,7 +431,7 @@ TTR	Tlaiowaha, Tlaiowaha	182	System
 TTR	Tyokh, Tlaiowaha	183	System		
 TTR	Vorito, Tlaiowaha	183	System		
 TTR	Rea’a Hrilkhir	183	Setting		
-TTR	General Development Corporation	183	Setting	No	
+TTR	General Development Company	183	Setting	No	
 TTR	The Borderland, Trojan Reach	185	Setting		
 TTR	Acrid, The Borderland	186	System		
 TTR	Argona, The Borderland	186	System		
@@ -450,7 +449,7 @@ TTR	Inurin, The Borderland	188	System
 TTR	Pandora, The Borderland	188	System		
 TTR	Sperle, The Borderland	188	System		
 TTR	Tanith, The Borderland	188	System		
-TTR	General Development Corporation	188	Setting	No	
+TTR	General Development Company	188	Setting	No	
 TTR	Tech-World, The Borderland	189	System		
 TTR	Umemii, The Borderland	189	System		
 TTR	Vargr	189	Sophont		
@@ -459,7 +458,7 @@ TTR	Ttlaukhu	191	Aslan
 TTR	Aehahr, Ranib	192	System		
 TTR	Ftoakh, Ranib	192	System		
 TTR	Ftyewirl, Ranib	192	System		
-TTR	Khaukhearl	192	Aslan	No	Clan
+TTR	Khaukheairl	192	Aslan	No	Clan
 TTR	Khtiatiyeea	192	Aslan	No	Clan
 TTR	Euikhter	192	Aslan		
 TTR	Syoisuis	193	Aslan	No	Clan
@@ -473,7 +472,7 @@ TTR	Aisaoawi, Silraaihe	197	System
 TTR	Awaweaw, Silraaihe	197	System		
 TTR	Earlyu, Silraaihe	197	System		
 TTR	Prince Wauiatyakhiyw	197	Setting		
-TTR	General Development Corporation	197	Setting	No	
+TTR	General Development Company	197	Setting	No	
 TTR	Yont	197	Sophont	No	
 TTR	Travellers	197	Sophont		Yont
 TTR	Ouivloi Man-Brute	198	Bestiary		

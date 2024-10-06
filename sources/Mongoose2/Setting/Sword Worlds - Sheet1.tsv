@@ -18,8 +18,8 @@ SW	Greve	20	Sword Worlds Confederation
 SW	Jarl	20	Sword Worlds Confederation		
 SW	Hertug	20	Sword Worlds Confederation		
 SW	Religion	21	Sword Worlds Confederation		
-SW	Aesirists	21	Sword Worlds Confederation		Religion
-SW	Aesirists	21	Setting		Religion
+SW	Aesirists	21	Sword Worlds Confederation		
+SW	Aesirists	21	Setting		
 SW	Government	22	Sword Worlds Confederation		
 SW	Infrastructure	24	Sword Worlds Confederation		
 SW	Commerce	24	Sword Worlds Confederation		
@@ -61,7 +61,7 @@ SW	Enlisted Ranks	53	Sword Worlds Confederation		Military Ranks
 SW	Officer Ranks	54	Sword Worlds Confederation		Military Ranks
 SW	General Officrt Ranks	54	Sword Worlds Confederation		Military Ranks
 SW	Gram Arm	55	Setting		
-SW	Gram Arm	55	Sword Worlds Confederation		Region
+SW	Gram Arm	55	Sword Worlds Confederation		
 SW	Tizon, Sword Worlds	56	System		
 SW	Colada, Sword Worlds	58	System		
 SW	Joyeuse, Sword Worlds	60	System		
@@ -74,7 +74,7 @@ SW	Anduril, Sword Worlds	69	System
 SW	Orcrist, Sword Worlds	70	System		
 SW	Excalibur, Sword Worlds	71	System		
 SW	Sacnoth, Sword Worlds	72	System		
-SW	Trailing Worlds	74	Sword Worlds Confederation		Region
+SW	Trailing Worlds	74	Sword Worlds Confederation		
 SW	Trailing Worlds	74	Setting		
 SW	Dyrnwyn, Sword Worlds	75	System		
 SW	Durendal, Sword Worlds	76	System		

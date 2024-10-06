@@ -100,12 +100,12 @@ TC	Vacuum	67	Setting	No
 TC	Diseases	71	Setting		
 TC	Toxins	71	Setting		
 TC	Chemicals	71	Setting		
-TC	Atlanta Haemorrhagic Fever	76	Rules		Disease
-TC	Quarete Fever	76	Rules		Disease
-TC	Anthrax, Weaponized	77	Rules		Poison
-TC	Neurodart Toxin	77	Rules		Poison
-TC	Spacer 'Flu	78	Rules		Disease
-TC	Tilt Fever	78	Rules		Disease
+TC	Atlanta Haemorrhagic Fever	76	Rules		Diseases
+TC	Quarete Fever	76	Rules		Diseases
+TC	Anthrax, Weaponized	77	Rules		Poisons
+TC	Neurodart Toxin	77	Rules		Poisons
+TC	Spacer 'Flu	78	Rules		Diseases
+TC	Tilt Fever	78	Rules		Diseases
 TC	Acids	79	Rules		
 TC	Corrosives	79	Rules		
 TC	Starvation	80	Rules		
@@ -191,7 +191,7 @@ TC	Nuclear Laser Mines	161	Rules
 TC	Minelayer Bay	162	High Guard		
 TC	Gas Giant Refueling	163	Rules		
 TC	Transponders	165	Rules		
-TC	Mortgages	165	Rules	No	
+TC	Mortgage	165	Rules	No	
 TC	Dogfight Missile	167	High Guard		
 TC	Interceptor Missile	167	High Guard		
 TC	Container-Launchers	168	High Guard		
