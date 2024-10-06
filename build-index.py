@@ -42,6 +42,7 @@ TYPE_CORRECTIONS = {
 	'Drone': 'Robots',
 	'Drones': 'Robots',
 	# Not sure person needs to be its own category; adding them to setting for the time being
+    "K'Kree": "K'kree",
 	'Person': 'Setting',
 	'Skill': 'Skills',
 	'Robot': 'Robots',

@@ -176,115 +176,115 @@ AoCS1	Aoa’iw-Class Light Trader (Type S)	102	Ships
 AoCS1	Aoa’iw-Class Light Trader (Type S)	102	Aslan		Ships
 AoCS1	Halaheike-Class Pocket Warship	104	Ships		
 AoCS1	Halaheike-Class Pocket Warship	104	Aslan		Ships
-AoCS1	Overview	106	K'Kree		
-AoCS1	Physiology	107	K'Kree		
-AoCS1	Society	108	K'Kree		
-AoCS1	Groupings	109	K'Kree		
-AoCS1	Social Values	110	K'Kree		
-AoCS1	Phychological Traits	110	K'Kree		
-AoCS1	Daily Life	111	K'Kree		
-AoCS1	Language	112	K'Kree		
-AoCS1	Two Thousand Worlds	112	K'Kree		
+AoCS1	Overview	106	K'kree		
+AoCS1	Physiology	107	K'kree		
+AoCS1	Society	108	K'kree		
+AoCS1	Groupings	109	K'kree		
+AoCS1	Social Values	110	K'kree		
+AoCS1	Phychological Traits	110	K'kree		
+AoCS1	Daily Life	111	K'kree		
+AoCS1	Language	112	K'kree		
+AoCS1	Two Thousand Worlds	112	K'kree		
 AoCS1	Two Thousand Worlds	112	Polity		
-AoCS1	Military	113	K'Kree		
-AoCS1	Ground Forces	115	K'Kree		
-AoCS1	K'Kree Charge	115	K'Kree		
-AoCS1	Naval Organisation	118	K'Kree		
-AoCS1	Naval Formations	118	K'Kree		
-AoCS1	History	119	K'Kree		
-AoCS1	Unification Of Kirur	120	K'Kree		
-AoCS1	Lords Of Thunder	123	K'Kree		
-AoCS1	Travellers	124	K'Kree		
-AoCS1	Patriarchy	124	K'Kree		Travellers
-AoCS1	Social Standing (SOC)	124	K'Kree		Travellers
-AoCS1	Servant-Of-Rankholder	125	K'Kree		Travellers
-AoCS1	Kinsman-Of-Rankholder	125	K'Kree		Travellers
-AoCS1	Rankholder	125	K'Kree		Travellers
-AoCS1	Traits	125	K'Kree		Travellers
-AoCS1	Loneliness	126	K'Kree		Travellers
-AoCS1	Non-K’Kree	126	K'Kree		Travellers
-AoCS1	Specialist Area	127	K'Kree		Travellers
-AoCS1	Background Skills	128	K'Kree		Travellers
-AoCS1	Terms	128	K'Kree		Travellers
-AoCS1	Household Development	128	K'Kree		Travellers
-AoCS1	Career Progress	128	K'Kree		Travellers
-AoCS1	K'Kree	130	Careers		K'Kree
-AoCS1	K'Kree	130	K'Kree		Travellers
-AoCS1	Servant	132	Careers		K'Kree
-AoCS1	Servant	132	K'Kree		Travellers
-AoCS1	Merchant	134	Careers		K'Kree
-AoCS1	Merchant	134	K'Kree		Travellers
-AoCS1	Noble	134	Careers		K'Kree
-AoCS1	Noble	134	K'Kree		Travellers
-AoCS1	Life Events	136	K'Kree		Travellers
-AoCS1	Benefits	136	K'Kree		Travellers
-AoCS1	Family	136	K'Kree		Travellers
-AoCS1	Warrior Panoply	140	K'Kree		Armour
-AoCS1	Vacc Suit	141	K'Kree		Central Supply
-AoCS1	Combat Armour	141	K'Kree		Armour
-AoCS1	Lance	142	K'Kree		Weapon
+AoCS1	Military	113	K'kree		
+AoCS1	Ground Forces	115	K'kree		
+AoCS1	K'kree Charge	115	K'kree		
+AoCS1	Naval Organisation	118	K'kree		
+AoCS1	Naval Formations	118	K'kree		
+AoCS1	History	119	K'kree		
+AoCS1	Unification Of Kirur	120	K'kree		
+AoCS1	Lords Of Thunder	123	K'kree		
+AoCS1	Travellers	124	K'kree		
+AoCS1	Patriarchy	124	K'kree		Travellers
+AoCS1	Social Standing (SOC)	124	K'kree		Travellers
+AoCS1	Servant-Of-Rankholder	125	K'kree		Travellers
+AoCS1	Kinsman-Of-Rankholder	125	K'kree		Travellers
+AoCS1	Rankholder	125	K'kree		Travellers
+AoCS1	Traits	125	K'kree		Travellers
+AoCS1	Loneliness	126	K'kree		Travellers
+AoCS1	Non-K’Kree	126	K'kree		Travellers
+AoCS1	Specialist Area	127	K'kree		Travellers
+AoCS1	Background Skills	128	K'kree		Travellers
+AoCS1	Terms	128	K'kree		Travellers
+AoCS1	Household Development	128	K'kree		Travellers
+AoCS1	Career Progress	128	K'kree		Travellers
+AoCS1	K'kree	130	Careers		K'kree
+AoCS1	K'kree	130	K'kree		Travellers
+AoCS1	Servant	132	Careers		K'kree
+AoCS1	Servant	132	K'kree		Travellers
+AoCS1	Merchant	134	Careers		K'kree
+AoCS1	Merchant	134	K'kree		Travellers
+AoCS1	Noble	134	Careers		K'kree
+AoCS1	Noble	134	K'kree		Travellers
+AoCS1	Life Events	136	K'kree		Travellers
+AoCS1	Benefits	136	K'kree		Travellers
+AoCS1	Family	136	K'kree		Travellers
+AoCS1	Warrior Panoply	140	K'kree		Armour
+AoCS1	Vacc Suit	141	K'kree		Central Supply
+AoCS1	Combat Armour	141	K'kree		Armour
+AoCS1	Lance	142	K'kree		Weapon
 AoCS1	Lance	142	Weapon		Melee
-AoCS1	Shield	142	K'Kree		Weapon
+AoCS1	Shield	142	K'kree		Weapon
 AoCS1	Shield	142	Weapon		Melee
-AoCS1	Hand-Blade	142	K'Kree		Weapon
+AoCS1	Hand-Blade	142	K'kree		Weapon
 AoCS1	Hand-Blade	142	Weapon		Melee
-AoCS1	Ceremonial Hand-Blade	142	K'Kree		Weapon
+AoCS1	Ceremonial Hand-Blade	142	K'kree		Weapon
 AoCS1	Ceremonial Hand-Blade	142	Weapon		Melee
-AoCS1	Lance-of-Length	143	K'Kree		Weapon
+AoCS1	Lance-of-Length	143	K'kree		Weapon
 AoCS1	Lance-of-Length	143	Weapon		Energy Rifles
-AoCS1	Short-Hand	143	K'Kree		Weapon
+AoCS1	Short-Hand	143	K'kree		Weapon
 AoCS1	Short-Hand	143	Weapon		Energy Pistols
-AoCS1	Hand-of-Length	143	K'Kree		Weapon
+AoCS1	Hand-of-Length	143	K'kree		Weapon
 AoCS1	Hand-of-Length	143	Weapon		Energy Rifles
-AoCS1	Weapon-of-Length	144	K'Kree		Weapon
+AoCS1	Weapon-of-Length	144	K'kree		Weapon
 AoCS1	Weapon-of-Length	144	Weapon		Energy Rifles
-AoCS1	Weapon-of-Destruction	144	K'Kree		Weapon
+AoCS1	Weapon-of-Destruction	144	K'kree		Weapon
 AoCS1	Weapon-of-Destruction	144	Weapon		Energy Rifles
-AoCS1	Weapon Carriers	144	K'Kree		
-AoCS1	Interface	145	K'Kree		Weapon Carriers
-AoCS1	Command Unit	145	K'Kree		Weapon Carriers
-AoCS1	Friend-of-The-Lowly	145	K'Kree		Robot
+AoCS1	Weapon Carriers	144	K'kree		
+AoCS1	Interface	145	K'kree		Weapon Carriers
+AoCS1	Command Unit	145	K'kree		Weapon Carriers
+AoCS1	Friend-of-The-Lowly	145	K'kree		Robot
 AoCS1	Friend-of-The-Lowly	145	Robots		
-AoCS1	Distant Lance	146	K'Kree		Robot
+AoCS1	Distant Lance	146	K'kree		Robot
 AoCS1	Distant Lance	146	Robots		
-AoCS1	Opener-of-The-Way	146	K'Kree		Robot
+AoCS1	Opener-of-The-Way	146	K'kree		Robot
 AoCS1	Opener-of-The-Way	146	Robots		
-AoCS1	Guardian-of-Glory	146	K'Kree		Robot
+AoCS1	Guardian-of-Glory	146	K'kree		Robot
 AoCS1	Guardian-of-Glory	146	Robots		
-AoCS1	Breaker-of-Lines	147	K'Kree		Robot
+AoCS1	Breaker-of-Lines	147	K'kree		Robot
 AoCS1	Breaker-of-Lines	147	Robots		
-AoCS1	Slayer-of-Shields	147	K'Kree		Robot
+AoCS1	Slayer-of-Shields	147	K'kree		Robot
 AoCS1	Slayer-of-Shields	147	Robots		
-AoCS1	Vehicles	148	K'Kree		
-AoCS1	Crew And Passengers	148	K'Kree		
+AoCS1	Vehicles	148	K'kree		
+AoCS1	Crew And Passengers	148	K'kree		
 AoCS1	Personal Grav Skimmer	149	Vehicles		
 AoCS1	Lead Grav Skimmer	150	Vehicles		
 AoCS1	Family Transport Vehicle	151	Vehicles		
-AoCS1	Personal Grav Skimmer	149	K'Kree		Vehicles
-AoCS1	Lead Grav Skimmer	150	K'Kree		Vehicles
-AoCS1	Family Transport Vehicle	151	K'Kree		Vehicles
-AoCS1	Mobile Fighting Platforms	152	K'Kree		
+AoCS1	Personal Grav Skimmer	149	K'kree		Vehicles
+AoCS1	Lead Grav Skimmer	150	K'kree		Vehicles
+AoCS1	Family Transport Vehicle	151	K'kree		Vehicles
+AoCS1	Mobile Fighting Platforms	152	K'kree		
 AoCS1	Mobile Fighting Platform	153	Vehicles		
-AoCS1	Mobile Fighting Platform	153	K'Kree		Vehicles
-AoCS1	High Guard	154	K'Kree		
-AoCS1	Enclosures	154	K'Kree		High Guard
-AoCS1	Shipboard Park	155	K'Kree		High Guard
-AoCS1	Robotic Craft	155	K'Kree		High Guard
-AoCS1	Electromagneticenvironment Protection Suite	156	K'Kree		High Guard
-AoCS1	Operation Packages	157	K'Kree		High Guard
-AoCS1	Remote Operations Station	157	K'Kree		High Guard
+AoCS1	Mobile Fighting Platform	153	K'kree		Vehicles
+AoCS1	High Guard	154	K'kree		
+AoCS1	Enclosures	154	K'kree		High Guard
+AoCS1	Shipboard Park	155	K'kree		High Guard
+AoCS1	Robotic Craft	155	K'kree		High Guard
+AoCS1	Electromagneticenvironment Protection Suite	156	K'kree		High Guard
+AoCS1	Operation Packages	157	K'kree		High Guard
+AoCS1	Remote Operations Station	157	K'kree		High Guard
 AoCS1	Bearer-Of-Cargoes Shuttle	158	Ships		
-AoCS1	Bearer-Of-Cargoes Shuttle	158	K'Kree		Ships
+AoCS1	Bearer-Of-Cargoes Shuttle	158	K'kree		Ships
 AoCS1	Bearer-Of-Families Orbital Shuttle	160	Ships		
-AoCS1	Bearer-Of-Families Orbital Shuttle	160	K'Kree		Ships
+AoCS1	Bearer-Of-Families Orbital Shuttle	160	K'kree		Ships
 AoCS1	Trader Of The Outer Steppe Merchant	162	Ships		
-AoCS1	Trader Of The Outer Steppe Merchant	162	K'Kree		Ships
+AoCS1	Trader Of The Outer Steppe Merchant	162	K'kree		Ships
 AoCS1	Quickening Thunder Robotic Fighter	164	Small Craft		
-AoCS1	Quickening Thunder Robotic Fighter	164	K'Kree		Small Craft
+AoCS1	Quickening Thunder Robotic Fighter	164	K'kree		Small Craft
 AoCS1	Faithful Shield Robotic Escort Fighter	166	Small Craft		
-AoCS1	Faithful Shield Robotic Escort Fighter	166	K'Kree		Small Craft
-AoCS1	K'Kree In Traveller	168	Setting		
-AoCS1	K'Kree In Traveller	168	K'Kree		
+AoCS1	Faithful Shield Robotic Escort Fighter	166	K'kree		Small Craft
+AoCS1	K'kree In Traveller	168	Setting		
+AoCS1	K'kree In Traveller	168	K'kree		
 AoCS1	Vargr	169	Sophont		
 AoCS1	Physiology	169	Vargr		
 AoCS1	Lifespan	171	Vargr		
