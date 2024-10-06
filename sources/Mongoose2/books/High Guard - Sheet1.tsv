@@ -44,87 +44,88 @@ HG	Crew Requirements	22	High Guard
 HG	Weapons and Screens	26	High Guard		
 HG	Critical Hits	27	Rules		
 HG	Staterooms	24	High Guard		
-HG	Low Berth, Emergency	24	High Guard		
-HG	Low Berth	24	High Guard		
+HG	Emergency	24	High Guard		Low Berths
+HG	Low Berths	24	High Guard		
 HG	Common Area	24	High Guard		
 HG	Airlocks	25	High Guard		
 HG	Cargo Hatches	25	High Guard		
 HG	Turrets	28	High Guard		
 HG	Fixed Mounts	28	High Guard		
 HG	Pop-Up Mounting	28	High Guard		
-HG	Beam Laser	28	High Guard		Turret
-HG	Fusion Gun	28	High Guard		Turret
-HG	Laser Drill	28	High Guard		Turret
-HG	Missile Rack	28	High Guard		Turret
-HG	Particle Beam	29	High Guard		Turret
-HG	Plasma Gun	29	High Guard		Turret
-HG	Pulse Laser	29	High Guard		Turret
-HG	Railgun	29	High Guard		Turret
-HG	Sandcaster	29	High Guard		Turret
+HG	Beam Laser	28	High Guard		Turrets
+HG	Fusion Gun	28	High Guard		Turrets
+HG	Laser Drill	28	High Guard		Turrets
+HG	Missile Rack	28	High Guard		Turrets
+HG	Particle Beam	29	High Guard		Turrets
+HG	Plasma Gun	29	High Guard		Turrets
+HG	Pulse Laser	29	High Guard		Turrets
+HG	Railgun	29	High Guard		Turrets
+HG	Sandcaster	29	High Guard		Turrets
 HG	Barbettes	29	High Guard		
-HG	Beam Laser	29	High Guard		Barbette
-HG	Fusion	29	High Guard		Barbette
-HG	Ion Cannon	29	High Guard		Barbette
+HG	Beam Laser	29	High Guard		Barbettes
+HG	Fusion	29	High Guard		Barbettes
+HG	Ion Cannon	29	High Guard		Barbettes
 HG	Ion	30	High Guard		Weapon Trait
+HG	Damage Multiples	29	High Guard		
 HG	Orbital Bombardment	30	High Guard		Weapon Trait
 HG	Orbital Strike	30	High Guard		Weapon Trait
-HG	Missile	31	High Guard		Barbette
-HG	Particle	31	High Guard		Barbette
-HG	Plamsa	31	High Guard		Barbette
-HG	Pulse Laser	31	High Guard		Barbette
-HG	Railgun	31	High Guard		Barbette
-HG	Torpedo	31	High Guard		Barbette
+HG	Missile	31	High Guard		Barbettes
+HG	Particle	31	High Guard		Barbettes
+HG	Plamsa	31	High Guard		Barbettes
+HG	Pulse Laser	31	High Guard		Barbettes
+HG	Railgun	31	High Guard		Barbettes
+HG	Torpedo	31	High Guard		Barbettes
 HG	Radiation	31	High Guard		Weapon Trait
 HG	Bays	31	High Guard		
-HG	Fusion Gun	32	High Guard		Bay
-HG	Ion Cannon	32	High Guard		Bay
-HG	Mass Driver	32	High Guard		Bay
-HG	Meson Gun	32	High Guard		Bay
-HG	Missile	33	High Guard		Bay
-HG	Orbital Strike Mass Driver	33	High Guard		Bay
-HG	Orbital Strike Missile	33	High Guard		Bay
-HG	Particle Beam	33	High Guard		Bay
-HG	Railgun	33	High Guard		Bay
-HG	Repulsor Bay	33	High Guard		Bay
-HG	Torpedo	34	High Guard		Bay
+HG	Fusion Gun	32	High Guard		Bays
+HG	Ion Cannon	32	High Guard		Bays
+HG	Mass Driver	32	High Guard		Bays
+HG	Meson Gun	32	High Guard		Bays
+HG	Missile	33	High Guard		Bays
+HG	Orbital Strike Mass Driver	33	High Guard		Bays
+HG	Orbital Strike Missile	33	High Guard		Bays
+HG	Particle Beam	33	High Guard		Bays
+HG	Railgun	33	High Guard		Bays
+HG	Repulsor Bay	33	High Guard		Bays
+HG	Torpedo	34	High Guard		Bays
 HG	Spinal Weapons	34	High Guard		
-HG	Mass Driver	35	High Guard		Spinal Mount
-HG	Meson	35	High Guard		Spinal Mount
-HG	Particle	36	High Guard		Spinal Mount
-HG	Railgun	36	High Guard		Spinal Mount
+HG	Mass Driver	35	High Guard		Spinal Weapons
+HG	Meson	35	High Guard		Spinal Weapons
+HG	Particle	36	High Guard		Spinal Weapons
+HG	Railgun	36	High Guard		Spinal Weapons
 HG	Missiles	36	High Guard		
-HG	Advanced	36	High Guard		Missile
-HG	Antimatter	36	High Guard		Missile
-HG	Anti-Torpedo	36	High Guard		Missile
-HG	Decoy	36	High Guard		Missile
-HG	Fragmentation	36	High Guard		Missile
-HG	Ion	37	High Guard		Missile
-HG	Jumpbreaker	37	High Guard		Missile
-HG	Long-Range	37	High Guard		Missile
+HG	Advanced	36	High Guard		Missiles
+HG	Antimatter	36	High Guard		Missiles
+HG	Anti-Torpedo	36	High Guard		Missiles
+HG	Decoy	36	High Guard		Missiles
+HG	Fragmentation	36	High Guard		Missiles
+HG	Ion	37	High Guard		Missiles
+HG	Jumpbreaker	37	High Guard		Missiles
+HG	Long-Range	37	High Guard		Missiles
 HG	Missile Flight Times	37	High Guard		
-HG	Multi-Warhead	38	High Guard		Missile
-HG	Nuclear	38	High Guard		Missile
-HG	Ortillery	38	High Guard		Missile
-HG	Shockwave	38	High Guard		Missile
-HG	Standard	38	High Guard		Missile
+HG	Multi-Warhead	38	High Guard		Missiles
+HG	Nuclear	38	High Guard		Missiles
+HG	Ortillery	38	High Guard		Missiles
+HG	Shockwave	38	High Guard		Missiles
+HG	Standard	38	High Guard		Missiles
 HG	Sandcasters	38	High Guard		
-HG	Anti-Personnel	38	High Guard		Sandcaster
-HG	Chaff	38	High Guard		Sandcaster
-HG	Pebble	38	High Guard		Sandcaster
-HG	Sand	38	High Guard		Sandcaster
-HG	Sandcutter	38	High Guard		Sandcaster
+HG	Anti-Personnel	38	High Guard		Sandcasters
+HG	Chaff	38	High Guard		Sandcasters
+HG	Pebble	38	High Guard		Sandcasters
+HG	Sand	38	High Guard		Sandcasters
+HG	Sandcutter	38	High Guard		Sandcasters
 HG	Torpedoes	38	High Guard		
-HG	Advanced	39	High Guard		Torpedo
-HG	Antimatter	39	High Guard		Torpedo
-HG	Antimatter Bomb-Pumped	39	High Guard		Torpedo
-HG	Antiradiation	39	High Guard		Torpedo
-HG	Bomb-Pumped	39	High Guard		Torpedo
-HG	Ion	39	High Guard		Torpedo
-HG	Multi-Warhead	39	High Guard		Torpedo
-HG	Nuclear	40	High Guard		Torpedo
-HG	Ortillery	40	High Guard		Torpedo
-HG	Plasma	40	High Guard		Torpedo
-HG	Standard	40	High Guard		Torpedo
+HG	Advanced	39	High Guard		Torpedoes
+HG	Antimatter	39	High Guard		Torpedoes
+HG	Antimatter Bomb-Pumped	39	High Guard		Torpedoes
+HG	Antiradiation	39	High Guard		Torpedoes
+HG	Bomb-Pumped	39	High Guard		Torpedoes
+HG	Ion	39	High Guard		Torpedoes
+HG	Multi-Warhead	39	High Guard		Torpedoes
+HG	Nuclear	40	High Guard		Torpedoes
+HG	Ortillery	40	High Guard		Torpedoes
+HG	Plasma	40	High Guard		Torpedoes
+HG	Standard	40	High Guard		Torpedoes
 HG	Point Defence Weapons	40	High Guard		
 HG	Screens	40	High Guard		
 HG	Shields	41	High Guard		
@@ -152,7 +153,7 @@ HG	Fuel Scoop	49	High Guard
 HG	Fuel Tank Compartments	49	High Guard		
 HG	Metal Hydride Storage	49	High Guard		
 HG	Mountable Tank	50	High Guard		
-HG	Ramscoops	50	High Guard		
+HG	Ramscoop	50	High Guard		
 HG	Acceleration Bench and Seat	50	High Guard		
 HG	Barracks	50	High Guard		
 HG	Brig	50	High Guard		
@@ -243,20 +244,20 @@ HG	Smelter	69	High Guard		Space Station Option
 HG	Shipyard	69	High Guard		Space Station Option
 HG	Starports	69	High Guard		
 HG	Altering Tech Levels	70	High Guard		
-HG	Jump Drive Advantages	71	High Guard		
-HG	Jump Drive Disadvantages	71	High Guard		
-HG	Manoeuvre Drive Advantages	71	High Guard		
-HG	Manoeuvre Drive Disadvantages	71	High Guard		
-HG	Reaction Drive Advantages	71	High Guard		
-HG	Reaction Drive Disadvantages	71	High Guard		
-HG	Power Plant Advantages	71	High Guard		
-HG	Power Plant Disadvantages	71	High Guard		
-HG	Weapon Advantages	71	High Guard		
-HG	Screen Advantages	71	High Guard		
-HG	Weapon Disadvantages	72	High Guard		
-HG	Screen Disadvantages	72	High Guard		
+HG	Advantages	71	High Guard		Jump Drives
+HG	Disadvantages	71	High Guard		Jump Drives
+HG	Advantages	71	High Guard		Manoeuvre Drives
+HG	Disadvantages	71	High Guard		Manoeuvre Drives
+HG	Advantages	71	High Guard		Reaction Drives
+HG	Disadvantages	71	High Guard		Reaction Drives
+HG	Advantages	71	High Guard		Power Plant
+HG	Disadvantages	71	High Guard		
+HG	Advantages	71	High Guard		Weapons
+HG	Advantages	71	High Guard		Screens
+HG	Disadvantages	72	High Guard		Weapons
+HG	Disadvantages	72	High Guard		Screens
 HG	Refitting Ships	72	High Guard		
-HG	Ship's Computer	73	High Guard		
+HG	Ship Computer	73	High Guard		
 HG	Advanced Fire Control	73	High Guard		Software
 HG	Anti-Hijack	73	High Guard		Software
 HG	Battle Network	73	High Guard		Software
@@ -368,15 +369,15 @@ HG	Yacht, Type Y	179	Ship
 HG	Gazelle-Class Close Escort	181	Ship		
 HG	Close Escort	181	Ship		
 HG	Fleet Courier	183	Ship		
-HG	Laboratory Ship	185	Ship		
-HG	Patrol Corvette	187	Ship		
+HG	Laboratory Ship, Type L	185	Ship		
+HG	Patrol Corvette, Type T	187	Ship		
 HG	Subsidised Merchant, Type R	189	Ship		
 HG	Donosev-Class Survey Scout	191	Ship		
 HG	Dragon-Class System Defence Boat	193	Ship		
 HG	Nishemani Corsair	195	Ship		
 HG	Corsair	195	Ship		
-HG	Subsidised Liner	199	Ship		
-HG	Mercenary Cruiser	201	Ship		
+HG	Subsidised Liner, Type M	199	Ship		
+HG	Mercenary Cruiser, Type C	201	Ship		
 HG	X-Boat Tender	204	Ship		
 HG	Chrysanthemum-Class Destroyer Escort	207	Ship		
 HG	Fer-De-Lance-Class Destroyer Escort	211	Ship		
