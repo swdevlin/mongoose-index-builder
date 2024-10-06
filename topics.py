@@ -79,6 +79,10 @@ topics = {
         "id": "Psionics",
         "description": "This category includes entries related to psionics, including powers, training, institutions."
     },
+    "Random Tables": {
+        "id": "Random Tables",
+        "description": "This category includes general random tables, such as encounters and names."
+    },
     "Robotics": {
         "id": "Robotics",
         "description": "This category covers robot construction and rules."
