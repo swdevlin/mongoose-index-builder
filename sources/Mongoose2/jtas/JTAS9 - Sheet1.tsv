@@ -15,10 +15,10 @@ JTAS9	Rat Patrol	36	Adventure
 JTAS9	Air Rifle	41	Weapon		Slug Rifles
 JTAS9	Auger	42	Bestiary		
 JTAS9	Quetzl	43	Bestiary		
-JTAS9	Stavraki & Satyros Free Mining Collective	44	Corporation		
+JTAS9	Stavraki & Satyros Free Mining Collective	44	Setting		
 JTAS9	Telchine Mining Craft	44	Small craft		
 JTAS9	Rhea Ore Barge	47	Ship		
-JTAS9	Zadony-Tessen Survival Armaments Inc.	51	Corporation		
+JTAS9	Zadony-Tessen Survival Armaments Inc.	51	Setting		
 JTAS9	ZT-18 Survnaut Pistol	51	Weapon		Slug Pistols
 JTAS9	ZT-28 Survnaut Revolver	52	Weapon		Slug Pistols
 JTAS9	ZT-28 Survnaut Rifle	52	Weapon		Slug Rifles
@@ -37,13 +37,13 @@ JTAS9	Logarro Enterprises and Co.	68	Corporation
 JTAS9	Vindictor Logging Heavy Walker	68	Vehicle		
 JTAS9	Icebox Found at the Exe Cutoff	70	Adventure		
 JTAS9	Exe, The Borderland	70	System	No	
-JTAS9	General Development Corporation	70	Corporation	No	
+JTAS9	General Development Corporation	70	Setting	No	
 JTAS9	Ya’soisthea	70	Aslan		Clan
 JTAS9	Penniless Prince	71	Ship		
 JTAS9	Rabin Moore	72	Person		
 JTAS9	Captain Mreni	74	Encounter		
 JTAS9	New, Tobia	77	System	No	
-JTAS9	Belvedere Station	77	Starport		
+JTAS9	Belvedere Station	77	Setting		
 JTAS9	Jamison Clintock	79	Person		
 JTAS9	Fox Ocano	80	Person		
 JTAS9	Galvin Markov	80	Person		
@@ -54,10 +54,10 @@ JTAS9	Anastasia Bruglio	81	Person
 JTAS9	Tchek’ra	81	Person		
 JTAS9	Henrik Riordonson	81	Person		
 JTAS9	Criminal Organisations of the Marches	90	Setting		
-JTAS9	The Vriterbei	91	Setting		Criminal Organisation
-JTAS9	Ine Givar	94	Setting		Criminal Organisation
-JTAS9	The Syndicate	96	Setting		Criminal Organisation
-JTAS9	Cult of the Traveller	98	Setting		Criminal Organisation
-JTAS9	Democratic Government of Rabwhar in Exile	100	Setting		Criminal Organisation
+JTAS9	The Vriterbei	91	Setting		
+JTAS9	Ine Givar	94	Setting		
+JTAS9	The Syndicate	96	Setting		
+JTAS9	Cult of the Traveller	98	Setting		
+JTAS9	Democratic Government of Rabwhar in Exile	100	Setting		
 JTAS9	Avastan, District 268	102	System		
 JTAS9	The Wrong Patron	119	Patron		

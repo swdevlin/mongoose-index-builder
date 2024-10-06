@@ -26,7 +26,7 @@ JTAS13	Becoming the 1%	34	Setting
 JTAS13	Assets	34	Rules		
 JTAS13	Portfolio	35	Rules		
 JTAS13	Bank Account Savings	40	Rules		
-JTAS13	Hi-Ex Solutions	41	Setting		Bounty Hunter Agency
+JTAS13	Hi-Ex Solutions	41	Setting		
 JTAS13	Mercenary	45	NPCs		
 JTAS13	Scrap Combat Robot	48	Robots		
 JTAS13	Starleaper Yacht	50	Ship		
@@ -64,14 +64,15 @@ JTAS13	Art College	71	Careers		Pre-Career
 JTAS13	Gap Years	72	Rules		
 JTAS13	Pilot Controls	73	Setting		
 JTAS13	Healthcare	75	Rules		
-JTAS13	Bio-Sensor	82	Central Supply		Battle Dress Modification
-JTAS13	Coded Lock	82	Central Supply		Battle Dress Modification
-JTAS13	Halo Antenna	82	Central Supply		Battle Dress Modification
-JTAS13	Jammer Suite	82	Central Supply		Battle Dress Modification
-JTAS13	Lethal Response System	83	Central Supply		Battle Dress Modification
-JTAS13	Mule Harness	83	Central Supply		Battle Dress Modification
-JTAS13	Trace Beacon	83	Central Supply		Battle Dress Modification
-JTAS13	Warblades	83	Central Supply		Battle Dress Modification
+JTAS13	Battle Dress Modifications	81	Personal Protection		
+JTAS13	Bio-Sensor	82	Personal Protection		Battle Dress Modifications
+JTAS13	Coded Lock	82	Personal Protection		Battle Dress Modifications
+JTAS13	Halo Antenna	82	Personal Protection		Battle Dress Modifications
+JTAS13	Jammer Suite	82	Personal Protection		Battle Dress Modifications
+JTAS13	Lethal Response System	83	Personal Protection		Battle Dress Modifications
+JTAS13	Mule Harness	83	Personal Protection		Battle Dress Modifications
+JTAS13	Trace Beacon	83	Personal Protection		Battle Dress Modifications
+JTAS13	Warblades	83	Personal Protection		Battle Dress Modifications
 JTAS13	Kamsii Solar Race, The	84	Adventure		
 JTAS13	Kamsii, Dingtra	84	System	No	
 JTAS13	Kamsii Business Corporations	84	Corporation		

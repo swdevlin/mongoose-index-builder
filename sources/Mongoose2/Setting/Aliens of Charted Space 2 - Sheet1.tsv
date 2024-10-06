@@ -30,7 +30,6 @@ AoCS2	Transstar	89	Setting		Megacorporation
 AoCS2	Law	88	Solomani		
 AoCS2	Economics	88	Solomani		
 AoCS2	Terra, Sol	92	System		
-AoCS2	Worlds	92	Solomani		
 AoCS2	Home, Aldebaran	94	System		
 AoCS2	Jingleswelt, Staai	95	System		
 AoCS2	Elation,Taurea	97	System		
@@ -39,14 +38,14 @@ AoCS2	Torpedo Grapple	100	High Guard
 AoCS2	Torpedo Grapple, Firmpoint	101	High Guard		
 AoCS2	Torpedo Grapple, Hardpoint	101	High Guard		
 AoCS2	Missile Container/Launcher	101	High Guard		
-AoCS2	Combination Missile/Torpedo Launcher	101	High Guard		Turret
-AoCS2	Heavy Missile	101	High Guard		Weapon
-AoCS2	Ub-25 Small Utility Boat	102	Solomani		Small Craft
-AoCS2	Ub-25 Small Utility Boat	102	Small Craft		
-AoCS2	Ub-75 Large Utility Boat	104	Solomani		Small Craft
-AoCS2	Ub-75 Large Utility Boat	104	Small Craft		
-AoCS2	Usc-3a Small Packet Boat	106	Solomani		Ships
-AoCS2	Usc-3a Small Packet Boat	106	Ships		
+AoCS2	Combination Missile/Torpedo Launcher	101	High Guard		Turrets
+AoCS2	Heavy Missile	101	High Guard		
+AoCS2	UB-25 Small Utility Boat	102	Solomani		Small Craft
+AoCS2	UB-25 Small Utility Boat	102	Small Craft		
+AoCS2	UB-75 Large Utility Boat	104	Solomani		Small Craft
+AoCS2	UB-75 Large Utility Boat	104	Small Craft		
+AoCS2	USC-3A Small Packet Boat	106	Solomani		Ships
+AoCS2	USC-3A Small Packet Boat	106	Ships		
 AoCS2	Thalassa Small Transport	108	Solomani		Ships
 AoCS2	Thalassa Small Transport	108	Ships		
 AoCS2	Saxby System Defence Boat	112	Solomani		Ships
@@ -54,15 +53,15 @@ AoCS2	Saxby System Defence Boat	112	Ships
 AoCS2	Central Supply	116	Solomani		
 AoCS2	Currency	116	Solomani		
 AoCS2	Officer’s Revolver	117	Solomani		Weapons
-AoCS2	Officer’s Revolver	117	Weapon		Slug Pistol
+AoCS2	Officer’s Revolver	117	Weapon		Slug Pistols
 AoCS2	Officer’s Sword	117	Solomani		Weapons
 AoCS2	Officer’s Sword	117	Weapon		Melee
 AoCS2	Navy Combat Shotgun	118	Solomani		Weapons
-AoCS2	Navy Combat Shotgun	118	Weapon		Slug Rifle
+AoCS2	Navy Combat Shotgun	118	Weapon		Slug Rifles
 AoCS2	Gauss Personal Defence Weapon (GPDW)	119	Solomani		Weapons
-AoCS2	Gauss Personal Defence Weapon (GPDW)	119	Weapon		Slug Pistol
+AoCS2	Gauss Personal Defence Weapon (GPDW)	119	Weapon		Slug Pistols
 AoCS2	Gauss Close-Combat Weapon (GCCW)	119	Solomani		Weapons
-AoCS2	Gauss Close-Combat Weapon (GCCW)	119	Weapon		Slug Rifle
+AoCS2	Gauss Close-Combat Weapon (GCCW)	119	Weapon		Slug Rifles
 AoCS2	Robots	120	Solomani		
 AoCS2	Ammobot	120	Solomani		Robots
 AoCS2	Ammobot	120	Robots		Solomani
@@ -76,7 +75,7 @@ AoCS2	Draft	128	Solomani		Travellers
 AoCS2	Career Summary Table	129	Solomani		Travellers
 AoCS2	Party	130	Solomani		Travellers
 AoCS2	Navy	132	Solomani		Travellers
-AoCS2	Solsec	134	Solomani		Travellers
+AoCS2	SolSec	134	Solomani		Travellers
 AoCS2	Party	130	Careers		Solomani
 AoCS2	Navy	132	Careers		Solomani
 AoCS2	Solsec	134	Careers		Solomani
@@ -179,7 +178,7 @@ AoCS2	Leader	204	Careers		Droyne
 AoCS2	Benefits	206	Droyne		Travellers
 AoCS2	Using Coyns	206	Droyne		
 AoCS2	Determining Caste	207	Droyne		Travellers
-AoCS2	Droyne as Travellers	208	Setting		
+AoCS2	Droyne as Travellers	208	Droyne		
 AoCS2	Overiew	211	Hiver		
 AoCS2	Hiver	211	Sophonts		
 AoCS2	Physiology	211	Hiver		
@@ -235,9 +234,9 @@ AoCS2	Medical Package	250	Hiver		Central Supply
 AoCS2	Navigation Package	251	Hiver		Central Supply
 AoCS2	Electronics (Intrusion) Package	251	Hiver		Central Supply
 AoCS2	Hiver Gauss Pistol	252	Hiver		Weapons
-AoCS2	Hiver Gauss Pistol	252	Weapon		Slug Pistol
+AoCS2	Hiver Gauss Pistol	252	Weapon		Slug Pistols
 AoCS2	Hiver Gauss PDW	252	Hiver		Weapons
-AoCS2	Hiver Gauss PDW	252	Weapon		Slug Pistol
+AoCS2	Hiver Gauss PDW	252	Weapon		Slug Pistols
 AoCS2	Hiver Gauss Sniper Rifle	253	Hiver		Weapons
 AoCS2	Hiver Gauss Sniper Rifle	253	Weapon		Slug Rifles
 AoCS2	Hiver Gauss Support Weapon	253	Hiver		Weapons
@@ -245,9 +244,9 @@ AoCS2	Hiver Gauss Support Weapon	253	Weapon		Slug Rifles
 AoCS2	Hiver Ballistic Vest	254	Hiver		Armour
 AoCS2	Hiver Ballistic Jacket	254	Hiver		Armour
 AoCS2	Hiver Ballistic Helmet	254	Hiver		Armour
-AoCS2	Hiver Ballistic Vest	254	Armour		Hiver
-AoCS2	Hiver Ballistic Jacket	254	Armour		Hiver
-AoCS2	Hiver Ballistic Helmet	254	Armour		Hiver
+AoCS2	Hiver Ballistic Vest	254	Armour		
+AoCS2	Hiver Ballistic Jacket	254	Armour		
+AoCS2	Hiver Ballistic Helmet	254	Armour		
 AoCS2	Travellers	255	Hiver		
 AoCS2	Resolve (RES)	255	Hiver		Travellers
 AoCS2	Resolve (RES)	255	Rules		Characteristic
@@ -277,4 +276,4 @@ AoCS2	Manipulator	266	Hiver		Travellers
 AoCS2	Manipulator	266	Careers		Hiver
 AoCS2	Merchant	268	Hiver		Travellers
 AoCS2	Merchant	268	Careers		Hiver
-AoCS2	Hivers as Travellers	270	Setting		
+AoCS2	Hivers as Travellers	270	Hiver		

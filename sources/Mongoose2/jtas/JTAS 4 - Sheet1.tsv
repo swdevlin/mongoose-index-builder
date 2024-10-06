@@ -14,14 +14,14 @@ JTAS4	Gravitic Rifle	32	Weapon		Slug Rifles
 JTAS4	Gravitic Pistol	33	Weapon		Slug Pistols
 JTAS4	Traveller and the Referee	34	Setting		
 JTAS4	Sensor Operations	37	Setting		
-JTAS4	Sensor, packages	38	Rules		
-JTAS4	Sensor, detection	41	Rules		
-JTAS4	Sensor, track and scan	42	Rules		
-JTAS4	Sensor, contact actions	43	Rules		
+JTAS4	Sensor Packages	38	High Guard		
+JTAS4	Sensor, Detection	41	High Guard		
+JTAS4	Sensor, Track and Scan	42	High Guard		
+JTAS4	Sensor, Contact Actions	43	High Guard		
 JTAS4	Sensor Screen Dispenser	43	High Guard		
 JTAS4	Hlanssai	44	Sophont		
 JTAS4	Vrirhlanz, Okhuemgir	44	System	No	
-JTAS4	Siduri Station	49	Starport		
+JTAS4	Siduri Station	49	Setting		
 JTAS4	Siduri Consortium	58	Corporation		
 JTAS4	Ballistic Security	61	Corporation		
 JTAS4	Seastrike	63	Rules		
@@ -30,7 +30,7 @@ JTAS4	Magnetic Anomaly Detectors	65	Rules
 JTAS4	Periscopes	68	Rules		
 JTAS4	Imperial Marine Task Force Organization	69	Setting	No	
 JTAS4	Non-mainworlds	80	Rules	No	
-JTAS4	Gazelle Close Escort	86	Ship	No	
+JTAS4	Gazelle-Class Close Escort	86	Ship	No	
 JTAS4	The Florian League	94	Setting	No	
 JTAS4	Barnai	94	Sophont	No	
 JTAS4	Feskal	94	Sophont	No	

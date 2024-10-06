@@ -2,7 +2,8 @@ Document	Topic	Page	Type	Primary	Group
 CSC	Availability	4	Rules		
 CSC	Black Market	4	Rules		
 CSC	Law Enforcement	6	Rules		
-CSC	Fabrication Chambers	7	Rules		
+CSC	Fabrication Chamber	7	Central Supply		
+CSC	Fabrication Chamber	7	Rules		
 CSC	Ship's Locker	10	High Guard		
 CSC	ProtoTech	10	Rules		
 CSC	RetroTech	11	Rules		
@@ -67,72 +68,69 @@ CSC	Submarine Functionality	25	Armour		Modification
 CSC	Tactical Video Suite	26	Armour		Modification
 CSC	Thruster Pack	26	Armour		Modification
 CSC	Vacc Suit Accessory Pack	26	Armour		Modification
-CSC	Protective Suits	27	Rules		
-CSC	Electronics Suite	27	Central Supply		
-CSC	Electronics Suite	27	Armour		
-CSC	Emergency Hostile Environment Suit	28	Armour		
-CSC	Emergency Softsuit	29	Armour		
-CSC	Environment Suit	29	Armour		
-CSC	Explosive Ordnance Disposal Suit	29	Armour		
-CSC	Hostile Environment Vacc (HEV) Suit	29	Armour		
-CSC	Pressure Sleeve	29	Armour		
-CSC	Rescue Suit	31	Armour		
-CSC	Shipsuit	31	Armour		
-CSC	Skinsuit	31	Armour		
-CSC	Vacc Suit	31	Armour		
-CSC	Boarding Vacc Suit	33	Armour		
-CSC	Ceramic Combat Armour	33	Armour		
-CSC	Combat Armour	33	Armour		
-CSC	Combat Environment Suit	33	Armour		
-CSC	Psi-Enhanced Combat Armour	33	Armour		
-CSC	Military Suits	33	Armour		
-CSC	Military Suits	33	Rules		
-CSC	Civilian Suits	28	Armour		
-CSC	Civilian Suits	28	Rules		
-CSC	Powered Suits	35	Armour		
-CSC	Powered Suits	35	Rules		
-CSC	Ceramic Powered Plate	35	Armour		
-CSC	Exoskeleton	36	Armour		
-CSC	Extreme Environment Exploration (E3) Suit	36	Armour		
-CSC	Grav-Enhanced Powered Plate	36	Armour		
-CSC	Mechanical Carapace	36	Armour		
-CSC	Powered Plate	36	Armour		
-CSC	Battle Dress	38	Armour		
-CSC	Battle Dress	38	Rules		
-CSC	Artillery Battle Dress	40	Armour		
-CSC	Assault Battle Dress	40	Armour		
-CSC	Battle Dress	40	Armour		
-CSC	Ceramic Battle Dress	40	Armour		
-CSC	Combat Pioneer Battle Dress	40	Armour		
-CSC	Command Battle Dress	40	Armour		
-CSC	Logistics Battle Dress	40	Armour		
-CSC	Psi-Commando Battle Dress	40	Armour		
-CSC	Psi-Enhanced Battle Dress	40	Armour		
-CSC	Scout Battle Dress	40	Armour		
-CSC	Battle Dress Modification	44	Armour		
-CSC	Anti-Missile System	44	Armour		Battle Dress Modification
-CSC	Active Camouflage	44	Armour		Battle Dress Modification
-CSC	Advanced Life Support	44	Armour		Battle Dress Modification
-CSC	Enhanced Mobility	45	Armour		Battle Dress Modification
-CSC	Enhanced Strength	45	Armour		Battle Dress Modification
-CSC	Environment Protection	45	Armour		Battle Dress Modification
-CSC	Flight Pack	45	Armour		Battle Dress Modification
-CSC	Fuel Cells	45	Armour		Battle Dress Modification
-CSC	Heavy Plating	45	Armour		Battle Dress Modification
-CSC	High Velocity Targeting Array	46	Armour		Battle Dress Modification
-CSC	Integrated Toolkit	46	Armour		Battle Dress Modification
-CSC	Integrated Weapon Mount	46	Armour		Battle Dress Modification
-CSC	Ion Shield	46	Armour		Battle Dress Modification
-CSC	Parachute	47	Armour		Battle Dress Modification
-CSC	Prismatic Aerosol	47	Armour		Battle Dress Modification
-CSC	Sensor Suite	47	Armour		Battle Dress Modification
-CSC	Stealth	47	Armour		Battle Dress Modification
+CSC	Protective Suits	27	Personal Protection		
+CSC	Emergency Hostile Environment Suit	28	Personal Protection		
+CSC	Emergency Softsuit	29	Personal Protection		
+CSC	Environment Suit	29	Personal Protection		
+CSC	Explosive Ordnance Disposal Suit	29	Personal Protection		
+CSC	Hostile Environment Vacc (HEV) Suit	29	Personal Protection		
+CSC	Pressure Sleeve	29	Personal Protection		
+CSC	Rescue Suit	31	Personal Protection		
+CSC	Shipsuit	31	Personal Protection		
+CSC	Skinsuit	31	Personal Protection		
+CSC	Vacc Suit	31	Personal Protection		
+CSC	Boarding Vacc Suit	33	Personal Protection		
+CSC	Ceramic Combat Armour	33	Personal Protection		
+CSC	Combat Armour	33	Personal Protection		
+CSC	Combat Environment Suit	33	Personal Protection		
+CSC	Psi-Enhanced Combat Armour	33	Personal Protection		
+CSC	Military Suits	33	Personal Protection		
+CSC	Civilian Suits	28	Personal Protection		
+CSC	Powered Suits	35	Personal Protection		
+CSC	Ceramic Powered Plate	35	Personal Protection		
+CSC	Exoskeleton	36	Personal Protection		
+CSC	Extreme Environment Exploration (E3) Suit	36	Personal Protection		
+CSC	Grav-Enhanced Powered Plate	36	Personal Protection		
+CSC	Mechanical Carapace	36	Personal Protection		
+CSC	Powered Plate	36	Personal Protection		
+CSC	Battle Dress	38	Personal Protection		
+CSC	Artillery Battle Dress	40	Personal Protection		
+CSC	Assault Battle Dress	40	Personal Protection		
+CSC	Battle Dress	40	Personal Protection		
+CSC	Ceramic Battle Dress	40	Personal Protection		
+CSC	Combat Pioneer Battle Dress	40	Personal Protection		
+CSC	Command Battle Dress	40	Personal Protection		
+CSC	Logistics Battle Dress	40	Personal Protection		
+CSC	Psi-Commando Battle Dress	40	Personal Protection		
+CSC	Psi-Enhanced Battle Dress	40	Personal Protection		
+CSC	Scout Battle Dress	40	Personal Protection		
+CSC	Battle Dress Modifications	44	Personal Protection		
+CSC	Anti-Missile System	44	Personal Protection		Battle Dress Modifications
+CSC	Active Camouflage	44	Personal Protection		Battle Dress Modifications
+CSC	Advanced Life Support	44	Personal Protection		Battle Dress Modifications
+CSC	Enhanced Mobility	45	Personal Protection		Battle Dress Modifications
+CSC	Enhanced Strength	45	Personal Protection		Battle Dress Modifications
+CSC	Environment Protection	45	Personal Protection		Battle Dress Modifications
+CSC	Flight Pack	45	Personal Protection		Battle Dress Modifications
+CSC	Fuel Cells	45	Personal Protection		Battle Dress Modifications
+CSC	Heavy Plating	45	Personal Protection		Battle Dress Modifications
+CSC	High Velocity Targeting Array	46	Personal Protection		Battle Dress Modifications
+CSC	Integrated Toolkit	46	Personal Protection		Battle Dress Modifications
+CSC	Integrated Weapon Mount	46	Personal Protection		Battle Dress Modifications
+CSC	Ion Shield	46	Personal Protection		Battle Dress Modifications
+CSC	Parachute	47	Personal Protection		Battle Dress Modifications
+CSC	Prismatic Aerosol	47	Personal Protection		Battle Dress Modifications
+CSC	Sensor Suite	47	Personal Protection		Battle Dress Modifications
+CSC	Stealth	47	Personal Protection		Battle Dress Modifications
 CSC	Augments	48	Central Supply		
-CSC	Detachable	49	Central Supply		Augment Option
-CSC	Invisitech	49	Central Supply		Augment Option
-CSC	Natural-looking	49	Central Supply		Augment Option
-CSC	Ruggedised	49	Central Supply		Augment Option
-CSC	Self-repairing	49	Central Supply		Augment Option
+CSC	Options	48	Central Supply		Augments
+CSC	Medical Treatment	48	Central Supply		Augments
+CSC	Electromagnetic Pulses	48	Central Supply		Augments
+CSC	Detachable	49	Central Supply		
+CSC	Invisitech	49	Central Supply		
+CSC	Natural-looking	49	Central Supply		
+CSC	Ruggedised	49	Central Supply		
+CSC	Self-repairing	49	Central Supply		
 CSC	Additional Manipulator	50	Central Supply		
 CSC	All-Temperature Epidermal Symbiote	50	Central Supply		
 CSC	Altered Appearance	50	Central Supply		
@@ -152,7 +150,6 @@ CSC	Subdermal Armour	54	Central Supply
 CSC	Terminal Stabilisation System	54	Central Supply		
 CSC	Video Tattoo	54	Central Supply		
 CSC	Aslan Cyber-claw	54	Central Supply		
-CSC	Aslan Cyber-claw	54	Aslan		Central Supply
 CSC	Autonomous Locomotion Rig (ALR)	55	Central Supply		
 CSC	Combat Arm	55	Central Supply		
 CSC	Enhanced Mobility	56	Central Supply		
@@ -192,19 +189,23 @@ CSC	Meson Transceiver	65	Central Supply
 CSC	Computer	65	Central Supply		Transceiver Option
 CSC	Encryption	65	Central Supply		Transceiver Option
 CSC	Satellite uplink	65	Central Supply		Transceiver Option
-CSC	Computer	66	Rules		
+CSC	Computers	66	Rules		
+CSC	ProtoTech	66	Rules		Computers
+CSC	RetroTech	66	Rules		Computers
+CSC	Computers	66	Central Supply		
 CSC	Computer Terminal	67	Central Supply		
 CSC	Computer Interface	67	Central Supply		
 CSC	Mainframe Computer	67	Central Supply		
 CSC	Mid-sized Computer	67	Central Supply		
 CSC	Portable Computer	67	Central Supply		
 CSC	Computer	66	Central Supply		
-CSC	Camera	68	Central Supply		Portable Computer Option
-CSC	Comms	68	Central Supply		Portable Computer Option
-CSC	Data Display	68	Central Supply		Portable Computer Option
-CSC	Data Recorder	68	Central Supply		Portable Computer Option
-CSC	Data Wafer	68	Central Supply		Portable Computer Option
-CSC	Physical User Interface	68	Central Supply		Portable Computer Option
+CSC	Options	68	Central Supply		Portable Computer
+CSC	Camera	68	Central Supply		
+CSC	Comms	68	Central Supply		
+CSC	Data Display	68	Central Supply		
+CSC	Data Recorder	68	Central Supply		
+CSC	Data Wafer	68	Central Supply		
+CSC	Physical User Interface	68	Central Supply		
 CSC	Interfaces and Intellects	68	Rules		
 CSC	Specialised Computer	69	Central Supply		
 CSC	Agent	69	Central Supply		Software
@@ -293,30 +294,31 @@ CSC	Personal Automedic	91	Central Supply
 CSC	Personal Mediscanner	91	Central Supply		
 CSC	Portable Mediscanner	91	Central Supply		
 CSC	Trauma Pack	91	Central Supply		
-CSC	Adrenaliser	92	Central Supply		Drug
-CSC	Anagathics	92	Central Supply		Drug
+CSC	Drugs	92	Central Supply		
+CSC	Adrenaliser	92	Central Supply		
+CSC	Anagathics	92	Central Supply		
 CSC	Anagathics Withdrawl	92	Rules		
-CSC	Anti-rad	92	Central Supply		Drug
-CSC	Combat Drug	93	Central Supply		Drug
-CSC	Fast Drug	93	Central Supply		Drug
-CSC	G-Tolerance Drug	93	Central Supply		Drug
-CSC	Inhibitor Drug	93	Central Supply		Drug
-CSC	Medicinal Drug	93	Central Supply		Drug
-CSC	Meta-performance Enhancer	94	Central Supply		Drug
-CSC	Metabolic Accelerator	94	Central Supply		Drug
-CSC	Nervous Response Dampener	94	Central Supply		Drug
-CSC	Null Drug	94	Central Supply		Drug
-CSC	Panaceas	94	Central Supply		Drug
-CSC	Psi-Drug	94	Central Supply		Drug
-CSC	Radiation Emergency Applicator	95	Central Supply		Drug
-CSC	Recreational Drugs	95	Central Supply		Drug
-CSC	Slow Drug	95	Central Supply		Drug
-CSC	Starlight Drops	95	Central Supply		Drug
-CSC	Stims	95	Central Supply		Drug
+CSC	Anti-rad	92	Central Supply		
+CSC	Combat Drug	93	Central Supply		
+CSC	Fast Drug	93	Central Supply		
+CSC	G-Tolerance Drug	93	Central Supply		
+CSC	Inhibitor Drug	93	Central Supply		
+CSC	Medicinal Drugs	93	Central Supply		
+CSC	Meta-performance Enhancer	94	Central Supply		
+CSC	Metabolic Accelerator	94	Central Supply		
+CSC	Nervous Response Dampener	94	Central Supply		
+CSC	Null Drug	94	Central Supply		
+CSC	Panaceas	94	Central Supply		
+CSC	Psi-Drug	94	Central Supply		
+CSC	Radiation Emergency Applicator	95	Central Supply		
+CSC	Recreational Drugs	95	Central Supply		
+CSC	Slow Drug	95	Central Supply		
+CSC	Starlight Drops	95	Central Supply		
+CSC	Stims	95	Central Supply		
 CSC	Addiction	96	Rules		
 CSC	Withdrawl	96	Rules		
-CSC	Truth Serum	96	Central Supply		Drug
-CSC	Zero-G Tolerance Drug	96	Central Supply		Drug
+CSC	Truth Serum	96	Central Supply		
+CSC	Zero-G Tolerance Drug	96	Central Supply		
 CSC	Grav Belt	97	Central Supply		
 CSC	Grav Parachute	97	Central Supply		
 CSC	Parawing	97	Central Supply		
@@ -328,7 +330,7 @@ CSC	Atmospheric Protection	98	Central Supply
 CSC	Face Mask	99	Central Supply		
 CSC	Filter Mask	99	Central Supply		
 CSC	Life Support Mask	99	Central Supply		
-CSC	NBC Suit	99	Central Supply		
+CSC	NBC Suit	99	Personal Protection		
 CSC	Oxygen/Air Tanks	99	Central Supply		
 CSC	Protective Suit	99	Central Supply		
 CSC	Radiation Suit	100	Central Supply		
@@ -398,7 +400,7 @@ CSC	Heated Dive Suit	113	Central Supply
 CSC	Swimming Equipment	114	Central Supply		
 CSC	Underwater Air Tanks	114	Central Supply		
 CSC	Water Dye	114	Central Supply		
-CSC	Very Deep Operation Diving Suit	114	Central Supply		
+CSC	Very Deep Operations Diving Suit	114	Central Supply		
 CSC	Climbing	115	Central Supply		
 CSC	Mountains and Cliffs	115	Central Supply		
 CSC	Climbing Hoist	115	Central Supply		
@@ -466,7 +468,6 @@ CSC	Starship Engineer Tool Set	130	Central Supply
 CSC	Surveying Tool Set	130	Central Supply		
 CSC	Tool Laser	130	Central Supply		
 CSC	Weapon Engineering Tool Set	130	Central Supply		
-CSC	Weaponry	131	Central Supply		
 CSC	Weaponry	131	Weapon		
 CSC	Artillery	131	Weapon		Trait
 CSC	Dangerous	131	Weapon		Trait

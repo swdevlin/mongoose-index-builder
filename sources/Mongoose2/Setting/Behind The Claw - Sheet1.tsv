@@ -26,9 +26,11 @@ BtC	Foelen, Jewell	34	System
 BtC	Dolphin	35	Sophonts	No	
 BtC	Travellers	35	Sophonts		Dolphin
 BtC	Travellers	35	Sophont		Chokari
-BtC	Travel Suit	36	Armour		Dolphin
-BtC	Type D Battle Dress	36	Armour		Dolphin
-BtC	Waldo	36	Central Supply		Dolphin
+BtC	Travel Suit	36	Dolphin		Personal Protection
+BtC	Type D Battle Dress	36	Dolphin		Personal Protection
+BtC	Travel Suit	36	Personal Protection		
+BtC	Type D Battle Dress	36	Personal Protection		
+BtC	Waldo	36	Central Supply		
 BtC	Grant, Jewell	37	System		
 BtC	Jewell, Jewell	37	System		
 BtC	Louzy, Jewell	38	System		
@@ -51,7 +53,7 @@ BtC	Ghoerruegh G/Carrier	55	Vehicle
 BtC	Ghoerruegh G/Carrier	55	Vargr		Vehicle
 BtC	Queron, Spinward Marches	56	Setting		
 BtC	Retinae, Querion	56	System		
-BtC	Entropic Worlds	56	Region		
+BtC	Entropic Worlds	56	Setting		
 BtC	Entrope, Querion	58	System		
 BtC	Prinx, Querion	59	System		
 BtC	Vilis, Spinward Marches	61	Setting		
@@ -63,7 +65,7 @@ BtC	Caloran, Vilis	64	System	No
 BtC	Zircon, Vilis	64	System	No	
 BtC	Utoland, Vilis	64	System	No	
 BtC	Garda-Vilis, Vilis	64	System	No	
-BtC	Ine Givar	65	Setting		Criminal Organization
+BtC	Ine Givar	65	Setting		
 BtC	Tanoose Freedom League	65	Setting		
 BtC	Saurus, Vilis	66	System		
 BtC	Saurian	66	Sophont		
@@ -82,7 +84,7 @@ BtC	Pannet, Rhylanor	76	System	No
 BtC	Gitosy, Rhylanor	76	System	No	
 BtC	Gileden, Rhylanor	76	System		
 BtC	Rhylanor, Rhylanor	76	System		
-BtC	Olav hault-Plankwell, Grand Admiral	77	Person		
+BtC	Olav Hault-Plankwell, Grand Admiral	77	Person		
 BtC	Vanejen, Rhylanor	76	System		
 BtC	Chirper	79	Bestiary		
 BtC	Darrian, Spinward Marches	80	Setting		
@@ -113,7 +115,7 @@ BtC	Calamander Female	97	Bestiary
 BtC	Calamander Male	97	Bestiary		
 BtC	Calamander Protector	97	Bestiary		
 BtC	Lunion, Spinward Marches	98	Setting		
-BtC	Ling Standard Products (LSP)	98	Setting	No	
+BtC	Ling-Standard Products (LSP)	98	Setting	No	
 BtC	Shirene, Lunion	98	System	No	
 BtC	Capon, Lunion	98	System	No	
 BtC	Quiru, Lunion	100	System	No	
@@ -149,9 +151,9 @@ BtC	Saxe, Five Sisters	122	System
 BtC	District 268, Spinward Marches	123	Setting		
 BtC	McClellan Factors	125	Setting		
 BtC	Pavabid, District 268	126	System		
-BtC	Church of Stellar Divinity	126	Setting	No	Religion
+BtC	Church of the Stellar Divinity	126	Setting	No	
 BtC	Bowman, District 268	125	System		
-BtC	Ling Standard Products	125	Setting	No	
+BtC	Ling-Standard Products (LSP)	125	Setting	No	
 BtC	Talos, District 268	127	System		
 BtC	Glisten, Spinward Marches	128	Setting		
 BtC	Mithras, Glisten	130	System	No	
@@ -186,9 +188,9 @@ BtC	Northammon, Vincennes	142	System	No
 BtC	Thengin, Sabine	142	System	No	
 BtC	Inar, Inar	142	System	No	
 BtC	First Frontier War	144	Setting	No	
-BtC	Olav Hault-Plankwell	144	Setting	No	
+BtC	Olav Hault-Plankwell, Grand Admiral	144	Setting	No	
 BtC	Arbellatra	144	Setting	No	
-BtC	Letters of Marque and Reprisal	145	Setting		
+BtC	Letter of Marque	145	Setting		
 BtC	Privateer	145	Setting		
 BtC	Duchy of Pretoria	153	Polity		
 BtC	Duchy of Antra	153	Polity		
@@ -200,15 +202,15 @@ BtC	Routiers	154	Setting
 BtC	Mercenaries	154	Setting	No	
 BtC	Duchy of Usani	155	Polity		
 BtC	Duchy of Zeng	155	Polity		
-BtC	Delgado	156	Setting	No	
+BtC	Delgado Trading	156	Setting	No	
 BtC	General Products	156	Setting	No	
-BtC	GSbAG	156	Setting	No	
+BtC	Gesellschaft feur Sternschiffbau AG (GSbAG)	156	Setting	No	
 BtC	Hortalez et Cie	156	Setting	No	
 BtC	Instellarms	156	Setting	No	
-BtC	Ling Standard Products (LSP)	157	Setting	No	
+BtC	Ling-Standard Products (LSP)	157	Setting	No	
 BtC	Makhidkarun	157	Setting	No	
 BtC	Naasirka	157	Setting	No	
-BtC	Schunamann und Sohn, AG LIC (SuSAG)	157	Setting	No	
+BtC	Schunamann und Sohn AG (SuSAG)	157	Setting	No	
 BtC	Sharurshid	157	Setting	No	
 BtC	Sternmetal Horizons	158	Setting	No	
 BtC	Tukera Lines	158	Setting	No	
@@ -234,9 +236,9 @@ BtC	Epsilon	166	Setting		Research Stations
 BtC	Zeta	166	Setting		Research Stations
 BtC	Crenduthaar	167	Sophont		
 BtC	Travellers	167	Sophont		Crenduthaar
-BtC	Gl’lu	168	Sophont		
-BtC	Travellers	169	Sophont		Gl’lu
-BtC	Gl’lu Trader	170	Ship		
+BtC	Gl'lu	168	Sophont		
+BtC	Travellers	169	Sophont		Gl'lu
+BtC	Gl'lu Trader	170	Ship		
 BtC	Kirissukyoya	172	Sophont		
 BtC	Travellers	172	Sophont		Kirissukyoya
 BtC	Lurent	172	Sophont		
@@ -292,13 +294,13 @@ BtC	495-524, Million	231	Ancients		Site
 BtC	Fel, Million	231	System		
 BtC	United Followers of Augurgh	231	Setting		
 BtC	United Followers of Augurgh	231	Vargr		
-BtC	Khoeurrroe-class Fel Armed Merchant	232	Ship		
-BtC	Khoeurrroe-class Fel Armed Merchant	232	Vargr		Ship
+BtC	Khoeurrroe-Class Fel Armed Merchant	232	Ship		
+BtC	Khoeurrroe-Class Fel Armed Merchant	232	Vargr		Ship
 BtC	Gabrael, Million	236	System		
 BtC	Ling-Stanard Products (LSP)	236	Setting		
 BtC	Ikhaba, Million	236	System		
 BtC	Talon, Million	237	System		
-BtC	Souggvuez	237	Setting		
+BtC	Souggvuez	237	Sophonts		
 BtC	Talon, Million	237	System		
 BtC	Sabine, Deneb	238	Setting		
 BtC	Amritsar, Sabine	240	System		
@@ -317,7 +319,7 @@ BtC	Morninglori, Inar	248	System
 BtC	Otomisi, Inar	248	System		
 BtC	Pecena, Inar	249	System		
 BtC	Zeen, Inar	249	System		
-BtC	Pecena Agricultural Corporation	249	Corporation		
+BtC	Pecena Agricultural Corporation	249	Setting		
 BtC	Zeen, Inar	249	System		
 BtC	Dunmag, Deneb	250	Setting		
 BtC	Andalia, Dunmag	252	System		
@@ -352,7 +354,7 @@ BtC	Usani, Deneb	268	Setting
 BtC	Geniishir, Deneb	268	Setting		
 BtC	Deneb, Usani	270	System		
 BtC	Nenlat	270	Bestiary		
-BtC	Church of Stellar Divinity	271	Setting		Religion
+BtC	Church of the Stellar Divinity	271	Setting		
 BtC	Deneb, Usani	270	Ancients		Site
 BtC	Exile, Usani	271	System		
 BtC	Liran, Usani	271	System		

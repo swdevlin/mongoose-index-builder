@@ -2,7 +2,7 @@ Document	Topic	Page	Type	Primary	Group
 BaEG	Pimane, Mora	3	Systems		
 BaEG	Pimane Fuel Shuttle	6	Ship		
 BaEG	Mora, Mora	13	Systems		
-BaEG	Maar Zon	16	Setting		Religions
+BaEG	Maar Zon	16	Setting		
 BaEG	‘Mood Fabric’ Half Body	20	Central Supply		
 BaEG	‘Mood Fabric’ Full Body	20	Personal Protection		
 BaEG	‘Mood Fabric’ Full Body	20	Central Supply		
@@ -23,7 +23,7 @@ BaEG	GLIPS	41	Setting
 BaEG	GLIPS	43	Careers		Pre-Career
 BaEG	Eudoro Lusuro	45	Patron		
 BaEG	Flammarion, Sword Worlds	47	Systems		
-BaEG	Ling Standard Products (LSP)	50	Setting		Corporation
+BaEG	Ling-Standard Products (LSP)	50	Setting		
 BaEG	Deep-space Recovery Express Boat Tender, Type XT2	53	Ships		
 BaEG	Security Checkpoints	57	Rules		
 BaEG	Mire, Darrian	59	Systems		
@@ -31,7 +31,7 @@ BaEG	Secretary Majjera	62	Patron
 BaEG	Hostile Environment Soft Suit	63	Personal Protection		
 BaEG	Gram, Sword Worlds	69	Systems		
 BaEG	Hrattliner Gravitic Transport	71	Vehicles		
-BaEG	Hrattliner Gravitic Transport	71	Sword Worlds		Vehicles
+BaEG	Hrattliner Gravitic Transport	71	Sword Worlds Confederation		Vehicles
 BaEG	Mathilde	75	Setting		
 BaEG	Vilis, Vilis	79	Systems		
 BaEG	Arden, Vilis	89	Systems		

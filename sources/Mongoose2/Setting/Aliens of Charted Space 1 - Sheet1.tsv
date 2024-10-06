@@ -16,15 +16,15 @@ AoCS1	Trokh	11	Aslan
 AoCS1	Mathematics	11	Aslan		
 AoCS1	Atekteia	13	Bestiary		
 AoCS1	Aua	13	Bestiary		
-AoCS1	Aua’Ka	13	Bestiary		
+AoCS1	Aua’ka	13	Bestiary		
 AoCS1	Khekha	14	Bestiary		
 AoCS1	Khta	14	Bestiary		
 AoCS1	Stii	14	Bestiary		
 AoCS1	Travellers	15	Aslan		
 AoCS1	Gender	15	Aslan		Travellers
 AoCS1	Clan	15	Aslan		Travellers
-AoCS1	Territory (Ter)	15	Rules		Characteristic
-AoCS1	Territory (Ter)	15	Aslan		
+AoCS1	Territory (TER)	15	Rules		Characteristics
+AoCS1	Territory (TER)	15	Aslan		
 AoCS1	Deeds	17	Aslan		Travellers
 AoCS1	Family Inheritance	17	Aslan		Travellers
 AoCS1	Starting Age	17	Aslan		Travellers
@@ -76,32 +76,27 @@ AoCS1	Heavy Combat Armour	51	Armour		Aslan
 AoCS1	Vacc Suit	52	Armour		Aslan
 AoCS1	Combat Vacc Suit	52	Armour		Aslan
 AoCS1	Heavy Vacc Suit	53	Armour		Aslan
-AoCS1	Claw Port	54	Central Supply		Armour Modification
-AoCS1	Command Suite	54	Central Supply		Armour Modification
-AoCS1	Ornamentation	54	Central Supply		Armour Modification
-AoCS1	Tail Armour	55	Central Supply		Armour Modification
+AoCS1	Claw Port	54	Personal Protection		Modification
+AoCS1	Command Suite	54	Personal Protection		Modification
+AoCS1	Ornamentation	54	Personal Protection		Modification
+AoCS1	Tail Armour	55	Personal Protection		Modification
 AoCS1	Boundary Box	55	Central Supply		
 AoCS1	Clan Comm	55	Central Supply		
 AoCS1	Mousebot	56	Robots		
 AoCS1	Slave Machine	56	Robots		
 AoCS1	Technician	57	Robots		
-AoCS1	Bio-Adjustment Pills	57	Central Supply		
+AoCS1	Bio-adjustment Pills	57	Central Supply		
 AoCS1	Slashpatch	57	Central Supply		
-AoCS1	Claw Coating	58	Aslan		Augmentation
-AoCS1	Claw Edging	58	Aslan		Augmentation
-AoCS1	Claw Hardening	58	Aslan		Augmentation
-AoCS1	Claw Implant	59	Aslan		Augmentation
-AoCS1	Predator Suite	59	Aslan		Augmentation
-AoCS1	Prehensile Tail	59	Aslan		Augmentation
-AoCS1	Tail Implant	59	Aslan		Augmentation
-AoCS1	Claw Coating	58	Central Supply		Augmentation
-AoCS1	Claw Edging	58	Central Supply		Augmentation
-AoCS1	Claw Hardening	58	Central Supply		Augmentation
-AoCS1	Claw Implant	59	Central Supply		Augmentation
-AoCS1	Predator Suite	59	Central Supply		Augmentation
-AoCS1	Prehensile Tail	59	Central Supply		Augmentation
-AoCS1	Tail Implant	59	Central Supply		Augmentation
-AoCS1	Weapons Of Honour	60	Aslan		
+AoCS1	Augments	58	Aslan		
+AoCS1	Augments	58	Central Supply		
+AoCS1	Claw Coating	58	Central Supply		
+AoCS1	Claw Edging	58	Central Supply		
+AoCS1	Claw Hardening	58	Central Supply		
+AoCS1	Claw Implant	59	Central Supply		
+AoCS1	Predator Suite	59	Central Supply		
+AoCS1	Prehensile Tail	59	Central Supply		
+AoCS1	Tail Implant	59	Central Supply		
+AoCS1	Weapons of Honour	60	Aslan		
 AoCS1	Assassin’s Blade	60	Weapon		Melee
 AoCS1	Assassin’s Blade	60	Aslan		Weapon
 AoCS1	Crescent Blade	60	Weapon		Melee
@@ -124,7 +119,7 @@ AoCS1	Spear-hook	61	Weapon		Melee
 AoCS1	Spear-hook	61	Aslan		Weapon
 AoCS1	Yurletya	61	Weapon		Melee
 AoCS1	Yurletya	61	Aslan		Weapon
-AoCS1	Weapons Of The Hunt	62	Aslan		
+AoCS1	Weapons of the Hunt	62	Aslan		
 AoCS1	Yeheal Autorifle	62	Aslan		Weapon
 AoCS1	Yeheal Autorifle	62	Weapon		Slug Rifles
 AoCS1	Gravity Spear	62	Weapon		Heavy
@@ -137,13 +132,13 @@ AoCS1	Wye’oiheasarl	63	Weapon		Heavy
 AoCS1	Wye’oiheasarl	63	Aslan		Weapon
 AoCS1	Taoyuhrir Heavy Machinegun	63	Weapon		Heavy
 AoCS1	Taoyuhrir Heavy Machinegun	63	Aslan		Weapon
-AoCS1	Clawbike	64	Vehicles		Aslan
+AoCS1	Clawbike	64	Vehicles		
 AoCS1	Clawbike	64	Aslan		Vehicles
-AoCS1	Crawler	65	Vehicles		Aslan
+AoCS1	Crawler	65	Vehicles		
 AoCS1	Crawler	65	Aslan		Vehicles
-AoCS1	Khtachwel Assault Grav Tank	66	Vehicles		Aslan
+AoCS1	Khtachwel Assault Grav Tank	66	Vehicles		
 AoCS1	Khtachwel Assault Grav Tank	66	Aslan		Vehicles
-AoCS1	Grav Barge	67	Vehicles		Aslan
+AoCS1	Grav Barge	67	Vehicles		
 AoCS1	Grav Barge	67	Aslan		Vehicles
 AoCS1	High Guard	68	Aslan		
 AoCS1	Clan Presence	68	Aslan		
@@ -177,8 +172,8 @@ AoCS1	Sakhai-Class Assault Carrier	96	Aslan		Ships
 AoCS1	Hkisyeleaa-Class Slaver	100	Ships		
 AoCS1	Hkisyeleaa-Class Slaver	100	Aslan		Ships
 AoCS1	Low Berths	101	High Guard		
-AoCS1	Aoa’iw-Class Light Trader	102	Ships		
-AoCS1	Aoa’iw-Class Light Trader	102	Aslan		Ships
+AoCS1	Aoa’iw-Class Light Trader (Type S)	102	Ships		
+AoCS1	Aoa’iw-Class Light Trader (Type S)	102	Aslan		Ships
 AoCS1	Halaheike-Class Pocket Warship	104	Ships		
 AoCS1	Halaheike-Class Pocket Warship	104	Aslan		Ships
 AoCS1	Overview	106	K'Kree		
@@ -201,7 +196,7 @@ AoCS1	Unification Of Kirur	120	K'Kree
 AoCS1	Lords Of Thunder	123	K'Kree		
 AoCS1	Travellers	124	K'Kree		
 AoCS1	Patriarchy	124	K'Kree		Travellers
-AoCS1	Social Standing (Soc)	124	K'Kree		Travellers
+AoCS1	Social Standing (SOC)	124	K'Kree		Travellers
 AoCS1	Servant-Of-Rankholder	125	K'Kree		Travellers
 AoCS1	Kinsman-Of-Rankholder	125	K'Kree		Travellers
 AoCS1	Rankholder	125	K'Kree		Travellers
@@ -235,37 +230,41 @@ AoCS1	Hand-Blade	142	K'Kree		Weapon
 AoCS1	Hand-Blade	142	Weapon		Melee
 AoCS1	Ceremonial Hand-Blade	142	K'Kree		Weapon
 AoCS1	Ceremonial Hand-Blade	142	Weapon		Melee
-AoCS1	Lance-Of-Length	143	K'Kree		Weapon
-AoCS1	Lance-Of-Length	143	Weapon		Energy Rifles
+AoCS1	Lance-of-Length	143	K'Kree		Weapon
+AoCS1	Lance-of-Length	143	Weapon		Energy Rifles
 AoCS1	Short-Hand	143	K'Kree		Weapon
 AoCS1	Short-Hand	143	Weapon		Energy Pistols
-AoCS1	Hand-Of-Length	143	K'Kree		Weapon
-AoCS1	Hand-Of-Length	143	Weapon		Energy Rifles
-AoCS1	Weapon-Of-Length	144	K'Kree		Weapon
-AoCS1	Weapon-Of-Length	144	Weapon		Energy Rifles
-AoCS1	Weapon-Of-Destruction	144	K'Kree		Weapon
-AoCS1	Weapon-Of-Destruction	144	Weapon		Energy Rifles
+AoCS1	Hand-of-Length	143	K'Kree		Weapon
+AoCS1	Hand-of-Length	143	Weapon		Energy Rifles
+AoCS1	Weapon-of-Length	144	K'Kree		Weapon
+AoCS1	Weapon-of-Length	144	Weapon		Energy Rifles
+AoCS1	Weapon-of-Destruction	144	K'Kree		Weapon
+AoCS1	Weapon-of-Destruction	144	Weapon		Energy Rifles
 AoCS1	Weapon Carriers	144	K'Kree		
 AoCS1	Interface	145	K'Kree		Weapon Carriers
 AoCS1	Command Unit	145	K'Kree		Weapon Carriers
-AoCS1	Friend-Of-The-Lowly	145	K'Kree		Robot
-AoCS1	Friend-Of-The-Lowly	145	Robots		K'Kree
+AoCS1	Friend-of-The-Lowly	145	K'Kree		Robot
+AoCS1	Friend-of-The-Lowly	145	Robots		
 AoCS1	Distant Lance	146	K'Kree		Robot
-AoCS1	Distant Lance	146	Robots		K'Kree
-AoCS1	Opener-Of-The-Way	146	K'Kree		Robot
-AoCS1	Opener-Of-The-Way	146	Robots		K'Kree
-AoCS1	Guardian-Of-Glory	146	K'Kree		Robot
-AoCS1	Guardian-Of-Glory	146	Robots		K'Kree
-AoCS1	Breaker-Of-Lines	147	K'Kree		Robot
-AoCS1	Breaker-Of-Lines	147	Robots		K'Kree
-AoCS1	Slayer-Of-Shields	147	K'Kree		Robot
-AoCS1	Slayer-Of-Shields	147	Robots		K'Kree
+AoCS1	Distant Lance	146	Robots		
+AoCS1	Opener-of-The-Way	146	K'Kree		Robot
+AoCS1	Opener-of-The-Way	146	Robots		
+AoCS1	Guardian-of-Glory	146	K'Kree		Robot
+AoCS1	Guardian-of-Glory	146	Robots		
+AoCS1	Breaker-of-Lines	147	K'Kree		Robot
+AoCS1	Breaker-of-Lines	147	Robots		
+AoCS1	Slayer-of-Shields	147	K'Kree		Robot
+AoCS1	Slayer-of-Shields	147	Robots		
 AoCS1	Vehicles	148	K'Kree		
 AoCS1	Crew And Passengers	148	K'Kree		
+AoCS1	Personal Grav Skimmer	149	Vehicles		
+AoCS1	Lead Grav Skimmer	150	Vehicles		
+AoCS1	Family Transport Vehicle	151	Vehicles		
 AoCS1	Personal Grav Skimmer	149	K'Kree		Vehicles
 AoCS1	Lead Grav Skimmer	150	K'Kree		Vehicles
 AoCS1	Family Transport Vehicle	151	K'Kree		Vehicles
 AoCS1	Mobile Fighting Platforms	152	K'Kree		
+AoCS1	Mobile Fighting Platform	153	Vehicles		
 AoCS1	Mobile Fighting Platform	153	K'Kree		Vehicles
 AoCS1	High Guard	154	K'Kree		
 AoCS1	Enclosures	154	K'Kree		High Guard
@@ -291,11 +290,11 @@ AoCS1	Physiology	169	Vargr
 AoCS1	Lifespan	171	Vargr		
 AoCS1	Diet	171	Vargr		
 AoCS1	Subspecies	171	Vargr		
-AoCS1	Urzaeng	171	Vargr		Subspecies
-AoCS1	Kokasha	172	Vargr		Subspecies
-AoCS1	Akumgeda	172	Vargr		Subspecies
-AoCS1	Nakagun	172	Vargr		Subspecies
-AoCS1	Roth Thokken	172	Vargr		Subspecies
+AoCS1	Urzaeng	171	Vargr		
+AoCS1	Kokasha	172	Vargr		
+AoCS1	Akumgeda	172	Vargr		
+AoCS1	Nakagun	172	Vargr		
+AoCS1	Roth Thokken	172	Vargr		
 AoCS1	Society	172	Vargr		
 AoCS1	Genetic Instinct	172	Vargr		
 AoCS1	Packs	172	Vargr		
@@ -303,8 +302,8 @@ AoCS1	Charisma & Loyalty	172	Vargr
 AoCS1	Racial Pride	173	Vargr		
 AoCS1	Family	173	Vargr		
 AoCS1	Beliefs	174	Vargr		
-AoCS1	Church of the Chosen Ones	174	Vargr		Religions
-AoCS1	Church of the Chosen Ones	174	Setting		Religions
+AoCS1	Church of the Chosen Ones	174	Vargr		
+AoCS1	Church of the Chosen Ones	174	Setting		
 AoCS1	Infighting	174	Vargr		
 AoCS1	Dress	174	Vargr		
 AoCS1	Art	175	Vargr		
@@ -356,10 +355,10 @@ AoCS1	Scientist	202	Careers		Vargr
 AoCS1	Life Events	204	Vargr		Travellers
 AoCS1	Pack Events	205	Vargr		Travellers
 AoCS1	Mustering Out	205	Vargr		Travellers
-AoCS1	Charisma (Cha)	206	Vargr		Travellers
-AoCS1	Charisma (Cha)	206	Rules		Characteristic
+AoCS1	Charisma (CHA)	206	Vargr		Travellers
+AoCS1	Charisma (CHA)	206	Rules		Characteristic
 AoCS1	Central Supply	207	Vargr		
-AoCS1	Purchasing Equipment	207	Rules		Vargr
+AoCS1	Purchasing Vargr Equipment	207	Rules		
 AoCS1	Purchasing Equipment	207	Vargr		
 AoCS1	Armour	208	Vargr		
 AoCS1	Standard Jacket	208	Vargr		Armour
@@ -409,17 +408,17 @@ AoCS1	Blade Enhancements	214	Vargr		Armour Modification
 AoCS1	Blade Enhancements	214	Armour		Modification
 AoCS1	Retractable Blades	214	Vargr		Armour Modification
 AoCS1	Retractable Blades	214	Armour		Modification
-AoCS1	Augmentations	214	Vargr		
-AoCS1	Aural Filter	214	Vargr		Augmentations
-AoCS1	Tail Enhancement	214	Vargr		Augmentations
-AoCS1	Urzaeng Modification	214	Vargr		Augmentations
-AoCS1	Aural Filter	214	Rules		Augmentations
-AoCS1	Tail Enhancement	214	Rules		Augmentations
-AoCS1	Urzaeng Modification	214	Rules		Augmentations
+AoCS1	Augments	214	Vargr		
+AoCS1	Aural Filter	214	Vargr		Augments
+AoCS1	Tail Enhancement	214	Vargr		Augments
+AoCS1	Urzaeng Modification	214	Vargr		Augments
+AoCS1	Aural Filter	214	Central Supply		Augments
+AoCS1	Tail Enhancement	214	Central Supply		Augments
+AoCS1	Urzaeng Modification	214	Central Supply		Augments
 AoCS1	Taskbot	215	Vargr		Robot
-AoCS1	Taskbot	215	Robots		Vargr
+AoCS1	Taskbot	215	Robots		
 AoCS1	Advisor Robot	215	Vargr		Robot
-AoCS1	Advisor Robot	215	Robots		Vargr
+AoCS1	Advisor Robot	215	Robots		
 AoCS1	Claw Fist	216	Vargr		Weapon
 AoCS1	Claw Fist	216	Weapon		Melee
 AoCS1	Sonic Pistol	216	Vargr		Weapon
@@ -430,15 +429,15 @@ AoCS1	Sonic Rifle	217	Weapon		Energy Rifles
 AoCS1	Sonic Grenade	217	Vargr		Weapon
 AoCS1	Sonic Grenade	217	Weapon		Grenades
 AoCS1	Gravitic Racer	218	Vargr		Vehicles
-AoCS1	Gravitic Racer	218	Vehicles		Vargr
+AoCS1	Gravitic Racer	218	Vehicles		
 AoCS1	Gravitic Speeder	219	Vargr		Vehicles
-AoCS1	Gravitic Speeder	219	Vehicles		Vargr
+AoCS1	Gravitic Speeder	219	Vehicles		
 AoCS1	Wulfenite G/Carrier	220	Vargr		Vehicles
-AoCS1	Wulfenite G/Carrier	220	Vehicles		Vargr
+AoCS1	Wulfenite G/Carrier	220	Vehicles		
 AoCS1	Clawtip Plasma Tank	221	Vargr		Vehicles
-AoCS1	Clawtip Plasma Tank	221	Vehicles		Vargr
+AoCS1	Clawtip Plasma Tank	221	Vehicles		
 AoCS1	Loper Ground Carrier	222	Vargr		Vehicles
-AoCS1	Loper Ground Carrier	222	Vehicles		Vargr
+AoCS1	Loper Ground Carrier	222	Vehicles		
 AoCS1	High Guard	223	Vargr		
 AoCS1	Corsair Encounters	223	Random Tables		
 AoCS1	Encounter Modifiers	223	Vargr		High Guard
@@ -536,28 +535,28 @@ AoCS1	Symbiosis Shielding	278	Zhodani		Psionic Modification
 AoCS1	Symbiosis Shielding	278	Central Supply		Psionic Modification
 AoCS1	Armour	278	Zhodani		
 AoCS1	Teleportation Suit	279	Zhodani		Armour
-AoCS1	Teleportation Suit	279	Armour		Zhodani
+AoCS1	Teleportation Suit	279	Armour		
 AoCS1	Officer Combat Armour	279	Zhodani		Armour
-AoCS1	Officer Combat Armour	279	Armour		Zhodani
+AoCS1	Officer Combat Armour	279	Armour		
 AoCS1	Guards Combat Armour	280	Zhodani		Armour
-AoCS1	Guards Combat Armour	280	Armour		Zhodani
+AoCS1	Guards Combat Armour	280	Armour		
 AoCS1	Noble Combat Armour	280	Zhodani		Armour
-AoCS1	Noble Combat Armour	280	Armour		Zhodani
+AoCS1	Noble Combat Armour	280	Armour		
 AoCS1	Guards Battle Dress	281	Zhodani		Armour
-AoCS1	Guards Battle Dress	281	Armour		Zhodani
+AoCS1	Guards Battle Dress	281	Armour		
 AoCS1	Medical Supplies	281	Zhodani		
 AoCS1	Augments	281	Zhodani		
 AoCS1	Robots	282	Zhodani		
 AoCS1	Trashbot	282	Zhodani		Robots
-AoCS1	Trashbot	282	Robots		Zhodani
+AoCS1	Trashbot	282	Robots		
 AoCS1	Maintenance Bot	282	Zhodani		Robots
-AoCS1	Maintenance Bot	282	Robots		Zhodani
+AoCS1	Maintenance Bot	282	Robots		
 AoCS1	Light Warbot	283	Zhodani		Robots
-AoCS1	Light Warbot	283	Robots		Zhodani
+AoCS1	Light Warbot	283	Robots		
 AoCS1	Medium Warbot	284	Zhodani		Robots
-AoCS1	Medium Warbot	284	Robots		Zhodani
+AoCS1	Medium Warbot	284	Robots		
 AoCS1	Heavy Warbot	284	Zhodani		Robots
-AoCS1	Heavy Warbot	284	Robots		Zhodani
+AoCS1	Heavy Warbot	284	Robots		
 AoCS1	Utility Grav Sled	285	Zhodani		Vehicles
 AoCS1	Utility Grav Sled	285	Vehicles		
 AoCS1	Imperious G-Carrier	286	Zhodani		Vehicles

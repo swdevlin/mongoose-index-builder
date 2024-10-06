@@ -89,34 +89,34 @@ AoCS3	Hostile Mining Vacc Suit	64	Darrian		Personal Protection
 AoCS3	Militia Armour	64	Darrian		Personal Protection
 AoCS3	Special Arm Battle Dress	64	Darrian		Personal Protection
 AoCS3	Battle Dress	64	Darrian		Personal Protection
-AoCS3	Gel Suit	62	Armour		Darrian
-AoCS3	Guard Armour	62	Armour		Darrian
-AoCS3	Hostile Mining Vacc Suit	64	Armour		Darrian
-AoCS3	Militia Armour	64	Armour		Darrian
-AoCS3	Special Arm Battle Dress	64	Armour		Darrian
-AoCS3	Battle Dress	64	Armour		Darrian
-AoCS3	Anti-Armour Module	66	Armour		Battle Dress Modifications
-AoCS3	Anti-Armour Module	66	Darrian		Battle Dress Modifications
-AoCS3	Anti-Personnel Module	66	Armour		Battle Dress Modifications
-AoCS3	Anti-Personnel Module	66	Darrian		Battle Dress Modifications
-AoCS3	Command Module	66	Armour		Battle Dress Modifications
-AoCS3	Command Module	66	Darrian		Battle Dress Modifications
-AoCS3	Electronics Warfare Module	66	Armour		Battle Dress Modifications
-AoCS3	Electronics Warfare Module	66	Darrian		Battle Dress Modifications
-AoCS3	Air Suppression Module	66	Armour		Battle Dress Modifications
-AoCS3	Air Suppression Module	66	Darrian		Battle Dress Modifications
-AoCS3	Exoskeleton	66	Darrian		Central Supply
-AoCS3	Exoskeleton	66	Central Supply		Darrian
-AoCS3	Pressure Respirator	67	Darrian		Central Supply
-AoCS3	Pressure Respirator	67	Central Supply		Darrian
+AoCS3	Gel Suit	62	Personal Protection		
+AoCS3	Guard Armour	62	Personal Protection		
+AoCS3	Hostile Mining Vacc Suit	64	Personal Protection		
+AoCS3	Militia Armour	64	Personal Protection		
+AoCS3	Special Arm Battle Dress	64	Personal Protection		
+AoCS3	Battle Dress	64	Personal Protection		
+AoCS3	Darrian Equipment Slots	64	Personal Protection		Battle Dress
+AoCS3	Anti-Armour Module	66	Personal Protection		Battle Dress Modification
+AoCS3	Anti-Armour Module	66	Darrian		Battle Dress Modification
+AoCS3	Anti-Personnel Module	66	Personal Protection		Battle Dress Modification
+AoCS3	Anti-Personnel Module	66	Darrian		Battle Dress Modification
+AoCS3	Command Module	66	Personal Protection		Battle Dress Modification
+AoCS3	Command Module	66	Darrian		Battle Dress Modification
+AoCS3	Electronics Warfare Module	66	Personal Protection		Battle Dress Modification
+AoCS3	Electronics Warfare Module	66	Darrian		Battle Dress Modification
+AoCS3	Air Suppression Module	66	Personal Protection		Battle Dress Modification
+AoCS3	Air Suppression Module	66	Darrian		Battle Dress Modification
+AoCS3	Exoskeleton	66	Central Supply		
+AoCS3	Pressure Respirator	67	Central Supply		
 AoCS3	Atmosphere Tester	67	Central Supply		
 AoCS3	Field Surveillance Radar	67	Central Supply		
 AoCS3	Motion Sensor	67	Central Supply		
 AoCS3	NBC Combination Analysis Unit	67	Central Supply		
 AoCS3	Neural Activity Detector	68	Central Supply		
-AoCS3	Meson Transceivers	68	Central Supply		
+AoCS3	Meson Transceiver	68	Central Supply		
 AoCS3	Computers	68	Central Supply		
-AoCS3	Sensor Drone	68	Robots		Darrian
+AoCS3	Sensor Drone	68	Robots		
+AoCS3	Sensor Drone	68	Darrian		Robots
 AoCS3	Medical Supplies	69	Darrian		
 AoCS3	Robots	68	Darrian		
 AoCS3	Personal Augmentation	69	Darrian		
@@ -139,8 +139,8 @@ AoCS3	Sphere Tank	74	Vehicles
 AoCS3	High Guard	75	Darrian		
 AoCS3	Rehld Courier	76	Darrian		Ships
 AoCS3	Rehld Courier	76	Ships		
-AoCS3	Gagh Tramp Trader	78	Darrian		Ships
-AoCS3	Gagh Tramp Trader	78	Ships		
+AoCS3	Gagh-Class Tramp Trader	78	Darrian		Ships
+AoCS3	Gagh-Class Tramp Trader	78	Ships		
 AoCS3	Nalumb Far Trader	80	Darrian		Ships
 AoCS3	Nalumb Far Trader	80	Ships		
 AoCS3	Yehng Rapid Response Rescue Vessel	82	Darrian		Ships
@@ -196,7 +196,8 @@ AoCS3	Travellers	118	Geonee
 AoCS3	Traits	118	Geonee		Travellers
 AoCS3	Titles	118	Geonee		
 AoCS3	Careers	118	Geonee		
-AoCS3	Geonee Travellers	118	Setting		
+AoCS3	Travellers	118	Sophonts		Geonee
+AoCS3	Travellers	118	Geonee		
 AoCS3	Adrat	120	Geonee		Travellers
 AoCS3	Envoy	120	Careers		Geonee
 AoCS3	Geonee Self Defence Army	122	Geonee		Travellers
@@ -214,20 +215,20 @@ AoCS3	Llyrnian Battle Dress	126	Geonee		Personal Protection
 AoCS3	Llyrnian Battle Dress	126	Personal Protection		
 AoCS3	Robots	128	Geonee		
 AoCS3	Agrobot	128	Geonee		Robots
-AoCS3	Agrobot	128	Robots		Geonee
+AoCS3	Agrobot	128	Robots		
 AoCS3	Animal Care Robot	129	Geonee		Robots
-AoCS3	Animal Care Robot	129	Robots		Geonee
+AoCS3	Animal Care Robot	129	Robots		
 AoCS3	Cargo Handler	130	Geonee		Robots
-AoCS3	Cargo Handler	130	Robots		Geonee
+AoCS3	Cargo Handler	130	Robots		
 AoCS3	Emergency Responder	131	Geonee		Robots
-AoCS3	Emergency Responder	131	Robots		Geonee
+AoCS3	Emergency Responder	131	Robots		
 AoCS3	Eye-Spy Drone	132	Geonee		Robots
-AoCS3	Eye-Spy Drone	132	Robots		Geonee
+AoCS3	Eye-Spy Drone	132	Robots		
 AoCS3	Horticulture Bot	132	Geonee		Robots
-AoCS3	Horticulture Bot	132	Robots		Geonee
-AoCS3	Luggage Bot	133	Robots		Geonee
+AoCS3	Horticulture Bot	132	Robots		
+AoCS3	Luggage Bot	133	Robots		
 AoCS3	Luggage Bot	133	Geonee		Robots
-AoCS3	Maintenance Bot	133	Robots		Geonee
+AoCS3	Maintenance Bot	133	Robots		
 AoCS3	Maintenance Bot	133	Geonee		Robots
 AoCS3	Medical Supplies	134	Geonee		
 AoCS3	Focus Drug	134	Central Supply		
@@ -236,7 +237,7 @@ AoCS3	Recall Drug	134	Central Supply
 AoCS3	Moon Blade	134	Geonee		Weapons
 AoCS3	Moon Blade	134	Weapon		Melee
 AoCS3	Magrail Carbine	135	Geonee		Weapons
-AoCS3	Magrail Carbine	135	Weapon		Slug Rifle
+AoCS3	Magrail Carbine	135	Weapon		Slug Rifles
 AoCS3	Magrail Support Weapon	135	Geonee		Weapons
 AoCS3	Magrail Support Weapon	135	Weapon		Heavy
 AoCS3	Convergence Beam Rifle	135	Geonee		Weapons
@@ -245,9 +246,9 @@ AoCS3	Gravitic Cannon	136	Geonee		Vehicle Weapons
 AoCS3	Gravitic Cannon	136	Vehicle Workshop		Weapons
 AoCS3	Heavy Gravitic Cannon	136	Geonee		Vehicle Weapons
 AoCS3	Heavy Gravitic Cannon	136	Vehicle Workshop		Weapons
-AoCS3	Gosta Light Tank	137	Vehicles		Geonee
+AoCS3	Gosta Light Tank	137	Vehicles		
 AoCS3	Gosta Light Tank	137	Geonee		Vehicles
-AoCS3	Branak Superheavy Tank	138	Vehicles		Geonee
+AoCS3	Branak Superheavy Tank	138	Vehicles		
 AoCS3	Branak Superheavy Tank	138	Geonee		Vehicles
 AoCS3	High Guard	139	Geonee		
 AoCS3	Fuelling Shuttle	140	Ships		
@@ -280,10 +281,10 @@ AoCS3	Gregariousness	161	Dolphin
 AoCS3	Succouring	161	Dolphin		
 AoCS3	Beliefs	161	Dolphin		
 AoCS3	Religion	162	Dolphin		
-AoCS3	Eee-Squee-Kikik	163	Dolphin		Religion
-AoCS3	Eee-Squee-Kikik	163	Setting		Religions
-AoCS3	Carboneism	163	Dolphin		Religion
-AoCS3	Carboneism	163	Setting		Religions
+AoCS3	Eee-Squee-Kikik	163	Dolphin		
+AoCS3	Eee-Squee-Kikik	163	Setting		
+AoCS3	Carboneism	163	Dolphin		
+AoCS3	Carboneism	163	Setting		
 AoCS3	Dress	163	Setting		
 AoCS3	Art	163	Setting		
 AoCS3	Architecture	163	Setting		
@@ -310,13 +311,13 @@ AoCS3	Dolphin Military	172	Dolphin		Travellers
 AoCS3	Dolphin Military	172	Careers		Dolphin
 AoCS3	Central Supply	174	Dolphin		
 AoCS3	Sonar Stealth Suit	174	Dolphin		Personal Protection
-AoCS3	Sonar Stealth Suit	174	Personal Protection		Dolphin
+AoCS3	Sonar Stealth Suit	174	Personal Protection		
 AoCS3	Travel Suit	174	Dolphin		Personal Protection
-AoCS3	Travel Suit	174	Personal Protection		Dolphin
+AoCS3	Travel Suit	174	Personal Protection		
 AoCS3	Walker Suit	175	Dolphin		Personal Protection
-AoCS3	Walker Suit	175	Personal Protection		Dolphin
+AoCS3	Walker Suit	175	Personal Protection		
 AoCS3	Type D Battle Dress	175	Dolphin		Personal Protection
-AoCS3	Type D Battle Dress	175	Personal Protection		Dolphin
+AoCS3	Type D Battle Dress	175	Personal Protection		
 AoCS3	Grav Belt	176	Dolphin		Central Supply
 AoCS3	Grav Couch	176	Dolphin		Central Supply
 AoCS3	Humidity Sleeve	176	Dolphin		Central Supply
@@ -327,9 +328,9 @@ AoCS3	Hydranoraquine	176	Dolphin		Central Supply
 AoCS3	Oxyplex	176	Dolphin		Central Supply
 AoCS3	Robots	177	Dolphin		
 AoCS3	Personal Services Bot	177	Dolphin		Robots
-AoCS3	Personal Services Bot	177	Robots		Dolphin
+AoCS3	Personal Services Bot	177	Robots		
 AoCS3	Sea Shepherd	178	Dolphin		Robots
-AoCS3	Sea Shepherd	178	Robots		Dolphin
+AoCS3	Sea Shepherd	178	Robots		
 AoCS3	Augmentations	179	Dolphin		
 AoCS3	Deep Dive Augmentation	179	Central Supply		Augmentations
 AoCS3	Oxygen Reserve	179	Central Supply		Augmentations
@@ -355,15 +356,15 @@ AoCS3	Sonic Booster	181	Dolphin		Weapons
 AoCS3	Sonic Booster	181	Weapon		Energy Pistols
 AoCS3	Vehicles	182	Dolphin		
 AoCS3	Grav Sled	182	Dolphin		Vehicles
-AoCS3	Grav Sled	182	Vehicles		Dolphin
+AoCS3	Grav Sled	182	Vehicles		
 AoCS3	Ocean Quest Submersible Laboratory	183	Dolphin		Vehicles
-AoCS3	Ocean Quest Submersible Laboratory	183	Vehicles		Dolphin
+AoCS3	Ocean Quest Submersible Laboratory	183	Vehicles		
 AoCS3	Sail Fish Sea Scooter	184	Dolphin		Vehicles
-AoCS3	Sail Fish Sea Scooter	184	Vehicles		Dolphin
+AoCS3	Sail Fish Sea Scooter	184	Vehicles		
 AoCS3	Mud Crab Submersible Tank	185	Dolphin		Vehicles
-AoCS3	Mud Crab Submersible Tank	185	Vehicles		Dolphin
+AoCS3	Mud Crab Submersible Tank	185	Vehicles		
 AoCS3	Tiger Shark Attack Submarine	186	Dolphin		Vehicles
-AoCS3	Tiger Shark Attack Submarine	186	Vehicles		Dolphin
+AoCS3	Tiger Shark Attack Submarine	186	Vehicles		
 AoCS3	High Guard	187	Dolphin		
 AoCS3	Deep Dive Scout/Courier	188	Dolphin		Ships
 AoCS3	Deep Dive Scout/Courier	188	Ships		
@@ -431,7 +432,7 @@ AoCS3	Utility Harness	226	Central Supply
 AoCS3	Weapon Harness	226	Orca		Central Supply
 AoCS3	Weapon Harness	226	Central Supply		
 AoCS3	Sonic Screamer	226	Orca		Weapon
-AoCS3	Sonic Screamer	226	Weapon		Energy RIfle
+AoCS3	Sonic Screamer	226	Weapon		Energy RIfles
 AoCS3	Vehicle Weapon Harness	227	Central Supply		
 AoCS3	Vehicle Weapon Harness	227	Orca		Central Supply
 AoCS3	Mini-torpedo Battery	227	Vehicle Workshop		Weapons
@@ -506,7 +507,7 @@ AoCS3	Electronics	257	Bwap
 AoCS3	Waterproofing	257	Bwap		Central Supply
 AoCS3	Robots	258	Bwap		
 AoCS3	Interaction Bot	258	Bwap		Robots
-AoCS3	Interaction Bot	258	Robots		Bwap
+AoCS3	Interaction Bot	258	Robots		
 AoCS3	Medical Supplies	258	Bwap		Central Supply
 AoCS3	Amino Acid Supplements	258	Bwap		Central Supply
 AoCS3	Amino Acid Supplements	258	Central Supply		
@@ -536,7 +537,7 @@ AoCS3	A-Awab Air Tram	261	Bwap		Vehicles
 AoCS3	Betwa-Taa Heavy Ocean Farming Robot	262	Vehicles		
 AoCS3	Betwa-Taa Heavy Ocean Farming Robot	262	Bwap		Vehicles
 AoCS3	Betwa-Taa Heavy Ocean Farming Robot	262	Bwap		Robots
-AoCS3	Betwa-Taa Heavy Ocean Farming Robot	262	Robots		Bwap
+AoCS3	Betwa-Taa Heavy Ocean Farming Robot	262	Robots		
 AoCS3	Da-We-Pa War Walker	263	Vehicles		
 AoCS3	Da-We-Pa War Walker	263	Bwap		Vehicles
 AoCS3	Fastas-Ewawab Off-Roader Engine	264	Vehicles		
@@ -552,7 +553,8 @@ AoCS3	Pabta Tracked Scooter	266	Bwap		Vehicles
 AoCS3	Peswab Marsh Hopper	266	Vehicles		
 AoCS3	Peswab Marsh Hopper	266	Bwap		Vehicles
 AoCS3	High Guard	266	Bwap		
-AoCS3	Mud Baths	266	Bwap		High Guard
+AoCS3	Mud Baths	266	High Guard		
+AoCS3	Mud Baths	266	Bwap		
 AoCS3	Apa-Pakwa Class Medium Fighter	268	Bwap		Small Craft
 AoCS3	Apa-Pakwa Class Medium Fighter	268	Small Craft		
 AoCS3	Efaweape Class Scout	270	Bwap		Ships
