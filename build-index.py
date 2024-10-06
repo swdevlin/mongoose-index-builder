@@ -16,29 +16,40 @@ INTRO_PAGES = 4
 LEFT_ALIGNMENT = 0
 
 GROUP_CORRECTIONS = {
+	'Armour': 'Personal Protection',
 	'Augment': 'Augmentations',
 	'Augments': 'Augmentations',
 	'Augmentation': 'Augmentations',
-	'Robot': 'Robots',
+	'Characteristic': 'Characteristics',
+	#  don't nest corps
+	'Corporation': '',
+	'Corporations': '',
 	'Drone': 'Drones',
+	'Robot': 'Robots',
 	'Ship': 'Ships',
 	'Vehicle': 'Vehicles',
-	'Armour': 'Personal Protection',
 }
 
 # Bulk correct entries with the incorrect type
 TYPE_CORRECTIONS = {
 	'Armour': 'Personal Protection',
 	'Career': 'Careers',
-	'Drone': 'Drones',
+	# Not sure a list helps people, so moving them to setting
+	'Corporation': 'Setting',
+	'Megacorporation': 'Setting',
+	'Megacorporations': 'Setting',
+	# all drones are robots
+	'Drone': 'Robots',
+	'Drones': 'Robots',
 	# Not sure person needs to be its own category; adding them to setting for the time being
 	'Person': 'Setting',
 	'Skill': 'Skills',
 	'Robot': 'Robots',
 	'Ship': 'Ships',
-	'Sophant': 'Sophants',
+	'Sophont': 'Sophonts',
 	'small craft': 'Small Craft',
 	'Small craft': 'Small Craft',
+	'System': 'Systems',
 	'Vehicle': 'Vehicles',
 	'Adventure': 'Adventures',
 	'Skill': 'Skills',
@@ -90,15 +101,35 @@ def add_page_text(paragraph, topic):
 	paragraph.alignment = LEFT_ALIGNMENT
 
 
-def add_index_line(document, topic):
-	paragraph = document.add_paragraph()
-
-	subject = topic['topic']
-	subject_text = paragraph.add_run(subject)
+def split_subject(subject):
 	if len(subject) > 35:
-		subject_text.font.size = Pt(9)
+		split_pos = subject.rfind(' ', 0, 35)
+
+		part1 = subject[:split_pos].strip()
+		part2 = subject[split_pos:].strip()
+		return [part1, part2]
 	else:
-		subject_text.font.size = Pt(10)
+		return [subject]
+
+
+def add_index_line(document, topic):
+	subject = topic['topic']
+	parts = split_subject(subject)
+
+	if len(parts[-1]) > 40:
+		font_size = Pt(8)
+	elif len(parts[-1]) > 35:
+		font_size = Pt(9)
+	else:
+		font_size = Pt(10)
+
+	if len(parts) == 2:
+		paragraph = document.add_paragraph()
+		subject_text = paragraph.add_run(parts[0])
+		subject_text.font.size = font_size
+	paragraph = document.add_paragraph()
+	subject_text = paragraph.add_run(parts[-1])
+	subject_text.font.size = font_size
 
 	if len(topic['entries']) > 0:
 		paragraph.paragraph_format.tab_stops.add_tab_stop(
