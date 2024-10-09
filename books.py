@@ -15,6 +15,7 @@ books = {
         {"title": "Behind the Claw", "abbreviation": "BtC"},
         {"title": "Bu and Embla's Guide", "abbreviation": "BaEG"},
         {"title": "Bu and Embla Visit Vrirhlanz", "abbreviation": "BaEVV"},
+        {"title": "The Deep and the Dark", "abbreviation": "TDatD"},
         {"title": "Ships of the Reach", "abbreviation": "SotR"},
         {"title": "Sword Worlds", "abbreviation": "SW"},
         {"title": "The Glorious Empire", "abbreviation": "TGE"},

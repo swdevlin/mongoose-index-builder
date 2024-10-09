@@ -53,12 +53,12 @@ TTI	Imperial Warrants	54	Setting
 TTI	Imperial Stationery	54	Central Supply		
 TTI	Corporations	55	Setting		
 TTI	Intell-Class Megacorporate Courier	56	Ships		
-TTI	Delgado Trading, LIC	58	Setting	No	
-TTI	General Products, LIC	58	Setting	No	
+TTI	Delgado Trading	58	Setting	No	
+TTI	General Products	58	Setting	No	
 TTI	Gesellschaft feur Sternschiffbau AG (GSbAG)	58	Setting	No	
-TTI	Hortalez et Cie, LIC	58	Setting	No	
+TTI	Hortalez et Cie	58	Setting	No	
 TTI	Ling-Standard Products (LSP)	58	Setting	No	
-TTI	Instellarms, LIC	58	Setting	No	
+TTI	Instellarms	58	Setting	No	
 TTI	Makhidkarun	58	Setting	No	
 TTI	Naasirka	58	Setting	No	
 TTI	Schunamann und Sohn AG (SuSAG)	58	Setting	No	
@@ -185,7 +185,7 @@ TTI	Hellhole, Bunkeria	175	Systems
 TTI	Irlu, Bunkeria	175	Systems		
 TTI	Marsus, Bunkeria	175	Systems		
 TTI	Office of Mercenary Affairs (OMA)	175	Setting		
-TTI	Instellarms, LIC	176	Setting		
+TTI	Instellarms	176	Setting		
 TTI	Raynier Grgic, Major	176	Setting		
 TTI	Lalandra, Bunkeria	177	Systems		
 TTI	Ramscoop	177	High Guard		
@@ -248,7 +248,7 @@ TTI	Uundizi, Dunea	227	Systems
 TTI	Zimmel, Dunea	227	Systems		
 TTI	Salo Merchant Lines	228	Setting		
 TTI	Saregon, Core	229	Setting		
-TTI	Tukera Lines, LIC	229	Setting		
+TTI	Tukera Lines	229	Setting		
 TTI	Achenaar Antilles Line	229	Setting		
 TTI	Starburst of Extreme Heroism-Class Light Cruiser	230	Ships		
 TTI	Dinenruum, Saregon	236	Systems		

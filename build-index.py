@@ -44,6 +44,11 @@ TYPE_CORRECTIONS = {
 	# Not sure person needs to be its own category; adding them to setting for the time being
     "K'Kree": "K'kree",
 	'Person': 'Setting',
+	# Don't want these pulled out, but might someday, so....
+	'Sectors': 'Setting',
+	'Sector': 'Setting',
+	'Subsectors': 'Setting',
+	'Subsector': 'Setting',
 	'Skill': 'Skills',
 	'Robot': 'Robots',
 	'Ship': 'Ships',
@@ -113,13 +118,14 @@ def split_subject(subject):
 		return [subject]
 
 
-def add_index_line(document, topic):
-	subject = topic['topic']
+def add_subject(document, subject, indent):
 	parts = split_subject(subject)
 
-	if len(parts[-1]) > 40:
+	max_length = 35 if indent else 40
+
+	if len(parts[-1]) > max_length:
 		font_size = Pt(8)
-	elif len(parts[-1]) > 35:
+	elif len(parts[-1]) > max_length-5:
 		font_size = Pt(9)
 	else:
 		font_size = Pt(10)
@@ -131,6 +137,14 @@ def add_index_line(document, topic):
 	paragraph = document.add_paragraph()
 	subject_text = paragraph.add_run(parts[-1])
 	subject_text.font.size = font_size
+	if indent:
+		paragraph.paragraph_format.left_indent = Cm(indent)
+	return paragraph
+
+
+def add_index_line(document, topic):
+	subject = topic['topic']
+	paragraph = add_subject(document, subject, None)
 
 	if len(topic['entries']) > 0:
 		paragraph.paragraph_format.tab_stops.add_tab_stop(
@@ -140,17 +154,12 @@ def add_index_line(document, topic):
 
 	for child_key in sorted(topic['children'].keys()):
 		child = topic['children'][child_key]
-		paragraph = document.add_paragraph()
-
 		subject = child['topic']
-		subject_text = paragraph.add_run(subject)
-		subject_text.font.size = Pt(10)
+		paragraph = add_subject(document, subject, 0.5)
 
 		paragraph.paragraph_format.tab_stops.add_tab_stop(
 			Cm(8.5), WD_TAB_ALIGNMENT.RIGHT, WD_TAB_LEADER.DOTS
 		)
-		paragraph.paragraph_format.left_indent = Cm(0.5)
-
 		add_page_text(paragraph, child)
 
 
@@ -195,6 +204,9 @@ def parse_topics(source, topics):
 	df = pd.read_csv(source, delimiter='\t')
 	df = df.replace({pd.NA: None, pd.NaT: None, float('nan'): None})
 	for index, row in df.iterrows():
+		# adjust Mongoose's proper use of ’
+		row['Type'] = row['Type'].replace('’', "'")
+		row['Topic'] = row['Topic'].replace('’', "'")
 		for key in TYPE_CORRECTIONS:
 			if row['Type'] == key:
 				row['Type'] = TYPE_CORRECTIONS[key]
@@ -206,6 +218,7 @@ def parse_topics(source, topics):
 		subject = row['Topic']
 		group = row.get('Group', None)
 		if group:
+			group = group.replace('’', "'")
 			group_key = (row['Type'], group)
 			if group_key not in topics:
 				topics[group_key] = {
