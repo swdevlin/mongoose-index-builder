@@ -1,5 +1,7 @@
 Document	Topic	Page	Type	Primary	Group
 AoCS1	Physiology	4	Aslan		
+AoCS1	Aslan	4	Sophonts		
+AoCS1	Travellers	15	Sophonts		Aslan
 AoCS1	Lifespan	5	Aslan		
 AoCS1	Diet	5	Aslan		
 AoCS1	Society	5	Aslan		
@@ -177,6 +179,7 @@ AoCS1	Aoa’iw-Class Light Trader (Type S)	102	Aslan		Ships
 AoCS1	Halaheike-Class Pocket Warship	104	Ships		
 AoCS1	Halaheike-Class Pocket Warship	104	Aslan		Ships
 AoCS1	Overview	106	K'kree		
+AoCS1	K'kree	106	Sophonts		
 AoCS1	Physiology	107	K'kree		
 AoCS1	Society	108	K'kree		
 AoCS1	Groupings	109	K'kree		
@@ -195,6 +198,7 @@ AoCS1	History	119	K'kree
 AoCS1	Unification Of Kirur	120	K'kree		
 AoCS1	Lords Of Thunder	123	K'kree		
 AoCS1	Travellers	124	K'kree		
+AoCS1	Travellers	124	Sophonts		K'kree
 AoCS1	Patriarchy	124	K'kree		Travellers
 AoCS1	Social Standing (SOC)	124	K'kree		Travellers
 AoCS1	Servant-Of-Rankholder	125	K'kree		Travellers
@@ -285,7 +289,7 @@ AoCS1	Faithful Shield Robotic Escort Fighter	166	Small Craft
 AoCS1	Faithful Shield Robotic Escort Fighter	166	K'kree		Small Craft
 AoCS1	K'kree In Traveller	168	Setting		
 AoCS1	K'kree In Traveller	168	K'kree		
-AoCS1	Vargr	169	Sophont		
+AoCS1	Vargr	169	Sophonts		
 AoCS1	Physiology	169	Vargr		
 AoCS1	Lifespan	171	Vargr		
 AoCS1	Diet	171	Vargr		
@@ -321,6 +325,7 @@ AoCS1	In The Imperium	178	Vargr
 AoCS1	Vargr In The Imperium	178	Setting		
 AoCS1	Non-Verbal Communication	178	Vargr		
 AoCS1	Travellers	179	Vargr		
+AoCS1	Travellers	179	Sophonts		Vargr
 AoCS1	Charisma (CHA)	179	Vargr		Travellers
 AoCS1	Charisma (CHA)	179	Rules		Characteristic
 AoCS1	Starting Age	179	Vargr		Travellers
@@ -460,7 +465,7 @@ AoCS1	Aerounkhu Packet	238	Vargr		Ships
 AoCS1	Aerounkhu Packet	238	Ships		
 AoCS1	Leklun Corvette	240	Vargr		Ships
 AoCS1	Leklun Corvette	240	Ships		
-AoCS1	Zhodani	242	Sophont		
+AoCS1	Zhodani	242	Sophonts		
 AoCS1	Birth Of The Zhodani	242	Zhodani		
 AoCS1	Physiology	243	Zhodani		
 AoCS1	Society	243	Zhodani		
@@ -483,6 +488,7 @@ AoCS1	Guard Organisation	249	Zhodani
 AoCS1	Security	252	Zhodani		
 AoCS1	Intelligence	252	Zhodani		
 AoCS1	Travellers	253	Zhodani		
+AoCS1	Travellers	253	Sophonts		Zhodani
 AoCS1	Starting Age	253	Zhodani		Travellers
 AoCS1	Social Classification	253	Zhodani		Travellers
 AoCS1	Noble Titles	253	Zhodani		Travellers

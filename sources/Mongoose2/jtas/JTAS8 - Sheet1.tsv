@@ -41,7 +41,8 @@ JTAS8	Julian Hartarn	87	Person
 JTAS8	Missy Mitchell	89	Person		
 JTAS8	Candy	90	Robot		
 JTAS8	BB-2 Nuclear Powered Bus	96	Vehicle		
-JTAS8	Halkans	98	Sophont		
+JTAS8	Halkans	98	Sophonts		
+JTAS8	Travellers	103	Sophonts		Halkans
 JTAS8	Halka, Menorial	98	System	No	
 JTAS8	Care Package	104	Adventure		
 JTAS8	Canisus, Star Lane	104	System	No	

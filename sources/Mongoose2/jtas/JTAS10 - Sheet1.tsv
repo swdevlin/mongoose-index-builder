@@ -33,7 +33,8 @@ JTAS10	Hunting and Preparing Food	53	Setting
 JTAS10	Dania Jereua, Professor	58	Encounter		
 JTAS10	Dania Jereua, Professor	58	Person		
 JTAS10	Rek-Shons, Chant	58	System	No	
-JTAS10	Nenlat	61	Sophont		
+JTAS10	Nenlat	61	Sophonts		
+JTAS10	Travellers	68	Sophonts		Nenlat
 JTAS10	Deneb, Usani	61	System	No	
 JTAS10	Filter Suit, Nenlat	69	Central Supply		
 JTAS10	Voice Box, Nenlat	70	Central Supply		

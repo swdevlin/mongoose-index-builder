@@ -71,6 +71,7 @@ AoCS2	Companion Animals	122	Solomani		Central Supply
 AoCS2	Three-barrel Mortar	121	Weapon		Heavy
 AoCS2	Playing a Solomani	123	Setting		
 AoCS2	Travellers	123	Solomani		
+AoCS2	Travellers	123	Sophonts		Solomani
 AoCS2	Draft	128	Solomani		Travellers
 AoCS2	Career Summary Table	129	Solomani		Travellers
 AoCS2	Party	130	Solomani		Travellers
@@ -142,6 +143,7 @@ AoCS2	Flight Drug	185	Droyne		Central Supply
 AoCS2	Mechanical Wings	185	Droyne		Central Supply
 AoCS2	Psionic Drugs	186	Droyne		
 AoCS2	Travellers	187	Droyne		
+AoCS2	Travellers	187	Sophonts		Droyne
 AoCS2	Flight	188	Droyne		Skills
 AoCS2	Flight	188	Skills		Droyne
 AoCS2	Appeal	188	Droyne		Skills
@@ -248,6 +250,7 @@ AoCS2	Hiver Ballistic Vest	254	Armour
 AoCS2	Hiver Ballistic Jacket	254	Armour		
 AoCS2	Hiver Ballistic Helmet	254	Armour		
 AoCS2	Travellers	255	Hiver		
+AoCS2	Travellers	255	Sophonts		Hiver
 AoCS2	Resolve (RES)	255	Hiver		Travellers
 AoCS2	Resolve (RES)	255	Rules		Characteristic
 AoCS2	Deficiency Diseases	255	Hiver		Travellers

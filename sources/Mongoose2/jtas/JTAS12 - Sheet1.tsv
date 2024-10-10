@@ -11,6 +11,7 @@ JTAS12	Esrianka Erling	12	Person
 JTAS12	Mao	13	Person		
 JTAS12	Triplebrick	15	Ship		
 JTAS12	Caprisaps	19	Sophont		
+JTAS12	Travellers	22	Sophont		Caprisaps
 JTAS12	Milo Van Ulrik	24	Patron		
 JTAS12	Milo Van Ulrik	24	Person		
 JTAS12	Excelsior II Racing Yacht	29	Ship		
@@ -55,10 +56,10 @@ JTAS12	Campaign Bloat	52	Setting
 JTAS12	Erline Home System	57	Adventure		
 JTAS12	Deepnight Revelation	57	Adventure	No	
 JTAS12	Zorkote Light Cruiser	73	Ship		
-JTAS12	Geonee	73	Sophont	No	
 JTAS12	Gorte-Class Battle Rider	78	Ship		
 JTAS12	Gorte-Class Battle Tender	84	Ship		
 JTAS12	Hhkar	90	Sophont		
+JTAS12	Travellers	99	Sophont		Hhkar
 JTAS12	Translator Pad, Hhkar	102	Central Supply		
 JTAS12	Hrrak!k Battle Axe	102	Weapon		Melee
 JTAS12	Sraaa!k Gauss Rifle	103	Weapon		Slug Rifles

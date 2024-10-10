@@ -14,7 +14,8 @@ JTAS7	Compensator	32	Weapon		Accessories
 JTAS7	Standard Cases	33	Weapon		
 JTAS7	Executive Cases	35	Weapon		
 JTAS7	Tactical Cases	36	Weapon		
-JTAS7	Ithklur	37	Sophont		
+JTAS7	Ithklur	37	Sophonts		
+JTAS7	Travellers	41	Sophonts		Ithklur
 JTAS7	Hive Federation	37	Polity	No	
 JTAS7	Kar’wyikh	47	Encounter		
 JTAS7	Syoisuis	47	Aslan		Clan

@@ -65,7 +65,8 @@ JTAS1	Styryx	48	Person	No
 JTAS1	Gavin	48	Person	No	
 JTAS1	Paulo III	48	Person	No	
 JTAS1	Strephon Aella Alkhalikoi, Emperor	48	Person	No	
-JTAS1	Dynchia	49	Sophont		
+JTAS1	Dynchia	49	Sophonts		
+JTAS1	Travellers	49	Sophonts		Dynchia
 JTAS1	Burst Lasers	56	High Guard		Turrets
 JTAS1	Smuggler's Luck	57	Setting		
 JTAS1	Fake Drive Components	64	High Guard		
@@ -90,7 +91,8 @@ JTAS1	Gaakuuru	104	Person
 JTAS1	Assault Rocket Launcher	106	Weapon		Slug Rifles
 JTAS1	Piracy on the Spinward Main	108	Setting		
 JTAS1	Thanber, Querion	111	System		
-JTAS1	Girug’kagh	112	Sophont		
+JTAS1	Girug’kagh	112	Sophonts		
+JTAS1	Travellers	115	Sophonts		Girug’kagh
 JTAS1	Kagh'kir, Kirarurr!ka	112	System		
 JTAS1	Light Patrol Vehicle	117	Vehicle		
 JTAS1	Light APC	120	Vehicle		

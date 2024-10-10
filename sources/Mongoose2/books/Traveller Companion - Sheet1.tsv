@@ -7,7 +7,8 @@ TC	Sanity (STY)	8	Rules		Characteristic
 TC	Social Standing (SOC)	9	Rules	No	Characteristic
 TC	Traveller Creation	13	Rules		
 TC	Maximum Terms	13	Rules		
-TC	Bwap	14	Sophont	No	
+TC	Bwap	14	Sophonts	No	
+TC	Travellers	14	Sophonts	No	Bwap
 TC	Package-based Creation	15	Rules		
 TC	Point Buy System	22	Rules		
 TC	Affinity	25	Rules		

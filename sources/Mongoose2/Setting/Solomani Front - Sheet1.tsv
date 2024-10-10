@@ -13,7 +13,7 @@ SF	Travellers	10	Sophonts		Ape
 SF	Gurungan	11	Sophonts		
 SF	Travellers	12	Sophonts		Gurungan
 SF	Weeven	13	Sophonts		
-SF	Ladybug	14	Sophonts		
+SF	Ladybug	12	Sophonts		
 SF	Travellers	12	Sophonts		Ladybug
 SF	Karima Delgado, Duchess	16	Person		
 SF	Kieran Adair, Archduke	16	Person		
@@ -421,7 +421,7 @@ SF	Balboa, Ziusudra	289	Systems
 SF	Amiens, Ziusudra	289	Systems		
 SF	Scathe, Ziusudra	289	Systems		
 SF	Solomani Catholic Church	289	Solomani		
-SF	Ladybugs	289	Sophonts		
+SF	Ladybug	289	Sophonts		
 SF	Ziusudra, Ziusudra	290	Systems		
 SF	Regulus, Alpha Crucis	291	Subsectors		
 SF	Daboyel, Regulus	291	Systems	No	
