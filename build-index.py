@@ -132,6 +132,8 @@ def add_subject(document, subject, indent):
 
 	if len(parts) == 2:
 		paragraph = document.add_paragraph()
+		if indent:
+			paragraph.paragraph_format.left_indent = Cm(indent)
 		subject_text = paragraph.add_run(parts[0])
 		subject_text.font.size = font_size
 	paragraph = document.add_paragraph()
@@ -207,6 +209,7 @@ def parse_topics(source, topics):
 		# adjust Mongoose's proper use of ’
 		row['Type'] = row['Type'].replace('’', "'")
 		row['Topic'] = row['Topic'].replace('’', "'")
+
 		for key in TYPE_CORRECTIONS:
 			if row['Type'] == key:
 				row['Type'] = TYPE_CORRECTIONS[key]
@@ -218,7 +221,9 @@ def parse_topics(source, topics):
 		subject = row['Topic']
 		group = row.get('Group', None)
 		if group:
+			# adjust Mongoose's proper use of ’
 			group = group.replace('’', "'")
+
 			group_key = (row['Type'], group)
 			if group_key not in topics:
 				topics[group_key] = {
