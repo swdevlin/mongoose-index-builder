@@ -131,6 +131,10 @@ topics = {
         "id": "Vargr",
         "description": "This category includes entries pertaining to the Vargr."
     },
+    "Vegan": {
+        "id": "Vegan",
+        "description": "This category includes entries pertaining to the Vegans and the Vegan Autonomous District."
+    },
     "Vehicle Workshop": {
         "id": "VehicleWorkshop",
         "description": "This category covers vehicle construction and rules."
