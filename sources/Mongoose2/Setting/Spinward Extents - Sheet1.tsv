@@ -1,0 +1,356 @@
+Document	Topic	Page	Type	Primary	Group
+SE	Bases	2	Setting		
+SE	The Beyond	3	Sectors		
+SE	Principality of Bruhkarr	6	Polity		
+SE	Corellan League	7	Polity		
+SE	Corellan League Star Fleet	10	Setting		
+SE	Heavy Scout-Class Acrux Heavy Cruiser	11	Ships		
+SE	Gryphon Heavy Fighter	12	Small Craft		
+SE	Gaja Assault Boat	12	Small Craft		
+SE	Gaadee Transport	12	Small Craft		
+SE	Gwydion Strike Fighter	12	Small Craft		
+SE	Ghost Spy Boat	12	Small Craft		
+SE	Hefrin Colony	22	Polity		
+SE	I’Sred Protectorate	23	Polity		
+SE	Sred*Ni Biosphere	25	Central Supply		
+SE	Sred*Ni BioStill	25	Central Supply		
+SE	Sred*Ni BioSuit	25	Personal Protection		
+SE	I’sred Fireship	27	Ships		
+SE	Sred*Ni Excursion Boat	30	Small Craft		
+SE	Katanga Empire	31	Polity		
+SE	Monarchy of Lod	32	Polity		
+SE	Heavy Scout-Class Dragon Destroyer	34	Ships		
+SE	Duchy of Mapepire	39	Polity		
+SE	Mapepire Viper Interceptor	40	Ships		
+SE	Nakris Confederation	43	Polity		
+SE	Stormhaven Republic	44	Polity		
+SE	Storm Knights	45	Setting	No	
+SE	Zydarian Codominium	45	Polity		
+SE	Star Legion	46	Setting		
+SE	Gateway Consortium	47	Corporation		
+SE	Kraken Heavy Industries Consortium (KHI)	48	Corporation		
+SE	Shalukin Consortium	49	Corporation		
+SE	Web Edge Consortium	49	Corporation		
+SE	Storm Knights	50	Setting		
+SE	Aslan Expeditions Timeline	51	Setting		
+SE	Storm Knight	52	Careers		
+SE	Order of Thunder	54	Careers		Storm Knight
+SE	Order of Inconstant Star	56	Careers		Storm Knight
+SE	Order of Shadows	58	Careers		Storm Knight
+SE	Katar Light Fighter	62	Small Craft		
+SE	Mule Utility Tug	62	Small Craft		
+SE	Starfighter Starship	63	Ships		
+SE	Scimitar-Class Frigate	63	Ships		
+SE	Aliens of the Beyond	72	Setting		
+SE	Aniyun	72	Sophonts		
+SE	Travellers	74	Sophonts		Aniyun
+SE	Ewurmer	75	Sophonts		
+SE	Ewurmer Cleaner	76	Bestiary		
+SE	Ewurmer Worker	76	Bestiary		
+SE	Ewurmer Warrior	76	Bestiary		
+SE	Gmina	77	Sophonts		
+SE	Travellers	78	Sophonts		Gmina
+SE	Kemlae	78	Sophonts		
+SE	Travellers	80	Sophonts		Kemlae
+SE	Ktiauao	81	Sophonts		
+SE	Travellers	82	Sophonts		Ktiauao
+SE	Mal’Gnar	84	Sophonts		
+SE	Travellers	84	Sophonts		Mal’Gnar
+SE	Sred*Ni	85	Sophonts		
+SE	Sred*Ni Breeder	87	Bestiary		
+SE	Sred*Ni Healer	87	Bestiary		
+SE	Sred*Ni Warrior	87	Bestiary		
+SE	Sred*Ni Leader	87	Bestiary		
+SE	Sred*Ni Merchant	88	Bestiary		
+SE	Sred*Ni Sage	88	Bestiary		
+SE	Sred*Ni Technician	88	Bestiary		
+SE	Sred*Ni Warrior	88	Bestiary		
+SE	Teakhea	88	Sophonts		
+SE	Travellers	88	Sophonts		Teakhea
+SE	Mapepire, The Beyond	91	Subsectors		
+SE	Barba Amarilla, Mapepire	93	Systems		
+SE	Beaumonde, Mapepire	93	Systems		
+SE	Barba Amarilla, Mapepire	93	Ancients		Site
+SE	Lilith, Mapepire	94	Systems		
+SE	Mapepire Balsayn, Mapepire	94	Systems		
+SE	Arabellatra Venes-Kincaid-Balsayn, Duchess	95	Person		
+SE	Liberty Hall, The Beyond	96	Subsectors		
+SE	Dikkengwep, Liberty Hall	96	Systems	No	
+SE	Aioaoa, Liberty Hall	98	Systems		
+SE	Bruhkarr, Liberty Hall	98	Systems		
+SE	Liberty Hall, Liberty Hall	98	Systems		
+SE	Katanga, The Beyond 	100	Subsectors		
+SE	Balleau, Katanga	102	Systems		
+SE	Katanga, Katanga	102	Systems		
+SE	Katangan Travellers	103	Rules		
+SE	Tartakover, Katanga	103	Systems		
+SE	Yangikent, Katanga	104	Systems		
+SE	Marrakesh, The Beyond	106	Subsectors		
+SE	Aueaiai, Marrakesh	108	Systems		
+SE	Mal’Gnar El, Marrakesh	108	Systems		
+SE	Mal’Gnar	108	Sophonts		
+SE	Marrakesh, Marrakesh	109	Systems		
+SE	Pritchard, Marrakesh	109	Systems		
+SE	Thoznaen, Marrakesh	110	Systems		
+SE	Corella, The Beyond	111	Subsectors		
+SE	Corella, Corella	113	Systems		
+SE	Garr, Corella	114	Systems		
+SE	Revelationist Congregation	114	Setting		
+SE	Jeremiahan Congregation of God	114	Setting	No	
+SE	Utopia, Corella	115	Systems		
+SE	Valhalla, Corella	115	Systems		
+SE	Geographos Foundation	115	Setting		
+SE	Pohlson’s Reaver	116	Bestiary		
+SE	Freya, The Beyond 	117	Subsectors		
+SE	Bran’s Cage, Freya	119	Systems		
+SE	Centrum, Freya	119	Systems		
+SE	Committee of Free Radicals (CFR)	119	Setting		
+SE	Committee for an Orderly Future (COF)	119	Setting		
+SE	Freya, Freya	120	Systems		
+SE	Mirandan Restoration Front (MRF)	120	Setting		
+SE	Jeremiah, Freya	121	Systems		
+SE	Nemesis, Freya	122	Systems		
+SE	Salin, Freya	122	Systems		
+SE	Jeremiahan Congregation of God	121	Setting		
+SE	Matriarch of Nemesis	122	Setting		
+SE	Salin, Freya	122	Ancients		Site
+SE	Katrina University Salin Archaeological Initiative (KUSAI)	122	Setting	No	
+SE	I’Sred*Ni Heptad, The Beyond	123	Subsectors		
+SE	Beriel, I’Sred*Ni Heptad	125	Systems		
+SE	I’Sred*Nihil, I’Sred*Ni Heptad	125	Systems		
+SE	Sastri, I’Sred*Ni Heptad	126	Systems		
+SE	Shalukin, I’Sred*Ni Heptad	126	Systems		
+SE	Florian, The Beyond	127	Subsectors		
+SE	Aacheron, Florian	127	Systems	No	
+SE	Aacheron, Florian	127	Ancients		Site
+SE	Lod, Florian	129	Systems		
+SE	Shikhyuryatre, Florian	129	Systems		
+SE	Iliisupashkashgek	130	Bestiary		
+SE	Web Edge, Florian	130	Systems		
+SE	Faer Godaedgivaezklae Corporation	130	Setting		
+SE	Zydar, The Beyond	131	Subsectors		
+SE	Atlantis, Zydar	133	Systems		
+SE	Keshto, Zydar	133	Systems		
+SE	Lyheric, Zydar	134	Systems		
+SE	Zydar, Zydar	135	Systems		
+SE	Nakris, The Beyond	136	Subsectors		
+SE	Gateway, Nakris	138	Systems		
+SE	Gateway Highport	138	Setting		
+SE	Nakris, Nakris	143	Systems		
+SE	Gwen Aarula-Baskins	143	Person		
+SE	Nekro Prion Disease	144	Setting		Disease
+SE	Nekro, Nakris	144	Systems		
+SE	Storm, The Beyond	145	Subsectors		
+SE	Wafoua Trading Company	145	Corporation		
+SE	Bar Shellan, Storm	147	Systems		
+SE	Mercuras, Storm	147	Systems		
+SE	Sant Rabloes, Storm	148	Systems		
+SE	Stormhaven, Storm	148	Systems		
+SE	Rabloeites	148	Setting		
+SE	Htearlaaoiyoya	148	Aslan		Clan
+SE	Treaty of Kaiear	148	Setting		
+SE	Xenogast, Storm	150	Systems		
+SE	Xenogast Biological Contaminant	150	Rules		Poisons
+SE	Delta Cephei, The Beyond	151	Subsectors		
+SE	Easakhou, Delta Cephei	153	Systems		
+SE	Delta Base, Delta Cephei	153	Systems		
+SE	Mefebit, Delta Cephei	154	Systems		
+SE	Teiykiea, Delta Cephei	154	Systems		
+SE	Spinward Drift, The Beyond	156	Subsectors		
+SE	Apparos, Spinward Drift	158	Systems		
+SE	Efflung, Spinward Drift	158	Systems		
+SE	Eromnek, Spinward Drift	159	Systems		
+SE	Gonzo, Spinward Drift	159	Systems		
+SE	Haes, Spinward Drift	159	Systems		
+SE	Renata the Heretic	160	Person		
+SE	Khiiszarbi, Spinward Drift	160	Systems		
+SE	Ghost Rift, The Beyond	161	Subsectors		
+SE	Clanheim, Ghost Rift	163	Systems		
+SE	Dacadad, Ghost Rift	163	Systems		
+SE	Goal Terminus, Ghost Rift	163	Systems		
+SE	Dacadadan Race	163	Setting		
+SE	The Patient	164	Setting		
+SE	Goblin’s Planet, Ghost Rift	164	Systems		
+SE	Turtsirho, Ghost Rift	165	Systems		
+SE	Vroekmozaas, Ghost Rift	166	Systems		
+SE	Siren, The Beyond	167	Subsectors		
+SE	Charanta, Siren	169	Systems		
+SE	Delcorre, Siren	170	Systems		
+SE	Siren, Siren	170	Systems		
+SE	Del Vastas Corporation	170	Systems		
+SE	Siren High Starport	171	Setting		
+SE	Aslani, The Beyond	176	Subsectors		
+SE	Eteasteah, Aslani	178	Systems		
+SE	Htoleakh, Aslani	178	Systems		
+SE	Layeaukhtyei, Aslani	180	Systems		
+SE	Khteiaueaou, Aslani	180	Systems		
+SE	Taleryushi-Class Light Fighter	181	Small Craft		
+SE	Taleryushi-Class Light Fighter	181	Aslan		Small Craft
+SE	Fyalraiea-Class Pinnace	181	Small Craft		
+SE	Fyalraiea-Class Pinnace	181	Aslan		Small Craft
+SE	KhtesiaI Spy Ship	181	Ships		
+SE	KhtesiaI Spy Ship	181	Aslan		Ships
+SE	Yurletyashi-Class Frigate	181	Ships		
+SE	Yurletyashi-Class Frigate	181	Aslan		Ships
+SE	Beyond Rumours and Legends	189	Rules		Random Table
+SE	Vanguard Reaches	190	Sectors		
+SE	Altarean Confederation	192	Polity		
+SE	Murian Pulse Laser	193	High Guard		Bays
+SE	Altarean External Trade Service Merchantman	194	Ships		
+SE	Altarean External Exploration Service Scout	194	Ships		
+SE	Eslyat Magistracy	203	Polity		
+SE	Jarnac Pashalic	205	Polity		
+SE	Hyperion League	206	Polity		
+SE	Kajaani Triumvirate	207	Polity		
+SE	Tellerian Cluster	209	Setting		
+SE	Trelyn Domain	211	Polity		
+SE	Pan-Melesien Company	212	Corporation	No	
+SE	Apollo-Class Battlecruiser	215	Ships		
+SE	Zhodani Consulate Colonnade Province	220	Polity		
+SE	Allarton Corporation	221	Corporation		
+SE	Diadem Trade League	223	Corporation		
+SE	Eli	224	Setting		
+SE	Hyperion Interstellar Services	225	Setting		
+SE	Institute for Geophysical Studies (IGS)	225	Setting		
+SE	IGS RUNABOUT	226	Small Craft		
+SE	Explorer-Class IGS SCIENCE SHIP	226	Ships		
+SE	Discovery-Class IGS SCIENCE SHIP	226	Ships		
+SE	Portmanteau Shipping Services (PSS)	232	Corporation		
+SE	Springbok-Class Courier	232	Ships		
+SE	Atrephari	236	Sophonts		
+SE	Atrephari	237	Bestiary		
+SE	Atrephar	236	Systems		
+SE	Eslyat	238	Sophonts		
+SE	Travellers	239	Sophonts		Eslyat
+SE	Freni	241	Sophonts		
+SE	Travellers	242	Sophonts		Freni
+SE	Ghenani	244	Sophonts		
+SE	Travellers	246	Sophonts		Ghenani
+SE	Murian	246	Sophonts		
+SE	Travellers	248	Sophonts		Murian
+SE	Resavolk	249	Sophonts		
+SE	Travellers	250	Sophonts		Resavolk
+SE	Thonane	250	Sophonts		
+SE	Travellers	251	Sophonts		Thonane
+SE	Veghu	252	Sophonts		
+SE	Veghu	252	Bestiary		
+SE	Zhdianshe	253	Sophonts		
+SE	Travellers	254	Sophonts		Zhdianshe
+SE	Issoudun, Vanguard Reaches	255	Subsectors		
+SE	Chtanja, Issoudun	257	Systems		
+SE	Chyia Nedlkel, Issoudun	258	Systems		
+SE	Issoudun, Issoudun	259	Systems		
+SE	Tarasca, Issoudun	260	Systems		
+SE	Yrfrzhielia, Issoudun	261	Systems		
+SE	Yrfrzhielia Motor Neuron Disease	262	Setting		Disease
+SE	Andwella, Vanguard Reaches	263	Subsectors		
+SE	Andwella, Andwella	265	Systems		
+SE	Cinhoss, Andwella	266	Systems		
+SE	Gyatsa, Cinhoss	267	Systems		
+SE	Gyatsa, Cinhoss	267	Ancients		Site
+SE	Turan, Cinhoss	268	Systems		
+SE	Turan, Cinhoss	268	Ancients		Site
+SE	Coos, Vanguard Reaches	269	Subsectors		
+SE	Pan-Melesien Company	271	Corporation	No	
+SE	Dysitin Prime, Coos	271	Systems		
+SE	Church of Dysitin	271	Setting		
+SE	Emerling, Coos	272	Systems		
+SE	Emerling Plague	272	Setting		Disease
+SE	Huad Yai, Coos	274	Systems		
+SE	Karelian, Coos	275	Systems		
+SE	Maya, Coos	276	Systems		
+SE	Olivia Rayland	277	Person		
+SE	Trelyn, Vanguard Reaches	278	Subsectors		
+SE	Bauxia, Trelyn	280	Systems	No	
+SE	Blijan, Trelyn	280	Systems		
+SE	Inchusela, Trelyn	281	Systems		
+SE	Trelyn Vrra, Trelyn	282	Systems		
+SE	Varen’s Planet, Trelyn	283	Systems		
+SE	Dlieblafia, Vanguard Reaches	285	Subsectors		
+SE	Dlieblafia, Dlieblafia	287	Systems		
+SE	Jorhat, Dlieblafia	288	Systems		
+SE	Nielkladlief, Dlieblafia	289	Systems		
+SE	Qiazianchezh, Dlieblafia	290	Systems		
+SE	Diadem, Vanguard Reaches	291	Subsectors		
+SE	Castrum, Diadem	293	Systems		
+SE	Finzi’s Niche, Diadem	293	Systems		
+SE	Guimaca, Diadem	294	Systems		
+SE	Red God Society	294	Setting		
+SE	Htyerle, Diadem	295	Systems		
+SE	Traxler, Diadem	295	Systems		
+SE	Tiffanye, Diadem	296	Systems		
+SE	Tiffanye University System	296	Setting		
+SE	Hyperion, Vanguard Reaches	297	Subsectors		
+SE	Boreal, Hyperion	299	Systems		
+SE	Digenis Akritas, Hyperion	300	Systems		
+SE	Enterprise, Hyperion	301	Systems		
+SE	Hyperion, Hyperion	302	Systems		
+SE	Patina Freedom Front (PFF)	302	Setting		
+SE	Eslyat, Vanguard Reaches	303	Subsectors		
+SE	Durnal, Eslyat	303	Systems	No	
+SE	Caenard, Eslyat	305	Systems		
+SE	Denmordan, Eslyat	306	Systems		
+SE	Elliador, Eslyat	307	Systems		
+SE	Sesshayr	308	Setting		
+SE	Stynshayr, Eslyat	308	Systems		
+SE	Yavakrbi, Vanguard Reaches	309	Subsectors		
+SE	Drieglechzhen, Yavakrbi	311	Systems		
+SE	Rumio, Yavakrbi	311	Systems		
+SE	Yavakrbi, Yavakrbi	312	Systems		
+SE	Four Corners, Vanguard Reaches	313	Subsectors		
+SE	Hejaz, Four Corners	313	Systems		
+SE	Hoganas, Four Corners	315	Systems		
+SE	Nessuro, Four Corners	316	Systems		
+SE	Velva, Four Corners	317	Systems		
+SE	Nessuro Allergen	317	Setting		Disease
+SE	Harmony, Vanguard Reaches	318	Subsectors		
+SE	Aubusson, Harmony	320	Systems		
+SE	Baixing, Harmony	320	Systems		
+SE	Cabranidi, Harmony	322	Systems		
+SE	Treegator	323	Bestiary		
+SE	Nightstalker	323	Bestiary		
+SE	Slimetulip	324	Bestiary		
+SE	Cotinga, Harmony	324	Systems		
+SE	Cabranidi Corporation	324	Corporation		
+SE	Harmony, Harmony	326	Systems		
+SE	Kajaani, Vanguard Reaches	327	Subsectors		
+SE	Eufalag, Kajaani	327	Systems		
+SE	Kajaani, Kajaani	329	Systems		
+SE	Pernikka, Kajaani	330	Systems		
+SE	Tizayuca, Kajaani	331	Systems		
+SE	Helix, Vanguard Reaches	332	Subsectors		
+SE	Helix Nebula	332	Setting		
+SE	Whekau, Helix	332	Systems		
+SE	Melvina, Helix	334	Systems		
+SE	Altarean, Vanguard Reaches	335	Subsectors		
+SE	Arcturus, Altarean	337	Systems		
+SE	Matemoris, Altarean	338	Systems		
+SE	Velnite Elnivar, Altarean	338	Systems		
+SE	Old Colonies, Vanguard Reaches	340	Subsectors		
+SE	Alriyhkauwa, Old Colonies	342	Systems		
+SE	Argala, Old Colonies	342	Systems	No	
+SE	Dryburab, Old Colonies	342	Systems	No	
+SE	Doobs, Old Colonies	342	Systems	No	
+SE	Creswell Crags, Old Colonies	342	Systems		
+SE	Low-Tech Spacecraft	344	High Guard		
+SE	Primative Hull	344	High Guard		
+SE	Solar Panels	344	High Guard		
+SE	Solar Panel Coating	344	High Guard		
+SE	Solar Sails	344	High Guard		
+SE	Sterling Fission Power Plant	345	High Guard		
+SE	Plasma Drives	345	High Guard		
+SE	Advantages	345	High Guard		Plasma Drives
+SE	Disadvantages	345	High Guard		Plasma Drives
+SE	Planetary Operations	345	High Guard		
+SE	Hoatzin, Old Colonies	346	Systems		
+SE	Jarnac, Vanguard Reaches	347	Subsectors		
+SE	Asgari, Jarnac	347	Systems		
+SE	Jarnac, Jarnac	350	Systems		
+SE	Uquay, Jarnac	351	Systems		
+SE	Xiao, Jarnac	352	Systems		
+SE	Type-E Fighter	352	Small Craft		
+SE	Gigaraptor	353	Bestiary		
+SE	Type-V Attack Ship	354	Ships		
+SE	Type-X Light Cruiser	354	Ships		
+SE	Eslyat Sparkle Ship-of-the-Line	354	Ships		
+SE	Vanguard Rumours and Legends	366	Rules		Random Table

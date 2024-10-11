@@ -18,6 +18,7 @@ books = {
         {"title": "The Deep and the Dark", "abbreviation": "TDatD"},
         {"title": "Ships of the Reach", "abbreviation": "SotR"},
         {"title": "Solomani Front", "abbreviation": "SF"},
+        {"title": "Spinward Extents", "abbreviation": "SE"},
         {"title": "Sword Worlds", "abbreviation": "SW"},
         {"title": "The Glorious Empire", "abbreviation": "TGE"},
         {"title": "The Third Imperium", "abbreviation": "TTI"},

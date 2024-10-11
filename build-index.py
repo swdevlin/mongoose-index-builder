@@ -32,33 +32,38 @@ GROUP_CORRECTIONS = {
 
 # Bulk correct entries with the incorrect type
 TYPE_CORRECTIONS = {
+	'Adventure': 'Adventures',
 	'Armour': 'Personal Protection',
 	'Career': 'Careers',
 	# Not sure a list helps people, so moving them to setting
 	'Corporation': 'Setting',
 	'Megacorporation': 'Setting',
 	'Megacorporations': 'Setting',
+
 	# all drones are robots
 	'Drone': 'Robots',
 	'Drones': 'Robots',
-	# Not sure person needs to be its own category; adding them to setting for the time being
+
     "K'Kree": "K'kree",
+	# Not sure person needs to be its own category; adding them to setting for the time being
 	'Person': 'Setting',
+
+	'Robot': 'Robots',
+
 	# Don't want these pulled out, but might someday, so....
 	'Sectors': 'Setting',
 	'Sector': 'Setting',
 	'Subsectors': 'Setting',
 	'Subsector': 'Setting',
-	'Skill': 'Skills',
-	'Robot': 'Robots',
+
 	'Ship': 'Ships',
-	'Sophont': 'Sophonts',
+	'Skill': 'Skills',
 	'small craft': 'Small Craft',
 	'Small craft': 'Small Craft',
+	'Sophont': 'Sophonts',
 	'System': 'Systems',
 	'Vehicle': 'Vehicles',
-	'Adventure': 'Adventures',
-	'Skill': 'Skills',
+	'Weapons': 'Weapon',
 }
 
 
