@@ -366,6 +366,10 @@
 	let currentIndex = -1;
 	let matches = [];
 
+	const categories = document.querySelectorAll('h2.category-header');
+	let currentHidden = null;
+ 	const stickyHeader = document.getElementById('sticky-header');
+
 	const clearHighlights = () => {
 		const highlights = document.querySelectorAll('.highlight');
 		highlights.forEach(function (highlight) {
@@ -408,10 +412,35 @@
 		}
 	}
 
+	const adjustCategory = () => {
+		let lastY = 0;
+		let intervalId = setInterval(() => {
+			if (window.scrollY === lastY) {
+				let index = null;
+				for (const i in categories) {
+					const rect = categories[i].getBoundingClientRect();
+					if (rect.top > 60)
+						break;
+					index = i;
+				}
+				if (index) {
+					stickyHeader.textContent = categories[index].innerText;
+					currentHidden = parseInt(index);
+					stickyHeader.style.display = 'block';
+				} else {
+					currentHidden = null;
+				}
+				clearInterval(intervalId);
+			} else
+				lastY = window.scrollY;
+        }, 100);
+	};
+
 	const scrollToMatch = () => {
 		if (currentIndex !== -1 && matches.length > 0) {
 			const currentMatch = matches[currentIndex];
 			currentMatch.scrollIntoView({behavior: 'smooth', block: 'center'});
+			adjustCategory();
 		}
 	};
 
@@ -465,10 +494,6 @@
             bookModal.style.display = 'none';
         }
     });
-
-	const categories = document.querySelectorAll('h2.category-header');
-	let currentHidden = null;
- 	const stickyHeader = document.getElementById('sticky-header');
 
 	const observer = new IntersectionObserver((entries) => {
 		entries.forEach(entry => {
