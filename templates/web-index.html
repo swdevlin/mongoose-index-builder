@@ -107,6 +107,58 @@
 			display: flex;
 			justify-content: space-between;
 		}
+      .sticky-header {
+            position: fixed;
+            top: 50px;
+            left: 0;
+            right: 0;
+            background-color: #333;
+            padding: 5px 10px;
+			color: #e10600; /* Traveller red */
+			font-family: "Orbitron", sans-serif;
+            z-index: 999;
+            font-size: 14px;
+            display: none;
+        }
+
+       .modal {
+            display: none; /* Hidden by default */
+            position: fixed;
+            z-index: 100;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.4);
+            color: white;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .modal-content {
+            background-color: #222;
+            padding: 20px;
+            border-radius: 10px;
+            width: 80%;
+            max-width: 800px;
+            text-align: center;
+        }
+
+        .modal-content .close {
+            color: #aaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        .modal-content .close:hover,
+        .modal-content .close:focus {
+            color: #e10600;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
 
 		input[type="text"] {
 			padding: 5px;
@@ -151,14 +203,64 @@
 </head>
 <body>
 <header>
-	<div class="header-title">Mongoose Traveller 2<sup>nd</sup> Edition Grand Index</div>
+	<div class="header-title">MgT2 Grand Index</div>
 	<div>
+        <i class="fas fa-book" id="book-icon" style="cursor: pointer; margin-right: 10px;"></i>
 		<label for="search">Search: </label>
 		<input type="text" id="search" placeholder="Type to search...">
 		<button id="prev"><i class="fas fa-arrow-left"></i></button>
 		<button id="next"><i class="fas fa-arrow-right"></i></button>
 	</div>
 </header>
+<div id="book-modal" class="modal">
+    <div class="modal-content">
+        <span class="close" id="close-modal">&times;</span>
+		<div style="display: flex; justify-content: space-between;">
+			<div style="width: 45%;">
+				<h3>Core Books</h3>
+				<table style="width: 100%;">
+					{%- for book in books['Core Books'] -%}
+					<tr>
+						<td>{{ book.title }}</td>
+						<td>{{ book.abbreviation }}</td>
+					</tr>
+					{%- endfor -%}
+				</table>
+				<h3>Charted Space</h3>
+				<table style="width: 100%;">
+					{%- for book in books['Charted Space'] -%}
+					<tr>
+						<td>{{ book.title }}</td>
+						<td>{{ book.abbreviation }}</td>
+					</tr>
+					{%- endfor -%}
+				</table>
+				<h3>Journal of the Travellers' Aid Society</h3>
+				<table style="width: 100%;">
+					{%- for book in books["Journal of the Travellers' Aid Society"] -%}
+					<tr>
+						<td>{{ book.title }}</td>
+						<td>{{ book.abbreviation }}</td>
+					</tr>
+					{%- endfor -%}
+				</table>
+			</div>
+			<div style="width: 45%;">
+				<h3>Adventures</h3>
+				<table style="width: 100%;">
+					{%- for book in books['Adventures'] -%}
+					<tr>
+						<td>{{ book.title }}</td>
+						<td>{{ book.abbreviation }}</td>
+					</tr>
+					{%- endfor -%}
+				</table>
+				</table>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="sticky-header" class="sticky-header"></div>
 <div class="content">
 	<div id="book-section">
 		<h2>Books</h2>
@@ -345,6 +447,58 @@
         previousMatch();
     }
 	});
+
+	const bookIcon = document.getElementById('book-icon');
+    const bookModal = document.getElementById('book-modal');
+    const closeModal = document.getElementById('close-modal');
+
+    bookIcon.addEventListener('click', () => {
+        bookModal.style.display = 'flex';
+    });
+
+    closeModal.addEventListener('click', () => {
+        bookModal.style.display = 'none';
+    });
+
+    window.addEventListener('click', (event) => {
+        if (event.target === bookModal) {
+            bookModal.style.display = 'none';
+        }
+    });
+
+	const categories = document.querySelectorAll('h2.category-header');
+	let currentHidden = null;
+ 	const stickyHeader = document.getElementById('sticky-header');
+
+	const observer = new IntersectionObserver((entries) => {
+		entries.forEach(entry => {
+			const currentIndex = Array.from(categories).indexOf(entry.target);
+			if (entry.boundingClientRect.top > 60)
+				return;
+			if (entry.isIntersecting) {
+				if (currentIndex === currentHidden) {
+					if (currentHidden > 0) {
+						currentHidden--;
+						stickyHeader.textContent = categories[currentHidden].innerText;
+					} else {
+						stickyHeader.style.display = 'none';
+						currentHidden = null;
+					}
+				}
+			} else {
+				currentHidden = currentIndex;
+				stickyHeader.textContent = categories[currentHidden].innerText;
+				stickyHeader.style.display = 'block';
+			}
+		});
+	}, {
+		root: null,
+		rootMargin: `-60px 0px 0px 0px`,
+		threshold: 0.1
+	});
+
+	categories.forEach(category => observer.observe(category));
+
 </script>
 </body>
 </html>
