@@ -3,6 +3,7 @@ books = {
         {"title": "Adventure Class Ships", "abbreviation": "ACS"},
         {"title": "Central Supply Catalogue", "abbreviation": "CSC"},
         {"title": "Core Rulebook", "abbreviation": "CRB"},
+        {"title": "Deep Space Exploration Handbook", "abbreviation": "DSEH"},
         {"title": "High Guard", "abbreviation": "HG"},
         {"title": "Robot Handbook", "abbreviation": "RH"},
         {"title": "Small Craft Catalog", "abbreviation": "SCC"},
@@ -21,6 +22,7 @@ books = {
         {"title": "Spinward Extents", "abbreviation": "SE"},
         {"title": "Sword Worlds", "abbreviation": "SW"},
         {"title": "The Glorious Empire", "abbreviation": "TGE"},
+        {"title": "The Great Rift", "abbreviation": "TGR"},
         {"title": "The Third Imperium", "abbreviation": "TTI"},
     ],
     "Journal of the Travellers' Aid Society": [

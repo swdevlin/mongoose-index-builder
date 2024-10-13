@@ -1,0 +1,147 @@
+Document	Topic	Page	Type	Primary	Group
+TGR	Operations	5	Setting		Rift
+TGR	Crossing	5	Setting		Rift
+TGR	Bases	6	Setting		Rift
+TGR	Islands Crossing	7	Setting		
+TGR	Riftspan Station	9	Setting		
+TGR	Chandler Station	9	Setting		
+TGR	Zuflucht, New Islands	9	Systems	No	
+TGR	Riftshore Navigation	9	Setting		
+TGR	Rift Research and Exploration Facility (RiftREF)	10	Setting		
+TGR	Kursae	11	Sophonts		
+TGR	Ascondi	12	Sophonts		
+TGR	Travellers	12	Sophonts		Ascondi
+TGR	Alo’hei	15	Sophonts		
+TGR	Ishlagu Calibration Point, Barker	17	Systems		
+TGR	The Havoc	17	Setting		
+TGR	Rinean Shoal	18	Setting		
+TGR	Jumpspace Reef	18	Setting		
+TGR	Jumpspace Shoals	18	Setting		
+TGR	Deeps	20	Setting		
+TGR	Emadi Deep	20	Setting		
+TGR	Fischer Trench	20	Setting		
+TGR	Jumpspace Trenches	21	Setting		
+TGR	Point XF-1402, Uantil	21	Systems		
+TGR	B1-DK	21	Setting		
+TGR	Gutterball	21	Setting		
+TGR	The Big Wreck, The Empty Void	22	Systems		
+TGR	Imoniege Gravitational Anomaly (IGA)	22	Setting		
+TGR	Corridor	23	Sectors		
+TGR	Khouth, Corridor	25	Subectors		
+TGR	Desolate, Khouth	26	Systems		
+TGR	Gzorraeth, Khouth	28	Systems		
+TGR	Khukish, Corridor	29	Subectors		
+TGR	Kaasu, Khukish	29	Systems		
+TGR	Adlarargish-Class Dreadnought-Monitor	32	Ships		
+TGR	Lemish, Corridor	36	Subectors		
+TGR	Aurolee, Corridor	37	Systems		
+TGR	Advanced Emission Comparator (AEC)	37	Setting		
+TGR	Aurole Lasers	37	High Guard		
+TGR	The Narrows, Corridor	39	Subectors		
+TGR	Dilub Rou, The Narrows	39	Systems		
+TGR	Long Shot, The Narrows	39	Systems		
+TGR	Ian, Corridor	42	Subectors		
+TGR	Antiquity, Ian	43	Systems		
+TGR	Raiga, Ian	43	Systems		
+TGR	Antiquity, Ian	43	Ancients		Site
+TGR	Strand, Corridor	45	Subectors		
+TGR	Angantyr's Foe	47	Bestiary		
+TGR	Depot, Strand	45	Systems	No	
+TGR	Ahngrim, Strand	48	Systems		
+TGR	Emfashi, Strand	48	Systems		
+TGR	Zudagim, Strand	48	Systems		
+TGR	Naadi, Corridor	49	Subectors		
+TGR	Farplace, Naadi	49	Systems		
+TGR	Uantil, Corridor	52	Subectors		
+TGR	Kiiguuroesa, Uantil	52	Systems		
+TGR	Shush, Corridor	54	Subectors		
+TGR	Shush, Shush	54	Systems		
+TGR	The Empty Void, Corridor	56	Subectors		
+TGR	Lasher, The Empty Void	56	Systems		
+TGR	Atu’l, Corridor	58	Subectors		
+TGR	Atu’l, Atu’l	58	Systems		
+TGR	Ashkiile Calibration Point	58	Setting		
+TGR	Rill, Atu’l	58	Systems		
+TGR	Chirpers	60	Sophonts	No	
+TGR	Khaahk	60	Bestiary		
+TGR	High Guardian Military Dirigible	61	Vehicles		
+TGR	Kivu, Corridor	62	Subectors		
+TGR	Center, Kivu	62	Systems		
+TGR	Uiolksdah, Kivu	62	Systems		
+TGR	Swiftstrike-Class Interceptor	64	Small Craft		
+TGR	Two Worlds, Corridor	65	Subectors		
+TGR	Boulderfield, Two Worlds	65	Systems		
+TGR	Iamshii-Class Mining Support Vessel	67	Ships		
+TGR	Esi-Obe, Two Worlds	70	Systems		
+TGR	Ishirdu, Two Worlds	70	Systems		
+TGR	Irdu	70	Sophonts	No	
+TGR	Ashishinipar, Corridor	71	Subectors		
+TGR	Ashishinipar, Ashishinipar	71	Systems		
+TGR	Tarin Sink, Ashishinipar	71	Systems	No	
+TGR	Tristira, Ashishinipar	71	Systems		
+TGR	Interplanetary Tug, Type  7	73	Ships		
+TGR	Angliar-Class Planetary Landing Shuttle	75	Ships		
+TGR	Sinta, Corridor	77	Subectors		
+TGR	Sinta, Sinta	79	Systems		
+TGR	Reftbreaker Modified Seeker	80	Ships		
+TGR	Sashrakusha, Corridor	82	Subectors		
+TGR	Lancian Cultural Region	82	Setting		
+TGR	Lancian Movement	82	Setting		
+TGR	Xapoqoz, Corridor	85	Systems		
+TGR	Zendiisica, Corridor	85	Systems		
+TGR	Zapoqi	85	Sophonts		
+TGR	Riftspan Reaches	86	Sectors		
+TGR	Aulryakh, Riftspan Reaches	87	Subectors		
+TGR	Triwayah, Aulryakh	89	Systems		
+TGR	Yolrilao, Aulryakh	89	Systems		
+TGR	Yorilao Farming Submarine	90	Vehicles		
+TGR	Yorilao Farming Submarine	90	Aslan		Vehicles
+TGR	Farming Submarine	91	Ships		
+TGR	Farming Submarine	91	Aslan		Ships
+TGR	Hwiwuiyo, Riftspan Reaches	93	Subectors		
+TGR	Elei’eah, Hwiwuiyo	95	Systems		
+TGR	Htyeh, Hwiwuiyo	95	Systems		
+TGR	Tyehlai, Riftspan Reaches	96	Subectors		
+TGR	Aoukeiwar, Tyehlai	96	Systems		
+TGR	Sae Iyfauhohua Ohloaftao Kauleaoikhaihaiiy (SIOK)	96	Aslan		
+TGR	Ewasya’, Riftspan Reaches	98	Subectors		
+TGR	Anellet Cloud	98	Setting		
+TGR	Trawo, Riftspan Reaches	99	Subectors		
+TGR	Eao, Trawo	99	Systems		
+TGR	Aokiylair, Riftspan Reaches	101	Subectors		
+TGR	Waikhta, Aokiylair	101	Systems		
+TGR	Wou’iwyar, Aokiylair	103	Systems		
+TGR	Ryuhleiea, Riftspan Reaches	104	Subectors		
+TGR	Iyakhoryah, Ryuhleiea	104	Systems		
+TGR	Ahlaowyarl	104	Aslan	No	Clan
+TGR	Eirakhtya	104	Aslan	No	Clan
+TGR	Youiar, Ryuhleiea	106	Systems		
+TGR	Iyhaseakh, Riftspan Reaches	107	Subectors		
+TGR	Ahoahea, Iyhaseakh	107	Systems		
+TGR	Dark Chasm Transit	107	Setting		
+TGR	Yuhiyah, Riftspan Reaches	109	Subectors		
+TGR	Khtyeai, Yuhiyah	109	Systems		
+TGR	Jikhyrleirla, Riftspan Reaches	111	Subectors		
+TGR	Ouohlolr, Jikhyrleirla	111	Systems		
+TGR	Uikhyrleirla, Jikhyrleirla	111	Systems		
+TGR	Hryehkhtyel, Riftspan Reaches	113	Subectors		
+TGR	Altiyai, Hryehkhtyel	113	Systems		
+TGR	Eaiyr, Hryehkhtyel	113	Systems		
+TGR	Alo’hei	113	Sophonts	No	
+TGR	Aohelroiao, Riftspan Reaches	115	Subectors		
+TGR	Hluarelai, Aohelroiao	115	Systems		
+TGR	Oyoiy, Aohelroiao	115	Systems		
+TGR	Ftyoauial, Riftspan Reaches	118	Subectors		
+TGR	Aouakh, Ftyoauial	118	Systems		
+TGR	Uaka, Ftyoauial	118	Systems		
+TGR	Ehaaiwyairl	118	Aslan	No	Clan
+TGR	Ioihleawa, Riftspan Reaches	121	Subectors		
+TGR	Ftuaktaol, Ioihleawa	121	Systems		
+TGR	Ityerleira, Ioihleawa	121	Systems		
+TGR	Tuistao, Riftspan Reaches	123	Subectors		
+TGR	Ktehrahe, Tuistao	123	Systems	No	
+TGR	Resoi, Tuistao	125	Systems		
+TGR	Staoiya, Tuistao	125	Systems		
+TGR	Wahtoikoeakh, Riftspan Reaches	126	Subectors		
+TGR	Hasawe’i, Wahtoikoeakh	128	Systems		
+TGR	Oisyasais, Wahtoikoeakh	128	Systems		
