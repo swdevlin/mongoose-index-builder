@@ -16,11 +16,12 @@ books = {
         {"title": "Behind the Claw", "abbreviation": "BtC"},
         {"title": "Bu and Embla's Guide", "abbreviation": "BaEG"},
         {"title": "Bu and Embla Visit Vrirhlanz", "abbreviation": "BaEVV"},
-        {"title": "The Deep and the Dark", "abbreviation": "TDatD"},
+        {"title": "Reft", "abbreviation": "Re"},
         {"title": "Ships of the Reach", "abbreviation": "SotR"},
         {"title": "Solomani Front", "abbreviation": "SF"},
         {"title": "Spinward Extents", "abbreviation": "SE"},
         {"title": "Sword Worlds", "abbreviation": "SW"},
+        {"title": "The Deep and the Dark", "abbreviation": "TDatD"},
         {"title": "The Glorious Empire", "abbreviation": "TGE"},
         {"title": "The Great Rift", "abbreviation": "TGR"},
         {"title": "The Third Imperium", "abbreviation": "TTI"},
@@ -44,8 +45,8 @@ books = {
         {"title": "Shadows of Sindal", "abbreviation": "SoS"},
         {"title": "Skandersvik", "abbreviation": "Sk"},
         {"title": "Solomani Adventure 1 – Mysteries on Arcturus Station", "abbreviation": "MoAS"},
+        {"title": "Stranded", "abbreviation": "St"},
         {"title": "The Pirates of Drinax", "abbreviation": "TPoD"},
         {"title": "The Trojan Reach", "abbreviation": "TRR"},
-        {"title": "Stranded", "abbreviation": "St"}
     ]
 }
