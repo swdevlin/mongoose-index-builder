@@ -25,6 +25,7 @@ books = {
         {"title": "The Glorious Empire", "abbreviation": "TGE"},
         {"title": "The Great Rift", "abbreviation": "TGR"},
         {"title": "The Third Imperium", "abbreviation": "TTI"},
+        {"title": "Touchstone & Afawahisa", "abbreviation": "TaA"},
     ],
     "Journal of the Travellers' Aid Society": [
         {"title": "Journal of the Travellers’ Aid Society 1-14", "abbreviation": "JTAS1-14"}
