@@ -9,6 +9,7 @@ books = {
         {"title": "Navy Campaign Sourcebook", "abbreviation": "NCS"},
         {"title": "Robot Handbook", "abbreviation": "RH"},
         {"title": "Small Craft Catalog", "abbreviation": "SCC"},
+        {"title": "The Imperial Navy", "abbreviation": "TIN"},
         {"title": "Traveller Companion", "abbreviation": "TC"},
         {"title": "Update 2022 FAQ", "abbreviation": "U2FAQ"},
         {"title": "Vehicle Handbook", "abbreviation": "VH"}

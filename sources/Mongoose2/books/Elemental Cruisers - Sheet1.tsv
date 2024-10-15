@@ -1,0 +1,65 @@
+Document	Topic	Page	Type	Primary	Group
+EC	Squadrons	5	Rules		
+EC	Task Forces	5	Rules		
+EC	Fleets	5	Rules		
+EC	Light Cruisers	5	High Guard		
+EC	Heavy Cruisers	5	High Guard		
+EC	Armoured Cruisers	5	High Guard		
+EC	Battlecruisers	5	High Guard		
+EC	Bombardment Cruisers	5	High Guard		
+EC	Escort Cruisers	5	High Guard		
+EC	Flag/Command Cruisers	5	High Guard		
+EC	Intervention Cruisers	6	High Guard		
+EC	Patrol Cruisers	6	High Guard		
+EC	Protected Cruisers	6	High Guard		
+EC	Rift Cruisers	6	High Guard		
+EC	Strike cruisers	6	High Guard		
+EC	Project CC-1061	13	Setting		
+EC	Amara-Class Main Hull	14	Ships		
+EC	Ghalalk-Class Main Hull	16	Ships		
+EC	Khumakirri-Class Main Hull	18	Ships		
+EC	Pod	20	High Guard		
+EC	Missile	21	High Guard		Pod
+EC	Fuel	22	High Guard		Pod
+EC	Hanger	23	High Guard		Pod
+EC	Marine Operations	24	High Guard		Pod
+EC	Torpedo	25	High Guard		Pod
+EC	Orbital Assault	26	High Guard		Pod
+EC	Fighter	27	High Guard		Pod
+EC	Forward Communications	28	High Guard		Pod
+EC	Skimkilukhuir-Class Naval Courier	29	Ships		
+EC	Exploration	31	High Guard		Pod
+EC	Intelligence Ops	32	High Guard		Pod
+EC	Amara-Class Heavy Armoured Cruiser	45	Ships		
+EC	GHALALK-CLASS ARMOURED CRUISER	56	Ships		
+EC	KHUMAKIRRI-CLASS LIGHT ARMOURED CRUISER	58	Ships		
+EC	Marine Contingents	64	Setting		
+EC	Personal Weaponry	67	Setting		
+EC	Navy Model Gauss Pistol	68	Weapons		Slug Pistol
+EC	Cutlass (Naval Issue)	68	Weapons		Melee
+EC	Naval Snub Pistol	69	Weapons		Slug Pistol
+EC	Naval Snub Carbine	69	Weapons		Slug Rifle
+EC	Shipboard Security Armour	70	Personal Protection		
+EC	Shipboard Working Dress	70	Personal Protection		
+EC	Naval Vacc Suit	71	Personal Protection		
+EC	Kimim AAR - Type 14 Secure Courtesy Assistance Unit	71	Robots		
+EC	Keshean GAA - Type 21 Ordnance Handling Robot	72	Robots		
+EC	Naasirka Model 899 - Security Support Robot	73	Robots		
+EC	Sub-Command Centre	74	High Guard		
+EC	Orbital Assault System (OAS)	74	High Guard		
+EC	Orbital Support System (OSS)	75	High Guard		
+EC	Orbital Bombardment	75	High Guard		Weapon Trait
+EC	Orbital Strike	75	High Guard		Weapon Trait
+EC	Spinal Mass Driver	76	High Guard		
+EC	Orbital Strike Mass Driver	76	High Guard		Bays
+EC	Orbital Strike Missile	76	High Guard		Bays
+EC	Readying Missile	77	High Guard		
+EC	Reconnaissance Probe	78	High Guard		
+EC	Integrated Long-Range Ordnance Delivery System (ILRODS)	78	High Guard		
+EC	Salvo Decoy	79	High Guard		Missiles
+EC	Multimode Decoy	79	High Guard		Missiles
+EC	Missile Ambush	79	High Guard		
+EC	Time-on-Target Salvo	80	High Guard		
+EC	Concentric Attack	80	High Guard		
+EC	Combining Advanced Missile Attacks	80	High Guard		
+EC	Advanced Missile Operations	79	High Guard		
