@@ -9,7 +9,6 @@ books = {
         {"title": "Navy Campaign Sourcebook", "abbreviation": "NCS"},
         {"title": "Robot Handbook", "abbreviation": "RH"},
         {"title": "Small Craft Catalog", "abbreviation": "SCC"},
-        {"title": "The Imperial Navy", "abbreviation": "TIN"},
         {"title": "Traveller Companion", "abbreviation": "TC"},
         {"title": "Update 2022 FAQ", "abbreviation": "U2FAQ"},
         {"title": "Vehicle Handbook", "abbreviation": "VH"}
@@ -27,6 +26,7 @@ books = {
         {"title": "The Deep and the Dark", "abbreviation": "TDatD"},
         {"title": "The Glorious Empire", "abbreviation": "TGE"},
         {"title": "The Great Rift", "abbreviation": "TGR"},
+        {"title": "The Imperial Navy", "abbreviation": "TIN"},
         {"title": "The Third Imperium", "abbreviation": "TTI"},
         {"title": "Touchstone & Afawahisa", "abbreviation": "TaA"},
     ],
