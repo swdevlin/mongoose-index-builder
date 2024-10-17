@@ -2,18 +2,18 @@ Document	Topic	Page	Type	Primary	Group
 EC	Squadrons	5	Rules		
 EC	Task Forces	5	Rules		
 EC	Fleets	5	Rules		
-EC	Light Cruisers	5	High Guard		
-EC	Heavy Cruisers	5	High Guard		
-EC	Armoured Cruisers	5	High Guard		
-EC	Battlecruisers	5	High Guard		
-EC	Bombardment Cruisers	5	High Guard		
-EC	Escort Cruisers	5	High Guard		
-EC	Flag/Command Cruisers	5	High Guard		
-EC	Intervention Cruisers	6	High Guard		
-EC	Patrol Cruisers	6	High Guard		
-EC	Protected Cruisers	6	High Guard		
-EC	Rift Cruisers	6	High Guard		
-EC	Strike cruisers	6	High Guard		
+EC	Light Cruiser	5	High Guard		
+EC	Heavy Cruiser	5	High Guard		
+EC	Armoured Cruiser	5	High Guard		
+EC	Battlecruiser	5	High Guard		
+EC	Bombardment Cruiser	5	High Guard		
+EC	Escort Cruiser	5	High Guard		
+EC	Flag/Command Cruiser	5	High Guard		
+EC	Intervention Cruiser	6	High Guard		
+EC	Patrol Cruiser	6	High Guard		
+EC	Protected Cruiser	6	High Guard		
+EC	Rift Cruiser	6	High Guard		
+EC	Strike Cruiser	6	High Guard		
 EC	Project CC-1061	13	Setting		
 EC	Amara-Class Main Hull	14	Ships		
 EC	Ghalalk-Class Main Hull	16	Ships		
@@ -31,8 +31,8 @@ EC	Skimkilukhuir-Class Naval Courier	29	Ships
 EC	Exploration	31	High Guard		Pod
 EC	Intelligence Ops	32	High Guard		Pod
 EC	Amara-Class Heavy Armoured Cruiser	45	Ships		
-EC	GHALALK-CLASS ARMOURED CRUISER	56	Ships		
-EC	KHUMAKIRRI-CLASS LIGHT ARMOURED CRUISER	58	Ships		
+EC	Ghalalk-Class Armoured Cruiser	56	Ships		
+EC	Khumakirri-Class Light Armoured Cruiser	58	Ships		
 EC	Marine Contingents	64	Setting		
 EC	Personal Weaponry	67	Setting		
 EC	Navy Model Gauss Pistol	68	Weapons		Slug Pistol
