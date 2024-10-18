@@ -31,7 +31,7 @@ books = {
         {"title": "Touchstone & Afawahisa", "abbreviation": "TaA"},
     ],
     "Journal of the Travellers' Aid Society": [
-        {"title": "Journal of the Travellers’ Aid Society 1-14", "abbreviation": "JTAS1-14"}
+        {"title": "Journal of the Travellers’ Aid Society 1-15", "abbreviation": "JTAS1-15"}
     ],
     "Adventures": [
         {"title": "The Calixcuel Incident", "abbreviation": "TCI"},
