@@ -17,7 +17,7 @@ def generate_web_index(topics, books, source_topics, output_file):
 
 	for topic in source_topics:
 		compute_references(topic)
-		for child in topic['children']:
+		for child in sorted(topic['children'].keys()):
 			compute_references(topic['children'][child])
 
 	rendered_html = template.render(

@@ -343,7 +343,7 @@
 		<table>
 			{%- for entry in source_topics if entry.type == key -%}
 			{{ render_entry(entry, False) }}
-			{%- for child in entry.children -%}
+			{%- for child in entry.children|sort -%}
 			{{ render_entry(entry.children[child], True) }}
 			{%- endfor -%}
 			{%- endfor -%}
