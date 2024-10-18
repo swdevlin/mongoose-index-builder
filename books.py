@@ -1,6 +1,7 @@
 books = {
     "Core Books": [
         {"title": "Adventure Class Ships", "abbreviation": "ACS"},
+        {"title": "Bounty Hunter", "abbreviation": "BH"},
         {"title": "Central Supply Catalogue", "abbreviation": "CSC"},
         {"title": "Core Rulebook", "abbreviation": "CRB"},
         {"title": "Deep Space Exploration Handbook", "abbreviation": "DSEH"},
