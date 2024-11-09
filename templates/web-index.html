@@ -220,45 +220,23 @@
     <div class="modal-content">
         <span class="close" id="close-modal">&times;</span>
 		<div style="display: flex; justify-content: space-between;">
-			<div style="width: 45%;">
+			<div>
 				<h3>Core Books</h3>
 				<table style="width: 100%;">
-					{%- for book in books['Core Books'] -%}
 					<tr>
-						<td>{{ book.title }}</td>
-						<td>{{ book.abbreviation }}</td>
+						<th>Abbreviation</th>
+						<th>Title</th>
+						<th>Abbreviation</th>
+						<th>Title</th>
+					</tr>
+				   {%- for book1, book2 in book_columns -%}
+					<tr>
+						<td>{{ book1.abbreviation }}</td>
+						<td>{{ book1.title }}</td>
+						<td>{{ book2.abbreviation }}</td>
+						<td>{{ book2.title }}</td>
 					</tr>
 					{%- endfor -%}
-				</table>
-				<h3>Charted Space</h3>
-				<table style="width: 100%;">
-					{%- for book in books['Charted Space'] -%}
-					<tr>
-						<td>{{ book.title }}</td>
-						<td>{{ book.abbreviation }}</td>
-					</tr>
-					{%- endfor -%}
-				</table>
-			</div>
-			<div style="width: 45%;">
-				<h3>Journal of the Travellers' Aid Society</h3>
-				<table style="width: 100%;">
-					{%- for book in books["Journal of the Travellers' Aid Society"] -%}
-					<tr>
-						<td>{{ book.title }}</td>
-						<td>{{ book.abbreviation }}</td>
-					</tr>
-					{%- endfor -%}
-				</table>
-				<h3>Adventures</h3>
-				<table style="width: 100%;">
-					{%- for book in books['Adventures'] -%}
-					<tr>
-						<td>{{ book.title }}</td>
-						<td>{{ book.abbreviation }}</td>
-					</tr>
-					{%- endfor -%}
-				</table>
 				</table>
 			</div>
 		</div>

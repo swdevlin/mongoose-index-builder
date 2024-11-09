@@ -12,7 +12,8 @@ books = {
         {"title": "Small Craft Catalog", "abbreviation": "SCC"},
         {"title": "Traveller Companion", "abbreviation": "TC"},
         {"title": "Update 2022 FAQ", "abbreviation": "U2FAQ"},
-        {"title": "Vehicle Handbook", "abbreviation": "VH"}
+        {"title": "Vehicle Handbook", "abbreviation": "VH"},
+        {"title": "World Builder's Handbook", "abbreviation": "WBH"},
     ],
     "Charted Space": [
         {"title": "Aliens of Charted Space 1-3", "abbreviation": "AoCS1-3"},
