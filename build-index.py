@@ -21,15 +21,15 @@ def main():
         for book in books[category]:
             parse_topics(book, source_topics)
 
-        sorted_topics = []
-        for key in sorted(source_topics.keys()):
-            sorted_topics.append(source_topics[key])
+    sorted_topics = []
+    for key in sorted(source_topics.keys()):
+        sorted_topics.append(source_topics[key])
 
-        if args.word:
-            create_traveller_index(sorted_topics, args.word)
+    if args.word:
+        create_traveller_index(sorted_topics, args.word)
 
-        if args.html:
-            generate_web_index(topics, books, sorted_topics, args.html)
+    if args.html:
+        generate_web_index(topics, books, sorted_topics, args.html)
 
 if __name__ == "__main__":
     main()

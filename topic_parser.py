@@ -17,30 +17,11 @@ GROUP_CORRECTIONS = {
 
 # Bulk correct entries with the incorrect type
 TYPE_CORRECTIONS = {
+	# fix pluralization
 	'Adventure': 'Adventures',
-	'Armour': 'Personal Protection',
 	'Career': 'Careers',
-	# Not sure a list helps people, so moving them to setting
-	'Corporation': 'Setting',
-	'Megacorporation': 'Setting',
-	'Megacorporations': 'Setting',
-
-	# all drones are robots
-	'Drone': 'Robots',
-	'Drones': 'Robots',
-
-	"K'Kree": "K'kree",
-	# Not sure person needs to be its own category; adding them to setting for the time being
-	'Person': 'Setting',
-
 	'Robot': 'Robots',
-
-	# Don't want these pulled out, but might someday, so....
-	'Sectors': 'Setting',
-	'Sector': 'Setting',
-	'Subsectors': 'Setting',
-	'Subsector': 'Setting',
-
+	'System': 'Systems',
 	'Ship': 'Ships',
 	'Skill': 'Skills',
 	'small craft': 'Small Craft',
@@ -49,6 +30,26 @@ TYPE_CORRECTIONS = {
 	'System': 'Systems',
 	'Vehicle': 'Vehicles',
 	'Weapons': 'Weapon',
+
+	# Adjust mapping
+	'Drone': 'Robots',
+	'Drones': 'Robots',
+	'Armour': 'Personal Protection',
+	"K'Kree": "K'kree",
+
+	# Not sure a list helps people, so moving them to setting
+	'Corporation': 'Setting',
+	'Megacorporation': 'Setting',
+	'Megacorporations': 'Setting',
+	'Person': 'Setting',
+
+	# Don't want these pulled out, but might someday, so....
+	'Sectors': 'Setting',
+	'Sector': 'Setting',
+	'Subsectors': 'Setting',
+	'Subsector': 'Setting',
+	'NPC': 'Setting',
+	'NPCs': 'Setting',
 }
 
 
