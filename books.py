@@ -30,21 +30,9 @@ books = {
         {"title": "Sword Worlds", "abbreviation": "SW", "id": "16qgktiKubW4coWI-eDppLj_w1OEgexwXWmG5Kx-9Twc"},
         {"title": "The Deep and the Dark", "abbreviation": "TDatD", "id": "1IqGTQX_TM0PyjnkBDRIxn2PVBaHkvQDZmFgvwv9hI-M"},
         {"title": "The Glorious Empire", "abbreviation": "TGE", "id": "1YgdqCXbQAl7j7wFWCx-H8No-_UqD5XDkn8Kl7YqTvSU"},
-        {
-            "title": "The Great Rift",
-            "abbreviation": "TGR",
-            "id": "1GcMn-AfbaZjae50I6GuOLnA-vpiAA_DQpi7_eKUiioo"
-        },
-        {
-            "title": "The Great Rift Book 2",
-            "abbreviation": "TGRB2",
-            "id": "18jD6B1FH9BUdaFp7zDT7mennyhKxM1_gpFEY7B5TjsM"
-        },
-        {
-            "title": "The Imperial Navy",
-            "abbreviation": "TIN",
-            "id": "11MzA7y6Dj4YyV5Q8yGzLoKNcDMf3kGQrkw2BtFo07Hk"
-        },
+        {"title": "The Great Rift", "abbreviation": "TGR", "id": "1GcMn-AfbaZjae50I6GuOLnA-vpiAA_DQpi7_eKUiioo"},
+        {"title": "The Great Rift Book 2", "abbreviation": "TGRB2", "id": "18jD6B1FH9BUdaFp7zDT7mennyhKxM1_gpFEY7B5TjsM"},
+        {"title": "The Imperial Navy", "abbreviation": "TIN", "id": "11MzA7y6Dj4YyV5Q8yGzLoKNcDMf3kGQrkw2BtFo07Hk"},
         {"title": "The Third Imperium", "abbreviation": "TTI", "id": "1ThRXRhaBxuwRTy_7yfRKIbUsp28eMaOYWV88AE97fbs"},
         {"title": "Touchstone & Afawahisa", "abbreviation": "TaA", "id": "1nNMa5G0U78nldwzgqeHDFKv-BS9HwoNhHQ2h5SppZLU"},
     ],
@@ -59,19 +47,11 @@ books = {
         {"title": "Journal of the Travellers’ Aid Society 8", "abbreviation": "JTAS8", "id": "123TtmE2wR-2r8eosY9DRUx9abP5_Sepo4M3i8Q3VNY8"},
         {"title": "Journal of the Travellers’ Aid Society 9", "abbreviation": "JTAS9", "id": "1ykaKNW2i9MDloDDeyye92eNAF6UiAFYP6mswVUHHAF0"},
         {"title": "Journal of the Travellers’ Aid Society 10", "abbreviation": "JTAS10", "id": "1VykjDu_67SBmdralI9gB6wpB_XbmjGGoIoT1r1vNU7s"},
-        {
-            "title": "Journal of the Travellers’ Aid Society 11",
-            "abbreviation": "JTAS11",
-            "id": "1kkajW8h9R3nr94y6pjrLJr0aetuuTHSNBNEYxnYoMT8"
-        },
+        {"title": "Journal of the Travellers’ Aid Society 11", "abbreviation": "JTAS11", "id": "1kkajW8h9R3nr94y6pjrLJr0aetuuTHSNBNEYxnYoMT8"},
         {"title": "Journal of the Travellers’ Aid Society 12", "abbreviation": "JTAS12", "id": "1y1DxUg29klKSdp6ErIMHWNof4-g2OjuUAIpgnkq_OyI"},
         {"title": "Journal of the Travellers’ Aid Society 13", "abbreviation": "JTAS13", "id": "1X5vtlfl_Z2_EX8-OY29ddDvkdQz_MTO0TvUjhho-TNU"},
         {"title": "Journal of the Travellers’ Aid Society 14", "abbreviation": "JTAS14", "id": "10AHJT-G2mn34xBbvIzg-Fme-c-LBq_J9VCsLP9ulhcI"},
-        {
-            "title": "Journal of the Travellers’ Aid Society 15",
-            "abbreviation": "JTAS15",
-            "id": "1M5AsNb22X6otIlqqTGi4O5PQRfCPULfnb6fnJlgByGA"
-        },
+        {"title": "Journal of the Travellers’ Aid Society 15", "abbreviation": "JTAS15", "id": "1M5AsNb22X6otIlqqTGi4O5PQRfCPULfnb6fnJlgByGA"},
         {"title": "Journal of the Travellers’ Aid Society 16", "abbreviation": "JTAS16", "id": "1M6BrjwBDNGzujEw0YFshj4GkX4K-yPoKqton4hWXUNk"},
         {"title": "Journal of the Travellers’ Aid Society 17", "abbreviation": "JTAS17", "id": "14R6f9wJw3U4uogIRNggfPOKAFuGiAnvmGPnvsDIt8-g"},
         # {"title": "Journal of the Travellers’ Aid Society 18", "abbreviation": "JTAS18", "id": ""},
