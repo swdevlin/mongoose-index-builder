@@ -10,8 +10,7 @@ from worddoc import create_traveller_index
 
 def main():
     parser = argparse.ArgumentParser(description="Mongoose Traveller Index Generator")
-    parser.add_argument('-d', '--dir', nargs='+', help='Directory to process', required=False, default=[])
-    parser.add_argument('-w', '--word', help='Output Word document')
+    parser.add_argument('--word', help='Output Word document')
     parser.add_argument('--html', help='HTML document')
 
     args = parser.parse_args()

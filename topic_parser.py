@@ -72,7 +72,7 @@ def add_topic(key, row, topics):
 
 def parse_topics(book, topics):
 	url = f"https://docs.google.com/spreadsheets/d/{book['id']}/gviz/tq?tqx=out:csv&sheet=0"
-
+	print(f"Parsing {book['title']} from {url}")
 	df = pd.read_csv(url)
 	# df = pd.read_csv(source, delimiter='\t')
 	df = df.replace({pd.NA: None, pd.NaT: None, float('nan'): None})
@@ -80,6 +80,7 @@ def parse_topics(book, topics):
 		# adjust Mongoose's proper use of ’
 		row['Type'] = row['Type'].replace('’', "'")
 		row['Topic'] = row['Topic'].replace('’', "'")
+		row['Document'] = book['abbreviation']
 
 		for key in TYPE_CORRECTIONS:
 			if row['Type'] == key:

@@ -72,9 +72,9 @@ books = {
             "abbreviation": "JTAS15",
             "id": "1M5AsNb22X6otIlqqTGi4O5PQRfCPULfnb6fnJlgByGA"
         },
-        {"title": "Journal of the Travellers’ Aid Society 16", "abbreviation": "JTAS16", "id": ""},
-        {"title": "Journal of the Travellers’ Aid Society 17", "abbreviation": "JTAS17", "id": ""},
-        {"title": "Journal of the Travellers’ Aid Society 18", "abbreviation": "JTAS18", "id": ""},
+        {"title": "Journal of the Travellers’ Aid Society 16", "abbreviation": "JTAS16", "id": "1M6BrjwBDNGzujEw0YFshj4GkX4K-yPoKqton4hWXUNk"},
+        # {"title": "Journal of the Travellers’ Aid Society 17", "abbreviation": "JTAS17", "id": ""},
+        # {"title": "Journal of the Travellers’ Aid Society 18", "abbreviation": "JTAS18", "id": ""},
     ],
     "Adventures": [
         {"title": "The Calixcuel Incident", "abbreviation": "TCI", "id": "1_CkaTbbwKO5HU52QIyuMs-hS7Ei92PcWoFF1HQW0dXo"},
